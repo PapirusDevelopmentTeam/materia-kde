@@ -39,9 +39,9 @@
      inkscape:window-height="1016"
      id="namedview982"
      showgrid="false"
-     inkscape:zoom="3.0696785"
-     inkscape:cx="18.030997"
-     inkscape:cy="884.09002"
+     inkscape:zoom="1.63"
+     inkscape:cx="57.793564"
+     inkscape:cy="215.4274"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -5541,7 +5541,7 @@
        inkscape:connector-curvature="0"
        id="path2013"
        d="M 225,671.24725 V 678.5 h 9.5 c 0,-4.35156 -3.78571,-7.25278 -9.5,-7.25276 z"
-       style="fill:#5c616c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
+       style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
   </g>
   <g
      id="scrollbarslider-pressed-topleft"
@@ -5558,7 +5558,7 @@
        inkscape:connector-curvature="0"
        id="path2019"
        d="m 225,671.24722 c -5.71429,0 -9.5,2.90118 -9.5,7.25268 h 9.5 z"
-       style="fill:#5c616c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
+       style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
   </g>
   <g
      id="scrollbarslider-pressed-left"
@@ -5575,7 +5575,7 @@
        inkscape:connector-curvature="0"
        id="path2025"
        d="m 215.5,678.5004 v 22.8687 0.131 h 9.5 v -23 h -9.5 z"
-       style="fill:#5c616c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
+       style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
   </g>
   <g
      id="scrollbarslider-pressed-right"
@@ -5592,7 +5592,7 @@
        inkscape:connector-curvature="0"
        id="path2031"
        d="m 225,678.5005 v 23 h 9.5 v -0.131 -22.8686 H 225 Z"
-       style="fill:#5c616c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
+       style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" />
   </g>
   <g
      style="stroke:none"
@@ -5607,7 +5607,7 @@
        y="669.79999" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#5c616c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"
+       style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"
        id="path2041"
        d="M 225,671.24725 V 678.5 h 9.5 c 0,-4.35156 -3.78571,-7.25278 -9.5,-7.25276 z" />
   </g>
@@ -5624,7 +5624,7 @@
        y="669.79999" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#5c616c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"
+       style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"
        id="path2047"
        d="m 225,671.24722 c -5.71429,0 -9.5,2.90118 -9.5,7.25268 h 9.5 z" />
   </g>
