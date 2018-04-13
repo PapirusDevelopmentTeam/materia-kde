@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
+ <defs id="defs7386">
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g id="qbittorrent">
+  <path id="rect4152" d="M 0,0 H 22 V 22 H 0 Z" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path10" d="m 13,3.0000002 a 1,1 0 0 0 -1,1 V 15 h 2 v -0.541016 c 0.607485,0.353206 1.297298,0.539172 2,0.541016 2.209139,0 4,-1.790861 4,-4 0,-2.2091392 -1.790861,-3.9999998 -4,-3.9999998 -0.70252,0.00125 -1.392321,0.1865555 -2,0.5390625 V 4.0000002 a 1,1 0 0 0 -1,-1 z m -7,4 c -2.209139,0 -4,1.7908606 -4,3.9999998 0,2.209139 1.790861,4 4,4 0.702523,-0.0013 1.392325,-0.188495 2,-0.541016 V 18 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 7.0000002 H 8 V 7.5410158 C 7.392515,7.1878095 6.702702,7.0018545 6,7.0000002 Z m 0,1.9999996 c 1.10457,0 2,0.895431 2,2.0000002 0,1.104569 -0.89543,2 -2,2 C 4.895431,13 4,12.104569 4,11 4,9.8954308 4.895431,8.9999998 6,8.9999998 Z m 10,0 c 1.104569,0 2,0.895431 2,2.0000002 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.1045692 0.895431,-2.0000002 2,-2.0000002 z" style="fill:#d3dae3;fill-opacity:1"/>
+ </g>
+</svg>

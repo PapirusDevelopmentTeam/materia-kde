@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg" width="100%" height="100%" version="1.1" viewBox="0 0 22 22">
+ <g id="klipper">
+  <rect id="rect818" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.30151749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path id="rect824" d="M 5 8 C 3.892 8 3 8.892 3 10 L 3 17 C 3 18.108 3.892 19 5 19 L 11 19 C 12.108 19 13 18.108 13 17 L 13 10 C 13 8.892 12.108 8 11 8 L 5 8 z M 5 10 L 11 10 L 11 11 L 5 11 L 5 10 z M 5 12 L 11 12 L 11 13 L 5 13 L 5 12 z M 5 14 L 11 14 L 11 15 L 5 15 L 5 14 z M 5 16 L 9 16 L 9 17 L 5 17 L 5 16 z" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:3.1230762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path style="opacity:0.3;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:3.1230762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path846" d="M 11,3 C 9.892,3 9,3.892 9,5 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 5 C 19,3.892 18.108,3 17,3 Z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 4 v 1 h -4 z"/>
+ </g>
+</svg>

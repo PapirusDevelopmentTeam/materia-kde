@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="30" height="30" version="1.1" viewBox="0 0 30 30">
+ <rect id="hint-tile-center" width="1" height="1" x="0" y="3" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none"/>
+ <rect id="hint-bar-size" width="3" height="3" x="3" y="0" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-bottomright" d="m 14,17 0,1 1,0 0,-1 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-right" d="m 14,15 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-topright" d="m 14,13 0,1 1,0 0,-1 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-bottomleft" d="m 10,17 0,1 1,0 0,-1 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-left" d="m 10,15 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-topleft" d="m 11,13 -1,0 0,1 1,0 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-bottom" d="m 12,17 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-center" d="m 13,15 -1,0 0,1 1,0 0,-1 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-inactive-top" d="m 12,13 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#2d4c4f;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-bottomright" d="m 14,26 0,1 1,0 0,-1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-right" d="m 14,24 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-topright" d="m 14,22 0,1 1,0 0,-1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-bottomleft" d="m 10,26 0,1 1,0 0,-1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-left" d="m 10,24 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-topleft" d="m 11,22 -1,0 0,1 1,0 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-bottom" d="m 12,26 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-center" d="m 13,24 -1,0 0,1 1,0 0,-1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="bar-active-top" d="m 12,22 0,1 1,0 0,-1 -1,0 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <rect id="hint-stretch-borders" width="1" height="1" x="0" y="8" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none"/>
+ <rect id="hint-bar-stretch" width="1" height="1" x="0" y="13" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none"/>
+</svg>

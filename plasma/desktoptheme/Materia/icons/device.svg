@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs id="defs81">
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect3011-4" width="22" height="22" x="0" y="21" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
+ <g id="device-notifier">
+  <rect id="rect4243" width="22" height="22" x="0" y="0" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <rect id="rect4245" width="22" height="22" x="0" y="0" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none"/>
+  <path id="rect825" d="M 6 3 C 4.892 3 4 3.892 4 5 L 4 17 C 4 18.108 4.892 19 6 19 L 16 19 C 17.108 19 18 18.108 18 17 L 18 5 C 18 3.892 17.108 3 16 3 L 6 3 z M 11 6 L 15 11 L 7 11 L 11 6 z M 7 12 L 15 12 L 15 14 L 7 14 L 7 12 z" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.76383424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+ </g>
+</svg>
