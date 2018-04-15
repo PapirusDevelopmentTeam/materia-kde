@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/preview.png" alt="Preview Materia KDE"/>
 </p>
-Adapta KDE - This is a port of the popular [GTK theme Materia](https://github.com/nana-4/materia-theme) for Plasma 5 desktop with a few additions and extras.
+Materia KDE - This is a port of the popular [GTK theme Materia](https://github.com/nana-4/materia-theme) for Plasma 5 desktop with a few additions and extras.
 
 In this repository you'll find:
 
