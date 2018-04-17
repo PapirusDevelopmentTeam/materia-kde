@@ -15,6 +15,18 @@ In this repository you'll find:
 
 ## Installation
 
+### Ubuntu and derivatives
+
+You can install materia-kde from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
+
+```
+sudo add-apt-repository ppa:papirus/papirus
+sudo apt-get update
+sudo apt-get install --install-recommends materia-kde
+```
+
+or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=materia-kde).
+
 ### Materia KDE Installer
 
 Use the script to install the latest version directly from this repo (independently on your distro):
@@ -30,6 +42,16 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/m
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/install.sh | uninstall=true sh
 ```
+
+### Third-party packages
+
+Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
+
+| **Distro** | **Maintainer** | **Package** |
+|:-----------|:---------------|:------------|
+| Arch Linux | Josip Ponjavic | [materia-kde-git](https://aur.archlinux.org/packages/materia-kde-git) <sup>AUR</sup> |
+
+**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
 ## Recommendations
 
