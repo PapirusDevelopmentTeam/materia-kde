@@ -1,0 +1,25 @@
+Source: materia-kde
+Section: universe/kde
+Priority: optional
+Maintainer: Sergei Eremenko <finalitik@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/PapirusDevelopmentTeam/materia-kde
+
+Package: materia-kde
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, plasma-workspace (>= 4:5.5.0)
+Recommends: kvantum, papirus-icon-theme
+Suggests: konsole, yakuake (>= 3.0)
+Description: Materia KDE
+ This is a Materia KDE port of the popular GTK theme Materia for Plasma 5 desktop.
+ .
+ This package contains:
+  - Aurorae Theme
+  - Konsole Color Scheme
+  - Kvantum Theme
+  - Plasma Color Scheme
+  - Plasma Desktop Theme
+  - Plasma Look-and-Feel Settings
+  - Yakuake Skin
