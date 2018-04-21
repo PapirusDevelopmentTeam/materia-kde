@@ -132,7 +132,7 @@ frame.expansion=14
 [PanelButtonTool]
 inherits=PanelButtonCommand
 text.normal.color=#d3dae3
-text.bold=true
+text.bold=false
 indicator.element=arrow
 indicator.size=0
 
@@ -144,7 +144,7 @@ text.normal.color=#d3dae3
 text.focus.color=white
 text.press.color=white
 text.toggle.color=white
-text.bold=true
+text.bold=false
 
 [Dock]
 inherits=PanelButtonCommand
@@ -162,7 +162,7 @@ frame=false
 interior=false
 text.normal.color=#d3dae3
 text.focus.color=white
-text.bold=true
+text.bold=false
 
 [IndicatorSpinBox]
 inherits=PanelButtonCommand
@@ -265,7 +265,7 @@ text.normal.color=#d3dae3
 text.focus.color=#d3dae3
 text.toggle.color=#d3dae3
 frame.expansion=0
-text.bold=true
+text.bold=false
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -406,7 +406,7 @@ frame.top=3
 frame.bottom=3
 frame.left=3
 frame.right=3
-text.bold=true
+text.bold=false
 min_width=+0.3font
 min_height=+0.3font
 frame.expansion=0
@@ -418,7 +418,7 @@ interior.element=menubar
 frame.bottom=0
 text.normal.color=#d3dae3
 frame.expansion=0
-text.bold=true
+text.bold=false
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -435,7 +435,7 @@ text.margin.top=0
 text.margin.bottom=0
 text.normal.color=#d3dae3
 text.focus.color=white
-text.bold=true
+text.bold=false
 min_width=+0.3font
 min_height=+0.3font
 frame.expansion=0
@@ -452,7 +452,7 @@ indicator.size=16
 indicator.element=mdi
 text.normal.color=#787878
 text.focus.color=#d3dae3
-text.bold=true
+text.bold=false
 text.italic=true
 frame.expansion=0
 
@@ -493,7 +493,7 @@ text.shadow=0
 text.margin=0
 text.normal.color=#d3dae3
 text.focus.color=white
-text.bold=true
+text.bold=false
 frame.expansion=0
 
 [TabBarFrame]
