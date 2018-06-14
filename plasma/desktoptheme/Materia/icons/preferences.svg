@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
  <g id="preferences-desktop-notification" transform="translate(22,-40)">
   <rect id="rect3068" width="22" height="22" x="0" y="40" style="opacity:0;fill:#000000;fill-opacity:0.94117647;stroke:none"/>
-  <path id="path4238" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z" style="opacity:1;fill:#338dd6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path4238" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z" style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
   <path id="path4173-0" d="m 10,47 v 6 h 2 v -6 z m 1,7 c -0.453152,0 -1,0.518427 -1,0.980469 C 10,55.442512 10.546848,56 11,56 11.453152,56 12,55.442512 12,54.980469 12,54.518427 11.453152,54 11,54 Z" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"/>
  </g>
  <g id="preferences-system-bluetooth-activated" transform="translate(44,-104)">

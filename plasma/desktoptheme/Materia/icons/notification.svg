@@ -8,7 +8,7 @@
  </defs>
  <g id="notification-active">
   <rect id="rect3068" width="22" height="22" x="0" y="40" style="opacity:0;fill:#000000;fill-opacity:0.94117647;stroke:none"/>
-  <path id="path4238" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z" style="opacity:1;fill:#338dd6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path4238" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z" style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
   <path id="path4173-0" d="M 10 47 L 10 53 L 12 53 L 12 47 L 10 47 z M 11 54 C 10.546848 54 10 54.518427 10 54.980469 C 10 55.442512 10.546848 56 11 56 C 11.453152 56 12 55.442512 12 54.980469 C 12 54.518427 11.453152 54 11 54 z" style="opacity:1;fill:#ffffff;fill-opacity:0.94117647;stroke:none"/>
  </g>
  <path id="expander-bottom" d="m -18,23 2,-2 2,2 z" style="fill:#d3dae3;fill-opacity:1;opacity:1"/>
@@ -31,7 +31,7 @@
  </g>
  <g id="notification-progress-active">
   <rect id="rect3009" width="22" height="22" x="40" y="0" style="fill:#000000;fill-opacity:0.94117647;stroke:none;opacity:0"/>
-  <path id="path4233" d="m 51,2.9999999 c -4.418278,0 -8,3.5817221 -8,8.0000001 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8.0000001 -8,-8.0000001 z" style="opacity:1;fill:#338dd6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path4233" d="m 51,2.9999999 c -4.418278,0 -8,3.5817221 -8,8.0000001 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8.0000001 -8,-8.0000001 z" style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
  </g>
  <g id="notification-progress-inactive">
   <rect id="rect3060" width="22" height="22" x="40" y="40" style="fill:#000000;fill-opacity:0.94117647;stroke:none;opacity:0"/>
