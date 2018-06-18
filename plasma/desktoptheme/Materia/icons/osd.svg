@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+ <g id="osd-shutd-screen" transform="translate(128)">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <g transform="translate(13,-28)">
+   <rect width="40" height="28" x="4" y="33" rx="2" ry="2" style="opacity:0.2"/>
+   <rect width="40" height="28" x="4" y="32" rx="2" ry="2" style="fill:#4f4f4f"/>
+   <rect width="34" height="22" x="7" y="35" style="opacity:0.4"/>
+   <path d="m 6,32 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" style="opacity:0.1;fill:#ffffff"/>
+   <rect width="34" height="1" x="7" y="57" style="opacity:0.1;fill:#ffffff"/>
+  </g>
+  <g transform="translate(20,-5)">
+   <circle cx="32" cy="33" r="8" style="opacity:0.2"/>
+   <circle cx="32" cy="32" r="8" style="fill:#f34235"/>
+  </g>
+  <g transform="translate(0,-3)">
+   <rect width="40" height="28" x="4" y="33" rx="2" ry="2" style="opacity:0.2"/>
+   <rect width="40" height="28" x="4" y="32" rx="2" ry="2" style="fill:#e4e4e4"/>
+   <rect width="34" height="22" x="7" y="35" style="opacity:0.8"/>
+   <path d="m 6,32 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" style="opacity:0.2;fill:#ffffff"/>
+   <rect width="34" height="1" x="7" y="57" style="opacity:0.2;fill:#ffffff"/>
+  </g>
+  <g transform="translate(7,20)">
+   <circle cx="32" cy="33" r="8" style="opacity:0.2"/>
+   <circle cx="32" cy="32" r="8" style="fill:#0ba037"/>
+  </g>
+  <path d="m 36,52 2.5,3 4.5,-7" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+  <path d="m 55,24 -6,6 v 0 0 m 0,-6 6,6" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+ </g>
+ <g id="osd-shutd-laptop" transform="translate(64)">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <g transform="translate(13,-28)">
+   <rect width="40" height="28" x="4" y="33" rx="2" ry="2" style="opacity:0.2"/>
+   <rect width="40" height="28" x="4" y="32" rx="2" ry="2" style="fill:#4f4f4f"/>
+   <rect width="34" height="22" x="7" y="35" style="opacity:0.4"/>
+   <path d="m 6,32 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" style="opacity:0.1;fill:#ffffff"/>
+   <rect width="34" height="1" x="7" y="57" style="opacity:0.1;fill:#ffffff"/>
+  </g>
+  <g transform="translate(0,-3)">
+   <rect width="40" height="28" x="4" y="33" rx="2" ry="2" style="opacity:0.2"/>
+   <rect width="40" height="28" x="4" y="32" rx="2" ry="2" style="fill:#e4e4e4"/>
+   <rect width="34" height="22" x="7" y="35" style="opacity:0.8"/>
+   <path d="m 6,32 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" style="opacity:0.2;fill:#ffffff"/>
+   <rect width="34" height="1" x="7" y="57" style="opacity:0.2;fill:#ffffff"/>
+  </g>
+  <g transform="translate(13,-25)">
+   <g transform="translate(7,20)">
+    <circle cx="32" cy="33" r="8" style="opacity:0.2"/>
+    <circle cx="32" cy="32" r="8" style="fill:#0ba037"/>
+   </g>
+   <path d="m 36,52 2.5,3 4.5,-7" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+  </g>
+  <g transform="translate(-13,25)">
+   <g transform="translate(20,-5)">
+    <circle cx="32" cy="33" r="8" style="opacity:0.2"/>
+    <circle cx="32" cy="32" r="8" style="fill:#f34235"/>
+   </g>
+   <path d="m 55,24 -6,6 v 0 0 m 0,-6 6,6" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+  </g>
+ </g>
+ <g id="osd-duplicate">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <g transform="translate(13,-28)">
+   <rect width="40" height="28" x="4" y="33" rx="2" ry="2" style="opacity:0.2"/>
+   <rect width="40" height="28" x="4" y="32" rx="2" ry="2" style="fill:#4f4f4f"/>
+   <rect width="34" height="22" x="7" y="35" style="opacity:0.4"/>
+   <path d="m 6,32 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" style="opacity:0.1;fill:#ffffff"/>
+   <rect width="34" height="1" x="7" y="57" style="opacity:0.1;fill:#ffffff"/>
+  </g>
+  <g transform="translate(0,-3)">
+   <rect width="40" height="28" x="4" y="33" rx="2" ry="2" style="opacity:0.2"/>
+   <rect width="40" height="28" x="4" y="32" rx="2" ry="2" style="fill:#e4e4e4"/>
+   <rect width="34" height="22" x="7" y="35" style="opacity:0.8"/>
+   <path d="m 6,32 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z" style="opacity:0.2;fill:#ffffff"/>
+   <rect width="34" height="1" x="7" y="57" style="opacity:0.2;fill:#ffffff"/>
+  </g>
+  <g transform="translate(13,-25)">
+   <g transform="translate(7,20)">
+    <circle cx="32" cy="33" r="8" style="opacity:0.2"/>
+    <circle cx="32" cy="32" r="8" style="fill:#0ba037"/>
+   </g>
+   <path d="m 36,52 2.5,3 4.5,-7" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+  </g>
+  <g>
+   <g transform="translate(7,20)">
+    <circle cx="32" cy="33" r="8" style="opacity:0.2"/>
+    <circle cx="32" cy="32" r="8" style="fill:#0ba037"/>
+   </g>
+   <path d="m 36,52 2.5,3 4.5,-7" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+  </g>
+ </g>
+ <g id="osd-rotate-normal" transform="translate(512)">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <rect width="56" height="39" x="4" y="13" rx="2.8" ry="2.786" style="opacity:0.2"/>
+  <rect width="56" height="39" x="4" y="12" rx="2.8" ry="2.786" style="fill:#e4e4e4"/>
+  <rect width="48" height="31" x="8" y="16" style="opacity:0.8"/>
+  <path d="M 6.8007812,12 C 5.2495813,12 4,13.241871 4,14.785156 v 1 C 4,14.241871 5.2495813,13 6.8007812,13 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="48" height="1" x="8" y="47" style="opacity:0.2;fill:#ffffff"/>
+ </g>
+ <g id="osd-sbs-left" transform="translate(192)">
+  <rect width="64" height="64" x="-64" y="0" transform="scale(-1,1)" style="opacity:0.00100002"/>
+  <rect width="56" height="39" x="-60" y="13" rx="2.8" ry="2.786" transform="scale(-1,1)" style="opacity:0.2"/>
+  <path d="M 57.199219,12 C 58.750419,12 60,13.241871 60,14.785156 V 48.214844 C 60,49.758129 58.750419,51 57.199219,51 H 32 V 12 Z" style="fill:#e4e4e4"/>
+  <rect width="24" height="31" x="-56" y="16" transform="scale(-1,1)" style="opacity:0.8"/>
+  <path d="M 6.800781,12 C 5.249581,12 4,13.241871 4,14.785156 V 48.214844 C 4,49.758129 5.249581,51 6.800781,51 H 32 V 12 Z" style="fill:#4f4f4f"/>
+  <path d="M 6.8007812,12 C 5.2495813,12 4,13.241871 4,14.785156 v 1 C 4,14.241871 5.2495813,13 6.8007812,13 H 32 v -1 z" style="opacity:0.1;fill:#ffffff"/>
+  <rect width="24" height="31" x="8" y="16" style="opacity:0.4"/>
+  <rect width="6" height="49" x="-35" y="8" rx="3" ry="3" transform="scale(-1,1)" style="opacity:0.2"/>
+  <path d="m 32,12 v 1 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="24" height="1" x="32" y="47" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="24" height="1" x="8" y="47" style="opacity:0.1;fill:#ffffff"/>
+  <rect width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)" style="fill:#f34235"/>
+  <path d="m 32,7 c 1.662,0 3,1.338 3,3 v 1 C 35,9.338 33.662,8 32,8 30.338,8 29,9.338 29,11 v -1 c 0,-1.662 1.338,-3 3,-3 z" style="opacity:0.1;fill:#ffffff"/>
+ </g>
+ <g id="osd-sbs-sright" transform="matrix(-1,0,0,1,320,0)">
+  <rect width="64" height="64" x="-64" y="0" transform="scale(-1,1)" style="opacity:0.00100002"/>
+  <rect width="56" height="39" x="-60" y="13" rx="2.8" ry="2.786" transform="scale(-1,1)" style="opacity:0.2"/>
+  <path d="M 57.199219,12 C 58.750419,12 60,13.241871 60,14.785156 V 48.214844 C 60,49.758129 58.750419,51 57.199219,51 H 32 V 12 Z" style="fill:#e4e4e4"/>
+  <rect width="24" height="31" x="-56" y="16" transform="scale(-1,1)" style="opacity:0.8"/>
+  <path d="M 6.800781,12 C 5.249581,12 4,13.241871 4,14.785156 V 48.214844 C 4,49.758129 5.249581,51 6.800781,51 H 32 V 12 Z" style="fill:#4f4f4f"/>
+  <path d="M 6.8007812,12 C 5.2495813,12 4,13.241871 4,14.785156 v 1 C 4,14.241871 5.2495813,13 6.8007812,13 H 32 v -1 z" style="opacity:0.1;fill:#ffffff"/>
+  <rect width="24" height="31" x="8" y="16" style="opacity:0.4"/>
+  <rect width="6" height="49" x="-35" y="8" rx="3" ry="3" transform="scale(-1,1)" style="opacity:0.2"/>
+  <path d="m 32,12 v 1 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="24" height="1" x="32" y="47" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="24" height="1" x="8" y="47" style="opacity:0.1;fill:#ffffff"/>
+  <rect width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)" style="fill:#f34235"/>
+  <path d="m 32,7 c 1.662,0 3,1.338 3,3 v 1 C 35,9.338 33.662,8 32,8 30.338,8 29,9.338 29,11 v -1 c 0,-1.662 1.338,-3 3,-3 z" style="opacity:0.1;fill:#ffffff"/>
+ </g>
+ <g id="osd-rotate-flip" transform="translate(448)">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <rect width="56" height="39" x="4" y="13" rx="2.8" ry="2.786" style="opacity:0.2"/>
+  <rect width="56" height="39" x="4" y="12" rx="2.8" ry="2.786" style="fill:#e4e4e4"/>
+  <rect width="48" height="31" x="8" y="16" style="opacity:0.8"/>
+  <path d="M 6.8007812,12 C 5.2495813,12 4,13.241871 4,14.785156 v 1 C 4,14.241871 5.2495813,13 6.8007812,13 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="48" height="1" x="8" y="47" style="opacity:0.2;fill:#ffffff"/>
+  <g>
+   <circle cx="-48" cy="45" r="16" transform="scale(-1,1)" style="opacity:0.2"/>
+   <circle cx="-48" cy="44" r="16" transform="scale(-1,1)" style="fill:#0f88ef"/>
+   <rect width="4" height="12" x="46" y="38" style="fill:#ffffff"/>
+   <path d="m 48.47745,32.12463 a 0.85192496,0.87369317 82.468787 0 1 0.200072,0.166219 0.85192496,0.87369317 82.468787 0 1 0.09666,0.135133 l 1.552553,2.635346 1.558452,2.638654 a 0.85192496,0.87369317 82.468787 0 1 -0.759848,1.279564 l -3.131323,0.01002 -3.123709,0.01043 a 0.85192496,0.87369317 82.468787 0 1 -0.753143,-1.273875 l 1.569928,-2.650324 1.575812,-2.647021 a 0.85192496,0.87369317 82.468787 0 1 1.214547,-0.304163 z" style="fill:#ffffff"/>
+   <path d="m 48.47745,55.87537 a 0.87369317,0.85192496 7.531213 0 0 0.200072,-0.166219 0.87369317,0.85192496 7.531213 0 0 0.09666,-0.135133 l 1.552553,-2.635346 1.558452,-2.638654 a 0.87369317,0.85192496 7.531213 0 0 -0.759848,-1.279564 l -3.131323,-0.01002 -3.123709,-0.01043 a 0.87369317,0.85192496 7.531213 0 0 -0.753143,1.273875 l 1.569928,2.650324 1.575812,2.647021 a 0.87369317,0.85192496 7.531213 0 0 1.214547,0.304163 z" style="fill:#ffffff"/>
+  </g>
+ </g>
+ <g id="osd-rotate-cw" transform="translate(384)">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <rect width="56" height="39" x="4" y="13" rx="2.8" ry="2.786" style="opacity:0.2"/>
+  <rect width="56" height="39" x="4" y="12" rx="2.8" ry="2.786" style="fill:#e4e4e4"/>
+  <rect width="48" height="31" x="8" y="16" style="opacity:0.8"/>
+  <path d="M 6.8007812,12 C 5.2495813,12 4,13.241871 4,14.785156 v 1 C 4,14.241871 5.2495813,13 6.8007812,13 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="48" height="1" x="8" y="47" style="opacity:0.2;fill:#ffffff"/>
+  <g transform="matrix(-1,0,0,1,96,0)">
+   <circle cx="-48" cy="45" r="16" transform="scale(-1,1)" style="opacity:0.2"/>
+   <circle cx="-48" cy="44" r="16" transform="scale(-1,1)" style="fill:#0f88ef"/>
+   <path d="m -49.975992,51.752126 a 8,8 0 0 1 -6.022869,-7.61716 8,8 0 0 1 5.762463,-7.816016 8,8 0 0 1 9.057519,3.501062" transform="scale(-1,1)" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+   <path d="m 39.005412,36.000377 a 0.97504568,0.98245658 0 0 1 0.289438,0.05372 0.97504568,0.98245658 0 0 1 0.17138,0.08058 l 3.020054,1.757504 3.027674,1.7575 a 0.97504568,0.98245658 0 0 1 0,1.699938 l -3.027674,1.76134 -3.020054,1.7575 a 0.97504568,0.98245658 0 0 1 -1.462422,-0.848052 l -0.0038,-3.518838 0.0038,-3.518838 a 0.97504568,0.98245658 0 0 1 1.001604,-0.982366 z" style="fill:#ffffff"/>
+  </g>
+ </g>
+ <g id="osd-rotate-ccw" transform="translate(320)">
+  <rect width="64" height="64" x="0" y="0" style="opacity:0.00100002"/>
+  <rect width="56" height="39" x="4" y="13" rx="2.8" ry="2.786" style="opacity:0.2"/>
+  <rect width="56" height="39" x="4" y="12" rx="2.8" ry="2.786" style="fill:#e4e4e4"/>
+  <rect width="48" height="31" x="8" y="16" style="opacity:0.8"/>
+  <path d="M 6.8007812,12 C 5.2495813,12 4,13.241871 4,14.785156 v 1 C 4,14.241871 5.2495813,13 6.8007812,13 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="48" height="1" x="8" y="47" style="opacity:0.2;fill:#ffffff"/>
+  <g>
+   <circle cx="-48" cy="45" r="16" transform="scale(-1,1)" style="opacity:0.2"/>
+   <circle cx="-48" cy="44" r="16" transform="scale(-1,1)" style="fill:#0f88ef"/>
+   <path d="m -49.975992,51.752126 a 8,8 0 0 1 -6.022869,-7.61716 8,8 0 0 1 5.762463,-7.816016 8,8 0 0 1 9.057519,3.501062" transform="scale(-1,1)" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+   <path d="m 39.005412,36.000377 a 0.97504568,0.98245658 0 0 1 0.289438,0.05372 0.97504568,0.98245658 0 0 1 0.17138,0.08058 l 3.020054,1.757504 3.027674,1.7575 a 0.97504568,0.98245658 0 0 1 0,1.699938 l -3.027674,1.76134 -3.020054,1.7575 a 0.97504568,0.98245658 0 0 1 -1.462422,-0.848052 l -0.0038,-3.518838 0.0038,-3.518838 a 0.97504568,0.98245658 0 0 1 1.001604,-0.982366 z" style="fill:#ffffff"/>
+  </g>
+ </g>
+</svg>
