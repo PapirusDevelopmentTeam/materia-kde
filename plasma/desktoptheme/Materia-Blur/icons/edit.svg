@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" width="32" height="32" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="22-22-edit-delete" transform="translate(32,10)">
+  <rect style="opacity:0.00100002" width="22" height="22" x="0" y="0"/>
+  <g id="layer12" transform="translate(-445.0004,125.00336)">
+   <path style="fill:#d3dae3" d="m 461.65725,-119.66021 a 8,8 0 0 0 -11.3137,0 8,8 0 0 0 0,11.3137 8,8 0 0 0 11.3137,0 8,8 0 0 0 0,-11.3137 z m -1.22362,3.34494 a 5,5 0 0 1 -0.8977,5.84744 5,5 0 0 1 -5.84329,0.89355 z m -2.12547,-2.11717 -6.74099,6.74099 a 5,5 0 0 1 0.8977,-5.84744 5,5 0 0 1 5.84329,-0.89355 z"/>
+  </g>
+ </g>
+ <g id="edit-delete">
+  <rect width="32" height="32" x="0" y="0" rx="2.376" ry="2.087" style="opacity:0.00100002"/>
+  <circle style="opacity:0.2" cx="16" cy="17" r="14"/>
+  <circle cx="16" cy="16" r="14" style="fill:#c2352a"/>
+  <path style="opacity:0.2" d="M 16,7 A 10,10 0 0 0 6,17 10,10 0 0 0 7.6621094,22.507812 L 21.507812,8.6621094 A 10,10 0 0 0 16,7 Z m 8.337891,4.492188 -13.845703,13.845703 A 10,10 0 0 0 16,27 10,10 0 0 0 26,17 10,10 0 0 0 24.337891,11.492188 Z"/>
+  <path d="M 16 6 A 10 10 0 0 0 6 16 A 10 10 0 0 0 7.6621094 21.507812 L 21.507812 7.6621094 A 10 10 0 0 0 16 6 z M 24.337891 10.492188 L 10.492188 24.337891 A 10 10 0 0 0 16 26 A 10 10 0 0 0 26 16 A 10 10 0 0 0 24.337891 10.492188 z" style="fill:#ffffff"/>
+  <path d="M 16 2 A 14 14 0 0 0 2 16 A 14 14 0 0 0 2.0214844 16.585938 A 14 14 0 0 1 16 3 A 14 14 0 0 1 29.978516 16.414062 A 14 14 0 0 0 30 16 A 14 14 0 0 0 16 2 z" style="opacity:0.2;fill:#ffffff"/>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" width="32" height="32" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="22-22-printer" transform="translate(-473,135.01)">
+  <rect style="opacity:0;fill:#2b0000;fill-opacity:0.40392157" width="22" height="22" x="505" y="-125.01"/>
+  <path style="fill:#d3dae3" d="M 6,3 V 6 H 16 V 3 Z M 3.2851562,7 C 2.6423063,7 2,7.5826756 2,8.1660156 V 12.833984 C 2,13.417324 2.6423063,14 3.2851562,14 H 5 v -2 h 12 v 2 h 1.714844 C 19.357694,14 20,13.417324 20,12.833984 V 8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 Z M 6,13 v 6 h 10 v -6 z m 1,2 h 8 v 1 H 7 Z m 0,2 h 8 v 1 H 7 Z" transform="translate(505.0006,-125.00672)"/>
+ </g>
+ <g id="printer">
+  <rect width="32" height="32" x="0" y="0" style="opacity:0.00100002"/>
+  <g>
+   <rect style="opacity:0.2" width="12" height="28" x="-23" y="-30" rx="1.412" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+   <path style="opacity:0.2" d="M 5,19 V 29.588235 C 5,30.370353 5.61325,31 6.375,31 h 19.25 C 26.38675,31 27,30.370353 27,29.588235 V 19 Z"/>
+   <path style="fill:#e4e4e4" d="M 6.375,2 C 5.61325,2 5,2.6371429 5,3.4285714 V 12 H 27 V 3.4285714 C 27,2.6371429 26.38675,2 25.625,2 Z"/>
+   <rect style="fill:#4f4f4f" width="12" height="28" x="-22" y="-30" rx="1.412" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
+   <rect style="opacity:0.2" width="24" height="2" x="4" y="17"/>
+   <rect style="opacity:0.2" width="3" height="3" x="4" y="13" rx="1.125" ry="1.125"/>
+   <rect style="fill:#76ff03" width="3" height="3" x="4" y="12" rx="1.125" ry="1.125"/>
+   <path style="fill:#e4e4e4" d="M 5,18 V 28.588235 C 5,29.370353 5.61325,30 6.375,30 h 19.25 C 26.38675,30 27,29.370353 27,28.588235 V 18 Z"/>
+   <path style="opacity:0.5;fill-rule:evenodd" d="m 8,26 h 14 v 2 H 8 Z"/>
+   <path style="opacity:0.5;fill-rule:evenodd" d="m 8,23 h 11 v 2 H 8 Z"/>
+   <path style="opacity:0.5;fill-rule:evenodd" d="m 8,20 h 16 v 2 H 8 Z"/>
+   <path style="opacity:0.2;fill:#ffffff" d="M 5.125,12 C 4.50175,12 4,12.50175 4,13.125 v 0.75 C 4,13.91935 4.020447,13.95702 4.025391,14 4.089925,13.438945 4.546097,13 5.1250004,13 h 0.75 c 0.5789034,0 1.0350753,0.438945 1.0996094,1 C 6.979553,13.957021 7,13.919347 7,13.875 v -0.75 C 7,12.50175 6.49825,12 5.875,12 Z"/>
+   <path style="opacity:0.1;fill:#ffffff" d="M 3.4003906,10 C 2.6247906,10 2,10.629992 2,11.412109 v 1 C 2,11.629992 2.6247906,11 3.4003906,11 H 28.599609 C 29.375209,11 30,11.629992 30,12.412109 v -1 C 30,10.629992 29.375209,10 28.599609,10 Z"/>
+   <path style="opacity:0.2;fill:#ffffff" d="M 6.375,2 C 5.61325,2 5,2.6363059 5,3.4277344 v 1 C 5,3.6363059 5.61325,3 6.375,3 h 19.25 C 26.38675,3 27,3.6363059 27,4.4277344 v -1 C 27,2.6363059 26.38675,2 25.625,2 Z"/>
+  </g>
+ </g>
+</svg>

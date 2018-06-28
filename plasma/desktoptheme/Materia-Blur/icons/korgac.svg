@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" width="32" height="32" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="22-22-korgac">
+  <rect style="opacity:0;fill:#2b0000;fill-opacity:0.40392157" width="22" height="22" x="32" y="10"/>
+  <path d="M 42.998047 11.996094 C 38.027484 11.996094 33.998047 16.025531 33.998047 20.996094 C 33.998047 25.966657 38.027484 29.996094 42.998047 29.996094 C 47.96861 29.996094 51.998047 25.966657 51.998047 20.996094 C 51.998047 16.025531 47.96861 11.996094 42.998047 11.996094 z M 42.998047 14.996094 C 46.311755 14.996094 48.998047 17.682386 48.998047 20.996094 C 48.998047 24.309802 46.311755 26.996094 42.998047 26.996094 C 39.684339 26.996094 36.998047 24.309802 36.998047 20.996094 C 36.998047 17.682386 39.684339 14.996094 42.998047 14.996094 z M 42 16 L 42 20 L 42 22 L 44 22 L 48 22 L 48 20 L 44 20 L 44 16 L 42 16 z" style="fill:#d3dae3"/>
+ </g>
+ <g id="korgac">
+  <rect width="32" height="32" x="0" y="0" style="opacity:0.00100002"/>
+  <circle style="opacity:0.2" cx="16" cy="17" r="14"/>
+  <circle cx="16" cy="16" r="14" style="fill:#ed4545"/>
+  <circle cx="16" cy="16" r="10" style="fill:#4f4f4f"/>
+  <rect width="4" height="11" x="14" y="7" rx="2" ry="2.2" style="fill:#ffffff"/>
+  <path d="M 16,2 A 14,14 0 0 0 2,16 14,14 0 0 0 2.0214844,16.585938 14,14 0 0 1 16,3 14,14 0 0 1 29.978516,16.414062 14,14 0 0 0 30,16 14,14 0 0 0 16,2 Z" style="opacity:0.2;fill:#ffffff"/>
+  <rect width="4" height="11" x="14" y="-25" rx="2" ry="2.2" transform="rotate(90)" style="fill:#ffffff"/>
+ </g>
+</svg>

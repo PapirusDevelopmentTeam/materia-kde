@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="22-22-phone" transform="translate(32,9.9999997)">
+  <rect style="opacity:0;fill:#111213" width="22" height="22" x="0" y="0" rx="0" ry="0"/>
+  <path style="fill:#d3dae3;filter:url(#filter7554)" d="M 7,3 C 6,3 6,4 6,4 v 14 c 0,0 0,1 1,1 h 8 c 1,0 1,-1 1,-1 V 4 c 0,0 0,-1 -1,-1 z m 7,3 v 9 H 8 V 6.0019531 Z m -3,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"/>
+ </g>
+ <g id="22-22-phone-battery" transform="translate(2,-22)">
+  <rect style="opacity:0;fill:#111213" width="22" height="22" x="30" y="0" rx="0" ry="0"/>
+  <path style="fill:#d3dae3;filter:url(#filter7554)" d="m 37,3 c -1,0 -1,1 -1,1 v 14 c 0,0 0,1 1,1 h 8 c 1,0 1,-1 1,-1 V 4 c 0,0 0,-1 -1,-1 z m 4,3 h 3 v 9 H 38 V 6.0019531 h 3 z M 41,6.00195 39,10 h 2 v 4 L 43,9 H 41 V 6.0019531 Z M 41.300781,16 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"/>
+ </g>
+ <g id="16-16-phone-battery" transform="translate(21,-42)">
+  <rect style="opacity:0;fill:#6b727a" width="16" height="16" x="33" y="26" rx="0" ry="0"/>
+  <path style="fill:#d3dae3;filter:url(#filter7554)" d="M 37.798828,28 C 36.998828,28 37,28.75 37,28.75 v 10.5 c 0,0 -0.0012,0.75 0.798828,0.75 h 6.400391 C 44.999219,40 45,39.25 45,39.25 V 28.75 C 45,28.75 44.999158,28 44.199219,28 Z M 39,30 h 2 2 v 6 h -2 -2 z m 2,6 1.5,-3.75 H 41 V 30 l -1.5,3 H 41 Z m 0,1 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"/>
+ </g>
+ <g id="16-16-phone" transform="translate(54,-10)">
+  <rect style="opacity:0;fill:#5f666d;fill-opacity:0.80740739" width="16" height="16" x="0" y="26" rx="0" ry="0"/>
+  <path style="fill:#d3dae3;filter:url(#filter7554)" d="M 4.798828,28 C 3.998828,28 4,28.75 4,28.75 v 10.5 C 4,39.25 3.9988,40 4.798828,40 h 6.400391 C 11.999219,40 12,39.25 12,39.25 V 28.75 C 12,28.75 11.999158,28 11.199219,28 Z M 6,30 h 2 2 v 6 H 6 Z m 2,7 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"/>
+ </g>
+ <g id="phone">
+  <rect style="opacity:0.00100002" width="32" height="32" x="0" y="0"/>
+  <g>
+   <rect width="23" height="30" x="4" y="2" rx="1.5" ry="1.5" style="opacity:0.2"/>
+   <rect width="23" height="30" x="4" y="1" rx="1.5" ry="1.5" style="fill:#8e8e8e"/>
+   <rect width="19" height="22" x="6" y="4" rx="1.5" ry="1.5" style="opacity:0.6"/>
+   <rect width="7" height="1" x="12" y="2" rx=".5" ry=".5" style="opacity:0.5"/>
+   <circle cx="15.5" cy="28.5" r="1.5" style="opacity:0.5"/>
+   <path d="M 5.5,1 C 4.669,1 4,1.669 4,2.5 v 1 C 4,2.669 4.669,2 5.5,2 h 20 C 26.331,2 27,2.669 27,3.5 v -1 C 27,1.669 26.331,1 25.5,1 Z" style="opacity:0.2;fill:#ffffff"/>
+  </g>
+ </g>
+ <g id="phone-battery" transform="translate(0,-32)">
+  <rect width="32" height="32" x="0" y="0" style="opacity:0.00100002"/>
+  <g>
+   <rect style="opacity:0.2" width="23" height="30" x="4" y="2" rx="1.5" ry="1.5"/>
+   <rect style="fill:#8e8e8e" width="23" height="30" x="4" y="1" rx="1.5" ry="1.5"/>
+   <rect style="opacity:0.6" width="19" height="22" x="6" y="4" rx="1.5" ry="1.5"/>
+   <rect style="opacity:0.5" width="7" height="1" x="12" y="2" rx=".5" ry=".5"/>
+   <circle style="opacity:0.5" cx="15.5" cy="28.5" r="1.5"/>
+   <path style="opacity:0.2;fill:#ffffff" d="M 5.5,1 C 4.669,1 4,1.669 4,2.5 v 1 C 4,2.669 4.669,2 5.5,2 h 20 C 26.331,2 27,2.669 27,3.5 v -1 C 27,1.669 26.331,1 25.5,1 Z"/>
+  </g>
+  <path style="opacity:0.2" d="m 16,9 v 5 h 4 l -4,7 v -5 h -4 z"/>
+  <path d="m 16,8 v 5 h 4 l -4,7 v -5 h -4 z" style="fill:#f45744"/>
+ </g>
+</svg>

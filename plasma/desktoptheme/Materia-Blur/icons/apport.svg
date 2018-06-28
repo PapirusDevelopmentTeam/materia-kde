@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="22-22-apport" transform="translate(36.915254,-1.025424)">
+  <rect style="opacity:0.00100002" width="22" height="22" x="0" y="10"/>
+  <path style="fill:#d3dae3" d="M 3.125,13 C 2,13 2,14.142578 2,14.142578 V 25.875 c 0,1.143176 1.125,1.142578 1.125,1.142578 H 7.5507812 C 7.2610936,27.089594 6.9815288,27.300445 7,27.861328 V 29 h 8 v -1.138672 c 0,-0.561433 -0.253862,-0.7719 -0.511719,-0.84375 H 18.875 C 20,27.017578 20,25.875 20,25.875 V 14.142578 C 20,14.142578 20,13 18.875,13 Z M 4,15 h 14 v 9.986328 l -14,0.02734 z m 5,2 v 2 h 1 v -2 z m 3,0 v 2 h 1 v -2 z m -4,4 v 1 h 6 v -1 z m 6,1 v 1 h 1 V 22 Z M 8,22 H 7 v 1 h 1 z"/>
+ </g>
+ <g id="apport">
+  <rect width="32" height="32" x="0" y="0" style="opacity:0.00100002"/>
+  <g transform="translate(0,-1)">
+   <rect style="opacity:0.2" width="21" height="16" x="-29" y="-24" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+   <rect style="fill:#8e8e8e" width="21" height="16" x="-28" y="-24" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+   <rect style="opacity:0.2" width="20" height="26" x="-26" y="-29" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+   <rect style="fill:#4f4f4f" width="20" height="26" x="-25" y="-29" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+   <rect style="fill:#e64b39" width="16" height="22" x="-23" y="-27" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+   <path style="opacity:0.1;fill:#ffffff" d="M 4.25,5 C 3.5575,5 3,5.5575 3,6.25 v 1 C 3,6.5575 3.5575,6 4.25,6 h 23.5 C 28.442,6 29,6.5575 29,7.25 v -1 C 29,5.5575 28.442,5 27.75,5 Z"/>
+   <rect style="opacity:0.1;fill:#ffffff" width="22" height="1" x="5" y="23"/>
+   <path d="m 13,12 v 3 h 2 v -3 z m 4,0 v 3 h 2 v -3 z m -5,5 v 2 h 8 v -2 z m 0,2 h -2 v 2 h 2 z m 8.167969,-0.05273 V 21 H 22 v -2.052734 z" style="opacity:0.2"/>
+   <path style="fill:#ffffff" d="m 13,11 v 3 h 2 v -3 z m 4,0 v 3 h 2 v -3 z m -5,5 v 2 h 8 v -2 z m 0,2 h -2 v 2 h 2 z m 8.167969,-0.05273 V 20 H 22 v -2.052734 z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" width="32" height="32" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="22-22-list-remove" transform="translate(-253,-17)">
+  <rect style="opacity:0" width="22" height="22" x="285" y="-5"/>
+  <g style="enable-background:new" transform="translate(285.00081,-5.00334)">
+   <g id="layer12-2" transform="translate(-445.0004,125.00336)">
+    <path style="fill:#d3dae3" d="m 461.65725,-119.66021 a 8,8 0 0 0 -11.3137,0 8,8 0 0 0 0,11.3137 8,8 0 0 0 11.3137,0 8,8 0 0 0 0,-11.3137 z m -1.22362,3.34494 a 5,5 0 0 1 -0.8977,5.84744 5,5 0 0 1 -5.84329,0.89355 z m -2.12547,-2.11717 -6.74099,6.74099 a 5,5 0 0 1 0.8977,-5.84744 5,5 0 0 1 5.84329,-0.89355 z"/>
+   </g>
+  </g>
+ </g>
+ <g id="22-22-list-add" transform="translate(-253.00081,15.00334)">
+  <path style="opacity:0" d="m 285.00081,-5.00334 h 22 v 22 h -22 z"/>
+  <path style="fill:#d3dae3" d="M 9,3 V 9 H 3 v 4 h 6 v 6 h 4 v -6 h 6 V 9 H 13 V 3 Z" transform="translate(285.00081,-5.00334)"/>
+ </g>
+ <g id="16-16-list-remove" transform="translate(-252,10)">
+  <rect style="opacity:0;fill:#39ffff" width="16" height="16" x="306" y="-26"/>
+  <g style="enable-background:new" transform="translate(306.00095,-26.00332)">
+   <g id="layer12-3" transform="translate(-445.0004,119.00336)">
+    <path style="fill:#d3dae3" d="m 453.00026,-118.00338 c -3.86295,0 -7,3.13704 -7,7 0,3.86295 3.13705,7 7,7 3.86295,0 7,-3.13705 7,-7 0,-3.86296 -3.13705,-7 -7,-7 z m 0,2 c 1.01943,0 1.95898,0.28763 2.75,0.8125 l -6.9375,6.9375 c -0.52487,-0.79102 -0.8125,-1.73057 -0.8125,-2.75 0,-2.75926 2.24075,-5 5,-5 z m 4.1875,2.25 c 0.52487,0.79102 0.8125,1.73057 0.8125,2.75 0,2.75925 -2.24075,5 -5,5 -1.01943,0 -1.95898,-0.28763 -2.75,-0.8125 z"/>
+   </g>
+  </g>
+ </g>
+ <g id="16-16-list-add" transform="translate(-234,42)">
+  <rect style="opacity:0;fill:#39ffff" width="16" height="16" x="288" y="-26"/>
+  <g style="enable-background:new" transform="translate(288.00081,-26.00334)">
+   <g id="layer12-21" transform="translate(-285.00081,-0.99666)">
+    <path style="fill:#d3dae3" d="m 292.00081,1.99666 v 6 h -6 v 2 h 6 v 6 h 2 v -6 h 6 v -2 h -6 v -6 z"/>
+   </g>
+  </g>
+ </g>
+ <g id="list-add">
+  <rect width="32" height="32" x="0" y="0" style="opacity:0.001"/>
+  <rect style="opacity:0.2" width="6" height="28" x="13" y="3" rx="2" ry="2"/>
+  <rect width="6" height="28" x="13" y="2" rx="2" ry="2" style="fill:#309930"/>
+  <rect width="6" height="28" x="14" y="-30" rx="2" ry="2" transform="rotate(90)" style="opacity:0.2"/>
+  <rect style="fill:#24c65b" width="6" height="28" x="13" y="-30" rx="2" ry="2" transform="rotate(90)"/>
+  <path d="M 15 2 C 13.892 2 13 2.892 13 4 L 13 5 C 13 3.892 13.892 3 15 3 L 17 3 C 18.108 3 19 3.892 19 5 L 19 4 C 19 2.892 18.108 2 17 2 L 15 2 z" style="opacity:0.1;fill:#ffffff"/>
+  <path d="M 4 13 C 2.892 13 2 13.892 2 15 L 2 16 C 2 14.892 2.892 14 4 14 L 28 14 C 29.108 14 30 14.892 30 16 L 30 15 C 30 13.892 29.108 13 28 13 L 4 13 z" style="opacity:0.2;fill:#ffffff"/>
+ </g>
+ <g style="enable-background:new" id="list-remove" transform="translate(0,-32)">
+  <rect width="32" height="32" x="0" y="0" rx="2.376" ry="2.087" style="opacity:0.00100002"/>
+  <circle style="opacity:0.2" cx="16" cy="17" r="14"/>
+  <circle cx="16" cy="16" r="14" style="fill:#c2352a"/>
+  <path style="opacity:0.2" d="M 16,7 A 10,10 0 0 0 6,17 10,10 0 0 0 7.6621094,22.507812 L 21.507812,8.6621094 A 10,10 0 0 0 16,7 Z m 8.337891,4.492188 -13.845703,13.845703 A 10,10 0 0 0 16,27 10,10 0 0 0 26,17 10,10 0 0 0 24.337891,11.492188 Z"/>
+  <path d="M 16,6 A 10,10 0 0 0 6,16 10,10 0 0 0 7.6621094,21.507812 L 21.507812,7.6621094 A 10,10 0 0 0 16,6 Z m 8.337891,4.492188 -13.845703,13.845703 A 10,10 0 0 0 16,26 10,10 0 0 0 26,16 10,10 0 0 0 24.337891,10.492188 Z" style="fill:#ffffff"/>
+  <path d="M 16,2 A 14,14 0 0 0 2,16 14,14 0 0 0 2.0214844,16.585938 14,14 0 0 1 16,3 14,14 0 0 1 29.978516,16.414062 14,14 0 0 0 30,16 14,14 0 0 0 16,2 Z" style="opacity:0.2;fill:#ffffff"/>
+ </g>
+</svg>

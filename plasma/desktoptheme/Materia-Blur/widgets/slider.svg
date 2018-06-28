@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="81" height="40" version="1.1" viewBox="0 0 81 40">
+ <rect id="hint-tile-center" width="2" height="2" x="0" y="10" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none"/>
+ <path id="groove-bottomright" d="m 7,27 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-right" d="m 7,25 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-topright" d="m 7,23 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-bottomleft" d="m 3,27 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-left" d="m 3,25 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-topleft" d="M 4,23 H 3 v 1 h 1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-bottom" d="m 5,27 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-center" d="M 6,25 H 5 v 1 h 1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-top" d="m 5,23 v 1 h 1 v -1 z" style="opacity:1;fill:#475359;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-bottomright" d="m 7,36 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-right" d="m 7,34 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-topright" d="m 7,32 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-bottomleft" d="m 3,36 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-left" d="m 3,34 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-topleft" d="M 4,32 H 3 v 1 h 1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-bottom" d="m 5,36 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-center" d="M 6,34 H 5 v 1 h 1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <path id="groove-highlight-top" d="m 5,32 v 1 h 1 v -1 z" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none"/>
+ <g style="enable-background:new" id="vertical-slider-handle" transform="translate(-242,-532.36218)">
+  <circle id="4176" cx="265" cy="542.362" r="8" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <rect id="rect6204" width="20" height="20" x="255" y="532.36" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"/>
+ </g>
+ <g style="enable-background:new" id="vertical-slider-hover" transform="translate(-218,-532.36218)">
+  <circle id="4176-3" cx="265" cy="542.362" r="9" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1.125;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <rect id="rect6204-5" width="20" height="20" x="255" y="532.36" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"/>
+ </g>
+ <g id="vertical-slider-focus" transform="translate(-194,-532.36218)" style="enable-background:new">
+  <circle style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1.125;stroke-miterlimit:4;stroke-dasharray:none" id="circle877" cx="265" cy="542.362" r="9"/>
+  <rect style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" id="rect879" width="20" height="20" x="255" y="532.36"/>
+ </g>
+ <g id="horizontal-slider-handle" transform="translate(-242,-512.36218)" style="enable-background:new">
+  <circle style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" id="circle889" cx="265" cy="542.362" r="8"/>
+  <rect style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" id="rect891" width="20" height="20" x="255" y="532.36"/>
+ </g>
+ <g id="horizontal-slider-hover" transform="translate(-218,-512.36218)" style="enable-background:new">
+  <circle style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1.125;stroke-miterlimit:4;stroke-dasharray:none" id="circle895" cx="265" cy="542.362" r="9"/>
+  <rect style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" id="rect897" width="20" height="20" x="255" y="532.36"/>
+ </g>
+ <g style="enable-background:new" id="horizontal-slider-focus" transform="translate(-194,-512.36218)">
+  <circle id="circle901" cx="265" cy="542.362" r="9" style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1.125;stroke-miterlimit:4;stroke-dasharray:none"/>
+  <rect id="rect903" width="20" height="20" x="255" y="532.36" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"/>
+ </g>
+</svg>
