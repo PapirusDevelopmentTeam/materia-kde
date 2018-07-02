@@ -345,7 +345,7 @@
  <rect id="expand-combo-normal" width="10" height="10" x="10" y="7" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
  <g id="tabBarFrame-normal-bottom" transform="matrix(0,-1,0.66666667,0,-533.83334,784)" style="stroke:none">
   <path id="path1767" d="m 174,921.5 -4,0 1.3e-4,-6 3.99987,0 z" style="fill-opacity:0;fill-rule:evenodd"/>
-  <path id="path1769" d="m 172,921.5 -2,0 1e-4,-6 2,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#212121;fill-opacity:1"/>
+  <path id="path1769" d="m 172,921.5 -2,0 1e-4,-6 2,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#212121;fill-opacity:1;opacity:0.9"/>
  </g>
  <path style="fill:#212121;fill-rule:evenodd;stroke:none;opacity:0.9" id="tooltip-normal-left" d="m 371.5,617 h 5 v 48 h -5 z"/>
  <path style="fill:#212121;fill-rule:evenodd;stroke:none;opacity:0.9" id="tooltip-normal-topleft" d="m 376.5,612 -4.9989,3e-4 -0.001,5 h 5 z"/>
@@ -434,9 +434,9 @@
   <rect id="combo-normal-bottomright" width="2" height="2" x="436.5" y="90" style="opacity:0"/>
   <rect id="combo-normal-right" width="2" height="2" x="436.5" y="88" style="opacity:0"/>
  </g>
- <rect style="text-indent:0;opacity:0.21000001;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round" id="tab-focused-bottom" width="10" height="10" x="61" y="636"/>
- <rect style="text-indent:0;opacity:0.21000001;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round" id="tab-focused-bottomright" width="10" height="10" x="71" y="636"/>
- <rect style="text-indent:0;opacity:0.21000001;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round" id="tab-focused-bottomleft" width="10" height="10" x="51" y="636"/>
+ <rect style="text-indent:0;opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round;fill:#212121;fill-opacity:1" id="tab-focused-bottom" width="10" height="10" x="61" y="636"/>
+ <rect style="text-indent:0;opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round;fill:#212121;fill-opacity:1" id="tab-focused-bottomright" width="10" height="10" x="71" y="636"/>
+ <rect style="text-indent:0;opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round;fill:#212121;fill-opacity:1" id="tab-focused-bottomleft" width="10" height="10" x="51" y="636"/>
  <path id="button-pressed" d="m 133,59 0,-32 -32,0 0,32 z" style="text-indent:0;fill:#5e5e5e;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
  <g id="button-pressed-left" transform="translate(48,7)" style="stroke:none">
   <path id="path1588" d="m 53,52 0,-32 -5,0 0,32 z" style="fill:#5e5e5e;fill-rule:evenodd;stroke-width:0.51200002;fill-opacity:1"/>
