@@ -84,11 +84,11 @@ link.visited.color=#452886
 progress.indicator.text.color=#5c616c
 
 [Hacks]
-transparent_ktitle_label=true
+transparent_ktitle_label=false
 transparent_dolphin_view=false
-transparent_pcmanfm_sidepane=true
+transparent_pcmanfm_sidepane=false
 blur_translucent=false
-transparent_menutitle=true
+transparent_menutitle=false
 respect_darkness=false
 kcapacitybar_as_progressbar=true
 force_size_grip=true
@@ -102,6 +102,7 @@ tint_on_mouseover=0
 transparent_pcmanfm_view=false
 no_selection_tint=true
 transparent_arrow_button=false
+middle_click_scroll=false
 
 [PanelButtonCommand]
 frame=true
