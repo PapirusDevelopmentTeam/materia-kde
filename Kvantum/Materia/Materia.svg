@@ -116,11 +116,11 @@
   <rect id="rect5404" width="25" height="25" x="375" y="87.5" style="opacity:0;fill:#7b7b7b"/>
   <path id="path5406" d="m 396.25,86.25 -17.5,17.5 17.5,0 z" style="opacity:0.00100002;stroke-width:0.935"/>
  </g>
- <rect id="menubar-normal" width="20" height="20" x="305" y="597" style="fill:#303030;stroke:none;fill-opacity:1"/>
- <rect id="menubar-normal-left" width="20" height="5" x="597" y="-305" transform="matrix(0,1,-1,0,0,0)" style="fill:#303030;stroke:none;fill-opacity:1"/>
- <rect id="menubar-normal-topleft" width="5" height="5" x="592" y="-305" transform="matrix(0,1,-1,0,0,0)" style="fill:#303030;stroke:none;fill-opacity:1"/>
- <rect id="menubar-normal-top" width="20" height="5" x="305" y="592" style="fill:#303030;stroke:none;fill-opacity:1"/>
- <rect id="menubar-normal-right" width="20" height="5" x="597" y="-330" transform="matrix(0,1,-1,0,0,0)" style="fill:#303030;stroke:none;fill-opacity:1"/>
+ <rect id="menubar-normal" width="20" height="20" x="305" y="597" style="fill:#383838;stroke:none;fill-opacity:1"/>
+ <rect id="menubar-normal-left" width="20" height="5" x="597" y="-305" transform="matrix(0,1,-1,0,0,0)" style="fill:#383838;stroke:none;fill-opacity:1"/>
+ <rect id="menubar-normal-topleft" width="5" height="5" x="592" y="-305" transform="matrix(0,1,-1,0,0,0)" style="fill:#383838;stroke:none;fill-opacity:1"/>
+ <rect id="menubar-normal-top" width="20" height="5" x="305" y="592" style="fill:#383838;stroke:none;fill-opacity:1"/>
+ <rect id="menubar-normal-right" width="20" height="5" x="597" y="-330" transform="matrix(0,1,-1,0,0,0)" style="fill:#383838;stroke:none;fill-opacity:1"/>
  <rect id="dock-normal" width="30" height="30" x="355" y="962" style="fill:#f5f6f7;stroke:none"/>
  <g id="g169" transform="translate(-4.1306152e-7,-208.00012)" style="fill:#646464;stroke:none">
   <rect id="dock-focused-left" width="5" height="30" x="399.5" y="1170"/>
@@ -142,7 +142,7 @@
   <rect id="dock-normal-bottom" width="5" height="30" x="-1207.5" y="355" transform="matrix(0,-1,1,0,0,0)"/>
   <rect id="dock-normal-bottomleft" width="5" height="5" x="347.5" y="1202.5"/>
  </g>
- <rect id="menubar-normal-topright" width="5" height="5" x="592" y="-330" transform="matrix(0,1,-1,0,0,0)" style="fill:#303030;stroke:none;fill-opacity:1"/>
+ <rect id="menubar-normal-topright" width="5" height="5" x="592" y="-330" transform="matrix(0,1,-1,0,0,0)" style="fill:#383838;stroke:none;fill-opacity:1"/>
  <use id="slider-toggled-bottomleft" width="450" height="1230" x="0" y="0" transform="matrix(1,0,0,-1,1.3061523e-8,1068)" xlink:href="#slider-toggled-topleft"/>
  <path id="toolbar-handle" d="m 245,106.24834 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z" style="fill:#7d7d7d;stroke:none"/>
  <use id="slider-toggled-bottomright" width="450" height="1230" x="0" y="0" transform="matrix(1,0,0,-1,1.3061523e-8,1068)" xlink:href="#slider-toggled-topright"/>
@@ -1212,27 +1212,27 @@
  </g>
  <g id="scrollbarslider-pressed-topright" transform="matrix(1,0,0,1.3788159,-139,-21.526388)" style="stroke:none">
   <rect id="rect2011" width="12" height="8.703" x="225" y="669.8" style="opacity:0"/>
-  <path id="path2013" d="M 225,671.24725 V 678.5 h 9.5 c 0,-4.35156 -3.78571,-7.25278 -9.5,-7.25276 z" style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
+  <path id="path2013" d="M 225,671.24725 V 678.5 h 9.5 c 0,-4.35156 -3.78571,-7.25278 -9.5,-7.25276 z" style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
  </g>
  <g id="scrollbarslider-pressed-topleft" transform="matrix(1,0,0,1.3788175,-139,-21.527428)" style="stroke:none">
   <rect id="rect2017" width="12" height="8.703" x="213" y="669.8" style="opacity:0"/>
-  <path id="path2019" d="m 225,671.24722 c -5.71429,0 -9.5,2.90118 -9.5,7.25268 h 9.5 z" style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
+  <path id="path2019" d="m 225,671.24722 c -5.71429,0 -9.5,2.90118 -9.5,7.25268 h 9.5 z" style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
  </g>
  <g id="scrollbarslider-pressed-left" transform="translate(-139,235.5001)" style="stroke:none">
   <rect id="rect2023" width="12" height="23" x="213" y="678.5" style="opacity:0"/>
-  <path id="path2025" d="m 215.5,678.5004 v 22.8687 0.131 h 9.5 v -23 h -9.5 z" style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
+  <path id="path2025" d="m 215.5,678.5004 v 22.8687 0.131 h 9.5 v -23 h -9.5 z" style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
  </g>
  <g id="scrollbarslider-pressed-right" transform="translate(-139,235.5001)" style="stroke:none">
   <rect id="rect2029" width="12" height="22.994" x="225" y="678.5" style="opacity:0"/>
-  <path id="path2031" d="m 225,678.5005 v 23 h 9.5 v -0.131 -22.8686 H 225 Z" style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
+  <path id="path2031" d="m 225,678.5005 v 23 h 9.5 v -0.131 -22.8686 H 225 Z" style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005"/>
  </g>
  <g style="stroke:none" id="scrollbarslider-pressed-bottomright" transform="matrix(1,0,0,-1.3788159,-139,1872.5266)">
   <rect style="opacity:0" id="rect2039" width="12" height="8.703" x="225" y="669.8"/>
-  <path style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" id="path2041" d="M 225,671.24725 V 678.5 h 9.5 c 0,-4.35156 -3.78571,-7.25278 -9.5,-7.25276 z"/>
+  <path style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" id="path2041" d="M 225,671.24725 V 678.5 h 9.5 c 0,-4.35156 -3.78571,-7.25278 -9.5,-7.25276 z"/>
  </g>
  <g style="stroke:none" id="scrollbarslider-pressed-bottomleft" transform="matrix(1,0,0,-1.3788175,-139,1872.5277)">
   <rect style="opacity:0" id="rect2045" width="12" height="8.703" x="213" y="669.8"/>
-  <path style="fill:#303030;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" id="path2047" d="m 225,671.24722 c -5.71429,0 -9.5,2.90118 -9.5,7.25268 h 9.5 z"/>
+  <path style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-width:0.97590005" id="path2047" d="m 225,671.24722 c -5.71429,0 -9.5,2.90118 -9.5,7.25268 h 9.5 z"/>
  </g>
  <g id="scrollbarslider-focused-bottomright" transform="matrix(1,0,0,-1.3788159,-172,1872.5264)" style="stroke:none">
   <rect id="rect1822" width="12" height="8.703" x="225" y="669.8" style="opacity:0"/>
