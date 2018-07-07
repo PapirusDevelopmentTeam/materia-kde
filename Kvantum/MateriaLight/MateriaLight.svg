@@ -81,7 +81,7 @@
   <radialGradient id="radialGradient5997" cx="53.92" cy="22.463" r="3" fx="53.92" fy="22.463" gradientTransform="matrix(6.0514356e-7,-1.1666673,1.8333333,9.5131071e-7,-35.181999,78.406961)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2643"/>
   <radialGradient id="radialGradient5999" cx="50.545" cy="19.463" r="3" fx="50.545" fy="19.463" gradientTransform="matrix(5.2950016e-8,-2.3333321,0.66666647,1.5226801e-8,-10.475258,137.93882)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2643"/>
  </defs>
- <rect id="tab-tear" width="15" height="15" x="428" y="766.46" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
+ <rect id="tab-tear" width="15" height="15" x="428" y="766.46" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
  <rect id="dial" width="45" height="45" x="25" y="822" rx="22.5" ry="22.5" style="fill:#eaedf4;fill-rule:evenodd;stroke:none"/>
  <g id="dial-notches" transform="translate(-76.499996,158.75)" style="fill:#ffffff;fill-rule:evenodd;stroke:none">
   <rect id="rect6567" width="45" height="45" x="202.5" y="667.5" style="opacity:0"/>
@@ -90,7 +90,7 @@
    <path id="path6572" d="m 222.9062,667.5938 -0.5,0.0625 0.3125,2.9688 0.5,-0.0312 -0.3125,-3 z m 4.1875,0 -0.3125,3 0.5,0.0312 0.3125,-2.9688 -0.5,-0.0625 z m -8.8125,0.9375 -0.4688,0.1562 0.9375,2.8438 0.4688,-0.1562 -0.9375,-2.8438 z m 13.4375,0 -0.9375,2.8438 0.4688,0.1562 0.9375,-2.8438 -0.4688,-0.1562 z m -21.5938,4.5938 -0.375,0.3125 2.0312,2.25 0.3438,-0.3438 -2,-2.2188 z m 29.75,0 -2,2.2188 0.3438,0.3438 2.0312,-2.25 -0.375,-0.3125 z m -32.9375,3.4375 -0.2812,0.4062 2.4062,1.7812 0.3125,-0.4062 -2.4375,-1.7812 z m 36.125,0 -2.4375,1.7812 0.3125,0.4062 2.4062,-1.7812 -0.2812,-0.4062 z m -38.5,4.0625 -0.2188,0.4375 2.75,1.25 0.1875,-0.4688 -2.7188,-1.2188 z m 40.875,0 -2.7188,1.2188 0.1875,0.4688 2.75,-1.25 -0.2188,-0.4375 z m -42.4062,4.4375 -0.0937,0.5 2.9375,0.625 0.0937,-0.5 -2.9375,-0.625 z m 43.9375,0 -2.9375,0.625 0.0937,0.5 2.9375,-0.625 -0.0937,-0.5 z m -41.0938,8.75 -2.9375,0.625 0.0937,0.5 2.9375,-0.625 -0.0937,-0.5 z m 38.25,0 -0.0937,0.5 2.9375,0.625 0.0937,-0.5 -2.9375,-0.625 z m -37.0312,3.875 -2.75,1.25 0.2188,0.4375 2.7188,-1.2188 -0.1875,-0.4688 z m 35.8125,0 -0.1875,0.4688 2.7188,1.2188 0.2188,-0.4375 -2.75,-1.25 z m -33.8438,3.5625 -2.4062,1.7812 0.2812,0.4062 2.4375,-1.7812 -0.3125,-0.4062 z m 31.875,0 -0.3125,0.4062 2.4375,1.7812 0.2812,-0.4062 -2.4062,-1.7812 z m -29.1562,3.0625 -2.0312,2.25 0.375,0.3125 2,-2.2188 -0.3438,-0.3438 z m 26.4375,0 -0.3438,0.3438 2,2.2188 0.375,-0.3125 -2.0312,-2.25 z"/>
   </g>
  </g>
- <circle id="dial-handle" cx="98" cy="855" r="5" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
+ <circle id="dial-handle" cx="98" cy="855" r="5" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
  <path id="slider-toggled-topleft" d="m 194.9999,513.74978 c -6.648,0 -12,5.352 -12,12 l 12,0 0,-12 z" style="fill:#009688;fill-rule:evenodd;stroke:none"/>
  <path id="slider-toggled-left" d="m 182.9999,525.74978 0,16.4063 0,0.094 12,0 0,-16.5 -12,0 z" style="fill:#009688;fill-rule:evenodd;stroke:none"/>
  <g id="common-normal-left" transform="translate(35,-203.00012)" style="stroke:none">
@@ -159,7 +159,7 @@
  <path id="button-normal" d="m 7,39.99994 0,32 32,0 0,-32 z" style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none"/>
  <g id="menuitem-tearoff-focused" transform="translate(101.5,-53.50012)" style="color:#000000;fill-rule:evenodd;stroke:none">
   <rect id="rect7888" width="7" height="9" x="686.5" y="-229.5" transform="matrix(0,1,-1,0,0,0)" style="opacity:0;fill:#141414"/>
-  <path id="path7945" d="m 227.2385,689 -2.2462,0 0,2 2.2462,0 z m -4.4924,0 -2.2461,0 0,2 2.2461,0 z" style="fill:#338dd6"/>
+  <path id="path7945" d="m 227.2385,689 -2.2462,0 0,2 2.2462,0 z m -4.4924,0 -2.2461,0 0,2 2.2461,0 z" style="fill:#4285f4"/>
  </g>
  <g id="splitter-grip-normal" transform="matrix(1.1428571,0,0,1,-38.285716,-208.00012)" style="color:#000000;stroke:none;opacity:0.001">
   <rect id="rect4829" width="7" height="32" x="275" y="1039" style="fill-opacity:0"/>
@@ -196,26 +196,26 @@
  </g>
  <g id="resize-grip-focused" transform="translate(42,-50.00006)" style="stroke:none;opacity:0.001">
   <rect id="rect4970" width="25" height="25" x="375" y="87.5" style="opacity:0;fill:#7b7b7b"/>
-  <path id="path4972" d="m 398.5859,91.0859 c -7.80469,7.80469 -15.6094,15.6094 -23.4141,23.4141 8.9427,0 17.8854,0 26.8281,0 0,-8.94271 0,-17.8854 0,-26.8281 -1.13802,1.13802 -2.27604,2.27604 -3.41406,3.41406 z" style="fill:#338dd6"/>
+  <path id="path4972" d="m 398.5859,91.0859 c -7.80469,7.80469 -15.6094,15.6094 -23.4141,23.4141 8.9427,0 17.8854,0 26.8281,0 0,-8.94271 0,-17.8854 0,-26.8281 -1.13802,1.13802 -2.27604,2.27604 -3.41406,3.41406 z" style="fill:#4285f4"/>
  </g>
- <rect id="itemview-pressed-top" width="8" height="4" x="52" y="980" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-pressed-bottom" width="8" height="4" x="52" y="992" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-pressed" d="m 52,983.9999 8,0 0,8 -8,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-pressed-topright" d="m 60,979.9999 4,0 0,4 -4,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-pressed-bottomright" d="m 60,991.9999 4,0 0,4 -4,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-pressed-right" width="4" height="8" x="60" y="984" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-pressed-left" width="4" height="8" x="48" y="984" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-pressed-topleft" d="m 52,979.9999 0,4 -4,0 0,-4 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-pressed-bottomleft" d="m 48,991.9999 4,0 0,4 -4,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-toggled-top" width="8" height="4" x="85" y="979" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-toggled-bottom" width="8" height="4" x="85" y="994.5" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-toggled" d="m 85,984.9999 8,0 0,8 -8,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-toggled-right" width="4" height="8" x="95" y="985" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-toggled-topright" d="m 95,978.9999 3.999996,0 0,4 -3.999996,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-toggled-bottomright" d="m 95,994.4999 3.999996,0 0,4 -3.999996,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <rect id="itemview-toggled-left" width="4" height="8" x="79" y="985" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-toggled-topleft" d="m 83,978.9999 0,4 -4,0 0,-4 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
- <path id="itemview-toggled-bottomleft" d="m 79,994.4999 4,0 0,4 -4,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-pressed-top" width="8" height="4" x="52" y="980" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-pressed-bottom" width="8" height="4" x="52" y="992" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-pressed" d="m 52,983.9999 8,0 0,8 -8,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-pressed-topright" d="m 60,979.9999 4,0 0,4 -4,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-pressed-bottomright" d="m 60,991.9999 4,0 0,4 -4,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-pressed-right" width="4" height="8" x="60" y="984" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-pressed-left" width="4" height="8" x="48" y="984" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-pressed-topleft" d="m 52,979.9999 0,4 -4,0 0,-4 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-pressed-bottomleft" d="m 48,991.9999 4,0 0,4 -4,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-toggled-top" width="8" height="4" x="85" y="979" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-toggled-bottom" width="8" height="4" x="85" y="994.5" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-toggled" d="m 85,984.9999 8,0 0,8 -8,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-toggled-right" width="4" height="8" x="95" y="985" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-toggled-topright" d="m 95,978.9999 3.999996,0 0,4 -3.999996,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-toggled-bottomright" d="m 95,994.4999 3.999996,0 0,4 -3.999996,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <rect id="itemview-toggled-left" width="4" height="8" x="79" y="985" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-toggled-topleft" d="m 83,978.9999 0,4 -4,0 0,-4 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
+ <path id="itemview-toggled-bottomleft" d="m 79,994.4999 4,0 0,4 -4,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
  <use id="slider-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="matrix(1,0,0,-1,1.3061523e-8,1059.5004)" xlink:href="#slider-normal-topright"/>
  <path id="expand-progress-pattern-normal" d="m 410,159.99994 0,10 10,0 0,-10 -10,0 z" style="fill-rule:evenodd;stroke:none"/>
  <path id="expand-progress-normal" d="m 410,169.99994 0,10 10,0 0,-10 -10,0 z" style="fill-rule:evenodd;stroke:none"/>
@@ -240,7 +240,7 @@
  <use id="menuitem-pressed-topright" width="100%" height="100%" x="0" y="0" transform="translate(-50,0)" xlink:href="#menuitem-toggled-topright" style="fill:#ffffff"/>
  <rect id="expand-button-normal" width="10" height="10" x="0" y="20" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
  <rect id="expand-lineedit-normal" width="10" height="10" x="285" y="92.5" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
- <path id="button-toggled" d="m 179,71.99994 0,-32 -32,0 0,32 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
+ <path id="button-toggled" d="m 179,71.99994 0,-32 -32,0 0,32 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
  <path id="tabframe-normal" d="m 285.5,675.49988 0,32 32,0 0,-32 -32,0 z" style="fill:#ffffff;fill-rule:evenodd;stroke:none"/>
  <g id="tabframe-normal-left" transform="matrix(0.8,0,0,0.98461538,264.5002,627.4983)" style="stroke:none">
   <path id="path5181" d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" style="fill:#ffffff;fill-rule:evenodd"/>
@@ -268,7 +268,7 @@
   </g>
  </g>
  <path id="lineedit-normal-bottom" d="m 322.5,129.99994 32,0 0,-2 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#dcdedf;stroke:none;stroke-width:0.88800001"/>
- <path id="lineedit-focused-bottom" d="m 377.5,130.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#338dd6;stroke:none;stroke-width:0.88800001"/>
+ <path id="lineedit-focused-bottom" d="m 377.5,130.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#4285f4;stroke:none;stroke-width:0.88800001"/>
  <g id="checkbox-checked-normal" transform="translate(0,19.99994)">
   <rect id="use3879" width="16" height="16" x="272.5" y="-216" rx="2" ry="2" transform="scale(1,-1)" style="color:#000000;fill:#009688;stroke:none;fill-opacity:1"/>
   <path id="path5083" d="m 283.3102,204.1733 -3.6775,4.2767 -1.9271,-1.3649 c -1.36466,-0.96654 -2.67814,1.25767 -1.56052,2.19687 l 3.5781,3.0068 5.5538,-6.5775 c 1.16417,-1.37876 -0.95766,-2.71149 -1.96677,-1.53793 z" style="color:#000000;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fbfbfc;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"/>
@@ -307,7 +307,7 @@
  </g>
  <g id="tab-close-focused" transform="translate(52,-208.00012)" style="fill-rule:evenodd;stroke:none">
   <rect id="rect4855" width="18" height="18" x="265" y="970" style="fill-opacity:0;stroke-width:1.29999995;stroke-linecap:square;stroke-linejoin:round"/>
-  <path id="path4857" d="m 268.7501,972 a 1.74961,1.74961 0 0 0 -1.21879,3.00483 l 3.9958,3.9935 -3.9958,3.9958 a 1.74961,1.74961 0 1 0 2.47403,2.47403 l 3.9958,-3.9958 3.9935,3.9958 a 1.74961,1.74961 0 1 0 2.47403,-2.47403 l -3.9935,-3.9958 3.9935,-3.9935 A 1.74961,1.74961 0 0 0 279.24988,972 a 1.74961,1.74961 0 0 0 -1.25524,0.5308 l -3.9935,3.9935 -3.9958,-3.9935 A 1.74961,1.74961 0 0 0 268.7501,972 Z" style="color:#000000;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#338dd6;stroke-width:3;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"/>
+  <path id="path4857" d="m 268.7501,972 a 1.74961,1.74961 0 0 0 -1.21879,3.00483 l 3.9958,3.9935 -3.9958,3.9958 a 1.74961,1.74961 0 1 0 2.47403,2.47403 l 3.9958,-3.9958 3.9935,3.9958 a 1.74961,1.74961 0 1 0 2.47403,-2.47403 l -3.9935,-3.9958 3.9935,-3.9935 A 1.74961,1.74961 0 0 0 279.24988,972 a 1.74961,1.74961 0 0 0 -1.25524,0.5308 l -3.9935,3.9935 -3.9958,-3.9935 A 1.74961,1.74961 0 0 0 268.7501,972 Z" style="color:#000000;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4285f4;stroke-width:3;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"/>
  </g>
  <g id="tab-close-disabled" transform="translate(76,-208.00012)" style="fill-rule:evenodd;stroke:none">
   <rect id="rect4861" width="18" height="18" x="265" y="970" style="fill-opacity:0;stroke-width:1.29999995;stroke-linecap:square;stroke-linejoin:round"/>
@@ -427,9 +427,9 @@
  <rect id="tab-toggled-topright" width="10" height="10" x="35" y="708" style="fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
  <rect id="tab-toggled-left" width="10" height="10" x="15" y="718" style="fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
  <rect id="tab-toggled-topleft" width="10" height="10" x="15" y="708" style="fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
- <rect id="tab-toggled-bottom" width="10" height="10" x="25" y="728" style="fill:#338dd6;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
- <rect id="tab-toggled-bottomright" width="10" height="10" x="35" y="728" style="fill:#338dd6;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
- <rect id="tab-toggled-bottomleft" width="10" height="10" x="15" y="728" style="fill:#338dd6;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
+ <rect id="tab-toggled-bottom" width="10" height="10" x="25" y="728" style="fill:#4285f4;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
+ <rect id="tab-toggled-bottomright" width="10" height="10" x="35" y="728" style="fill:#4285f4;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
+ <rect id="tab-toggled-bottomleft" width="10" height="10" x="15" y="728" style="fill:#4285f4;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round"/>
  <g id="button-normal-bottomleft" transform="translate(0,19.99994)" style="stroke:none">
   <path id="path1797" d="M 7,55 4,55 C 2.5,55 2,54.5 2,53 l 0,-1 5,0 z" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.46200001"/>
   <g id="g682" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke-width:0.86400002">
@@ -439,15 +439,15 @@
  </g>
  <use id="button-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,46,0)" xlink:href="#button-normal-bottomleft"/>
  <g id="button-toggled-left" transform="translate(94,19.99994)" style="stroke:none">
-  <path id="path3841" d="M 53,51.999803 53,20 l -5,0 0,32 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.51200002"/>
+  <path id="path3841" d="M 53,51.999803 53,20 l -5,0 0,32 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.51200002"/>
   <path id="path3843" d="m 46,20 0,32 2,0 0,-32 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:url(#linearGradient5977);stroke-width:1.26300001"/>
  </g>
  <g id="button-toggled-bottom" transform="translate(94,20.99994)" style="stroke:none">
-  <path id="path3847" d="M 84.999803,51 53,51 l 0,3 32,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.51200002"/>
+  <path id="path3847" d="M 84.999803,51 53,51 l 0,3 32,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.51200002"/>
   <path id="path3849" d="m 53,58 32,0 0,-4 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:url(#linearGradient3881);stroke-width:1.403"/>
  </g>
  <g id="button-toggled-top" transform="translate(94.000006,14.99994)" style="stroke:none">
-  <path id="path3861" d="m 53.0001,25 31.9998,0 0,-6 -32,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.88800001"/>
+  <path id="path3861" d="m 53.0001,25 31.9998,0 0,-6 -32,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.88800001"/>
   <path id="path3863" d="m 85,18 -32,0 0,1 32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:url(#linearGradient3885);stroke-width:0.62800002"/>
  </g>
  <g id="button-normal-topleft" transform="translate(0,19.99994)" style="stroke:none;stroke-width:0.46200001">
@@ -459,7 +459,7 @@
  </g>
  <use id="button-normal-topright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,45.999954,0)" xlink:href="#button-normal-topleft"/>
  <rect id="lineedit-normal" width="10" height="10" x="322.5" y="115" style="text-indent:0;fill:#eeeeee;stroke:none;stroke-width:1.15499997"/>
- <path id="combo-pressed-bottom" d="m 415.5,130.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#338dd6;stroke:none;stroke-width:0.88800001"/>
+ <path id="combo-pressed-bottom" d="m 415.5,130.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#4285f4;stroke:none;stroke-width:0.88800001"/>
  <rect id="combo-normal" width="10" height="10" x="416.5" y="101.5" style="text-indent:0;fill:#eeeeee;stroke:none;stroke-width:1.15499997"/>
  <path id="combo-normal-bottom" d="m 415.5,116.99994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#dcdedf;stroke:none;stroke-width:0.88800001"/>
  <path id="combo-focused-bottom" d="m 415.5,127.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#a6abae;stroke:none;stroke-width:0.88800001"/>
@@ -555,14 +555,14 @@
   </g>
  </g>
  <g id="button-toggled-bottomleft" transform="translate(140,19.99994)" style="stroke:none">
-  <path id="path2256" d="M 7,55 4,55 C 2.5,55 2,54.5 2,53 l 0,-1 5,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.46200001"/>
+  <path id="path2256" d="M 7,55 4,55 C 2.5,55 2,54.5 2,53 l 0,-1 5,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.46200001"/>
   <g id="g797" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke-width:0.86400002">
    <path id="path2258" d="m 7,59 -7,0 0,-7 2,0 0,1 c 0,1.5 0.5,2 2,2 l 3,0 z" style="fill:url(#radialGradient5993)"/>
    <path id="path2260" d="m 7,59 -7,0 0,-7 2,0 0,1 c 0,1.5 0.5,2 2,2 l 3,0 z" style="fill:url(#radialGradient5995)"/>
   </g>
  </g>
  <g id="button-toggled-topleft" transform="translate(140,19.99994)" style="stroke:none;stroke-width:0.46200001">
-  <path id="path2264" d="m 7,14 -3,0 c -1.5,0 -2,0.5 -2,2 l 0,4 5,0 z" style="fill:#338dd6;fill-rule:evenodd"/>
+  <path id="path2264" d="m 7,14 -3,0 c -1.5,0 -2,0.5 -2,2 l 0,4 5,0 z" style="fill:#4285f4;fill-rule:evenodd"/>
   <g id="g803" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none">
    <path id="path2266" d="m 7,13 -7,0 0,7 2,0 0,-4 c 0,-1.5 0.5,-2 2,-2 l 3,0 z" style="fill:url(#radialGradient5997)"/>
    <path id="path2268" d="m 7,13 -7,0 0,7 2,0 0,-4 c 0,-1.5 0.5,-2 2,-2 l 3,0 z" style="fill:url(#radialGradient5999)"/>
@@ -582,7 +582,7 @@
  <use id="tabframe-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,-1,603.0002,1382.9998)" xlink:href="#tabframe-normal-topleft"/>
  <use id="tabBarFrame-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="translate(4.0000036,0)" xlink:href="#tabBarFrame-normal-bottom"/>
  <use id="tabBarFrame-normal-bottomleft" width="100%" height="100%" x="0" y="0" transform="translate(-4,0)" xlink:href="#tabBarFrame-normal-bottom"/>
- <path id="header-toggled" d="m 124,104 h -5.99996 v 6 h 6 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
+ <path id="header-toggled" d="m 124,104 h -5.99996 v 6 h 6 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
  <rect id="rect1547" width="27.5" height="15" x="62.5" y="130" style="fill-opacity:0.66699997;stroke:none;stroke-width:2"/>
  <g id="common-focused-left" transform="translate(-10,-203.00012)" style="stroke:none">
   <rect id="rect4921" width="2" height="30" x="271" y="1170" style="fill:#d2d2d2"/>
@@ -626,15 +626,15 @@
  <path id="menubaritem-pressed-top" d="m 201.76929,973.7691 18.46142,0 0,-5.7692 -18.46154,0 z" style="opacity:0.00100002;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
  <g id="menubaritem-pressed-bottom" transform="translate(-171,573.99984)">
   <path id="menubaritem-pressed-bottom2" d="m 391.23065,418.23077 -18.46142,0 0,5.76923 18.46154,0 z" style="opacity:0.00100002;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
-  <path id="path4918" d="m 391.23065,418.231 -18.46142,0 0,5.769 18.46154,0 z" style="fill:#338dd6;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+  <path id="path4918" d="m 391.23065,418.231 -18.46142,0 0,5.769 18.46154,0 z" style="fill:#4285f4;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
  </g>
  <g id="menubaritem-pressed-bottomleft" transform="translate(-171,573.99984)">
   <path id="menubaritem-pressed-bottomleft2" d="m 372.76923,424 c -3.17305,0 -5.7692,-2.59615 -5.76918,-5.7692 l 5.76917,-5e-5 z" style="opacity:0.00100002;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
-  <rect id="rect4920" width="5.769" height="5.769" x="367" y="418.23" style="opacity:1;fill:#338dd6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <rect id="rect4920" width="5.769" height="5.769" x="367" y="418.23" style="opacity:1;fill:#4285f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
  </g>
  <g id="menubaritem-pressed-bottomright" transform="matrix(-1,0,0,1,593.00023,573.99984)">
   <path id="path4928" d="m 372.76923,424 c -3.17305,0 -5.7692,-2.59615 -5.76918,-5.7692 l 5.76917,-5e-5 z" style="opacity:0.00100002;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
-  <rect id="rect4930" width="5.769" height="5.769" x="367" y="418.23" style="opacity:1;fill:#338dd6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <rect id="rect4930" width="5.769" height="5.769" x="367" y="418.23" style="opacity:1;fill:#4285f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
  </g>
  <g id="mdi-close-normal" transform="translate(-37,-83.03012)">
   <rect id="rect5239" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
@@ -670,19 +670,19 @@
  </g>
  <g id="mdi-close-pressed" transform="translate(-37,-49.03012)">
   <rect id="rect5311" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5313" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#5c616c;opacity:1;fill:#338dd6;fill-opacity:1"/>
+  <path id="path5313" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#5c616c;opacity:1;fill:#4285f4;fill-opacity:1"/>
  </g>
  <g id="mdi-minimize-pressed" transform="translate(-37,-49.03012)">
   <rect id="rect5317" width="16" height="16" x="72" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <rect id="rect5319" width="8" height="2" x="76" y="435.03" rx="1" ry="1" style="opacity:1;fill:#338dd6;fill-opacity:1"/>
+  <rect id="rect5319" width="8" height="2" x="76" y="435.03" rx="1" ry="1" style="opacity:1;fill:#4285f4;fill-opacity:1"/>
  </g>
  <g id="mdi-maximize-pressed" transform="translate(-37,-49.03012)">
   <rect id="rect5323" width="16" height="16" x="90" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5325" d="m 98,432.0293 c -0.554,0 -1,0.446 -1,1 l 0,2 -2,0 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 2,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 2,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -2,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 z" style="opacity:1;fill:#338dd6;fill-opacity:1"/>
+  <path id="path5325" d="m 98,432.0293 c -0.554,0 -1,0.446 -1,1 l 0,2 -2,0 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 2,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 2,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -2,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 z" style="opacity:1;fill:#4285f4;fill-opacity:1"/>
  </g>
  <g id="mdi-restore-pressed" transform="translate(-37,-49.03012)">
   <rect id="rect5329" width="16" height="16" x="108" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5331" d="m 116,432.0293 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z" style="opacity:1;fill:#338dd6;fill-opacity:1"/>
+  <path id="path5331" d="m 116,432.0293 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z" style="opacity:1;fill:#4285f4;fill-opacity:1"/>
  </g>
  <g id="mdi-close-disabled" transform="translate(-37,-32.03012)">
   <rect id="rect5335" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
@@ -1147,7 +1147,7 @@
  </g>
  <g id="tbutton-toggled-bottom" transform="translate(-56.000005,7.5000005)" style="fill-rule:evenodd;stroke:none">
   <path id="tbutton-toggled-bottom0" d="m 312,49.5 -4,0 0,4 4,0 z" style="fill-opacity:0;stroke-width:0.171"/>
-  <path id="path1591" d="m 312,50.5 -4,0 0,2 4,0 z" style="fill:#338dd6;stroke-width:0.148;fill-opacity:1"/>
+  <path id="path1591" d="m 312,50.5 -4,0 0,2 4,0 z" style="fill:#4285f4;stroke-width:0.148;fill-opacity:1"/>
  </g>
  <use id="tbutton-toggled-bottomright" width="100%" height="100%" x="0" y="0" transform="translate(3.9999953,4.2509766e-7)" xlink:href="#tbutton-toggled-bottom"/>
  <use id="tbutton-toggled-bottomleft" width="100%" height="100%" x="0" y="0" transform="translate(-4.0000045,4.2509766e-7)" xlink:href="#tbutton-toggled-bottom"/>

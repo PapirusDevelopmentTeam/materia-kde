@@ -32,11 +32,11 @@
  </g>
  <g id="pressed" transform="matrix(1.6,0,0,1.6,156.344,16.056)">
   <rect id="rect4294" width="20" height="20" x="-42.09" y="-1.91" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none"/>
-  <circle id="circle4296" cx="-32" cy="8" r="8" transform="matrix(1.015625,0,0,1.015625,0.4098513,-0.0349999)" style="color:#eff0f1;fill:#338dd6;fill-opacity:1;stroke:none"/>
+  <circle id="circle4296" cx="-32" cy="8" r="8" transform="matrix(1.015625,0,0,1.015625,0.4098513,-0.0349999)" style="color:#eff0f1;fill:#4285f4;fill-opacity:1;stroke:none"/>
  </g>
  <g id="22-22-pressed" transform="matrix(1.1,0,0,1.1,141.299,56.101)">
   <rect id="rect4304" width="20" height="20" x="-42.09" y="-1.91" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none"/>
-  <path id="path4306" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" style="fill:#338dd6;fill-opacity:1;stroke:none"/>
+  <path id="path4306" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" style="fill:#4285f4;fill-opacity:1;stroke:none"/>
  </g>
  <g id="hover">
   <rect id="rect4240" width="32" height="32" x="11" y="34" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none"/>

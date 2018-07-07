@@ -120,7 +120,7 @@
     <path id="path5947" d="M 4.9999964,55 4,55 C 2.5,55 2,54.5 2,53 l 0,4.2e-5 2.9999964,0 z" style="fill:#424242;fill-opacity:1;fill-rule:evenodd;stroke-width:0.46200001"/>
    </g>
   </g>
-  <path id="pressed-center" d="m 177,1045.3622 0,-32 -32,0 0,32 z" style="fill:#338dd6;fill-rule:evenodd;stroke:none"/>
+  <path id="pressed-center" d="m 177,1045.3622 0,-32 -32,0 0,32 z" style="fill:#4285f4;fill-rule:evenodd;stroke:none"/>
   <g id="normal-top" transform="translate(0,3.0000004)">
    <g id="g5941" transform="translate(-47.999997,988.36216)" style="stroke:none">
     <path id="path5943" d="m 53.0001,22.00004 31.9998,0 0,-3.00004 -32,0 z" style="fill:#424242;fill-opacity:1;fill-rule:evenodd;stroke-width:0.88800001"/>
@@ -128,13 +128,13 @@
    <path id="path4298" d="m 4.9999999,1007.3622 0,1 32.0000001,0 0,-1 z" style="opacity:0.05;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88800001"/>
   </g>
   <g id="pressed-left" transform="translate(91.999999,993.36216)" style="stroke:none">
-   <path id="path3841" d="M 53,51.999803 53,20 l -5,0 0,32 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.51200002"/>
+   <path id="path3841" d="M 53,51.999803 53,20 l -5,0 0,32 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.51200002"/>
   </g>
   <g id="pressed-bottom" transform="translate(91.999999,994.36216)" style="stroke:none">
-   <path id="path3847" d="m 84.999803,51.000084 -31.999803,0 0,1.999958 32,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.51200002"/>
+   <path id="path3847" d="m 84.999803,51.000084 -31.999803,0 0,1.999958 32,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.51200002"/>
   </g>
   <g id="pressed-top" transform="translate(92.000009,991.36216)" style="stroke:none">
-   <path id="path3861" d="m 53.0001,22.00004 31.9998,0 0,-3.00004 -32,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.88800001"/>
+   <path id="path3861" d="m 53.0001,22.00004 31.9998,0 0,-3.00004 -32,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.88800001"/>
   </g>
   <g id="normal-topleft" transform="translate(2.0000001,3.0000004)">
    <g id="g5951" transform="translate(-2.0000076,993.36216)" style="stroke:none;stroke-width:0.46200001">
@@ -149,10 +149,10 @@
    <path id="path4413" d="m 39.999949,1007.3622 c 1.5,0 2,0.5 2,2 l 0,1 c 0,-1.5 -0.5,-2 -2,-2 l -0.999978,0 0,-1 z" style="opacity:0.05;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001"/>
   </g>
   <g id="pressed-bottomleft" transform="translate(138,993.36216)" style="stroke:none">
-   <path id="path2256" d="m 7,54.000042 -3,0 c -1.5,0 -2,-0.5 -2,-2 l 0,4.2e-5 5,0 z" style="fill:#338dd6;fill-rule:evenodd;stroke-width:0.46200001"/>
+   <path id="path2256" d="m 7,54.000042 -3,0 c -1.5,0 -2,-0.5 -2,-2 l 0,4.2e-5 5,0 z" style="fill:#4285f4;fill-rule:evenodd;stroke-width:0.46200001"/>
   </g>
   <g id="pressed-topleft" transform="translate(138,996.36216)" style="stroke:none;stroke-width:0.46200001">
-   <path id="path2264" d="m 7,14 -3,0 c -1.5,0 -2,0.5 -2,2 l 0,1.00004 5,0 z" style="fill:#338dd6;fill-rule:evenodd"/>
+   <path id="path2264" d="m 7,14 -3,0 c -1.5,0 -2,0.5 -2,2 l 0,1.00004 5,0 z" style="fill:#4285f4;fill-rule:evenodd"/>
   </g>
   <use id="pressed-right" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,322.00001,0)" xlink:href="#pressed-left"/>
   <use id="pressed-bottomright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,322.00001,4.437909e-7)" xlink:href="#pressed-bottomleft"/>
