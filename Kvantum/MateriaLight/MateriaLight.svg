@@ -317,26 +317,22 @@
   <path id="menu-shadow-top0" d="m 17.5005,791 0,2.5 58,0 0,-2.5 z" style="opacity:0.2;fill:url(#linearGradient6754-0)"/>
  </g>
  <rect id="menu-shadow-hint-top" width="2.5" height="2.5" x="45.49" y="583" style="fill:#b74aff;stroke:none"/>
- <g id="g546" transform="translate(0,19.99994)" style="text-indent:0;stroke:none">
-  <g id="g548" style="fill:#dcdedf;fill-rule:evenodd">
-   <path id="header-normal-bottom" d="m 78.5,96.5 -6,0 0,6 6,0 z"/>
-   <path id="header-normal-bottomleft" d="m 84.5,96.5 -6,0 0,6 6,0 z"/>
-   <path id="header-normal-bottomright" d="m 90.5,96.5 -6,0 0,6 6,0 z"/>
-   <path id="header-normal-left" d="m 90.5,90.5 0,-6 -6,0 0,6 z"/>
-   <path id="header-normal-right" d="m 84.5,90.5 0,-6 -6,0 0,6 z"/>
-   <path id="header-normal-top" d="m 78.5,90.5 -6,0 0,6 6,0 z" style="fill:#ffffff"/>
-   <path id="header-normal-topright" d="m 84.5,90.5 -6,0 0,6 6,0 z"/>
-   <path id="header-normal-topleft" d="m 90.5,90.5 -6,0 0,6 6,0 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottom" d="m 78,116 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottomleft" d="m 84,116 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottomright" d="m 90,116 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;opacity:0.00100002;fill:#000000;fill-rule:evenodd;stroke:none" id="header-normal-left" d="m 90,110 v -6 h -6 v 6 z"/>
+ <path style="text-indent:0;opacity:0.00100002;fill:#000000;fill-rule:evenodd;stroke:none" id="header-normal-right" d="m 84,110 v -6 h -6 v 6 z"/>
+ <path id="header-normal-top" d="m 78,110 h -6 v 6 h 6 z" style="text-indent:0;fill:#dcdedf;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-topright" d="m 84,110 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-topleft" d="m 90,110 h -6 v 6 h 6 z"/>
+ <g style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke:none" id="g558" transform="translate(0,19.99994)">
+  <g style="fill-opacity:0.119" id="g560">
+   <path id="focus-bottomleft" d="m 192.5,101.5 h 2 v -2 h -2 z"/>
+   <path id="focus-bottomright" d="m 214.5,101.5 h 2 v -2 h -2 z"/>
   </g>
-  <g id="g558" style="color:#000000;line-height:normal;font-family:Sans;text-align:start;text-transform:none">
-   <g id="g560" style="fill-opacity:0.119">
-    <path id="focus-bottomleft" d="m 192.5,101.5 2,0 0,-2 -2,0 z"/>
-    <path id="focus-bottomright" d="m 214.5,101.5 2,0 0,-2 -2,0 z"/>
-   </g>
-   <g id="g564" style="fill:#dee0e1">
-    <path id="focus-topleft" d="m 192.5,79.5 2,0 0,-2 -2,0 z"/>
-    <path id="focus-topright" d="m 214.5,79.5 2,0 0,-2 -2,0 z"/>
-   </g>
+  <g style="fill:#dee0e1" id="g564">
+   <path id="focus-topleft" d="m 192.5,79.5 h 2 v -2 h -2 z"/>
+   <path id="focus-topright" d="m 214.5,79.5 h 2 v -2 h -2 z"/>
   </g>
  </g>
  <g id="focus-top" transform="translate(104.5,-10.00006)" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke:none">
@@ -351,7 +347,7 @@
  <use id="focus-right" width="100%" height="100%" x="0" y="0" transform="matrix(0,1,-1,0,313.99994,-95.00006)" xlink:href="#focus-top"/>
  <use id="focus-bottom" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,-1,409,218.99988)" xlink:href="#focus-top"/>
  <use id="focus-left" width="100%" height="100%" x="0" y="0" transform="matrix(0,-1,1,0,95.00006,313.99994)" xlink:href="#focus-top"/>
- <path id="header-normal" d="m 78.5,110.49994 0,-6 -6,0 0,6 z" style="fill:#ffffff;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal" d="m 78,110 v -6 h -6 v 6 z" style="fill:#ffffff;fill-rule:evenodd;stroke:none"/>
  <path id="header-pressed" d="m 146,104 h -6 v 6 h 6 z" style="fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
  <rect id="expand-combo-normal" width="10" height="10" x="10" y="20" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
  <g id="tabBarFrame-normal-bottom" transform="matrix(0,-1,0.66666667,0,-533.83334,876.0001)" style="stroke:none">
@@ -1265,4 +1261,5 @@
   <path style="fill:#9e9e9e;fill-opacity:1" id="path1860" d="m 155,1090 c -2.5,0 -4.5,1.638 -4.5,3.638 V 1101 h 4.5 z"/>
  </g>
  <path id="header-focused" d="m 107,104 h -6 v 6 h 6 z" style="opacity:1;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path style="fill:#dcdedf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="header-separator" d="m 72,110 v -6 h -6 v 6 z"/>
 </svg>

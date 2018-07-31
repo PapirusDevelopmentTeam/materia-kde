@@ -317,14 +317,6 @@
   <path id="menu-shadow-top0" d="m 17.5005,791 0,2.5 58,0 0,-2.5 z" style="opacity:0.2;fill:url(#linearGradient6754-0)"/>
  </g>
  <rect id="menu-shadow-hint-top" width="2.5" height="2.5" x="45.49" y="583" style="fill:#b74aff;stroke:none"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottom" d="m 78.5,116.49994 h -6 v 6 h 6 z"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottomleft" d="m 84.5,116.49994 h -6 v 6 h 6 z"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottomright" d="m 90.5,116.49994 h -6 v 6 h 6 z"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-left" d="m 90.5,110.49994 v -6 h -6 v 6 z"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-right" d="m 84.5,110.49994 v -6 h -6 v 6 z"/>
- <path style="text-indent:0;fill:#ffffff;fill-rule:evenodd;stroke:none" id="header-normal-top" d="m 78.5,110.49994 h -6 v 6 h 6 z"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-topright" d="m 84.5,110.49994 h -6 v 6 h 6 z"/>
- <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-topleft" d="m 90.5,110.49994 h -6 v 6 h 6 z"/>
  <g style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke:none" id="g558" transform="translate(0,19.99994)">
   <g style="fill-opacity:0.119" id="g560">
    <path id="focus-bottomleft" d="m 192.5,101.5 h 2 v -2 h -2 z"/>
@@ -347,7 +339,6 @@
  <use id="focus-right" width="100%" height="100%" x="0" y="0" transform="matrix(0,1,-1,0,313.99994,-95.00006)" xlink:href="#focus-top"/>
  <use id="focus-bottom" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,-1,409,218.99988)" xlink:href="#focus-top"/>
  <use id="focus-left" width="100%" height="100%" x="0" y="0" transform="matrix(0,-1,1,0,95.00006,313.99994)" xlink:href="#focus-top"/>
- <path id="header-normal" d="m 78.5,110.49994 0,-6 -6,0 0,6 z" style="fill:#ffffff;fill-rule:evenodd;stroke:none"/>
  <rect id="expand-combo-normal" width="10" height="10" x="10" y="20" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
  <g id="tabBarFrame-normal-bottom" transform="matrix(0,-1,0.66666667,0,-533.83334,876.0001)" style="stroke:none">
   <path id="path1767" d="m 174,921.5 -4,0 1.3e-4,-6 3.99987,0 z" style="fill-opacity:0;fill-rule:evenodd"/>
@@ -1325,4 +1316,14 @@
   <rect id="rect1884" width="8" height="8" x="25" y="317" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
   <rect id="rect1886" width="2" height="8" x="320" y="-33" transform="rotate(90)" style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
  </g>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottom" d="m 78,116 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottomleft" d="m 84,116 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-bottomright" d="m 90,116 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;opacity:0.00100002;fill:#000000;fill-rule:evenodd;stroke:none" id="header-normal-left" d="m 90,110 v -6 h -6 v 6 z"/>
+ <path style="text-indent:0;opacity:0.00100002;fill:#000000;fill-rule:evenodd;stroke:none" id="header-normal-right" d="m 84,110 v -6 h -6 v 6 z"/>
+ <path id="header-normal-top" d="m 78,110 h -6 v 6 h 6 z" style="text-indent:0;fill:#dcdedf;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-topright" d="m 84,110 h -6 v 6 h 6 z"/>
+ <path style="text-indent:0;fill:#dcdedf;fill-rule:evenodd;stroke:none" id="header-normal-topleft" d="m 90,110 h -6 v 6 h 6 z"/>
+ <path id="header-normal" d="m 78,110 v -6 h -6 v 6 z" style="fill:#ffffff;fill-rule:evenodd;stroke:none"/>
+ <path style="fill:#dcdedf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="header-separator" d="m 72,110 v -6 h -6 v 6 z"/>
 </svg>

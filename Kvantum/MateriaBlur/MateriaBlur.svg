@@ -314,14 +314,14 @@
   <path id="menu-shadow-top0" d="m 17.5005,791 0,2.5 58,0 0,-2.5 z" style="opacity:0.3;fill:url(#linearGradient6754-0)"/>
  </g>
  <rect id="menu-shadow-hint-top" width="2.5" height="2.5" x="45.49" y="491" style="fill:#b74aff;stroke:none"/>
- <path id="header-normal-bottom" d="m 78.5,103.5 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-bottomleft" d="m 84.5,103.5 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-bottomright" d="m 90.5,103.5 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-left" d="m 90.5,97.5 v -6 h -6 v 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-right" d="m 84.5,97.5 v -6 h -6 v 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-top" d="m 78.5,97.5 h -6 v 6 h 6 z" style="color:#000000;opacity:1;fill:#303030;fill-opacity:0.50980395;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-topright" d="m 84.5,97.5 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
- <path id="header-normal-topleft" d="m 90.5,97.5 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-bottom" d="m 78,104 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-bottomleft" d="m 84,104 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-bottomright" d="m 90,104 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-left" d="m 90,98 v -6 h -6 v 6 z" style="color:#000000;opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-right" d="m 84,98 v -6 h -6 v 6 z" style="color:#000000;opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-top" d="m 78,98 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-topright" d="m 84,98 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+ <path id="header-normal-topleft" d="m 90,98 h -6 v 6 h 6 z" style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
  <g style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#565b5e;fill-opacity:0.78399999;stroke:none" id="g495" transform="translate(0,7)">
   <path id="focus-bottomleft" d="m 192.5,101.5 h 2 v -2 h -2 z"/>
   <path id="focus-bottomright" d="m 214.5,101.5 h 2 v -2 h -2 z"/>
@@ -340,7 +340,7 @@
  <use id="focus-right" width="100%" height="100%" x="0" y="0" transform="matrix(0,1,-1,0,301,-108)" xlink:href="#focus-top"/>
  <use id="focus-bottom" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,-1,409,193)" xlink:href="#focus-top"/>
  <use id="focus-left" width="100%" height="100%" x="0" y="0" transform="matrix(0,-1,1,0,108,301)" xlink:href="#focus-top"/>
- <path id="header-normal" d="m 78.5,97.5 0,-6 -6,0 0,6 z" style="fill:#303030;fill-rule:evenodd;stroke:none;fill-opacity:0.50980395;opacity:1"/>
+ <path id="header-normal" d="m 78,98 v -6 h -6 v 6 z" style="opacity:1;fill:#303030;fill-opacity:0.50980386;fill-rule:evenodd;stroke:none"/>
  <path id="header-pressed" d="m 146,92 h -6 v 6 h 6 z" style="opacity:0.03;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
  <rect id="expand-combo-normal" width="10" height="10" x="10" y="7" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
  <g id="tabBarFrame-normal-bottom" transform="matrix(0,-1,0.66666667,0,-533.83334,784)" style="stroke:none">
@@ -1261,4 +1261,5 @@
  <g id="common-normal-bottomright" transform="translate(-353,493.97125)">
   <path id="path7608" class="ColorScheme-Text" d="m 650.99998,412.02609 c 1.10161,0 0.99736,0.10447 0.99736,-0.99735 h -0.99736 z" style="color:#31363b;opacity:0.9;fill:#1e1e1e;fill-opacity:1;stroke:none"/>
  </g>
+ <path style="color:#000000;opacity:0.9;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none" id="header-separator" d="m 72,92 h -6 v 6 h 6 z"/>
 </svg>
