@@ -63,6 +63,8 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
+- Set tree menu view for systemsettings
+
 - On systemsettings set **Noto Sans** font for title, menu and toolbar
 
 - For better looking use toolbar icons without text with 22px size (for Papirus themes)
