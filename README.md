@@ -59,13 +59,26 @@ Packages in this section are not part of the official repositories. If you have 
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
 
-  Run `kvantummanager` to choose and apply **Materia** or **Materia Dark** or **Materia Light** theme.
+  Run `kvantummanager` to choose and apply **Materia's** theme.
 
 - Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
 - On systemsettings set **Noto Sans** font for title, menu and toolbar
 
 - For better looking use toolbar icons without text with 22px size (for Papirus themes)
+
+- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings. 
+
+- Recommend software for better looking with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, Clementine Qt5, Octopi, Konsole, Yakuake
+
+## Known issues
+
+- Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
+
+- On some propietary video drivers Aurorae have wrong rendering by default with Adapta theme. See more info [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/21)
+
+- On Materia Blur with enabled blur effect possible some bugs with decoration shadows on aurorae and yakuake skin. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725) 
+
 
 
 ## Donate
