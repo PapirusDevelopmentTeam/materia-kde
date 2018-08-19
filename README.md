@@ -72,7 +72,9 @@ Packages in this section are not part of the official repositories. If you have 
 
 - For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings. 
 
-- Recommend software for better looking with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, Clementine Qt5, Octopi, Konsole, Yakuake
+- Recommend software for better looking with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, SMPlayer, bomi, Clementine Qt5, Nulloy Player, Cantata, QOMP, Octopi, Konsole, Yakuake
+
+some [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/tree/master/screens) with Materia Blur
 
 ## Known issues
 
