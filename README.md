@@ -70,11 +70,11 @@ Packages in this section are not part of the official repositories. If you have 
 
 - For better looking use toolbar icons without text with 22px size (for Papirus themes)
 
-- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings. 
+- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings.
 
-- Recommend software for better looking with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, SMPlayer, bomi, Clementine Qt5, Nulloy Player, Cantata, QOMP, Octopi, Konsole, Yakuake
+- Recommended software for better experience with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, SMPlayer, bomi, Clementine Qt5, Nulloy Player, Cantata, QOMP, Octopi, Konsole, Yakuake
 
-some [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/tree/master/screens) with Materia Blur
+  See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
 
 ## Known issues
 
@@ -82,7 +82,7 @@ some [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/tree/ma
 
 - On some propietary video drivers Aurorae have wrong rendering by default with Adapta theme. See more info [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/21)
 
-- On Materia Blur with enabled blur effect possible some bugs with decoration shadows on aurorae and yakuake skin. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725) 
+- On Materia Blur with enabled blur effect possible some bugs with decoration shadows on aurorae and yakuake skin. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
 
 ## Donate
 
