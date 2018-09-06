@@ -37,7 +37,7 @@ merge_menubar_with_toolbar=true
 small_icon_size=16
 large_icon_size=32
 button_icon_size=16
-toolbar_icon_size=22
+toolbar_icon_size=16
 combo_as_lineedit=true
 animate_states=true
 button_contents_shift=false
@@ -61,6 +61,8 @@ reduce_window_opacity=0
 respect_DE=true
 scrollable_menu=false
 submenu_delay=250
+no_inactiveness=false
+reduce_menu_opacity=0
 
 [GeneralColors]
 window.color=#eeeeee
@@ -95,7 +97,7 @@ force_size_grip=true
 iconless_pushbutton=true
 iconless_menu=false
 disabled_icon_opacity=100
-lxqtmainmenu_iconsize=22
+lxqtmainmenu_iconsize=16
 normal_default_pushbutton=true
 single_top_toolbar=true
 tint_on_mouseover=0
@@ -103,6 +105,7 @@ transparent_pcmanfm_view=false
 no_selection_tint=true
 transparent_arrow_button=false
 middle_click_scroll=false
+opaque_colors=false
 
 [PanelButtonCommand]
 frame=true

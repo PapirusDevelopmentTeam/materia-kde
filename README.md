@@ -68,7 +68,7 @@ Packages in this section are not part of the official repositories. If you have 
 
 - On systemsettings set **Noto Sans** font for title, menu and toolbar
 
-- For better looking use toolbar icons without text with 22px size (for Papirus themes)
+- For better looking use toolbar icons without text with 16px size (for Papirus themes)
 
 - For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings.
 
