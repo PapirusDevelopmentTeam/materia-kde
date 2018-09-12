@@ -76,6 +76,19 @@ Packages in this section are not part of the official repositories. If you have 
 
   See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
 
+## Hacks for small scrren resolution
+
+- Install widgets [Active Window Control](https://github.com/kotelnik/plasma-applet-active-window-control) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
+- Disable window buttons & titlebar on decoration:
+
+open rc-file on aurorae theme and set:
+```
+ButtonHeight=0
+ButtonWidth=0
+TitleHeight=0
+```
+- Use [GTK3-noCSD](https://github.com/PCMan/gtk3-nocsd) script 
+
 ## Known issues
 
 - Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
