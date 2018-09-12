@@ -76,7 +76,7 @@ Packages in this section are not part of the official repositories. If you have 
 
   See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
 
-## Hacks for small scrren resolution
+## Hacks for small screen resolution
 
 - Install widgets [Active Window Control](https://github.com/kotelnik/plasma-applet-active-window-control) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
 - Disable window buttons & titlebar on decoration:
