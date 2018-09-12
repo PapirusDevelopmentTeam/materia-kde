@@ -86,6 +86,7 @@ open rc-file on aurorae theme and set:
 ButtonHeight=0
 ButtonWidth=0
 TitleHeight=0
+TitleEdgeTop=0
 ```
 - Use [GTK3-noCSD](https://github.com/PCMan/gtk3-nocsd) script 
 
