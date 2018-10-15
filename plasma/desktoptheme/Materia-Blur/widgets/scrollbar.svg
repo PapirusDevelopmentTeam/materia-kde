@@ -67,38 +67,38 @@
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3876" width="1" height="4" x="38" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,397)"/>
    <path style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.001" id="path3915-5" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
-  <rect style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1" id="sunken-slider-center" class="ColorScheme-ButtonHover" width="1" height="10" x="24" y="64"/>
+  <rect style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="sunken-slider-center" class="ColorScheme-ButtonHover" width="1" height="10" x="24" y="64"/>
   <g id="sunken-slider-right" transform="matrix(0.75,0,0,1,19.25,57)">
-   <path id="rect3838-4-8" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z" style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+   <path id="rect3838-4-8" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z" style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3924" width="1" height="10" x="29" y="64" transform="matrix(1.3333333,0,0,1,-25.666667,-57)"/>
   </g>
   <g id="sunken-slider-topright" transform="matrix(0.75,0,0,0.75,19.25,57.75)">
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3920" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
-   <path id="rect3840-2-9" class="ColorScheme-ButtonHover" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z" style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+   <path id="rect3840-2-9" class="ColorScheme-ButtonHover" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z" style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
   </g>
   <g id="sunken-slider-bottomright" transform="matrix(0.75,0,0,0.75,19.25,62.25)">
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3930" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
-   <path style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3871-1-7" class="ColorScheme-ButtonHover" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <path style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3871-1-7" class="ColorScheme-ButtonHover" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="sunken-slider-left" transform="matrix(-0.75,0,0,1,29.75,57)">
-   <path style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3891-9-4" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <path style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3891-9-4" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3922" width="1" height="10" x="19" y="64" transform="matrix(-1.3333333,0,0,1,39.666667,-57)"/>
   </g>
   <g id="sunken-slider-topleft" transform="matrix(-0.75,0,0,0.75,29.75,57.75)">
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3916" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
-   <path style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3895-2-1" class="ColorScheme-ButtonHover" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <path style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3895-2-1" class="ColorScheme-ButtonHover" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="sunken-slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.75,62.25)">
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3926" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
-   <path id="path3901-9-9" class="ColorScheme-ButtonHover" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z" style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+   <path id="path3901-9-9" class="ColorScheme-ButtonHover" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z" style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
   </g>
   <g id="sunken-slider-top" transform="matrix(0,-0.75,-0.1,0,25.7,69.75)">
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3918" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
-   <path id="path3909-6-1" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z" style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+   <path id="path3909-6-1" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z" style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
   </g>
   <g id="sunken-slider-bottom" transform="matrix(0,0.75,-0.1,0,25.7,68.25)">
    <rect style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" id="rect3928" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
-   <path style="fill:#d3dae3;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3915-6-3" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <path style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;fill-opacity:1" id="path3915-6-3" class="ColorScheme-ButtonHover" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
   <rect id="mouseover-slider-center" class="ColorScheme-ButtonHover" width="1" height="10" x="24" y="42" style="fill:#c1c1c1;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"/>
   <g id="mouseover-slider-right" transform="matrix(0.75,0,0,1,19.250001,35)">

@@ -7,6 +7,6 @@
  </g>
  <g id="22-22-manjaro-settings-manager" transform="translate(27,5)">
   <rect id="rect4532" width="22" height="22" x="5" y="5" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.10755777;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path style="fill:#d3dae3;fill-opacity:1" id="path4534" d="M 9.75,9 C 9.3345,9 9,9.3345 9,9.75 v 12.5 C 9,22.6655 9.352874,22.877807 9.75,23 H 13 V 13 h 5 V 9 Z M 19,9 v 14 h 3.25 C 22.6655,23 23,22.6655 23,22.25 V 9.75 C 23,9.3345 22.6655,9 22.25,9 Z m -5,5 v 9 h 4 v -9 z"/>
+  <path style="fill:#dfdfdf;fill-opacity:1" id="path4534" d="M 9.75,9 C 9.3345,9 9,9.3345 9,9.75 v 12.5 C 9,22.6655 9.352874,22.877807 9.75,23 H 13 V 13 h 5 V 9 Z M 19,9 v 14 h 3.25 C 22.6655,23 23,22.6655 23,22.25 V 9.75 C 23,9.3345 22.6655,9 22.25,9 Z m -5,5 v 9 h 4 v -9 z"/>
  </g>
 </svg>

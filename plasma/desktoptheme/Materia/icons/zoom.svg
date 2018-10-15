@@ -6,15 +6,15 @@
  </defs>
  <g id="16-16-zoom-fit-width" transform="translate(-435.0002,43)" style="enable-background:new">
   <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" width="16" height="16" x="489" y="-59"/>
-  <path style="fill:#d3dae3" d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 v -2.000001 h 6 v 2.000001 l 4,-3.000001 -4,-2.999999 v 2.000001 h -6 z"/>
+  <path style="fill:#dfdfdf" d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 v -2.000001 h 6 v 2.000001 l 4,-3.000001 -4,-2.999999 v 2.000001 h -6 z"/>
  </g>
  <g id="16-16-zoom-fit-height" transform="rotate(90,242,-231)" style="enable-background:new">
   <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" width="16" height="16" x="489" y="-59"/>
-  <path style="fill:#d3dae3" d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 v -2.000001 h 6 v 2.000001 l 4,-3.000001 -4,-2.999999 v 2.000001 h -6 z"/>
+  <path style="fill:#dfdfdf" d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 v -2.000001 h 6 v 2.000001 l 4,-3.000001 -4,-2.999999 v 2.000001 h -6 z"/>
  </g>
  <g style="enable-background:new" id="22-22-zoom-fit-width" transform="translate(-433,43)">
   <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:#d3dae3" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+  <path style="fill:#dfdfdf" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
  <g style="enable-background:new" id="zoom-fit-width" transform="translate(0,-32)">
   <rect width="32" height="32" x="0" y="0" style="opacity:0.00100002"/>
@@ -31,7 +31,7 @@
  </g>
  <g id="22-22-zoom-fit-height" transform="rotate(90,222,-233)" style="enable-background:new">
   <rect width="22" height="22" x="465" y="-65" style="opacity:0;fill:#0000ff;fill-rule:evenodd"/>
-  <path d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z" style="fill:#d3dae3"/>
+  <path d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z" style="fill:#dfdfdf"/>
  </g>
  <g id="zoom-fit-height" transform="translate(0,32)">
   <rect style="opacity:0.00100002" width="32" height="32" x="-32" y="-32" transform="rotate(90)"/>

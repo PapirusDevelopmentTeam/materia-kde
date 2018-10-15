@@ -80,15 +80,16 @@ Color=78,78,78
 Color=255,255,255
 
 [Foreground]
-Color=92,97,108
+Color=68,68,68
 
 [ForegroundFaint]
-Color=92,97,108
+Color=68,68,68
 
 [ForegroundIntense]
 Color=86,86,86
 
 [General]
+Blur=false
 Description=Materia
 Opacity=1
 Wallpaper=

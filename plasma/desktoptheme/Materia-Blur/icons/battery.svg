@@ -1,47 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1" viewBox="0 0 32 32">
  <g id="22-22-battery-ups" transform="translate(255.46001,-426.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="192.54" y="404.5"/>
-  <path style="fill:#d3dae3" d="m 197.53573,408.50504 v 15 h 12 v -15 c 0.0768,-1.06936 -1,-1 -1,-1 h -10 c 0,0 -1,-0.004 -1,1 z m 6,1 v 3 h 2 l -2,5 v -3 h -2 z m -4,10 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"/>
+  <path style="fill:#dfdfdf" d="m 197.53573,408.50504 v 15 h 12 v -15 c 0.0768,-1.06936 -1,-1 -1,-1 h -10 c 0,0 -1,-0.004 -1,1 z m 6,1 v 3 h 2 l -2,5 v -3 h -2 z m -4,10 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"/>
  </g>
  <g id="22-22-Battery" transform="translate(-214.53999,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3" d="m 219.53573,401.50505 h 3 6 3 v -3 -11 -1 h -3 -0.99999 v -0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -3 c -0.277,0 -0.5,0.777 -0.5,0.5 v 0.5 h -1.00001 -3 v 1 12 z m 2,-2 v -11 h 2.50001 3 2.49999 v 11 z"/>
+  <path style="fill:#dfdfdf" d="m 219.53573,401.50505 h 3 6 3 v -3 -11 -1 h -3 -0.99999 v -0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -3 c -0.277,0 -0.5,0.777 -0.5,0.5 v 0.5 h -1.00001 -3 v 1 12 z m 2,-2 v -11 h 2.50001 3 2.49999 v 11 z"/>
  </g>
  <g id="22-22-Fill100" transform="translate(-182.53999,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -13 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -13 h 10 z"/>
  </g>
  <g id="22-22-Fill90" transform="translate(-150.53999,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -11 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -11 h 10 z"/>
  </g>
  <g id="22-22-Fill80" transform="translate(-118.53999,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -10 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -10 h 10 z"/>
  </g>
  <g id="22-22-Fill70" transform="translate(-86.539993,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -9 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -9 h 10 z"/>
  </g>
  <g id="22-22-Fill60" transform="translate(-54.539993,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -8 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -8 h 10 z"/>
  </g>
  <g id="22-22-Fill50" transform="translate(-22.539993,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -7 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -7 h 10 z"/>
  </g>
  <g id="22-22-Fill40" transform="translate(9.4600067,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -6 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -6 h 10 z"/>
  </g>
  <g id="22-22-Fill30" transform="translate(41.460007,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53574,400.50504 h -10 v -5 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53574,400.50504 h -10 v -5 h 10 z"/>
  </g>
  <g id="22-22-Fill20" transform="translate(73.460007,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#d3dae3;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -4 h 10 z"/>
+  <path style="fill:#dfdfdf;fill-rule:evenodd" d="m 230.53575,400.50504 h -10 v -4 h 10 z"/>
  </g>
  <g id="22-22-Fill10" transform="translate(105.46001,-404.5)">
   <rect style="opacity:0.00100002" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>

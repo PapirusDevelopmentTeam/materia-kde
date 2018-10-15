@@ -360,49 +360,49 @@
  </g>
  <g id="tooltip-shadow-top" transform="translate(354,-246.00012)" style="fill-rule:evenodd;stroke:none">
   <path id="path4959" d="m 17.5005,877 0,3 58,0 0,-3 z" style="opacity:0.3;fill:url(#linearGradient4963)"/>
-  <path id="path4961" d="m 17.5,879 0,3 58,0 0,-3 z" style="fill:#eeeeee;fill-opacity:1"/>
+  <path id="path4961" d="m 17.5,879 0,3 58,0 0,-3 z" style="fill:#f2f2f2;fill-opacity:1"/>
  </g>
  <use id="tooltip-shadow-hint-top" width="100%" height="100%" x="0" y="0" transform="matrix(1,0,0,0.8,354,164.59997)" xlink:href="#menu-shadow-hint-top"/>
- <path id="tooltip-normal-left" d="m 371.5,708.99958 4.9999,3e-4 0,48 -4.9999,-3e-4 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-topleft" d="m 376.5,703.99978 -4.9989,3e-4 -0.001,5 4.9999,0 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-top" d="m 424.5,703.99988 -3e-4,4.9999 -48,0 3e-4,-4.9999 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-topright" d="m 429.5,708.99988 -3e-4,-4.9989 -5,-10e-4 0,4.9999 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-right" d="m 429.4998,708.99918 -4.9999,3e-4 0,48 4.9999,-3e-4 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-bottomright" d="m 424.4998,761.99988 4.9989,-3e-4 0.001,-5 -4.9999,0 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-bottom" d="m 376.50075,761.99908 3e-4,-4.9999 48,0 -3e-4,4.9999 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <path id="tooltip-normal-bottomleft" d="m 371.5005,756.99908 3e-4,4.9989 5,10e-4 0,-4.9999 z" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
- <rect id="tooltip-normal" width="48" height="48" x="376.5" y="709" style="fill:#eeeeee;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"/>
+ <path id="tooltip-normal-left" d="m 371.5,708.99958 4.9999,3e-4 0,48 -4.9999,-3e-4 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-topleft" d="m 376.5,703.99978 -4.9989,3e-4 -0.001,5 4.9999,0 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-top" d="m 424.5,703.99988 -3e-4,4.9999 -48,0 3e-4,-4.9999 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-topright" d="m 429.5,708.99988 -3e-4,-4.9989 -5,-10e-4 0,4.9999 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-right" d="m 429.4998,708.99918 -4.9999,3e-4 0,48 4.9999,-3e-4 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-bottomright" d="m 424.4998,761.99988 4.9989,-3e-4 0.001,-5 -4.9999,0 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-bottom" d="m 376.50075,761.99908 3e-4,-4.9999 48,0 -3e-4,4.9999 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <path id="tooltip-normal-bottomleft" d="m 371.5005,756.99908 3e-4,4.9989 5,10e-4 0,-4.9999 z" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;fill-opacity:1"/>
+ <rect id="tooltip-normal" width="48" height="48" x="376.5" y="709" style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"/>
  <g id="tooltip-shadow-left" transform="translate(354,-246.00012)" style="fill-rule:evenodd;stroke:none">
   <path id="tooltip-shadow-left0" d="m 12.5005,882 0,60 4.9999,0 0,-60 z" style="opacity:0.4;fill:url(#linearGradient4953)"/>
-  <path id="path4968" d="m 14.5,882 0,60 3,0 0,-60 z" style="fill:#eeeeee;fill-opacity:1"/>
+  <path id="path4968" d="m 14.5,882 0,60 3,0 0,-60 z" style="fill:#f2f2f2;fill-opacity:1"/>
  </g>
  <use id="tooltip-shadow-hint-left" width="100%" height="100%" x="0" y="0" transform="matrix(0.39992103,0,0,1,361.50126,48)" xlink:href="#menu-shadow-hint-left"/>
  <g id="tooltip-shadow-right" transform="translate(354,-246.00012)" style="fill-rule:evenodd;stroke:none">
   <path id="tooltip-shadow-right0" d="m 75.5003,882 0,60 5.0001,0 0,-60 z" style="opacity:0.47999998;fill:url(#linearGradient4957)"/>
-  <path id="path4982" d="m 75.5003,882 0,60 1.9997,0 0,-60 z" style="fill:#eeeeee;fill-opacity:1"/>
+  <path id="path4982" d="m 75.5003,882 0,60 1.9997,0 0,-60 z" style="fill:#f2f2f2;fill-opacity:1"/>
  </g>
  <use id="tooltip-shadow-hint-right" width="100%" height="100%" x="0" y="0" transform="matrix(0.60007448,0,0,1,386.1942,48)" xlink:href="#menu-shadow-hint-right"/>
  <g id="tooltip-shadow-bottom" transform="translate(354,-246.00012)" style="fill-rule:evenodd;stroke:none">
   <path id="tooltip-shadow-bottom0" d="m 17.5005,941.9999 0,5.0001 58,0 0,-5.0001 z" style="opacity:0.57999998;fill:url(#linearGradient4945)"/>
-  <path id="path4990" d="m 17.5,942 0,2 58,0 0,-2 z" style="fill:#eeeeee;fill-opacity:1"/>
+  <path id="path4990" d="m 17.5,942 0,2 58,0 0,-2 z" style="fill:#f2f2f2;fill-opacity:1"/>
  </g>
  <use id="tooltip-shadow-hint-bottom" width="100%" height="100%" x="0" y="0" transform="matrix(1,0,0,0.60000008,354,309.19991)" xlink:href="#menu-shadow-hint-bottom"/>
  <g id="g623" transform="translate(-4.1306152e-7,-208.00012)" style="fill-rule:evenodd;stroke:none">
   <g id="tooltip-shadow-topleft" transform="translate(354,-38)">
    <path id="tooltip-shadow-topleft0" d="m 12.50035,877 1e-4,5 4.9999,-10e-5 0,-4.9999 z" style="opacity:0.28000004;fill:url(#radialGradient4966)"/>
-   <path id="path4998" d="m 14.5,879 6e-5,3 3.00029,-6e-5 0,-2.99994 z" style="fill:#eeeeee;fill-opacity:1"/>
+   <path id="path4998" d="m 14.5,879 6e-5,3 3.00029,-6e-5 0,-2.99994 z" style="fill:#f2f2f2;fill-opacity:1"/>
   </g>
   <g id="tooltip-shadow-topright" transform="translate(354,-38)">
    <path id="tooltip-shadow-topright0" d="m 75.5005,877 0,5 4.9999,0 1e-4,-5 z" style="opacity:0.43000004;fill:url(#radialGradient4962)"/>
-   <path id="path5004" d="m 75.5005,879 0,3 1.9995,0 0,-3 z" style="fill:#eeeeee;fill-opacity:1"/>
+   <path id="path5004" d="m 75.5005,879 0,3 1.9995,0 0,-3 z" style="fill:#f2f2f2;fill-opacity:1"/>
   </g>
   <g id="tooltip-shadow-bottomleft" transform="translate(354,-38)">
    <path id="tooltip-shadow-bottomleft0" d="m 12.50045,942 0,5 5,0 -5e-4,-5 z" style="opacity:0.47999998;fill:url(#radialGradient4949)"/>
-   <path id="path5010" d="m 14.5,942 0,2 3.00045,0 -3e-4,-2 z" style="fill:#eeeeee;fill-opacity:1"/>
+   <path id="path5010" d="m 14.5,942 0,2 3.00045,0 -3e-4,-2 z" style="fill:#f2f2f2;fill-opacity:1"/>
   </g>
   <g id="tooltip-shadow-bottomright" transform="translate(354,-38)">
    <path id="tooltip-shadow-bottomright0" d="m 75.50045,942 3e-4,5 4.9997,0 0,-5 z" style="opacity:0.47999998;fill:url(#radialGradient4940)"/>
-   <path id="path5016" d="m 75.5005,942 1e-4,2 1.9994,0 0,-2 z" style="fill:#eeeeee;fill-opacity:1"/>
+   <path id="path5016" d="m 75.5005,942 1e-4,2 1.9994,0 0,-2 z" style="fill:#f2f2f2;fill-opacity:1"/>
   </g>
  </g>
  <g id="button-normal-left" transform="translate(-46,19.99994)" style="stroke:none">
@@ -458,9 +458,9 @@
   </g>
  </g>
  <use id="button-normal-topright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,45.999954,0)" xlink:href="#button-normal-topleft"/>
- <rect id="lineedit-normal" width="10" height="10" x="322.5" y="115" style="text-indent:0;fill:#eeeeee;stroke:none;stroke-width:1.15499997"/>
+ <rect id="lineedit-normal" width="10" height="10" x="322.5" y="115" style="text-indent:0;fill:#f2f2f2;stroke:none;stroke-width:1.15499997"/>
  <path id="combo-pressed-bottom" d="m 415.5,130.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#4285f4;stroke:none;stroke-width:0.88800001"/>
- <rect id="combo-normal" width="10" height="10" x="416.5" y="101.5" style="text-indent:0;fill:#eeeeee;stroke:none;stroke-width:1.15499997"/>
+ <rect id="combo-normal" width="10" height="10" x="416.5" y="101.5" style="text-indent:0;fill:#f2f2f2;stroke:none;stroke-width:1.15499997"/>
  <path id="combo-normal-bottom" d="m 415.5,116.99994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#dcdedf;stroke:none;stroke-width:0.88800001"/>
  <path id="combo-focused-bottom" d="m 415.5,127.49994 32,0 0,-3 -32,0 z" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:#a6abae;stroke:none;stroke-width:0.88800001"/>
  <g id="g714" transform="translate(0,19.99994)" style="text-indent:0;stroke:none;stroke-width:1.13100004">
@@ -638,7 +638,7 @@
  </g>
  <g id="mdi-close-normal" transform="translate(-37,-83.03012)">
   <rect id="rect5239" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5210" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#5c616c;opacity:1;fill:#414c52;fill-opacity:1"/>
+  <path id="path5210" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#444444;opacity:1;fill:#414c52;fill-opacity:1"/>
  </g>
  <g id="mdi-minimize-normal" transform="translate(-37,-83.03012)">
   <rect id="rect5241" width="16" height="16" x="72" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
@@ -654,7 +654,7 @@
  </g>
  <g id="mdi-close-focused" transform="translate(-37,-66.03012)">
   <rect id="rect5286" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5288" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#5c616c;opacity:1;fill:#f04a50;fill-opacity:1"/>
+  <path id="path5288" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#444444;opacity:1;fill:#f04a50;fill-opacity:1"/>
  </g>
  <g id="mdi-minimize-focused" transform="translate(-37,-66.03012)">
   <rect id="rect5292" width="16" height="16" x="72" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
@@ -670,7 +670,7 @@
  </g>
  <g id="mdi-close-pressed" transform="translate(-37,-49.03012)">
   <rect id="rect5311" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5313" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#5c616c;opacity:1;fill:#4285f4;fill-opacity:1"/>
+  <path id="path5313" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#444444;opacity:1;fill:#4285f4;fill-opacity:1"/>
  </g>
  <g id="mdi-minimize-pressed" transform="translate(-37,-49.03012)">
   <rect id="rect5317" width="16" height="16" x="72" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
@@ -686,7 +686,7 @@
  </g>
  <g id="mdi-close-disabled" transform="translate(-37,-32.03012)">
   <rect id="rect5335" width="16" height="16" x="54" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
-  <path id="path5337" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#5c616c;opacity:0.3;fill:#414c52;fill-opacity:1"/>
+  <path id="path5337" class="ColorScheme-Text" d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z" style="color:#444444;opacity:0.3;fill:#414c52;fill-opacity:1"/>
  </g>
  <g id="mdi-minimize-disabled" transform="translate(-37,-32.03012)">
   <rect id="rect5341" width="16" height="16" x="72" y="428.03" style="opacity:0.00100002;fill:#000000;fill-opacity:1"/>
@@ -1190,7 +1190,7 @@
  <g id="slidercursor-disabled" transform="translate(0,70)">
   <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" id="rect2013" width="20" height="20" x="331" y="404"/>
   <path style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:0.875;stroke-miterlimit:4;stroke-dasharray:none" id="path2030" d="m 341,407 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z"/>
-  <path style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.875;stroke-miterlimit:4;stroke-dasharray:none" id="circle2015" d="m 341,409 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z"/>
+  <path style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.875;stroke-miterlimit:4;stroke-dasharray:none" id="circle2015" d="m 341,409 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z"/>
  </g>
  <g style="fill-rule:evenodd;stroke:none" id="scrollbarslider-normal-topleft" transform="translate(-132,-185.00002)">
   <path style="fill:#969696;fill-opacity:0" id="scrollbarslider-normal-topleft0-9" d="m 155,1089 c -6.648,0 -12,5.3521 -12,12 h 12 z"/>
