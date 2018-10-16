@@ -98,6 +98,15 @@ TitleEdgeTop=0
 
 - On Materia Blur with enabled blur effect possible some bugs with decoration shadows on aurorae and yakuake skin. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
 
+
+## Fixes for Materia & Materia Light GTK3 Themes
+
+For better compatibility with Qt-apps we recommend change symbolic icons colors for GTK3-apps on Materia GTK and Materia Light GTK themes:
+```
+sudo sh -c "sed -i.orig s/0\,\ 0\,\ 0\,\ 0\.54/0\,\ 0\,\ 0\,\ 0\.73/g /usr/share/themes/Materia/gtk-3.22/gtk.css"
+sudo sh -c "sed -i.orig s/0\,\ 0\,\ 0\,\ 0\.54/0\,\ 0\,\ 0\,\ 0\.73/g /usr/share/themes/Materia-light/gtk-3.22/gtk.css"
+```
+
 ## Donate
 
 If you like my project, you can donate at:
