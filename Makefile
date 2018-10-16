@@ -28,7 +28,6 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia-Blur
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia
-	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-dark
 
 _get_version:
