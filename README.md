@@ -94,7 +94,7 @@ TitleEdgeTop=0
 
 - Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
 
-- On some propietary video drivers Aurorae have wrong rendering by default with Adapta theme. See more info [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/21)
+- On some propietary video drivers Aurorae have wrong rendering by default with Materia theme. See more info [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/21)
 
 - On Materia Blur with enabled blur effect possible some bugs with decoration shadows on aurorae and yakuake skin. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
 
