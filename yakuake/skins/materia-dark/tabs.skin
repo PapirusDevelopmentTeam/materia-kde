@@ -13,6 +13,9 @@ green=223
 blue=223
 selected_background=/tabs/tab_selected.svg
 unselected_background=/tabs/tab_unselected.svg
+prevent_closing_image=/tabs/lock.svg
+prevent_closing_image_x=0
+prevent_closing_image_y=9
 
 [Background]
 back_image=/tabs/background_center.svg
