@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg8" width="7" height="34" version="1.1" viewBox="0 0 7 34">
+ <defs id="defs2">
+  <linearGradient id="linearGradient831">
+   <stop style="stop-color:#000000;stop-opacity:1" id="stop827" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" id="stop829" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient843" cx="6" cy="305.444" r="3" fx="6" fy="305.444" gradientTransform="matrix(-2.3333334,8.2688579e-6,-1.2862565e-5,-2.6666453,21.003929,1118.9538)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-278.44374)">
+  <g id="g883" transform="matrix(-1,0,0,1,7,0)">
+   <rect id="rect839" width="7" height="8" x="0" y="304.44" style="opacity:0.4;fill:url(#radialGradient843);fill-opacity:1;stroke:none;stroke-width:1.33333099;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+   <path id="path857" d="m 0,0 v 26 c 0,1.662 1.338,3 3,3 H 7 V 0 Z" transform="translate(0,278.44374)" style="opacity:1;fill:#383838;fill-opacity:1;stroke:none;stroke-width:2.31785083;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  </g>
+ </g>
+</svg>
