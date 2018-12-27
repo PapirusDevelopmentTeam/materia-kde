@@ -264,6 +264,7 @@ text.margin.top=2
 text.margin.bottom=2
 frame.element=tab
 indicator.element=tab
+indicator.size=22
 frame.top=2
 frame.bottom=2
 frame.left=2
