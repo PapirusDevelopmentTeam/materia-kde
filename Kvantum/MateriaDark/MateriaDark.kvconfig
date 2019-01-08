@@ -18,8 +18,9 @@ scroll_width=9
 scroll_arrows=false
 scroll_min_extent=60
 slider_width=2
-slider_handle_width=22
+slider_handle_width=23
 slider_handle_length=22
+tickless_slider_handle_size=22
 center_toolbar_handle=true
 check_size=14
 textless_progressbar=false
@@ -389,6 +390,7 @@ frame.top=5
 frame.bottom=5
 indicator.element=grip
 indicator.size=12
+
 
 [ScrollbarGroove]
 inherits=PanelButtonCommand
