@@ -22,7 +22,7 @@ slider_handle_width=23
 slider_handle_length=22
 tickless_slider_handle_size=22
 center_toolbar_handle=true
-check_size=14
+check_size=16
 textless_progressbar=false
 progressbar_thickness=2
 menubar_mouse_tracking=true
@@ -74,8 +74,8 @@ light.color=#47535a
 mid.light.color=#313131
 dark.color=black
 mid.color=#191919
-highlight.color=#4285f4
-inactive.highlight.color=#4285f4
+highlight.color=#4285f452
+inactive.highlight.color=#4285f474
 text.color=#dfdfdf
 window.text.color=#dfdfdf
 button.text.color=#dfdfdf
@@ -111,10 +111,10 @@ opaque_colors=false
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=6
+frame.bottom=10
+frame.left=7
+frame.right=7
 interior=true
 interior.element=button
 indicator.size=8
@@ -127,12 +127,10 @@ text.margin=1
 text.iconspacing=4
 indicator.element=arrow
 text.margin.top=2
-text.margin.bottom=4
+text.margin.bottom=3
 text.margin.left=2
 text.margin.right=2
-min_width=+0.3font
-min_height=+0.3font
-frame.expansion=14
+frame.expansion=0
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -140,6 +138,7 @@ text.normal.color=#dfdfdf
 text.bold=false
 indicator.element=arrow
 indicator.size=0
+frame.expansion=34
 
 [ToolbarButton]
 frame.element=tbutton
@@ -150,6 +149,7 @@ text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.bold=false
+frame.expansion=34
 
 [Dock]
 inherits=PanelButtonCommand
@@ -207,11 +207,11 @@ min_height=+0.3font
 inherits=PanelButtonCommand
 frame=true
 frame.element=focus
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
-frame.patternsize=20
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+frame.patternsize=14
 
 [GenericFrame]
 inherits=PanelButtonCommand
@@ -392,7 +392,6 @@ frame.bottom=5
 indicator.element=grip
 indicator.size=12
 
-
 [ScrollbarGroove]
 inherits=PanelButtonCommand
 interior=false
@@ -415,8 +414,6 @@ frame.bottom=0
 frame.left=0
 frame.right=0
 text.bold=false
-min_width=+0.3font
-min_height=+0.3font
 frame.expansion=0
 
 [MenuBar]

@@ -3,14 +3,14 @@
   <g id="g4172" transform="translate(46)">
    <rect id="rect4164" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
   </g>
-  <circle style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="path4202" cx="57" cy="11" r="11"/>
+  <circle style="opacity:0.16;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="path4202" cx="57" cy="11" r="11"/>
   <rect style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" id="rect4139" width="8" height="2" x="53" y="-15" transform="scale(1,-1)"/>
  </g>
  <g id="hover-center">
   <g id="g4206" transform="translate(23)">
    <rect id="rect4208" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
   </g>
-  <circle style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="circle4212" cx="34" cy="11" r="11"/>
+  <circle style="opacity:0.07;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="circle4212" cx="34" cy="11" r="11"/>
   <rect style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" id="rect4214" width="8" height="2" x="30" y="-15" transform="scale(1,-1)"/>
  </g>
  <g id="active-center">

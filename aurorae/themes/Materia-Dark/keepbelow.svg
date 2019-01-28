@@ -5,12 +5,12 @@
  </g>
  <g id="hover-center" transform="matrix(1,0,0,-1,0,22)">
   <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4208" width="22" height="22" x="23" y="0"/>
-  <circle style="opacity:0.1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="circle4212" cx="34" cy="11" r="11"/>
+  <circle style="opacity:0.08;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="circle4212" cx="34" cy="11" r="11"/>
   <path style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.76674747;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4171" d="M 34.000001,7 36.5,10 39,13 H 34.000001 29 l 2.500001,-3 z"/>
  </g>
  <g id="pressed-center" transform="matrix(1,0,0,-1,0,22)">
   <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4164" width="22" height="22" x="46" y="0"/>
-  <circle style="opacity:0.2;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="path4202" cx="57" cy="11" r="11"/>
+  <circle style="opacity:0.19;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="path4202" cx="57" cy="11" r="11"/>
   <path id="path4173" d="M 57.000001,7 59.5,10 62,13 H 57.000001 52 l 2.500001,-3 z" style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.76674747;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
  </g>
  <g id="inactive-center" transform="matrix(1,0,0,-1,0,22)">
