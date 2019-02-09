@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" id="svg37" width="22" height="22" version="1.1">
- <defs id="defs4">
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" id="22-22-svg37" width="22" height="22" version="1.1">
+ <defs id="22-22-defs4">
+  <linearGradient id="22-22-linearGradient5606" osb:paint="solid">
+   <stop id="22-22-stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
- <g id="distribute-horizontal-x" transform="translate(-465,65)">
-  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" id="rect6" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:#dfdfdf" id="path8" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ <g id="22-22-distribute-horizontal-x" transform="translate(-465,65)">
+  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" id="22-22-rect6" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:#dfdfdf" id="22-22-path8" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
 </svg>

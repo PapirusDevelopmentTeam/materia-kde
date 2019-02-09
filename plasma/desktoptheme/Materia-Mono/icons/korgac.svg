@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" id="svg26" width="22" height="22" version="1.1">
- <defs id="defs4">
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" id="22-22-svg26" width="22" height="22" version="1.1">
+ <defs id="22-22-defs4">
+  <linearGradient id="22-22-linearGradient5606" osb:paint="solid">
+   <stop id="22-22-stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
- <g id="korgac" transform="translate(-32,-10)">
-  <rect style="opacity:0;fill:#2b0000;fill-opacity:0.40392157" id="rect6" width="22" height="22" x="32" y="10"/>
-  <path style="fill:#dfdfdf" id="path8" d="m 42.998047,11.996094 c -4.970563,0 -9,4.029437 -9,9 0,4.970563 4.029437,9 9,9 4.970563,0 9,-4.029437 9,-9 0,-4.970563 -4.029437,-9 -9,-9 z m 0,3 c 3.313708,0 6,2.686292 6,6 0,3.313708 -2.686292,6 -6,6 -3.313708,0 -6,-2.686292 -6,-6 0,-3.313708 2.686292,-6 6,-6 z M 42,16 v 4 2 h 2 4 v -2 h -4 v -4 z"/>
+ <g id="22-22-korgac" transform="translate(-32,-10)">
+  <rect style="opacity:0;fill:#2b0000;fill-opacity:0.40392157" id="22-22-rect6" width="22" height="22" x="32" y="10"/>
+  <path style="fill:#dfdfdf" id="22-22-path8" d="m 42.998047,11.996094 c -4.970563,0 -9,4.029437 -9,9 0,4.970563 4.029437,9 9,9 4.970563,0 9,-4.029437 9,-9 0,-4.970563 -4.029437,-9 -9,-9 z m 0,3 c 3.313708,0 6,2.686292 6,6 0,3.313708 -2.686292,6 -6,6 -3.313708,0 -6,-2.686292 -6,-6 0,-3.313708 2.686292,-6 6,-6 z M 42,16 v 4 2 h 2 4 v -2 h -4 v -4 z"/>
  </g>
 </svg>

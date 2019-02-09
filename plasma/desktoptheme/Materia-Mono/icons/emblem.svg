@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg26" width="22" height="22" version="1.1">
- <g id="emblem-shared-symbolic" transform="translate(-5,-5)">
-  <rect style="opacity:0.00100002" id="rect2" width="22" height="22" x="5" y="5"/>
-  <path style="fill:#dfdfdf" id="path4" d="M 19.470703,10.152344 10.113281,16 19.470703,21.847656 20.529297,20.152344 13.884766,16 20.529297,11.847656 Z"/>
-  <path style="fill:#dfdfdf" id="path6" d="m 20,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="22-22-svg26" width="22" height="22" version="1.1">
+ <g id="22-22-emblem-shared-symbolic" transform="translate(-5,-5)">
+  <rect style="opacity:0.00100002" id="22-22-rect2" width="22" height="22" x="5" y="5"/>
+  <path style="fill:#dfdfdf" id="22-22-path4" d="M 19.470703,10.152344 10.113281,16 19.470703,21.847656 20.529297,20.152344 13.884766,16 20.529297,11.847656 Z"/>
+  <path style="fill:#dfdfdf" id="22-22-path6" d="m 20,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
  </g>
 </svg>
