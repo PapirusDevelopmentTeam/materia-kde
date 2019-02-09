@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg218" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <g id="media-playback-start">
+  <rect style="opacity:0.00100002" id="rect2" width="22" height="22" x="0" y="0"/>
+  <path style="fill:#dfdfdf" id="path4" d="m 5,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 3,4 8,4 -8,4 z" transform="translate(0,-32)"/>
+ </g>
+ <g id="media-skip-forward" transform="translate(10)">
+  <rect style="opacity:0.00100002" id="rect7" width="22" height="22" x="22" y="0"/>
+  <path style="fill:#dfdfdf" id="path9" d="m 37,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 2,4 6,3.5 V 39 h 2 v 4 4 H 45 V 43.5 L 39,47 Z" transform="translate(-10,-32)"/>
+ </g>
+ <g id="media-playback-pause" transform="translate(-5,-24)">
+  <rect style="opacity:0.00100002" id="rect12" width="22" height="22" x="165" y="24"/>
+  <path style="fill:#dfdfdf" id="path14" d="m 165,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 2,4 h 3 v 8 h -3 z m 5,0 h 3 v 8 h -3 z" transform="translate(5,-8)"/>
+ </g>
+ <g id="media-playback-stop" transform="translate(5,-24)">
+  <rect style="opacity:0.00100002" id="rect17" width="22" height="22" x="187" y="24"/>
+  <path style="fill:#dfdfdf" id="path19" d="m 197,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 2,4 h 2 4 2 v 8 h -2 -4 -2 z" transform="translate(-5,-8)"/>
+ </g>
+ <g id="media-record" transform="translate(102)">
+  <rect style="opacity:0.00100002" id="rect22" width="22" height="22" x="154" y="0"/>
+  <path style="fill:#5294e2" id="path24" d="m 261,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 6,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z" transform="translate(-102,-32)"/>
+ </g>
+ <g id="media-eject" transform="translate(-7,-24)">
+  <rect style="opacity:0.00100002" id="rect27" width="22" height="22" x="231" y="24"/>
+  <path style="fill:#dfdfdf" id="path29" d="m 229,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 6,3 4,4 v 1 h -8 v -1 z m -4,7 h 8 v 2 h -8 z" transform="translate(7,-8)"/>
+ </g>
+ <g id="media-seek-forward" transform="translate(74)">
+  <rect style="opacity:0.00100002" id="rect32" width="22" height="22" x="22" y="0"/>
+  <path style="fill:#dfdfdf" id="path34" d="m 101,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 1,4 5,3 v -3 l 6,4 -6,4 v -3 l -5,3 v -4 z" transform="translate(-74,-32)"/>
+ </g>
+ <g id="media-skip-backward" transform="matrix(-1,0,0,1,108,4.9999997e-8)">
+  <rect style="opacity:0.00100002" id="rect37" width="22" height="22" x="22" y="0"/>
+  <path style="fill:#dfdfdf" id="path39" d="m 69,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 2,4 h 2 v 3.5 L 79,39 v 8 L 73,43.5 V 47 h -2 v -4 z" transform="matrix(-1,0,0,1,108,-32)"/>
+ </g>
+ <g id="media-seek-backward" transform="matrix(-1,0,0,1,172,4.9999997e-8)">
+  <rect style="opacity:0.00100002" id="rect42" width="22" height="22" x="22" y="0"/>
+  <path style="fill:#dfdfdf" id="path44" d="m 133,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 6,4 v 3 l 5,-3 v 4 4 l -5,-3 v 3 l -6,-4 z" transform="matrix(-1,0,0,1,172,-32)"/>
+ </g>
+ <g id="media-playback-playing" transform="translate(0,22)">
+  <rect style="opacity:0.00100002" id="rect47" width="22" height="22" x="0" y="0"/>
+  <path style="fill:#dfdfdf" id="path49" d="m 5,57 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 3,4 8,4 -8,4 z" transform="translate(0,-54)"/>
+ </g>
+ <g id="media-playback-paused" transform="translate(-5,-2)">
+  <rect style="opacity:0.00100002" id="rect52" width="22" height="22" x="165" y="24"/>
+  <path style="fill:#dfdfdf" id="path54" d="m 165,57 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 2,4 h 3 v 8 h -3 z m 5,0 h 3 v 8 h -3 z" transform="translate(5,-30)"/>
+ </g>
+ <g id="media-playback-stopped" transform="translate(5,-2)">
+  <rect style="opacity:0.00100002" id="rect57" width="22" height="22" x="187" y="24"/>
+  <path style="fill:#dfdfdf" id="path59" d="m 197,57 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 2,4 h 2 4 2 v 8 h -2 -4 -2 z" transform="translate(-5,-30)"/>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs id="defs4">
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="kdeconnect">
+  <rect style="opacity:0;fill:#111213" id="rect6" width="22" height="22" x="0" y="0" rx="0" ry="0"/>
+  <path style="fill:#dfdfdf;filter:url(#filter7554)" id="path8" d="m 39,13 c -1,0 -1,1 -1,1 v 14 c 0,0 0,1 1,1 h 8 c 1,0 1,-1 1,-1 V 14 c 0,0 0,-1 -1,-1 z m 7,3 v 9 h -6 v -8.998047 z m -3.5,10 h 0.5 0.5 c 0.277,0 0.5,0.223 0.5,0.5 V 27 27.5 C 44,27.777 43.777,28 43.5,28 H 43 42.5 C 42.223,28 42,27.777 42,27.5 V 27 26.5 C 42,26.223 42.223,26 42.5,26 Z" transform="translate(-32,-10)"/>
+ </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" id="svg64" width="22" height="22" version="1.1">
+ <defs id="defs4">
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g style="enable-background:new" id="zoom-fit-width" transform="translate(-465,33.000002)">
+  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" id="rect16" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:#dfdfdf" id="path18" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ </g>
+ <g id="zoom-fit-height" transform="rotate(90,211.00001,-254)" style="enable-background:new">
+  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" id="rect42" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:#dfdfdf" id="path44" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ </g>
+</svg>
