@@ -1,95 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="22-22-svg"
-   width="32"
-   height="32"
-   version="1.1"
-   viewBox="0 0 32 32"
-   sodipodi:docname="klipper.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata11">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs9" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
-     id="namedview7"
-     showgrid="true"
-     inkscape:zoom="12.32"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="22-22-svg">
-    <inkscape:grid
-       type="xygrid"
-       id="grid835" />
-  </sodipodi:namedview>
-  <g
-     id="22-22-klipper"
-     transform="translate(32.000001,10.000001)">
-    <rect
-       style="opacity:0.00100002"
-       id="22-22-rect2"
-       width="22"
-       height="22"
-       x="0"
-       y="0" />
-    <path
-       style="fill:#dfdfdf"
-       id="22-22-path4"
-       d="M 5,8 C 3.892,8 3,8.892 3,10 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 10 C 13,8.892 12.108,8 11,8 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 4 v 1 H 5 Z"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.3;fill:#dfdfdf"
-       id="22-22-path6"
-       d="M 11,3 C 9.892,3 9,3.892 9,5 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 5 C 19,3.892 18.108,3 17,3 Z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 4 v 1 h -4 z"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="klipper">
-    <rect
-       y="0"
-       x="0"
-       height="32"
-       width="32"
-       id="rect818"
-       style="opacity:0.00100002;stroke-width:1.4545455" />
-    <path
-       id="path845"
-       d="M 7 11 C 5.3379999 11 4 12.379434 4 14.091797 L 4 24.908203 C 4 26.620567 5.3379999 28 7 28 L 16 28 C 17.662 28 19 26.620567 19 24.908203 L 19 14.091797 C 19 12.379434 17.662 11 16 11 L 7 11 z M 7 14 L 16 14 L 16 16 L 7 16 L 7 14 z M 7 17 L 16 17 L 16 19 L 7 19 L 7 17 z M 7 20 L 16 20 L 16 22 L 7 22 L 7 20 z M 7 23 L 13 23 L 13 25 L 7 25 L 7 23 z "
-       style="fill:#dfdfdf;stroke-width:1.52255762" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#dfdfdf;stroke-width:1.52255762;opacity:0.3"
-       d="M 16,4 C 14.338,4 13,5.379434 13,7.091797 V 17.908203 C 13,19.620567 14.338,21 16,21 h 9 c 1.662,0 3,-1.379433 3,-3.091797 V 7.091797 C 28,5.379434 26.662,4 25,4 Z m 0,3 h 9 v 2 h -9 z m 0,3 h 9 v 2 h -9 z m 0,3 h 9 v 2 h -9 z m 0,3 h 6 v 2 h -6 z"
-       id="path849" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="22-22-svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <g id="22-22-klipper" transform="translate(32.000001,10.000001)">
+  <rect style="opacity:0.00100002" id="22-22-rect2" width="22" height="22" x="0" y="0"/>
+  <path style="fill:#dfdfdf" id="22-22-path4" d="M 5,8 C 3.892,8 3,8.892 3,10 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 10 C 13,8.892 12.108,8 11,8 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 4 v 1 H 5 Z"/>
+  <path style="opacity:0.3;fill:#dfdfdf" id="22-22-path6" d="M 11,3 C 9.892,3 9,3.892 9,5 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 5 C 19,3.892 18.108,3 17,3 Z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 4 v 1 h -4 z"/>
+ </g>
+ <g id="klipper">
+  <rect id="rect818" width="32" height="32" x="0" y="0" style="opacity:0.00100002;stroke-width:1.4545455"/>
+  <path id="path845" d="M 7 11 C 5.3379999 11 4 12.379434 4 14.091797 L 4 24.908203 C 4 26.620567 5.3379999 28 7 28 L 16 28 C 17.662 28 19 26.620567 19 24.908203 L 19 14.091797 C 19 12.379434 17.662 11 16 11 L 7 11 z M 7 14 L 16 14 L 16 16 L 7 16 L 7 14 z M 7 17 L 16 17 L 16 19 L 7 19 L 7 17 z M 7 20 L 16 20 L 16 22 L 7 22 L 7 20 z M 7 23 L 13 23 L 13 25 L 7 25 L 7 23 z" style="fill:#dfdfdf;stroke-width:1.52255762"/>
+  <path style="fill:#dfdfdf;stroke-width:1.52255762;opacity:0.3" id="path849" d="M 16,4 C 14.338,4 13,5.379434 13,7.091797 V 17.908203 C 13,19.620567 14.338,21 16,21 h 9 c 1.662,0 3,-1.379433 3,-3.091797 V 7.091797 C 28,5.379434 26.662,4 25,4 Z m 0,3 h 9 v 2 h -9 z m 0,3 h 9 v 2 h -9 z m 0,3 h 9 v 2 h -9 z m 0,3 h 6 v 2 h -6 z"/>
+ </g>
 </svg>
