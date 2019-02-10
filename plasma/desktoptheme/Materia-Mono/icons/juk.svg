@@ -1,8 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="22-22-svg20" width="22" height="22" version="1">
- <g id="22-22-juk">
-  <rect style="opacity:0.00100002" id="22-22-rect2" width="22" height="22" x="0" y="0"/>
-  <g id="22-22-g6" transform="translate(0,7)">
-   <path style="fill:#dfdfdf" id="22-22-path4" d="M 8,1 V 7.050781 C 7.8354622,7.017102 7.6679493,7.000089 7.5,7 6.1192881,7 5,8.119288 5,9.5 5,10.880712 6.1192881,12 7.5,12 8.8807119,12 10,10.880712 10,9.5 V 1 L 15,0 V 4.0507812 C 14.835462,4.0171022 14.667949,4.0000892 14.5,4 13.119288,4 12,5.1192881 12,6.5 12,7.880712 13.119288,9 14.5,9 15.880712,9 17,7.880712 17,6.5 V 0 c -8.72e-4,-2.5818515 -0.193689,-2.7609843 -1.980304,-2.5599325 L 9.877365,-1.4171922 C 8.0669187,-0.88841333 8,-0.90250587 8,1 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="22-22-svg20"
+   width="32"
+   height="32"
+   version="1"
+   sodipodi:docname="juk.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="13.2"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="22-22-svg20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid829" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-juk"
+     transform="translate(32.000001,10.000001)">
+    <rect
+       style="opacity:0.00100002"
+       id="22-22-rect2"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+    <g
+       id="22-22-g6"
+       transform="translate(0,7)">
+      <path
+         style="fill:#dfdfdf"
+         id="22-22-path4"
+         d="M 8,1 V 7.050781 C 7.8354622,7.017102 7.6679493,7.000089 7.5,7 6.1192881,7 5,8.119288 5,9.5 5,10.880712 6.1192881,12 7.5,12 8.8807119,12 10,10.880712 10,9.5 V 1 L 15,0 V 4.0507812 C 14.835462,4.0171022 14.667949,4.0000892 14.5,4 13.119288,4 12,5.1192881 12,6.5 12,7.880712 13.119288,9 14.5,9 15.880712,9 17,7.880712 17,6.5 V 0 c -8.72e-4,-2.5818515 -0.193689,-2.7609843 -1.980304,-2.5599325 L 9.877365,-1.4171922 C 8.0669187,-0.88841333 8,-0.90250587 8,1 Z"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
- </g>
+  <g
+     id="juk">
+    <rect
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect818"
+       style="opacity:0.00100002;stroke-width:1.4545455" />
+    <g
+       transform="matrix(1.5,0,0,1.5048134,-0.5,8.9422393)"
+       id="g822">
+      <path
+         id="path820"
+         transform="matrix(0.66666667,0,0,0.66453422,0.33333333,-5.942424)"
+         d="M 22.925781 5.0097656 C 22.661393 5.0237611 22.364287 5.0520256 22.029297 5.0898438 L 14.816406 6.8105469 C 12.100737 7.6062604 12 7.5843489 12 10.447266 L 12 19.132812 A 4 4 0 0 0 11 19 A 4 4 0 0 0 7 23 A 4 4 0 0 0 11 27 A 4 4 0 0 0 14.832031 24.140625 C 14.913279 23.924439 14.965969 23.680003 14.980469 23.398438 C 14.983387 23.341768 15 23.297801 15 23.238281 L 15 23 L 15 10.447266 L 22 8.9414062 L 22 15.132812 A 4 4 0 0 0 21 15 A 4 4 0 0 0 17 19 A 4 4 0 0 0 21 23 A 4 4 0 0 0 25 19 A 4 4 0 0 0 24.992188 18.792969 C 24.992636 18.769015 25 18.746717 25 18.722656 L 25 8.9414062 C 24.998855 5.5418522 24.776497 4.9117976 22.925781 5.0097656 z "
+         style="fill:#dfdfdf;stroke-width:1.50240481" />
+    </g>
+  </g>
 </svg>
