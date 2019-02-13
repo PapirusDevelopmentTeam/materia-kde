@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="22-22-svg26" width="32" height="32" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <g id="22-22-krfb" transform="translate(27,5.0000005)">
-  <rect style="opacity:0.00100002" id="22-22-rect2" width="22" height="22" x="5" y="5"/>
-  <path style="fill:#dfdfdf;opacity:0.3" id="22-22-path4" d="M 19.470703,10.152344 10.113281,16 19.470703,21.847656 20.529297,20.152344 13.884766,16 20.529297,11.847656 Z"/>
-  <path style="fill:#dfdfdf" id="22-22-path6" d="m 20,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <path style="fill:#dfdfdf;opacity:0.3" d="M 19.470703,10.152344 10.113281,16 19.470703,21.847656 20.529297,20.152344 13.884766,16 20.529297,11.847656 Z"/>
+  <path style="fill:#dfdfdf" d="m 20,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
  </g>
  <g id="krfb">
-  <rect id="rect818" width="32" height="32" x="0" y="0" style="opacity:0.00100002;stroke-width:1.4545455"/>
-  <path id="path849" d="M 20.744141,7.2050781 6.5234375,15.5 20.744141,23.794922 22.255859,21.205078 12.476562,15.5 22.255859,9.7949219 Z" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"/>
-  <path id="path835" d="m 21.500001,3.9999996 a 4.5000001,4.5000001 0 0 0 -4.5,4.5000002 A 4.5000001,4.5000001 0 0 0 21.500001,13 4.5000001,4.5000001 0 0 0 26,8.4999998 4.5000001,4.5000001 0 0 0 21.500001,3.9999996 Z" style="fill:#dfdfdf;stroke-width:1.5"/>
-  <path id="path833" d="M 9.5000001,11 A 4.5000001,4.5000001 0 0 0 5,15.5 4.5000001,4.5000001 0 0 0 9.5000001,20 4.5000001,4.5000001 0 0 0 14,15.5 4.5000001,4.5000001 0 0 0 9.5000001,11 Z" style="fill:#dfdfdf;stroke-width:1.5"/>
-  <path id="path822" d="m 21.500001,18 a 4.5000001,4.5000001 0 0 0 -4.5,4.500001 A 4.5000001,4.5000001 0 0 0 21.500001,27 4.5000001,4.5000001 0 0 0 26,22.500001 4.5000001,4.5000001 0 0 0 21.500001,18 Z" style="fill:#dfdfdf;stroke-width:1.5"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="opacity:0.3;fill:#dfdfdf" d="M 20.744141,7.2050781 6.5234375,15.5 20.744141,23.794922 22.255859,21.205078 12.476562,15.5 22.255859,9.7949219 Z"/>
+  <path style="fill:#dfdfdf" d="m 21.500001,3.9999996 a 4.5000001,4.5000001 0 0 0 -4.5,4.5000002 A 4.5000001,4.5000001 0 0 0 21.500001,13 4.5000001,4.5000001 0 0 0 26,8.4999998 4.5000001,4.5000001 0 0 0 21.500001,3.9999996 Z"/>
+  <path style="fill:#dfdfdf" d="M 9.5000001,11 A 4.5000001,4.5000001 0 0 0 5,15.5 4.5000001,4.5000001 0 0 0 9.5000001,20 4.5000001,4.5000001 0 0 0 14,15.5 4.5000001,4.5000001 0 0 0 9.5000001,11 Z"/>
+  <path style="fill:#dfdfdf" d="m 21.500001,18 a 4.5000001,4.5000001 0 0 0 -4.5,4.500001 A 4.5000001,4.5000001 0 0 0 21.500001,27 4.5000001,4.5000001 0 0 0 26,22.500001 4.5000001,4.5000001 0 0 0 21.500001,18 Z"/>
  </g>
 </svg>

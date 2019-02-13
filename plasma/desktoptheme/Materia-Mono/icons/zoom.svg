@@ -1,23 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" style="enable-background:new" id="22-22-svg64" width="32" height="32" version="1.1">
- <defs id="22-22-defs4">
-  <linearGradient id="22-22-linearGradient5606" osb:paint="solid">
-   <stop id="22-22-stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
- </defs>
- <g style="enable-background:new" id="22-22-zoom-fit-width" transform="translate(-433,42.999998)">
-  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" id="22-22-rect16" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:#dfdfdf" id="22-22-path18" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="22-22-zoom-fit-width" transform="translate(-433,42.999998)">
+  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:#dfdfdf" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
- <g id="22-22-zoom-fit-height" transform="rotate(90,222,-265)" style="enable-background:new">
-  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd" id="22-22-rect42" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:#dfdfdf" id="22-22-path44" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ <g id="22-22-zoom-fit-height" transform="rotate(90,222,-265)">
+  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:#dfdfdf" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
  <g id="zoom-fit-height">
-  <rect id="rect821" width="32" height="32" x="0" y="-32" transform="rotate(90)" style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke-width:1.4545455"/>
-  <path id="path823" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z" style="fill:#dfdfdf;stroke-width:1.40929449"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
+  <path style="fill:#dfdfdf" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
  </g>
  <g id="zoom-fit-width" transform="rotate(90,32,31.999998)">
-  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke-width:1.4545455" id="rect835" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
-  <path style="fill:#dfdfdf;stroke-width:1.40929449" id="path837" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
+  <path style="fill:#dfdfdf" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
  </g>
 </svg>
