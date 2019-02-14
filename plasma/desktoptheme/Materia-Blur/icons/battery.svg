@@ -45,22 +45,22 @@
  </g>
  <g id="22-22-Fill10" transform="translate(105.46001,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="M 329.5,-19 C 329,-19.01 329,-18.5 329,-18.5 V -18 H 325 V -3 H 337 V -18 H 333 V -18.5 C 333,-18.5 333,-19 332.5,-19 Z M 327,-16 H 335 V -7 H 327 Z" transform="translate(-105.46,404.5)"/>
+  <path style="fill:#4285f4" d="M 329.5,-19 C 329,-19.01 329,-18.5 329,-18.5 V -18 H 325 V -3 H 337 V -18 H 333 V -18.5 C 333,-18.5 333,-19 332.5,-19 Z M 327,-16 H 335 V -7 H 327 Z" transform="translate(-105.46,404.5)"/>
  </g>
  <g id="22-22-Fill0" transform="translate(137.46001,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="M 361.5,-19 C 361,-19.01 361,-18.5 361,-18.5 V -18 H 357 V -3 H 369 V -18 H 365 V -18.5 C 365,-18.5 365,-19 364.5,-19 Z M 359,-16 H 367 V -5 H 359 Z" transform="translate(-137.46,404.5)"/>
+  <path style="fill:#4285f4" d="M 361.5,-19 C 361,-19.01 361,-18.5 361,-18.5 V -18 H 357 V -3 H 369 V -18 H 365 V -18.5 C 365,-18.5 365,-19 364.5,-19 Z M 359,-16 H 367 V -5 H 359 Z" transform="translate(-137.46,404.5)"/>
  </g>
  <g id="22-22-Unavailable" transform="translate(213.46001,-426.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-426.5" y="170.54" transform="rotate(-90)"/>
   <g>
-   <rect style="fill:#5294e2" width="10" height="10" x="181.54" y="415.5" ry="1"/>
+   <rect style="fill:#4285f4" width="10" height="10" x="181.54" y="415.5" ry="1"/>
    <path style="fill:#ffffff" d="m 188.65704,416.96951 -2.12132,2.12132 -2.12132,-2.12132 -1.41421,1.41421 2.12132,2.12132 -2.12132,2.12132 1.41421,1.41421 2.12132,-2.12132 2.12132,2.12132 1.41421,-1.41421 -2.12132,-2.12132 2.12132,-2.12132 z"/>
   </g>
  </g>
  <g id="22-22-AcAdapter" transform="translate(482)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="-66" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
+  <path style="fill:#4285f4" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
  </g>
  <g id="Fill100">
   <rect style="opacity:0.001" width="32" height="32" x="32" y="0" rx="2.092" ry="1.491"/>

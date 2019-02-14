@@ -45,22 +45,22 @@
  </g>
  <g id="22-22-Fill10" transform="translate(105.46,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" transform="translate(-5.46425,382.50504)" d="M 229.5,3 C 229.00425,3 229,3.5 229,3.5 V 4 h -1 -3 v 1 12 2 h 3 6 3 V 16 5 4 h -3 -1 V 3.5 C 233,3.223 232.777,3 232.5,3 Z M 227,6 h 2.5 3 2.5 v 9 h -8 z"/>
+  <path style="fill:#4285f4" transform="translate(-5.46425,382.50504)" d="M 229.5,3 C 229.00425,3 229,3.5 229,3.5 V 4 h -1 -3 v 1 12 2 h 3 6 3 V 16 5 4 h -3 -1 V 3.5 C 233,3.223 232.777,3 232.5,3 Z M 227,6 h 2.5 3 2.5 v 9 h -8 z"/>
  </g>
  <g id="22-22-Fill0" transform="translate(137.46,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="m 219.53573,401.50505 h 3 6 3 v -3 -11 -1 h -3 -0.99999 v -0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -3 c -0.49574,0 -0.5,0.5 -0.5,0.5 v 0.5 h -1.00001 -3 v 1 12 z m 2,-2 v -11 h 2.50001 3 2.49999 v 11 z"/>
+  <path style="fill:#4285f4" d="m 219.53573,401.50505 h 3 6 3 v -3 -11 -1 h -3 -0.99999 v -0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -3 c -0.49574,0 -0.5,0.5 -0.5,0.5 v 0.5 h -1.00001 -3 v 1 12 z m 2,-2 v -11 h 2.50001 3 2.49999 v 11 z"/>
  </g>
  <g id="22-22-Unavailable" transform="translate(213.46,-426.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-426.5" y="170.54" transform="rotate(-90)"/>
   <g>
-   <rect style="fill:#5294e2" width="10" height="10" x="181.54" y="415.5" ry="1"/>
+   <rect style="fill:#4285f4" width="10" height="10" x="181.54" y="415.5" ry="1"/>
    <path style="fill:#ffffff" d="m 188.65704,416.96951 -2.12132,2.12132 -2.12132,-2.12132 -1.41421,1.41421 2.12132,2.12132 -2.12132,2.12132 1.41421,1.41421 2.12132,-2.12132 2.12132,2.12132 1.41421,-1.41421 -2.12132,-2.12132 2.12132,-2.12132 z"/>
   </g>
  </g>
  <g id="22-22-AcAdapter" transform="translate(482,7.6293946e-6)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="-66" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
+  <path style="fill:#4285f4" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
  </g>
  <g id="Fill100" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
@@ -104,20 +104,20 @@
  </g>
  <g id="Fill10" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="288" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="M 301.75,4 C 300.99998,4 301,4.75 301,4.75 V 6 h -1.5 -4.5 v 1 18 3 h 4.5 9 4.5 V 23.5 7 6 H 308.5 307 V 4.75 C 307,4.3345001 306.6655,4 306.25,4 Z M 298,9 h 3.75 4.5 3.75 v 15 h -3.75 -4.5 -3.75 z"/>
+  <path style="fill:#4285f4" d="M 301.75,4 C 300.99998,4 301,4.75 301,4.75 V 6 h -1.5 -4.5 v 1 18 3 h 4.5 9 4.5 V 23.5 7 6 H 308.5 307 V 4.75 C 307,4.3345001 306.6655,4 306.25,4 Z M 298,9 h 3.75 4.5 3.75 v 15 h -3.75 -4.5 -3.75 z"/>
  </g>
  <g id="Fill0" transform="translate(351.99999)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="M 7.0000001,28 H 11.5 20.5 25 V 23.5 7 6 H 20.5 19.000015 V 4.75 c 0,-0.4154999 -0.3345,-0.75 -0.75,-0.75 h -4.5 c -0.750015,0 -0.75,0.75 -0.75,0.75 V 6 H 11.5 7.0000001 V 7 25 Z M 9.9999999,25 V 9 h 3.7500151 4.5 H 22 v 16 z"/>
+  <path style="fill:#4285f4" d="M 7.0000001,28 H 11.5 20.5 25 V 23.5 7 6 H 20.5 19.000015 V 4.75 c 0,-0.4154999 -0.3345,-0.75 -0.75,-0.75 h -4.5 c -0.750015,0 -0.75,0.75 -0.75,0.75 V 6 H 11.5 7.0000001 V 7 25 Z M 9.9999999,25 V 9 h 3.7500151 4.5 H 22 v 16 z"/>
  </g>
  <g id="Unavailable" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="352" transform="rotate(-90)"/>
-  <rect style="fill:#5294e2" width="14" height="14" x="368" y="16" ry="1.4"/>
+  <rect style="fill:#4285f4" width="14" height="14" x="368" y="16" ry="1.4"/>
   <path style="fill:#ffffff" d="M 378.00001,17.999996 375,21 371.99999,17.999996 370,19.999994 l 3,3.000004 -3,3.000004 L 371.99999,28 375,24.999996 378.00001,28 380,26.000002 376.99999,22.999998 380,19.999994 Z"/>
  </g>
  <g id="AcAdapter" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="384" transform="rotate(-90)"/>
-  <path style="fill:#5294e2" d="m 400,10 v 5 h 3 l -3,7 v -5 h -3 z"/>
+  <path style="fill:#4285f4" d="m 400,10 v 5 h 3 l -3,7 v -5 h -3 z"/>
  </g>
  <g id="battery-ups" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="416" y="0"/>
