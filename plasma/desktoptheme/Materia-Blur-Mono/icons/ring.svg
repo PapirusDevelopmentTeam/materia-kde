@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="22-22-ring-kde" transform="translate(32.000001,10.000001)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="opacity:0.3;fill:#dfdfdf" d="M 8.09375,3.5878906 C 7.9151703,3.5977516 7.7399642,3.645971 7.5800781,3.7382812 L 6.4257812,4.40625 C 5.7862371,4.775491 5.6271125,5.6913394 6.0703125,6.4589844 L 8.6933594,11 11.001953,7 9.5351562,4.4589844 C 9.2027562,3.8832507 8.6294892,3.5583077 8.09375,3.5878906 Z M 13.310547,11 l -2.308594,4 1.46875,2.542969 c 0.4432,0.767645 1.315534,1.087991 1.955078,0.71875 l 1.154297,-0.666016 c 0.639544,-0.369241 0.796716,-1.285089 0.353516,-2.052734 z"/>
+  <rect style="opacity:0.6;fill:#dfdfdf" width="4" height="16" x="-17.03" y="-3.97" transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,0,0)" rx="1.333" ry="1.6"/>
+  <rect style="fill:#dfdfdf" width="4" height="16" x="-13" y="-19" transform="matrix(0,-1,-1,0,0,0)" rx="1.333" ry="1.6"/>
+ </g>
+ <g id="ring-kde">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <rect style="fill:#dfdfdf;opacity:0.3" width="6" height="24" x="2.86" y="9.86" transform="rotate(-30)" rx="1.999" ry="2.4"/>
+  <rect style="fill:#dfdfdf;opacity:0.6" width="6" height="24" x="-24.86" y="-6.14" transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,0,0)" rx="1.999" ry="2.4"/>
+  <rect style="fill:#dfdfdf" width="6" height="24" x="-19" y="-28" transform="matrix(0,-1,-1,0,0,0)" rx="1.999" ry="2.4"/>
+ </g>
+</svg>

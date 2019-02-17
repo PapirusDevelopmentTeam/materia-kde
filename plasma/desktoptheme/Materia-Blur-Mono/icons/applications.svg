@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="applications-other">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:#dfdfdf" d="M 16 2 A 14 14 0 0 0 2 16 A 14 14 0 0 0 16 30 A 14 14 0 0 0 30 16 A 14 14 0 0 0 16 2 z M 11 7 A 4 4 0 0 1 15 11 A 4 4 0 0 1 11 15 A 4 4 0 0 1 7 11 A 4 4 0 0 1 11 7 z M 21 7 A 4 4 0 0 1 25 11 A 4 4 0 0 1 21 15 A 4 4 0 0 1 17 11 A 4 4 0 0 1 21 7 z M 11 17 A 4 4 0 0 1 15 21 A 4 4 0 0 1 11 25 A 4 4 0 0 1 7 21 A 4 4 0 0 1 11 17 z M 21 17 A 4 4 0 0 1 25 21 A 4 4 0 0 1 21 25 A 4 4 0 0 1 17 21 A 4 4 0 0 1 21 17 z"/>
+ </g>
+</svg>

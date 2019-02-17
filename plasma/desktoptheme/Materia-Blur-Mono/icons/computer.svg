@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <g id="computer" transform="translate(-2e-4,34)">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="-34"/>
+  <g transform="translate(2e-4,-35)">
+   <path style="fill:#dfdfdf" transform="translate(0,1)" d="M 4.3007812,4 C 3.5805813,4 3,4.5575 3,5.25 v 17.5 C 3,23.4425 3.5805813,24 4.3007812,24 H 8 v 1.6875 C 8,26.414902 8.5935493,27 9.3320312,27 H 22.667969 C 23.406451,27 24,26.414902 24,25.6875 V 24 h 3.699219 C 28.419419,24 29,23.4425 29,22.75 V 5.25 C 29,4.5575 28.419419,4 27.699219,4 Z M 6,7 H 26 V 21 H 24 8 6 Z"/>
+  </g>
+ </g>
+ <g id="computer-laptop" transform="translate(-4.0002,34)">
+  <rect style="opacity:0.001" width="32" height="32" x="36" y="-34"/>
+  <g transform="translate(36,-35)">
+   <path style="fill:#dfdfdf" transform="translate(-31.9998,1)" d="M 36.298828,5 C 35.578628,5 35,5.5575 35,6.25 v 15.5 C 35,22.442 35.578628,23 36.298828,23 H 34 c -0.554,0 -1,0.446 -1,1 v 1 c 0,0.554 0.446,1 1,1 h 28 c 0.554,0 1,-0.446 1,-1 v -1 c 0,-0.554 -0.446,-1 -1,-1 H 59.699219 C 60.419419,23 61,22.4425 61,21.75 V 6.25 C 61,5.5575 60.419219,5 59.699219,5 Z M 38,8 H 58 V 20 H 38 Z"/>
+  </g>
+ </g>
+</svg>
