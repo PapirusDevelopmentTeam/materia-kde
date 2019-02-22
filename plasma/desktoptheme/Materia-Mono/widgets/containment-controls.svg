@@ -8,12 +8,6 @@
    <stop id="stop4293" offset="0" style="stop-color:#007584;stop-opacity:1"/>
    <stop id="stop4295" offset="1" style="stop-color:#4285f4;stop-opacity:1"/>
   </linearGradient>
-  <linearGradient id="linearGradient6476" osb:paint="solid">
-   <stop id="stop6478" offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient6476-1" osb:paint="solid">
-   <stop id="stop6478-5" offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
-  </linearGradient>
   <linearGradient id="linearGradient4297" x1="266" x2="266" y1="108" y2="112" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4291"/>
   <linearGradient id="linearGradient4301" x1="115" x2="115" y1="103" y2="107" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4303"/>
   <linearGradient id="linearGradient4315" x1="266" x2="266" y1="121" y2="118" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4291"/>

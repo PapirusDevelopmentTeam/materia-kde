@@ -4,9 +4,6 @@
    <stop id="stop4211" offset="0" style="stop-color:#000000;stop-opacity:1"/>
    <stop id="stop4213" offset="1" style="stop-color:#000000;stop-opacity:0"/>
   </linearGradient>
-  <linearGradient id="linearGradient6476" osb:paint="solid">
-   <stop id="stop6478" offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
-  </linearGradient>
   <radialGradient id="radialGradient4201" cx="63.894" cy="61.058" r="9" fx="63.894" fy="61.058" gradientTransform="matrix(-6.1375001e-7,1.2222228,-1.2222222,-6.2559558e-7,142.62634,-21.09247)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
   <radialGradient id="radialGradient4203" cx="-31.636" cy="8.519" r="8.182" fx="-31.636" fy="8.519" gradientTransform="matrix(0,1.44437,-0.99999988,0,-23.570787,54.693527)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
   <radialGradient id="radialGradient4205" cx="27" cy="43.961" r="13" fx="27" fy="43.961" gradientTransform="matrix(6.1944048e-8,1.3846155,-1.1538462,5.1620032e-8,77.724382,12.61538)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>

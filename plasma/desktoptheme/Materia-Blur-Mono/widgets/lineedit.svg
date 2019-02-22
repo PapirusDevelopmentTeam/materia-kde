@@ -1,18 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="220" height="212" version="1">
- <defs id="defs5">
-  <linearGradient id="linearGradient6476" osb:paint="solid">
-   <stop id="stop6478" offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient6476-4" osb:paint="solid">
-   <stop id="stop6478-8" offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient5627-9">
-   <stop id="stop5629-4" offset="0" style="stop-color:#0c6395;stop-opacity:1"/>
-   <stop id="stop5631-1" offset="1" style="stop-color:#3daeef;stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4381" x1="216" x2="216" y1="107" y2="110" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5627-9"/>
-  <linearGradient id="linearGradient4389" x1="216" x2="216" y1="107" y2="110" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5627-9"/>
- </defs>
  <g id="base-topleft" transform="translate(829.80716,-769.58398)">
   <path id="path3967" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" style="color:#eff0f1;fill:#000000;fill-opacity:1;stroke:none;opacity:0.001"/>
  </g>
