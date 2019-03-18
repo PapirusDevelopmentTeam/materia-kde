@@ -5,16 +5,16 @@ Color=40,40,40
 Color=40,40,40
 
 [BackgroundIntense]
-Color=40,40,40
+Color=34,34,34
 
 [Color0]
-Color=42,42,42
+Color=40,40,40
 
 [Color0Faint]
-Color=49,49,49
+Color=40,40,40
 
 [Color0Intense]
-Color=85,96,100
+Color=127,140,141
 
 [Color1]
 Color=225,66,69
@@ -23,55 +23,55 @@ Color=225,66,69
 Color=120,50,40
 
 [Color1Intense]
-Color=225,111,126
+Color=192,57,43
 
 [Color2]
-Color=66,133,244
+Color=85,186,121
 
 [Color2Faint]
-Color=20,93,124
+Color=20,148,89
 
 [Color2Intense]
 Color=0,200,83
 
 [Color3]
-Color=246,171,50
+Color=246,116,0
 
 [Color3Faint]
 Color=182,86,25
 
 [Color3Intense]
-Color=253,195,95
+Color=253,188,75
 
 [Color4]
-Color=72,119,177
+Color=66,133,244
 
 [Color4Faint]
-Color=43,72,107
+Color=52,82,132
 
 [Color4Intense]
-Color=140,169,191
+Color=106,166,244
 
 [Color5]
-Color=166,96,195
+Color=155,89,182
 
 [Color5Faint]
 Color=97,74,115
 
 [Color5Intense]
-Color=226,175,236
+Color=142,68,173
 
 [Color6]
-Color=1,162,153
+Color=26,188,156
 
 [Color6Faint]
-Color=0,86,77
+Color=24,108,96
 
 [Color6Intense]
-Color=112,226,182
+Color=22,160,133
 
 [Color7]
-Color=169,169,170
+Color=239,240,241
 
 [Color7Faint]
 Color=99,104,109
@@ -80,16 +80,16 @@ Color=99,104,109
 Color=252,252,252
 
 [Foreground]
-Color=223,223,223
+Color=239,240,241
 
 [ForegroundFaint]
-Color=223,223,223
+Color=220,230,231
 
 [ForegroundIntense]
 Color=252,252,252
 
 [General]
 Blur=false
-Description=Materia Dark
+Description=MateriaDark
 Opacity=1
 Wallpaper=
