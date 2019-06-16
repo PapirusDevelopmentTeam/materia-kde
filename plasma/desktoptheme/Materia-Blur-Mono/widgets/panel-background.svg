@@ -76,4 +76,5 @@
  <path id="mask-topright" style="fill:#000000" d="m 119.99999,137.93887 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
  <path id="mask-top" style="fill:#000000" d="m 69.99997,137.93887 h 50.00002 v 7 H 69.99998 Z"/>
  <rect id="hint-tile-center" style="fill:#ff6600" width="5" height="5" x="0" y="-.06"/>
+ <rect id="shadow-center" style="fill:none" width="50" height="50" x="138" y="50"/>
 </svg>
