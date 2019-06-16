@@ -11,6 +11,7 @@ Theme=Papirus-Dark
 name=Materia
 
 [kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Materia-Dark
 
 [kcminputrc][Mouse]
