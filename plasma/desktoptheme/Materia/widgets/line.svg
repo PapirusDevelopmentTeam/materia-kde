@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="47" height="45" version="1.0">
+ <g id="layer1" transform="translate(-28,-14)">
+  <g id="vertical-line">
+   <path id="path2993" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none" d="m 28,14 v 40 h 3 V 14 Z"/>
+   <path id="path3785" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.001" d="m 29,14 v 40 h 1 V 14 Z"/>
+  </g>
+  <g id="horizontal-line">
+   <path id="path3767" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none" d="M 75,56 H 35 v 3 h 40 z"/>
+   <path id="path2992" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.001" d="M 75,57 H 35 v 1 h 40 z"/>
+  </g>
+ </g>
+</svg>

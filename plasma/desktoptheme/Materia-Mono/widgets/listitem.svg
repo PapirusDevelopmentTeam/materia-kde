@@ -8,7 +8,7 @@
  <rect id="normal-hint-top-margin" style="fill:#4e9a06" width="2" height="4" x="39" y="61"/>
  <rect id="normal-hint-bottom-margin" style="fill:#4e9a06" width="2" height="4" x="39" y="76"/>
  <rect id="normal-hint-right-margin" style="fill:#4e9a06" width="4" height="2" x="45" y="70"/>
- <rect style="opacity:0.05" width="40" height="1" x="82" y="-61" transform="scale(1,-1)"/>
+ <rect id="separator" style="opacity:0.001;fill:#000000;fill-opacity:1" width="40" height="1" x="82" y="-61" transform="scale(1,-1)"/>
  <path id="normal-center" style="opacity:0.001" d="m 34,65.00034 0,11.00001 10.999999,0 0,-11.00001 -10.999999,0 z"/>
  <path id="normal-right" style="opacity:0.001" d="m 45,65.00034 0,11.00001 2,0 c 6.68e-4,-0.0184 0,-0.0344 0,-0.0529 l 0,-10.89424 c 0,-0.0185 6.68e-4,-0.0345 0,-0.0529 l -2,0 z"/>
  <path id="normal-top" style="opacity:0.001" d="m 34,63.0003 0,2.00004 10.999999,0 0,-2.00004 c -0.0041,-6.7e-4 0.0042,0 10e-7,0 l -10.98814,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"/>
