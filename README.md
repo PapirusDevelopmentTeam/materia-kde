@@ -75,6 +75,17 @@ Packages in this section are not part of the official repositories. If you have 
 
   See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
 
+
+## Hacks for hide borders on Calendar (on Digital Clock Widget) & separators on KMenu (KickOff Widget)
+
+```
+mkdir -p ~/.local/share/plasma/plasmoids
+cp -R /usr/share/plasma/plasmoids/{org.kde.plasma.kickoff,org.kde.plasma.digitalclock} ~/.local/share/plasma/plasmoids/
+sed -i s/opacity\:\ 0\.2/opacity\:\ 0/g ~/.local/share/plasma/plasmoids/org.kde.plasma.kickoff/contents/ui/FullRepresentation.qml
+sed -i s/borderOpacity\:\ 0\.25/borderOpacity\:\ 0/g ~/.local/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/CalendarView.qml
+rm -rf ~/.cache/plasm* ~/.cache/ico*
+```
+
 ## Hacks for small screen resolution
 
 - Install widgets [Active Window Control](https://github.com/kotelnik/plasma-applet-active-window-control) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
@@ -91,9 +102,7 @@ TitleEdgeTop=0
 
 ## Known issues
 
-- Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
-
-- On some propietary video drivers Aurorae have wrong rendering by default with Materia theme. For fix that use this config on ~/.Xresources:
+- On NVIDIA propietary video driver Aurorae have wrong rendering by default with Materia theme. For fix that use this config on ~/.Xresources:
 
 ```
 Xft.dpi:       96
@@ -105,16 +114,7 @@ Xft.lcdfilter: lcddefault
 Xft.rgba:      rgb 
 ```
 
-- On Materia Blur with enabled blur effect possible some bugs with decoration shadows on aurorae and yakuake skin. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
-
-
-## Fixes for Materia & Materia Light GTK3 Themes
-
-For better compatibility with Qt-apps we recommend change symbolic icons colors for GTK3-apps on Materia GTK and Materia Light GTK themes:
-```
-sudo sh -c "sed -i.orig s/0\,\ 0\,\ 0\,\ 0\.54/0\,\ 0\,\ 0\,\ 0\.73/g /usr/share/themes/Materia/gtk-3.22/gtk.css"
-sudo sh -c "sed -i.orig s/0\,\ 0\,\ 0\,\ 0\.54/0\,\ 0\,\ 0\,\ 0\.73/g /usr/share/themes/Materia-light/gtk-3.22/gtk.css"
-```
+- Enabled blur effect have some bugs with decoration shadows on aurorae. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
 
 ## Donate
 
