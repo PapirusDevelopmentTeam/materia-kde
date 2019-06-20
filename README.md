@@ -76,7 +76,7 @@ Packages in this section are not part of the official repositories. If you have 
   See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
 
 
-## Hacks for hide borders on Calendar (on Digital Clock Widget) & separators on KMenu (KickOff Widget)
+## Hacks for hide borders on Calendar (in Digital Clock Widget) & separators on KMenu (in KickOff Widget)
 
 ```
 mkdir -p ~/.local/share/plasma/plasmoids
@@ -85,6 +85,10 @@ sed -i s/opacity\:\ 0\.2/opacity\:\ 0/g ~/.local/share/plasma/plasmoids/org.kde.
 sed -i s/borderOpacity\:\ 0\.25/borderOpacity\:\ 0/g ~/.local/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/CalendarView.qml
 rm -rf ~/.cache/plasm* ~/.cache/ico*
 ```
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/fixes.png" alt="fixes"/>
+</p>
 
 ## Hacks for small screen resolution
 
