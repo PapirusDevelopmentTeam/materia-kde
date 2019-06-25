@@ -63,11 +63,9 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
+- Install widgets [Minimal Menu](https://www.opendesktop.org/p/1275285/) and [Digital Clock WL](https://www.opendesktop.org/p/1311422/)
+
 - Set tree menu view for systemsettings
-
-- On systemsettings set **Noto Sans** font for title, menu and toolbar
-
-- For better looking use toolbar icons without text with 16px size (for Papirus themes)
 
 - For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings.
 
@@ -75,24 +73,9 @@ Packages in this section are not part of the official repositories. If you have 
 
   See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
 
-
-## Hacks for hide borders on Calendar (in Digital Clock Widget) & separators on KMenu (in KickOff Widget)
-
-```
-mkdir -p ~/.local/share/plasma/plasmoids
-cp -R /usr/share/plasma/plasmoids/{org.kde.plasma.kickoff,org.kde.plasma.digitalclock} ~/.local/share/plasma/plasmoids/
-sed -i s/opacity\:\ 0\.2/opacity\:\ 0/g ~/.local/share/plasma/plasmoids/org.kde.plasma.kickoff/contents/ui/FullRepresentation.qml
-sed -i s/borderOpacity\:\ 0\.25/borderOpacity\:\ 0/g ~/.local/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/CalendarView.qml
-rm -rf ~/.cache/plasm* ~/.cache/ico*
-```
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/fixes.png" alt="fixes"/>
-</p>
-
 ## Hacks for small screen resolution
 
-- Install widgets [Active Window Control](https://github.com/kotelnik/plasma-applet-active-window-control) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
+- Install widgets [Active Window Control](https://www.opendesktop.org/p/998910/) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
 - Disable window buttons & titlebar on decoration:
 
 open rc-file on aurorae theme and set:
@@ -106,7 +89,7 @@ TitleEdgeTop=0
 
 ## Known issues
 
-- On NVIDIA propietary video driver Aurorae have wrong rendering by default with Materia theme. For fix that use this config on ~/.Xresources:
+- On NVIDIA propietary video driver Aurorae have wrong rendering by default with Materia theme. For fix that use this config on **~/.Xresources**:
 
 ```
 Xft.dpi:       96
