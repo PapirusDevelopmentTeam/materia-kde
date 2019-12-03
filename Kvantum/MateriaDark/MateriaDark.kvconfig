@@ -137,7 +137,7 @@ inherits=PanelButtonCommand
 text.normal.color=#dfdfdf
 text.bold=false
 indicator.element=arrow
-indicator.size=0
+indicator.size=8
 frame.expansion=34
 
 [ToolbarButton]

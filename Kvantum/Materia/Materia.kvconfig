@@ -140,7 +140,7 @@ text.press.color=#444444
 text.toggle.color=white
 text.bold=false
 indicator.element=arrow
-indicator.size=0
+indicator.size=8
 frame.expansion=34
 
 [ToolbarButton]
