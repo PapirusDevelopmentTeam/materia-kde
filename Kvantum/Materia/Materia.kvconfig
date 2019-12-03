@@ -111,10 +111,10 @@ opaque_colors=false
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=7
-frame.bottom=7
-frame.left=7
-frame.right=7
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 interior=true
 interior.element=button
 indicator.size=8
