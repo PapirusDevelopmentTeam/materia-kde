@@ -1,62 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg1076" width="109" height="125" version="1">
- <defs id="null">
-  <filter id="filter7986-7-9-7-4-0" width="1" height="1" x="0" y="0" style="color-interpolation-filters:sRGB">
-   <feTurbulence id="feTurbulence7988-54-9-1-4-1" baseFrequency=".03" numOctaves="5" result="result1" seed="0" type="fractalNoise"/>
-   <feDisplacementMap id="feDisplacementMap7990-3-05-6-7-0" in="SourceGraphic" in2="result1" result="result3" scale="7" xChannelSelector="R" yChannelSelector="G"/>
-   <feComposite id="feComposite7992-2-08-7-23-6" in="result3" in2="result1" operator="in" result="result4"/>
-   <feGaussianBlur id="feGaussianBlur7994-4-0-9-1-96" in="result4" result="result8" stdDeviation=".7"/>
-   <feConvolveMatrix id="feConvolveMatrix7996-8-8-2-4-6" bias="0" divisor="1" in="result8" kernelMatrix="1 1 1 1 -8 1 1 1 1" order="3 3" preserveAlpha="true" result="result0" targetX="1" targetY="1"/>
-   <feColorMatrix id="feColorMatrix7998-9-71-3-3-3" in="result0" result="result1" type="luminanceToAlpha" values="1"/>
-   <feComposite id="feComposite8000-2-2-2-4-88" in2="result1" k1="0" k2="5" k3="0" k4="0" operator="arithmetic" result="result11"/>
-   <feGaussianBlur id="feGaussianBlur8002-70-11-4-0-82" in="result11" result="result7" stdDeviation=".5"/>
-   <feColorMatrix id="feColorMatrix8004-7-4-2-5-1" result="result9" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 0"/>
-   <feFlood id="feFlood8006-4-9-1-7-8" flood-color="#9D5728" in="result9" result="result10"/>
-   <feComposite id="feComposite8008-1-2-8-6-95" in="result10" in2="result9" operator="in" result="result12"/>
-   <feComposite id="feComposite8010-6-2-1-8-17" in2="SourceGraphic" operator="in"/>
-  </filter>
-  <filter id="filter7986-7-9-7-4-1-5" width="1" height="1" x="0" y="0" style="color-interpolation-filters:sRGB">
-   <feTurbulence id="feTurbulence7988-54-9-1-4-6-0" baseFrequency=".03" numOctaves="5" result="result1" seed="0" type="fractalNoise"/>
-   <feDisplacementMap id="feDisplacementMap7990-3-05-6-7-3-0" in="SourceGraphic" in2="result1" result="result3" scale="7" xChannelSelector="R" yChannelSelector="G"/>
-   <feComposite id="feComposite7992-2-08-7-23-0-6" in="result3" in2="result1" operator="in" result="result4"/>
-   <feGaussianBlur id="feGaussianBlur7994-4-0-9-1-87-8" in="result4" result="result8" stdDeviation=".7"/>
-   <feConvolveMatrix id="feConvolveMatrix7996-8-8-2-4-4-7" bias="0" divisor="1" in="result8" kernelMatrix="1 1 1 1 -8 1 1 1 1" order="3 3" preserveAlpha="true" result="result0" targetX="1" targetY="1"/>
-   <feColorMatrix id="feColorMatrix7998-9-71-3-3-40-3" in="result0" result="result1" type="luminanceToAlpha" values="1"/>
-   <feComposite id="feComposite8000-2-2-2-4-52-1" in2="result1" k1="0" k2="5" k3="0" k4="0" operator="arithmetic" result="result11"/>
-   <feGaussianBlur id="feGaussianBlur8002-70-11-4-0-07-2" in="result11" result="result7" stdDeviation=".5"/>
-   <feColorMatrix id="feColorMatrix8004-7-4-2-5-7-2" result="result9" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 0"/>
-   <feFlood id="feFlood8006-4-9-1-7-9-1" flood-color="#9D5728" in="result9" result="result10"/>
-   <feComposite id="feComposite8008-1-2-8-6-7-3" in="result10" in2="result9" operator="in" result="result12"/>
-   <feComposite id="feComposite8010-6-2-1-8-4-6" in2="SourceGraphic" operator="in"/>
-  </filter>
-  <filter id="filter7986-7-9-7-4-2-6" width="1" height="1" x="0" y="0" style="color-interpolation-filters:sRGB">
-   <feTurbulence id="feTurbulence7988-54-9-1-4-9-4" baseFrequency=".03" numOctaves="5" result="result1" seed="0" type="fractalNoise"/>
-   <feDisplacementMap id="feDisplacementMap7990-3-05-6-7-78-0" in="SourceGraphic" in2="result1" result="result3" scale="7" xChannelSelector="R" yChannelSelector="G"/>
-   <feComposite id="feComposite7992-2-08-7-23-23-1" in="result3" in2="result1" operator="in" result="result4"/>
-   <feGaussianBlur id="feGaussianBlur7994-4-0-9-1-9-2" in="result4" result="result8" stdDeviation=".7"/>
-   <feConvolveMatrix id="feConvolveMatrix7996-8-8-2-4-0-0" bias="0" divisor="1" in="result8" kernelMatrix="1 1 1 1 -8 1 1 1 1" order="3 3" preserveAlpha="true" result="result0" targetX="1" targetY="1"/>
-   <feColorMatrix id="feColorMatrix7998-9-71-3-3-53-5" in="result0" result="result1" type="luminanceToAlpha" values="1"/>
-   <feComposite id="feComposite8000-2-2-2-4-75-4" in2="result1" k1="0" k2="5" k3="0" k4="0" operator="arithmetic" result="result11"/>
-   <feGaussianBlur id="feGaussianBlur8002-70-11-4-0-0-2" in="result11" result="result7" stdDeviation=".5"/>
-   <feColorMatrix id="feColorMatrix8004-7-4-2-5-55-8" result="result9" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 0"/>
-   <feFlood id="feFlood8006-4-9-1-7-4-7" flood-color="#9D5728" in="result9" result="result10"/>
-   <feComposite id="feComposite8008-1-2-8-6-1-2" in="result10" in2="result9" operator="in" result="result12"/>
-   <feComposite id="feComposite8010-6-2-1-8-5-2" in2="SourceGraphic" operator="in"/>
-  </filter>
-  <filter id="filter7986-7-9-7-4-5-5" width="1" height="1" x="0" y="0" style="color-interpolation-filters:sRGB">
-   <feTurbulence id="feTurbulence7988-54-9-1-4-03-1" baseFrequency=".03" numOctaves="5" result="result1" seed="0" type="fractalNoise"/>
-   <feDisplacementMap id="feDisplacementMap7990-3-05-6-7-79-5" in="SourceGraphic" in2="result1" result="result3" scale="7" xChannelSelector="R" yChannelSelector="G"/>
-   <feComposite id="feComposite7992-2-08-7-23-7-9" in="result3" in2="result1" operator="in" result="result4"/>
-   <feGaussianBlur id="feGaussianBlur7994-4-0-9-1-8-1" in="result4" result="result8" stdDeviation=".7"/>
-   <feConvolveMatrix id="feConvolveMatrix7996-8-8-2-4-82-2" bias="0" divisor="1" in="result8" kernelMatrix="1 1 1 1 -8 1 1 1 1" order="3 3" preserveAlpha="true" result="result0" targetX="1" targetY="1"/>
-   <feColorMatrix id="feColorMatrix7998-9-71-3-3-4-9" in="result0" result="result1" type="luminanceToAlpha" values="1"/>
-   <feComposite id="feComposite8000-2-2-2-4-8-1" in2="result1" k1="0" k2="5" k3="0" k4="0" operator="arithmetic" result="result11"/>
-   <feGaussianBlur id="feGaussianBlur8002-70-11-4-0-97-0" in="result11" result="result7" stdDeviation=".5"/>
-   <feColorMatrix id="feColorMatrix8004-7-4-2-5-5-9" result="result9" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 0"/>
-   <feFlood id="feFlood8006-4-9-1-7-38-0" flood-color="#9D5728" in="result9" result="result10"/>
-   <feComposite id="feComposite8008-1-2-8-6-85-5" in="result10" in2="result9" operator="in" result="result12"/>
-   <feComposite id="feComposite8010-6-2-1-8-29-05" in2="SourceGraphic" operator="in"/>
-  </filter>
- </defs>
  <g id="minimized-bottom">
   <rect style="opacity:0.001" id="rect55" width="14" height="3" x="3" y="122"/>
   <path style="opacity:0.05;fill:#dfdfdf" id="path57" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
@@ -253,33 +195,33 @@
   <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" id="path293" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-progress-bottom" transform="translate(21)">
-  <rect style="opacity:0.00100002" id="rect296" width="14" height="3" x="3" y="17"/>
+  <rect style="opacity:0.001" id="rect296" width="14" height="3" x="3" y="17"/>
   <path style="fill:#ff9800" id="path298" d="m 3,17 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="north-progress-left" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect301" width="3" height="14" x="1" y="66"/>
+  <rect style="opacity:0.001" id="rect301" width="3" height="14" x="1" y="66"/>
  </g>
  <g id="north-progress-right" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect304" width="3" height="14" x="18" y="66"/>
+  <rect style="opacity:0.001" id="rect304" width="3" height="14" x="18" y="66"/>
  </g>
  <g id="north-progress-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,-1.41538)">
-  <rect style="opacity:0.00100002" id="rect307" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.001" id="rect307" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="north-progress-top" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect310" width="14" height="3" x="4" y="63"/>
+  <rect style="opacity:0.001" id="rect310" width="14" height="3" x="4" y="63"/>
  </g>
  <g id="north-progress-topleft" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect313" width="3" height="3" x="1" y="63"/>
+  <rect style="opacity:0.001" id="rect313" width="3" height="3" x="1" y="63"/>
  </g>
  <g id="north-progress-topright" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect316" width="3" height="3" x="18" y="63"/>
+  <rect style="opacity:0.001" id="rect316" width="3" height="3" x="18" y="63"/>
  </g>
  <g id="north-progress-bottomleft" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect319" width="3" height="3" x="1" y="80"/>
+  <rect style="opacity:0.001" id="rect319" width="3" height="3" x="1" y="80"/>
   <path style="fill:#ff9800" id="path321" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="north-progress-bottomright" transform="translate(20,-63)">
-  <rect style="opacity:0.00100002" id="rect324" width="3" height="3" x="18" y="80"/>
+  <rect style="opacity:0.001" id="rect324" width="3" height="3" x="18" y="80"/>
   <path style="fill:#ff9800" id="path326" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-minimized-bottom" transform="translate(21)">
@@ -468,21 +410,21 @@
   <path style="fill:#4285f4" id="path550" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="progress-top">
-  <rect style="opacity:0.00100002" id="rect553" width="14" height="3" x="3" y="-3" transform="scale(1,-1)"/>
+  <rect style="opacity:0.001" id="rect553" width="14" height="3" x="3" y="-3" transform="scale(1,-1)"/>
   <path style="fill:#ff9800" id="path555" d="M 3,3 V 2 1 h 14 v 1 1 z"/>
  </g>
- <rect id="progress-left" width="3" height="14" x="0" y="-17" transform="scale(1,-1)" style="opacity:0.00100002"/>
- <rect id="progress-right" width="3" height="14" x="17" y="-17" transform="scale(1,-1)" style="opacity:0.00100002"/>
- <rect id="progress-center" width="14" height="14" x="3" y="-17" transform="scale(1,-1)" style="opacity:0.00100002;stroke-width:0.74726474"/>
- <rect id="progress-bottom" width="14" height="3" x="3" y="-20" transform="scale(1,-1)" style="opacity:0.00100002"/>
- <rect id="progress-bottomleft" width="3" height="3" x="0" y="-20" transform="scale(1,-1)" style="opacity:0.00100002"/>
- <rect id="progress-bottomright" width="3" height="3" x="17" y="-20" transform="scale(1,-1)" style="opacity:0.00100002"/>
+ <rect id="progress-left" width="3" height="14" x="0" y="-17" transform="scale(1,-1)" style="opacity:0.001"/>
+ <rect id="progress-right" width="3" height="14" x="17" y="-17" transform="scale(1,-1)" style="opacity:0.001"/>
+ <rect id="progress-center" width="14" height="14" x="3" y="-17" transform="scale(1,-1)" style="opacity:0.001;stroke-width:0.74726474"/>
+ <rect id="progress-bottom" width="14" height="3" x="3" y="-20" transform="scale(1,-1)" style="opacity:0.001"/>
+ <rect id="progress-bottomleft" width="3" height="3" x="0" y="-20" transform="scale(1,-1)" style="opacity:0.001"/>
+ <rect id="progress-bottomright" width="3" height="3" x="17" y="-20" transform="scale(1,-1)" style="opacity:0.001"/>
  <g id="progress-topleft">
-  <rect style="opacity:0.00100002" id="rect576" width="3" height="3" x="0" y="-3" transform="scale(1,-1)"/>
+  <rect style="opacity:0.001" id="rect576" width="3" height="3" x="0" y="-3" transform="scale(1,-1)"/>
   <path style="fill:#ff9800" id="path578" d="M 1,3 V 2 C 1,2 1,1 2,1 H 3 V 2 3 H 2 Z"/>
  </g>
  <g id="progress-topright">
-  <rect style="opacity:0.00100002" id="rect581" width="3" height="3" x="17" y="-3" transform="scale(1,-1)"/>
+  <rect style="opacity:0.001" id="rect581" width="3" height="3" x="17" y="-3" transform="scale(1,-1)"/>
   <path style="fill:#ff9800" id="path583" d="M 17,3 V 2 1 h 1 c 0,0 1,0 1,1 v 1 h -1 z"/>
  </g>
  <g id="east-minimized-bottom" transform="translate(42)">
@@ -892,7 +834,7 @@
   <path style="fill:#ff9800" id="path1073" d="m 80,3 h 1 1 V 2 c 0,0 0,-1 -1,-1 h -1 v 1 z"/>
  </g>
  <g id="minimized-top" transform="translate(-1,42)">
-  <rect id="rect1482" width="14" height="3" x="4" y="63" style="opacity:0.00100002"/>
+  <rect id="rect1482" width="14" height="3" x="4" y="63" style="opacity:0.001"/>
   <g id="g1486" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
    <path id="path1484" d="m 5,64 v 1 1 h 26 v -1 -1 z" transform="matrix(1,0,0,-1,0,93)" style="opacity:0.05;fill:#dfdfdf"/>
   </g>
