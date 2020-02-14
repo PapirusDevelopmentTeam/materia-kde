@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg4306" width="22" height="22" version="1.1" style="enable-background:new">
  <g id="pressed-center">
   <g id="g4172" transform="translate(46)">
-   <rect id="rect4164" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+   <rect id="rect4164" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
   </g>
-  <circle style="opacity:0.16;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="path4202" cx="57" cy="11" r="11"/>
-  <rect style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" id="rect4139" width="8" height="2" x="53" y="-15" transform="scale(1,-1)"/>
+  <circle style="opacity:0.16;fill:#000000" id="path4202" cx="57" cy="11" r="11"/>
+  <rect style="opacity:1;fill:#676767" id="rect4139" width="8" height="2" x="53" y="-15" transform="scale(1,-1)"/>
  </g>
  <g id="hover-center">
   <g id="g4206" transform="translate(23)">
-   <rect id="rect4208" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+   <rect id="rect4208" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
   </g>
-  <circle style="opacity:0.07;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="circle4212" cx="34" cy="11" r="11"/>
-  <rect style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" id="rect4214" width="8" height="2" x="30" y="-15" transform="scale(1,-1)"/>
+  <circle style="opacity:0.07;fill:#000000" id="circle4212" cx="34" cy="11" r="11"/>
+  <rect style="opacity:1;fill:#676767" id="rect4214" width="8" height="2" x="30" y="-15" transform="scale(1,-1)"/>
  </g>
  <g id="active-center">
-  <rect id="rect4266" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="path4268" d="m 7,12.999982 0,2 8,0 0,-2 z" style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75"/>
+  <rect id="rect4266" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path id="path4268" d="m 7,12.999982 0,2 8,0 0,-2 z" style="opacity:1;fill:#676767"/>
  </g>
  <g id="inactive-center" transform="translate(69,0)">
-  <rect id="rect4180" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="rect4139-3" d="m 7,12.999982 0,2 8,0 0,-2 z" style="opacity:0.3;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75"/>
+  <rect id="rect4180" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path id="rect4139-3" d="m 7,12.999982 0,2 8,0 0,-2 z" style="opacity:0.7;fill:#676767"/>
  </g>
  <g id="deactivated-center" transform="translate(92,0)">
-  <rect id="rect4278" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="path4280" d="m 7,12.999982 0,2 8,0 0,-2 z" style="opacity:0.3;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75"/>
+  <rect id="rect4278" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path id="path4280" d="m 7,12.999982 0,2 8,0 0,-2 z" style="opacity:0.7;fill:#676767"/>
  </g>
 </svg>
