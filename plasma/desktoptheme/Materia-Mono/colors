@@ -103,7 +103,7 @@ ForegroundPositive=1,162,153
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=Materia Mono
+ColorScheme=MateriaMono
 Name=Materia Mono
 shadeSortColumn=true
 
