@@ -103,7 +103,7 @@ ForegroundPositive=1,162,153
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=Materia Light
+ColorScheme=MateriaLight
 Name=Materia Light
 shadeSortColumn=true
 
