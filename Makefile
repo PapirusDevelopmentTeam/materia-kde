@@ -31,6 +31,7 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia-Mono
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-light
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
