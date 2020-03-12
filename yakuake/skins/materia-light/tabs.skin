@@ -1,0 +1,37 @@
+[Description]
+Skin=Materia Light
+Author=Marcel Kapfer
+Email=opensource@mmk2410.org
+Web=https://github.com/PapirusDevelopmentTeam/materia-kde
+Icon=/logo.svg
+
+[Tabs]
+x=30
+y=0
+red=103
+green=103
+blue=103
+selected_background=/tabs/tab_selected.svg
+unselected_background=/tabs/tab_unselected.svg
+prevent_closing_image=/tabs/lock.svg
+prevent_closing_image_x=0
+prevent_closing_image_y=9
+
+[Background]
+back_image=/tabs/background_center.svg
+left_corner=/tabs/background_left.svg
+right_corner=/tabs/background_right.svg
+
+[PlusButton]
+x=10
+y=9
+up_image=/tabs/plus_up.svg
+over_image=/tabs/plus_over.svg
+down_image=/tabs/plus_down.svg
+
+[MinusButton]
+x=21
+y=9
+up_image=/tabs/minus_up.svg
+over_image=/tabs/minus_over.svg
+down_image=/tabs/minus_down.svg

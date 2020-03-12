@@ -69,6 +69,7 @@ _uninstall() {
     _rm "$PREFIX/share/plasma/desktoptheme/Materia-Mono"
     _rm "$PREFIX/share/plasma/look-and-feel/com.github.varlesh.materia"
     _rm "$PREFIX/share/yakuake/skins/materia-dark"
+    _rm "$PREFIX/share/yakuake/skins/materia-light"
 }
 
 _install() {
