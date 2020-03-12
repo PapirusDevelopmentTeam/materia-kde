@@ -1,94 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg8"
-   width="7"
-   height="34"
-   version="1.1"
-   viewBox="0 0 7 34"
-   sodipodi:docname="background_center.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="674"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="13.882353"
-     inkscape:cx="-1.1515758"
-     inkscape:cy="14.192523"
-     inkscape:window-x="0"
-     inkscape:window-y="735"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g887" />
-  <defs
-     id="defs2">
-    <linearGradient
-       id="linearGradient831">
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop827"
-         offset="0" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0"
-         id="stop829"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient833"
-       x1="9"
-       x2="9"
-       y1="278.444"
-       y2="312.444"
-       gradientTransform="matrix(0.33333333,0,0,0.23529412,7.0000001,238.92758)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient831" />
-  </defs>
-  <g
-     id="layer1"
-     transform="translate(0,-278.44374)">
-    <g
-       id="g887"
-       transform="translate(-7,1.4414062e-5)">
-      <rect
-         style="opacity:0.4;fill:url(#linearGradient833);fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect825"
-         width="7"
-         height="8"
-         x="7"
-         y="304.44" />
-      <rect
-         style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2.53859115;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect849"
-         width="7"
-         height="29"
-         x="7"
-         y="278.44" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg8" width="7" height="34" version="1.1">
+ <defs id="defs2">
+  <linearGradient id="linearGradient831">
+   <stop id="stop827" style="stop-color:#000000;stop-opacity:1" offset="0"/>
+   <stop id="stop829" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient833" x1="9" x2="9" y1="278.444" y2="312.444" gradientTransform="matrix(0.33333333,0,0,0.23529412,1e-7,-39.512423)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
+ </defs>
+ <g id="g826">
+  <rect id="rect825" style="opacity:0.4;fill:url(#linearGradient833)" width="7" height="8" x="0" y="26"/>
+  <rect id="rect849" style="opacity:1;fill:#e0e0e0" width="7" height="29" x="0" y="0"/>
+  <rect id="rect828" style="opacity:0.3;fill:#ffffff" width="7" height="1" x="0" y="28"/>
+ </g>
 </svg>

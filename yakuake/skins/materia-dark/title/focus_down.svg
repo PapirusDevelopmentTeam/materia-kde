@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg4306" width="22" height="22" version="1.1" style="enable-background:new">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4306" style="enable-background:new" width="22" height="22" version="1.1">
  <g id="g919">
-  <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4164" width="22" height="22" x="0" y="0"/>
-  <circle style="opacity:0.19;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" id="path4202" cx="11" cy="11" r="11"/>
-  <path id="rect4139" d="m 7,7 v 2 6 h 8 V 9 7 Z m 2,2 h 4 v 3 1 H 9 v -1 z" style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75"/>
+  <rect id="rect4164" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <circle id="path4202" style="opacity:0.19;fill:#ffffff" cx="11" cy="11" r="11"/>
+  <path id="rect4139" style="opacity:1;fill:#dfdfdf" d="m 7,7 v 2 6 h 8 V 9 7 Z m 2,2 h 4 v 3 1 H 9 v -1 z"/>
  </g>
 </svg>
