@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg8" width="12" height="12" version="1.1" viewBox="0 0 12 12">
- <rect id="rect817" width="12" height="12" x="0" y="0" style="opacity:1;fill:#383838"/>
- <path style="opacity:0.19;fill:#ffffff" id="path825" d="M 2.4,0 C 1.0704,0 0,1.0704 0,2.4 V 9.6 C 0,10.9296 1.0704,12 2.4,12 H 9.6 C 10.9296,12 12,10.9296 12,9.6 V 2.4 C 12,1.0704 10.9296,0 9.6,0 Z"/>
- <path style="opacity:1;fill:#dfdfdf" id="path829" d="M 5,3 H 7 V 5 H 9 V 7 H 7 V 9 H 5 V 7 H 3 V 5 h 2 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg8" width="30" height="12" version="1.1">
+ <rect id="rect817" style="opacity:1;fill:#383838" width="30" height="12" x="0" y="0"/>
+ <path id="path829" style="opacity:1;fill:#dfdfdf" d="m 23,3 h 2 v 2 h 2 V 7 H 25 V 9 H 23 V 7 H 21 V 5 h 2 z"/>
+ <path id="path825" style="opacity:0.19;fill:#ffffff" d="M 10.400586,0 C 9.0709851,0 8.0001955,1.0707906 8.0001955,2.4003906 V 9.5996094 C 8.0001955,10.929209 9.0709851,12 10.400586,12 h 5.599609 1.599609 2.800587 0.798828 6.40039 C 28.929209,12 30,10.929209 30,9.5996094 V 2.4003906 C 30,1.0707906 28.929209,0 27.599609,0 h -6.40039 -0.798828 -2.800587 -1.599609 z"/>
 </svg>

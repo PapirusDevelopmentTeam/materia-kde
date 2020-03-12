@@ -23,7 +23,7 @@ left_corner=/tabs/background_left.svg
 right_corner=/tabs/background_right.svg
 
 [PlusButton]
-x=10
+x=1
 y=9
 up_image=/tabs/plus_up.svg
 over_image=/tabs/plus_over.svg
