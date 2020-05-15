@@ -103,6 +103,23 @@ Xft.rgba:      rgb
 
 - Enabled blur effect have some bugs with decoration shadows on aurorae. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
 
+## BlackList apps
+More newest KDE apps now use QML/Kirigami - this style NOT SUPPORT THEMING on ANY engine, more elements HARDCODED. Please not open issue about that. We can't doing anything!!!
+- Kirigami Gallery
+- Ikona
+- Alligator
+- Kaidan
+- Elisa
+- KDE Itinerary
+- KTrip
+- Kirogi
+- VVave (ex Babe)
+- Keysmith
+- Calindori
+- KDE Connect SMS Module
+- Some modules systemsettings5
+- to be continued...
+
 ## Donate
 
 If you like my project, you can donate at:
