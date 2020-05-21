@@ -119,7 +119,7 @@
   <path id="path141" style="opacity:0.3;fill:url(#radialGradient5890)" d="m 1.9999925,39 v 0.5 1 c 0.5371433,2.5133 0.7102377,2.1184 2.9999964,2.5 V 42 41 L 3.9999925,40.5 c -1.34164,-0.6708 -2,0 -2,-1.5 z"/>
   <path id="path143" style="fill:#424242" d="M 4.9999889,40.99996 H 3.9999925 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 2.9999964 z"/>
  </g>
- <path id="pressed-center" style="fill:#4285f4" d="M 175,39 V 7 h -32 v 32 z"/>
+ <path id="pressed-center" style="fill:#8ab4f8" d="M 175,39 V 7 h -32 v 32 z"/>
  <g id="normal-top">
   <rect id="rect1190" style="opacity:0.001" width="32" height="4" x="5" y="3"/>
   <path id="path149" style="fill:#424242" d="m 5.000103,7 h 31.9998 V 3.99996 h -32 z"/>
@@ -127,15 +127,15 @@
  </g>
  <g id="pressed-left">
   <rect id="rect983" style="opacity:0.001" width="5" height="32" x="138" y="7"/>
-  <path id="path156" style="fill:#4285f4" d="M 143,38.999763 V 6.99996 h -3 v 32 z"/>
+  <path id="path156" style="fill:#8ab4f8" d="M 143,38.999763 V 6.99996 h -3 v 32 z"/>
  </g>
  <g id="pressed-bottom">
   <rect id="rect991" style="opacity:0.001" width="32" height="4" x="143" y="39"/>
-  <path id="path159" style="fill:#4285f4" d="M 174.9998,39.000042 H 143 V 41 h 32 z"/>
+  <path id="path159" style="fill:#8ab4f8" d="M 174.9998,39.000042 H 143 V 41 h 32 z"/>
  </g>
  <g id="pressed-top">
   <rect id="rect993" style="opacity:0.001" width="32" height="4" x="143" y="3"/>
-  <path id="path162" style="fill:#4285f4" d="M 143.0002,7.00004 H 175 V 4 h -32 z"/>
+  <path id="path162" style="fill:#8ab4f8" d="M 143.0002,7.00004 H 175 V 4 h -32 z"/>
  </g>
  <g id="normal-topleft">
   <rect id="rect1186" style="opacity:0.001" width="5" height="4" x="0" y="3"/>
@@ -149,34 +149,34 @@
  </g>
  <g id="pressed-bottomleft">
   <rect id="rect987" style="opacity:0.001" width="5" height="4" x="138" y="39"/>
-  <path id="path179" style="fill:#4285f4" d="m 143,41.000002 h -1 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
+  <path id="path179" style="fill:#8ab4f8" d="m 143,41.000002 h -1 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
  </g>
  <g id="pressed-topleft">
   <rect id="rect995" style="opacity:0.001" width="5" height="4" x="138" y="3"/>
-  <path id="path182" style="fill:#4285f4" d="m 143,3.99996 h -1 c -1.5,0 -2,0.5 -2,2 V 7 h 3 z"/>
+  <path id="path182" style="fill:#8ab4f8" d="m 143,3.99996 h -1 c -1.5,0 -2,0.5 -2,2 V 7 h 3 z"/>
  </g>
  <g id="pressed-right">
   <rect id="rect985" style="opacity:0.001" width="5" height="32" x="175" y="7"/>
-  <path id="path999" style="fill:#4285f4" d="M 175,39 V 7.000197 h 3 v 32 z"/>
+  <path id="path999" style="fill:#8ab4f8" d="M 175,39 V 7.000197 h 3 v 32 z"/>
  </g>
  <g id="pressed-bottomright">
   <rect id="rect989" style="opacity:0.001" width="5" height="4" x="175" y="39"/>
   <g id="ff" transform="matrix(-1,0,0,1,179.9998,-13.000042)">
-   <path id="path1041" style="fill:#4285f4" d="M 5,54.000042 H 4 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
+   <path id="path1041" style="fill:#8ab4f8" d="M 5,54.000042 H 4 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
   </g>
  </g>
  <g id="pressed-topright">
   <rect id="rect997" style="opacity:0.001" width="5" height="4" x="175" y="3"/>
-  <path id="path1023" style="fill:#4285f4" d="m 175,4 h 1 c 1.5,0 2,0.5 2,2 v 1.00004 h -3 z"/>
+  <path id="path1023" style="fill:#8ab4f8" d="m 175,4 h 1 c 1.5,0 2,0.5 2,2 v 1.00004 h -3 z"/>
  </g>
- <rect id="focus-hint-top-margin" style="opacity:1;fill:#9a06ff" width="2" height=".1" x="112" y="3.9"/>
- <rect id="focus-hint-right-margin" style="opacity:1;fill:#9a06ff" width="2" height=".1" x="-22" y="132" transform="rotate(-90)"/>
- <rect id="focus-hint-left-margin" style="opacity:1;fill:#9a06ff" width="2" height=".1" x="-22" y="93.9" transform="rotate(-90)"/>
- <rect id="focus-hint-bottom-margin" style="opacity:1;fill:#9a06ff" width="2" height="3" x="112" y="41"/>
- <rect id="hint-stretch-borders" style="opacity:1;fill:#9a06ff" width="2" height="2" x="0" y="-4" ry="0"/>
- <rect id="hover-hint-top-margin" style="opacity:1;fill:#9a06ff" width="2" height=".1" x="67" y="3.9"/>
- <rect id="hover-hint-right-margin" style="fill:#9a06ff7" width="2" height=".1" x="-22" y="87" transform="rotate(-90)"/>
- <rect id="hover-hint-left-margin" style="opacity:1;fill:#9a06ff" width="2" height=".1" x="-22" y="48.9" transform="rotate(-90)"/>
+ <rect id="focus-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="112" y="3.9"/>
+ <rect id="focus-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="-22" y="132" transform="rotate(-90)"/>
+ <rect id="focus-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="-22" y="93.9" transform="rotate(-90)"/>
+ <rect id="focus-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="3" x="112" y="41"/>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff00ff" width="2" height="2" x="0" y="-4" ry="0"/>
+ <rect id="hover-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="67" y="3.9"/>
+ <rect id="hover-hint-right-margin" style="fill:#ff00ff" width="2" height=".1" x="-22" y="87" transform="rotate(-90)"/>
+ <rect id="hover-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="-22" y="48.9" transform="rotate(-90)"/>
  <path id="hover-center" style="fill:#424242" d="M 83.999998,39 V 7 H 51.999996 v 32 z"/>
  <g id="hover-bottom" transform="translate(0,-1006.3622)">
   <path id="path197" style="fill:url(#linearGradient7337)" d="m 52,1052.3622 h 32.000002 v -5 H 52 Z"/>
@@ -204,15 +204,15 @@
   <path id="path229" style="fill:#424242" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
   <path id="path231" style="opacity:0.05;fill:#ffffff" d="m 84.999997,1010.3622 c 1.5,0 2,0.5 2,2 v 1 c 0,-1.5 -0.5,-2 -2,-2 h -0.999996 v -1 z"/>
  </g>
- <rect id="hover-hint-bottom-margin" style="opacity:1;fill:#9a06ff" width="2" height="3" x="67" y="41"/>
- <rect id="normal-hint-top-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="19" y="3"/>
- <rect id="normal-hint-right-margin" style="opacity:1;fill:#9a06ff" width="2" height="5" x="-22" y="37" transform="rotate(-90)"/>
- <rect id="normal-hint-left-margin" style="opacity:1;fill:#9a06ff" width="2" height="5" x="-22" y="0" transform="rotate(-90)"/>
- <rect id="normal-hint-bottom-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="19" y="39"/>
- <rect id="pressed-hint-top-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="158" y="3"/>
- <rect id="pressed-hint-right-margin" style="opacity:1;fill:#9a06ff" width="2" height="5" x="-22" y="175" transform="rotate(-90)"/>
- <rect id="pressed-hint-left-margin" style="opacity:1;fill:#9a06ff" width="2" height="5" x="-22" y="138" transform="rotate(-90)"/>
- <rect id="pressed-hint-bottom-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="158" y="39"/>
+ <rect id="hover-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="3" x="67" y="41"/>
+ <rect id="normal-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="19" y="3"/>
+ <rect id="normal-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="37" transform="rotate(-90)"/>
+ <rect id="normal-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="0" transform="rotate(-90)"/>
+ <rect id="normal-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="19" y="39"/>
+ <rect id="pressed-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="158" y="3"/>
+ <rect id="pressed-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="175" transform="rotate(-90)"/>
+ <rect id="pressed-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="138" transform="rotate(-90)"/>
+ <rect id="pressed-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="158" y="39"/>
  <path id="toolbutton-hover-center" style="opacity:0.1;fill:#ffffff" d="m 206,38.00004 v -16 h -16 v 16 z"/>
  <g id="toolbutton-hover-left" transform="matrix(1,0,0,0.50000306,2,3.9999497)">
   <path id="path1164" style="opacity:0.1;fill:#ffffff" d="M 188,67.999763 V 35.99996 h -3 v 32 z"/>
@@ -263,12 +263,12 @@
  <g id="toolbutton-pressed-bottomright" transform="translate(11,-30)">
   <path id="path1351" style="opacity:0.2;fill:#ffffff" d="M 220,70.99996 C 222,71 223,69 223,67.99992 h -3 z"/>
  </g>
- <rect id="toolbutton-hover-hint-left-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="-31" y="187" transform="rotate(-90)"/>
- <rect id="toolbutton-hover-hint-top-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="-199" y="19" transform="scale(-1,1)"/>
- <rect id="toolbutton-hover-hint-right-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="-31" y="205" transform="rotate(-90)"/>
- <rect id="toolbutton-hover-hint-bottom-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="197" y="37"/>
- <rect id="toolbutton-pressed-hint-left-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="-31" y="212" transform="rotate(-90)"/>
- <rect id="toolbutton-pressed-hint-top-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="222" y="19"/>
- <rect id="toolbutton-pressed-hint-right-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="-31" y="230" transform="rotate(-90)"/>
- <rect id="toolbutton-pressed-hint-bottom-margin" style="opacity:1;fill:#9a06ff" width="2" height="4" x="222" y="37"/>
+ <rect id="toolbutton-hover-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="187" transform="rotate(-90)"/>
+ <rect id="toolbutton-hover-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-199" y="19" transform="scale(-1,1)"/>
+ <rect id="toolbutton-hover-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="205" transform="rotate(-90)"/>
+ <rect id="toolbutton-hover-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="197" y="37"/>
+ <rect id="toolbutton-pressed-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="212" transform="rotate(-90)"/>
+ <rect id="toolbutton-pressed-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="222" y="19"/>
+ <rect id="toolbutton-pressed-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="230" transform="rotate(-90)"/>
+ <rect id="toolbutton-pressed-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="222" y="37"/>
 </svg>

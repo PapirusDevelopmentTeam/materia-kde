@@ -8,7 +8,7 @@
  </defs>
  <g id="g828">
   <rect id="rect839" style="opacity:0.4;fill:url(#radialGradient843)" width="7" height="8" x="0" y="26"/>
-  <path id="path857" style="opacity:1;fill:#383838" d="m 0,0 v 26 c 0,1.662 1.338,3 3,3 H 7 V 0 Z"/>
+  <path id="path857" style="opacity:1;fill:#2d2d2d" d="m 0,0 v 26 c 0,1.662 1.338,3 3,3 H 7 V 0 Z"/>
   <path id="path826" style="opacity:0.1;fill:#ffffff" d="m 0,25 v 1 c 0,1.662 1.338,3 3,3 H 7 V 28 H 3 C 1.338,28 0,26.662 0,25 Z"/>
  </g>
 </svg>

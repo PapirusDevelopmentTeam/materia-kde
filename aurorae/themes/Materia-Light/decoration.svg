@@ -57,40 +57,40 @@
   <path id="path5038" style="opacity:0.5;fill:url(#radialGradient1062)" d="M 101,971.36216 H 76 v -20 l 25,0 z"/>
   <path id="path5042" style="fill:#e0e0e0" d="m 101,957.36216 -15,0 v -6 h 15 z"/>
  </g>
- <path id="decoration-inactive-center" style="fill:#e0e0e0;fill-opacity:1" d="m 369,101 v 98 h 98 v -98 z"/>
+ <path id="decoration-inactive-center" style="fill:#d6d6d6;fill-opacity:1" d="m 369,101 v 98 h 98 v -98 z"/>
  <g id="decoration-inactive-left" transform="translate(268,-752.36216)">
   <path id="path1117" style="opacity:0.5;fill:url(#linearGradient1187)" d="m 76,853.36216 v 98 h 10 v -98 z"/>
-  <path id="path1119" style="fill:#e0e0e0" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
+  <path id="path1119" style="fill:#d6d6d6" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
  </g>
  <g id="decoration-inactive-top" transform="translate(268,-752.36216)">
-  <path id="path1123" style="fill:#e0e0e0" d="M 101.00061,853.36216 H 199 v -18 h -98 z"/>
+  <path id="path1123" style="fill:#d6d6d6" d="M 101.00061,853.36216 H 199 v -18 h -98 z"/>
   <path id="path1125" style="opacity:0.5;fill-opacity:1;fill:url(#linearGradient905)" d="m 199,833.36216 h -98 v 2 h 98 z"/>
   <path id="path1127" style="opacity:0.2;fill:#ffffff" transform="translate(0,752.36216)" d="m 101,83 v 1 h 98 v -1 z"/>
  </g>
  <g id="decoration-inactive-bottom" transform="translate(268,-752.36216)">
   <path id="path1131" style="opacity:0.5;fill:url(#linearGradient1189)" d="m 101,971.36216 h 98 v -14 h -98 z"/>
-  <path id="path1133" style="fill:#e0e0e0" d="M 198.9994,951.36216 H 101 v 6 h 98 z"/>
+  <path id="path1133" style="fill:#d6d6d6" d="M 198.9994,951.36216 H 101 v 6 h 98 z"/>
  </g>
  <g id="decoration-inactive-bottomleft" transform="translate(268,-752.36216)">
   <path id="path1137" style="opacity:0.5;fill:url(#radialGradient1191)" d="M 101,971.36216 H 76 v -20 h 25 z"/>
-  <path id="path1139" style="fill:#e0e0e0" d="M 101,957.36216 H 86 v -6 h 15 z"/>
+  <path id="path1139" style="fill:#d6d6d6" d="M 101,957.36216 H 86 v -6 h 15 z"/>
  </g>
  <g id="decoration-inactive-topleft" transform="translate(268,-752.36216)">
   <path id="path1143" style="opacity:0.5;fill:url(#radialGradient1193)" d="M 101,833.36216 H 76 v 20 h 25 z"/>
-  <path id="path1145" style="fill:#e0e0e0" d="M 101,835.36216 H 92.000001 C 87.5,835.36216 86,836.86216 86,841.36215 v 12.00001 h 15 z"/>
+  <path id="path1145" style="fill:#d6d6d6" d="M 101,835.36216 H 92.000001 C 87.5,835.36216 86,836.86216 86,841.36215 v 12.00001 h 15 z"/>
   <path id="path1147" style="opacity:0.2;fill:#ffffff" transform="translate(0,752.36216)" d="m 92,83 c -4.500001,0 -6,1.50001 -6,6 v 1 c 0,-4.49999 1.499999,-6 6,-6 h 9 v -1 z"/>
  </g>
  <g id="decoration-inactive-right" transform="matrix(-1,0,0,1,568,-752.36216)">
   <path id="path1151" style="opacity:0.5;fill:url(#linearGradient1195)" d="m 76,853.36216 v 98 h 10 v -98 z"/>
-  <path id="path1153" style="fill:#e0e0e0" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
+  <path id="path1153" style="fill:#d6d6d6" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
  </g>
  <g id="decoration-inactive-topright" transform="matrix(-1,0,0,1,568,-752.36216)">
   <path id="path1157" style="opacity:0.5;fill:url(#radialGradient1197)" d="M 101,833.36216 H 76 v 20 h 25 z"/>
-  <path id="path1159" style="fill:#e0e0e0" d="M 101,835.36216 H 92.000001 C 87.5,835.36216 86,836.86216 86,841.36215 v 12.00001 h 15 z"/>
+  <path id="path1159" style="fill:#d6d6d6" d="M 101,835.36216 H 92.000001 C 87.5,835.36216 86,836.86216 86,841.36215 v 12.00001 h 15 z"/>
   <path id="path1161" style="opacity:0.2;fill:#ffffff" transform="matrix(-1,0,0,1,300,752.36216)" d="m 199,83 v 1 h 9 c 4.5,0 6,1.50001 6,6 v -1 c 0,-4.49999 -1.5,-6 -6,-6 z"/>
  </g>
  <g id="decoration-inactive-bottomright" transform="matrix(-1,0,0,1,568,-752.36216)">
   <path id="path1165" style="opacity:0.5;fill:url(#radialGradient1199)" d="M 101,971.36216 H 76 v -20 h 25 z"/>
-  <path id="path1167" style="fill:#e0e0e0" d="M 101,957.36216 H 86 v -6 h 15 z"/>
+  <path id="path1167" style="fill:#d6d6d6" d="M 101,957.36216 H 86 v -6 h 15 z"/>
  </g>
 </svg>

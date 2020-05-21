@@ -1,17 +1,17 @@
 [Background]
-Color=40,40,40
+Color=24,24,24
 
 [BackgroundFaint]
-Color=40,40,40
+Color=24,24,24
 
 [BackgroundIntense]
 Color=34,34,34
 
 [Color0]
-Color=40,40,40
+Color=24,24,24
 
 [Color0Faint]
-Color=40,40,40
+Color=24,24,24
 
 [Color0Intense]
 Color=127,140,141
@@ -90,6 +90,7 @@ Color=252,252,252
 
 [General]
 Blur=false
+ColorRandomization=false
 Description=MateriaDark
 Opacity=1
 Wallpaper=

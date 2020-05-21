@@ -1,91 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="212" version="1">
- <g id="base-topleft" transform="translate(829.80716,-769.58398)">
-  <path style="opacity:0.001" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg91" width="22" height="6" version="1">
+ <rect id="base-center" style="opacity:0.04;fill:#ffffff" width="2" height="2" x="2" y="2"/>
+ <path id="base-topleft" style="opacity:0.04;fill:#ffffff" d="M 1.9999023,0 V 2 H 0 C 0,2 0,0 1.9999023,0 Z"/>
+ <rect id="base-top" style="opacity:0.04;fill:#ffffff" width="2" height="2" x="2" y="0"/>
+ <path id="base-topright" style="opacity:0.04;fill:#ffffff" d="M 3.9998037,0 C 5.999706,0 5.999706,2 5.999706,2 H 3.9998037 Z"/>
+ <rect id="base-left" style="opacity:0.04;fill:#ffffff" width="2" height="2" x="0" y="2"/>
+ <rect id="base-right" style="opacity:0.04;fill:#ffffff" width="2" height="2" x="4" y="2"/>
+ <g id="base-bottom" transform="matrix(0.06249693,0,0,1,-23.998822,-106)">
+  <path id="path2928" style="opacity:0.04;fill:#ffffff" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
+  <path id="path2930" style="opacity:0.26;fill:#ffffff" d="m 416,112 h 32 v -1 h -32 z"/>
  </g>
- <g id="base-bottomleft" transform="translate(829.80716,-765.58399)">
-  <path style="opacity:0.001" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)" d="m 162,-159 1.4e-4,1.99992 L 160,-157 l 0,-2 z"/>
+ <g id="base-bottomright" transform="matrix(0.99995167,0,0,1,-394.98062,-101)">
+  <path id="rect2971" style="opacity:0.04;fill:#ffffff" d="m 399,105 v 1 h 2 v -1 z"/>
+  <path id="rect2957" style="opacity:0.26;fill:#ffffff" d="m 399,106 h 2 v 1 h -2 z"/>
  </g>
- <g id="base-left" transform="matrix(1,0,0,1.666664,829.80716,-1305.9712)">
-  <rect style="opacity:0.001" width="1" height="21" x="-720.81" y="789.58"/>
+ <g id="base-bottomleft" transform="matrix(0.99995167,0,0,1,-394.98062,-101)">
+  <path id="rect2969" style="opacity:0.04;fill:#ffffff" d="m 395,105 v 1 h 2 v -1 z"/>
+  <path id="rect2959" style="opacity:0.26;fill:#ffffff" d="m 395,106 h 2 v 1 h -2 z"/>
  </g>
- <g id="base-top" transform="matrix(1.9090909,0,0,1,1484.1774,-769.58398)">
-  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="778.58"/>
+ <rect id="hover-center" style="opacity:0.001;fill:#000000" width="2" height="2" x="10" y="2"/>
+ <path id="hover-topleft" style="opacity:0.001;fill:#000000" d="m 9.999999,-1e-5 v 2 H 8 c 0,0 0,-2 1.999999,-2 z"/>
+ <rect id="hover-top" style="opacity:0.001;fill:#000000" width="2" height="2" x="10" y="0"/>
+ <path id="hover-topright" style="opacity:0.001;fill:#000000" d="m 11.999997,-1e-5 c 1.999999,0 1.999999,2 1.999999,2 h -1.999999 z"/>
+ <rect id="hover-left" style="opacity:0.001;fill:#000000" width="2" height="2" x="8" y="2"/>
+ <rect id="hover-right" style="opacity:0.001;fill:#000000" width="2" height="2" x="12" y="2"/>
+ <g id="hover-bottom" transform="matrix(0.06249995,0,0,1,-15.999982,-106)">
+  <path id="path2928-3" style="opacity:0.04;fill:#ffffff" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
+  <path id="path2930-6" style="opacity:1;fill:#1a73e8" d="m 416,112 h 32 v -2 h -32 z"/>
  </g>
- <g id="base-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-765.58399)">
-  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="810.58"/>
+ <g id="hover-bottomright" transform="translate(-386.99971,-101)">
+  <path id="rect2971-7" style="opacity:0.04;fill:#ffffff" d="m 399,105 v 1 h 2 v -1 z"/>
+  <path id="rect2957-5" style="opacity:1;fill:#1a73e8" d="m 399,105 h 2 v 2 h -2 z"/>
  </g>
- <g id="base-topright" transform="translate(879.80713,-769.58398)">
-  <path style="opacity:0.001" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"/>
+ <g id="hover-bottomleft" transform="translate(-386.99971,-101)">
+  <path id="rect2969-3" style="opacity:0.04;fill:#ffffff" d="m 395,105 v 1 h 2 v -1 z"/>
+  <path id="rect2959-5" style="opacity:1;fill:#1a73e8" d="m 395,105 h 2 v 2 h -2 z"/>
  </g>
- <g id="base-bottomright" transform="translate(879.80713,-765.58399)">
-  <path style="opacity:0.001" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" d="m 162,-159 -8e-5,1.99992 L 160,-157 l 0,-2 z"/>
+ <rect id="focus-center" style="opacity:0.001;fill:#000000" width="2" height="2" x="18" y="2"/>
+ <path id="focus-topleft" style="opacity:0.001;fill:#000000" d="M 17.999999,0 V 2 H 16 c 0,0 0,-2 1.999999,-2 z"/>
+ <rect id="focus-top" style="opacity:0.001;fill:#000000" width="2" height="2" x="18" y="0"/>
+ <path id="focus-topright" style="opacity:0.001;fill:#000000" d="m 19.999997,0 c 1.999999,0 1.999999,2 1.999999,2 h -1.999999 z"/>
+ <rect id="focus-left" style="opacity:0.001;fill:#000000" width="2" height="2" x="16" y="2"/>
+ <rect id="focus-right" style="opacity:0.001;fill:#000000" width="2" height="2" x="20" y="2"/>
+ <g id="focus-bottom" transform="matrix(0.06249995,0,0,1,-7.999982,-106)">
+  <path id="path2928-8" style="opacity:0.04;fill:#ffffff" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
+  <path id="path2930-7" style="opacity:1;fill:#1a73e8" d="m 416,112 h 32 v -2 h -32 z"/>
  </g>
- <g id="base-right" transform="matrix(1,0,0,1.666664,879.80713,-1305.9712)">
-  <rect style="opacity:0.001" width="1" height="21" x="-664.81" y="789.58"/>
+ <g id="focus-bottomright" transform="translate(-378.99971,-101)">
+  <path id="rect2971-9" style="opacity:0.04;fill:#ffffff" d="m 399,105 v 1 h 2 v -1 z"/>
+  <path id="rect2957-2" style="opacity:1;fill:#1a73e8" d="m 399,105 h 2 v 2 h -2 z"/>
  </g>
- <g id="base-center" transform="translate(0,58)">
-  <rect style="opacity:0.001" width="105" height="35" x="110" y="-48"/>
+ <g id="focus-bottomleft" transform="translate(-378.99971,-101)">
+  <path id="rect2969-0" style="opacity:0.04;fill:#ffffff" d="m 395,105 v 1 h 2 v -1 z"/>
+  <path id="rect2959-2" style="opacity:1;fill:#1a73e8" d="m 395,105 h 2 v 2 h -2 z"/>
  </g>
- <g id="hover-topleft" transform="translate(829.80716,-713.58398)">
-  <path style="opacity:0.001" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"/>
- </g>
- <g id="hover-bottomleft" transform="translate(829.80716,-709.58399)">
-  <path style="fill:#dfdfdf" d="m -720.80709,810.58596 c -7e-5,-0.002 -7e-5,1.99803 -7e-5,1.99803 l 1.00007,0 0,-1.99803 z"/>
- </g>
- <g id="hover-left" transform="matrix(1,0,0,1.666664,829.80716,-1249.9712)">
-  <rect style="opacity:0.001" width="1" height="21" x="-720.81" y="789.58"/>
- </g>
- <g id="hover-top" transform="matrix(1.9090909,0,0,1,1484.1774,-713.58398)">
-  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="778.58"/>
- </g>
- <g id="hover-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-709.58399)">
-  <path style="fill:#dfdfdf" d="m -719.81,810.58195 55,0 0,1.99803 -55,0 z"/>
- </g>
- <g id="hover-topright" transform="translate(879.80713,-713.58398)">
-  <path style="opacity:0.001" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"/>
- </g>
- <g id="hover-bottomright" transform="translate(879.80713,-709.58399)">
-  <path style="fill:#dfdfdf" d="m -663.80709,810.58596 c -4e-5,-0.002 -4e-5,1.99803 -4e-5,1.99803 l -1.00006,0 0,-1.99803 z"/>
- </g>
- <g id="hover-right" transform="matrix(1,0,0,1.666664,879.80713,-1249.9712)">
-  <rect style="opacity:0.001" width="1" height="21" x="-664.81" y="789.58"/>
- </g>
- <rect id="hover-center" style="opacity:0.001" width="105" height="35" x="110" y="66"/>
- <g id="focus-topleft" transform="translate(829.80716,-665.58398)">
-  <path style="opacity:0.001" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"/>
- </g>
- <g id="focus-bottomleft" transform="translate(829.80716,-661.58399)">
-  <path style="fill:#dfdfdf" d="m -720.80709,810.58596 c -0.003,-0.009 -7e-5,1.99803 -7e-5,1.99803 l 1.00007,0 0,-1.99803 z"/>
- </g>
- <g id="focus-left" transform="matrix(1,0,0,1.666664,829.80716,-1201.9712)">
-  <rect style="opacity:0.001" width="1" height="21" x="-720.81" y="789.58"/>
- </g>
- <g id="focus-top" transform="matrix(1.9090909,0,0,1,1484.1774,-665.58398)">
-  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="778.58"/>
- </g>
- <g id="focus-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-661.58399)">
-  <path style="fill:#dfdfdf" d="m -719.81,810.58195 55,0 0,1.99803 -55,0 z"/>
- </g>
- <g id="focus-topright" transform="translate(879.80713,-665.58398)">
-  <path style="opacity:0.001" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"/>
- </g>
- <g id="focus-bottomright" transform="translate(879.80713,-661.58399)">
-  <path style="fill:#dfdfdf" d="m -663.80709,810.58596 -4e-5,1.99803 -0.99996,0 0,-1.99803 z"/>
- </g>
- <g id="focus-right" transform="matrix(1,0,0,1.666664,879.80713,-1201.9712)">
-  <rect style="opacity:0.001" width="1" height="21" x="-664.81" y="789.58"/>
- </g>
- <rect id="focus-center" style="opacity:0.001" width="105" height="35" x="110" y="114"/>
- <rect id="hover-hint-bottom-margin" style="fill:#4e9a06" width="2" height="2" x="161" y="101"/>
- <rect id="hover-hint-top-margin" style="fill:#4e9a06" width="2" height="1" x="161.5" y="65"/>
- <rect id="hover-hint-left-margin" style="fill:#4e9a06" width="2" height="1" x="-84" y="109" transform="matrix(0,-1,1,0,0,0)"/>
- <rect id="hover-hint-right-margin" style="fill:#4e9a06" width="2" height="1" x="-84" y="215" transform="matrix(0,-1,1,0,0,0)"/>
- <rect id="focus-hint-bottom-margin" style="fill:#4e9a06" width="2" height="2" x="161" y="149"/>
- <rect id="focus-hint-top-margin" style="fill:#4e9a06" width="2" height="1" x="161" y="113"/>
- <rect id="focus-hint-left-margin" style="fill:#4e9a06" width="2" height="1" x="-131.9" y="108.9" transform="matrix(0,-1,1,0,0,0)"/>
- <rect id="focus-hint-right-margin" style="fill:#4e9a06" width="2" height="1" x="-132" y="215" transform="matrix(0,-1,1,0,0,0)"/>
- <rect id="base-hint-top-margin" style="fill:#4e9a06" width="2" height="1" x="161.5" y="9"/>
- <rect id="base-hint-right-margin" style="fill:#4e9a06" width="2" height="1" x="-28" y="215" transform="matrix(0,-1,1,0,0,0)"/>
- <rect id="base-hint-left-margin" style="fill:#4e9a06" width="2" height="1" x="-28" y="109" transform="matrix(0,-1,1,0,0,0)"/>
- <rect id="base-hint-bottom-margin" style="fill:#4e9a06" width="2" height="1" x="163" y="45"/>
+ <rect id="hover-hint-bottom-margin" style="fill:#ff00ff" width="2" height="1" x="10" y="4"/>
+ <rect id="hover-hint-top-margin" style="fill:#ff00ff" width="2" height="1" x="10" y="0"/>
+ <rect id="hover-hint-left-margin" style="fill:#ff00ff" width="2" height="1" x="-4" y="8" transform="rotate(-90)"/>
+ <rect id="hover-hint-right-margin" style="fill:#ff00ff" width="2" height="1" x="-4" y="13" transform="rotate(-90)"/>
+ <rect id="focus-hint-bottom-margin" style="fill:#ff00ff" width="2" height="1" x="18" y="4"/>
+ <rect id="focus-hint-top-margin" style="fill:#ff00ff" width="2" height="1" x="18" y="0"/>
+ <rect id="focus-hint-left-margin" style="fill:#ff00ff" width="2" height="1" x="-4" y="16" transform="rotate(-90)"/>
+ <rect id="focus-hint-right-margin" style="fill:#ff00ff" width="2" height="1" x="-4" y="21" transform="rotate(-90)"/>
+ <rect id="base-hint-top-margin" style="fill:#ff00ff" width="2" height="1" x="2" y="0"/>
+ <rect id="base-hint-right-margin" style="fill:#ff00ff" width="2" height="1" x="-4" y="5" transform="rotate(-90)"/>
+ <rect id="base-hint-left-margin" style="fill:#ff00ff" width="2" height="1" x="-4" y="0" transform="rotate(-90)"/>
+ <rect id="base-hint-bottom-margin" style="fill:#ff00ff" width="2" height="1" x="2" y="5"/>
 </svg>

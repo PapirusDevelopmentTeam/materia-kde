@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="76" height="66" version="1.1">
- <rect id="hint-tile-center" style="fill:#ff2a2a" width="2" height="2" x="0" y="36"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg60" width="76" height="66" version="1.1">
+ <rect id="hint-tile-center" style="fill:#ff00ff" width="2" height="2" x="0" y="36"/>
  <path id="groove-bottomright" style="opacity:0.3;fill:#ffffff" d="m 7,53 v 1 h 1 v -1 z"/>
  <path id="groove-right" style="opacity:0.3;fill:#ffffff" d="m 7,51 v 1 h 1 v -1 z"/>
  <path id="groove-topright" style="opacity:0.3;fill:#ffffff" d="m 7,49 v 1 h 1 v -1 z"/>
@@ -9,42 +9,42 @@
  <path id="groove-bottom" style="opacity:0.3;fill:#ffffff" d="m 5,53 v 1 h 1 v -1 z"/>
  <path id="groove-center" style="opacity:0.3;fill:#ffffff" d="M 6,51 H 5 v 1 h 1 z"/>
  <path id="groove-top" style="opacity:0.3;fill:#ffffff" d="m 5,49 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-bottomright" style="fill:#4285f4" d="m 7,62 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-right" style="fill:#4285f4" d="m 7,60 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-topright" style="fill:#4285f4" d="m 7,58 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-bottomleft" style="fill:#4285f4" d="m 3,62 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-left" style="fill:#4285f4" d="m 3,60 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-topleft" style="fill:#4285f4" d="M 4,58 H 3 v 1 h 1 z"/>
- <path id="groove-highlight-bottom" style="fill:#4285f4" d="m 5,62 v 1 h 1 v -1 z"/>
- <path id="groove-highlight-center" style="fill:#4285f4" d="M 6,60 H 5 v 1 h 1 z"/>
- <path id="groove-highlight-top" style="fill:#4285f4" d="m 5,58 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-bottomright" style="fill:#1a73e8" d="m 7,62 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-right" style="fill:#1a73e8" d="m 7,60 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-topright" style="fill:#1a73e8" d="m 7,58 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-bottomleft" style="fill:#1a73e8" d="m 3,62 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-left" style="fill:#1a73e8" d="m 3,60 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-topleft" style="fill:#1a73e8" d="M 4,58 H 3 v 1 h 1 z"/>
+ <path id="groove-highlight-bottom" style="fill:#1a73e8" d="m 5,62 v 1 h 1 v -1 z"/>
+ <path id="groove-highlight-center" style="fill:#1a73e8" d="M 6,60 H 5 v 1 h 1 z"/>
+ <path id="groove-highlight-top" style="fill:#1a73e8" d="m 5,58 v 1 h 1 v -1 z"/>
  <g id="horizontal-slider-handle" transform="matrix(0.6875,0,0,0.6875,-7.187504,41.250002)">
-  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle style="fill:#4285f4" cx="41" cy="20" r="7.273"/>
+  <rect id="rect21" style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle id="circle23" style="fill:#1a73e8" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="horizontal-slider-hover" transform="matrix(0.6875,0,0,0.6875,14.8125,41.25)">
-  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:0.2;fill:#4285f4" cx="41" cy="20" r="16"/>
-  <circle style="fill:#4285f4" cx="41" cy="20" r="7.273"/>
+  <rect id="rect26" style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle id="circle28" style="opacity:0.2;fill:#1a73e8" cx="41" cy="20" r="16"/>
+  <circle id="circle30" style="fill:#1a73e8" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="horizontal-slider-focus" transform="matrix(0.6875,0,0,0.6875,36.8125,41.25)">
-  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:0.3;fill:#4285f4" cx="41" cy="20" r="16"/>
-  <circle style="fill:#4285f4" cx="41" cy="20" r="7.273"/>
+  <rect id="rect33" style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle id="circle35" style="opacity:0.3;fill:#1a73e8" cx="41" cy="20" r="16"/>
+  <circle id="circle37" style="fill:#1a73e8" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="vertical-slider-handle" transform="matrix(0.6875,0,0,0.6875,-7.1875,19.25)">
-  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle style="fill:#4285f4" cx="41" cy="20" r="7.273"/>
+  <rect id="rect40" style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle id="circle42" style="fill:#1a73e8" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="vertical-slider-hover" transform="matrix(0.6875,0,0,0.6875,14.8125,19.25)">
-  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:0.2;fill:#4285f4" cx="41" cy="20" r="16"/>
-  <circle style="fill:#4285f4" cx="41" cy="20" r="7.273"/>
+  <rect id="rect45" style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle id="circle47" style="opacity:0.2;fill:#1a73e8" cx="41" cy="20" r="16"/>
+  <circle id="circle49" style="fill:#1a73e8" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="vertical-slider-focus" transform="matrix(0.6875,0,0,0.6875,36.8125,19.25)">
-  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:0.3;fill:#4285f4" cx="41" cy="20" r="16"/>
-  <circle style="fill:#4285f4" cx="41" cy="20" r="7.273"/>
+  <rect id="rect52" style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle id="circle54" style="opacity:0.3;fill:#1a73e8" cx="41" cy="20" r="16"/>
+  <circle id="circle56" style="fill:#1a73e8" cx="41" cy="20" r="7.273"/>
  </g>
- <circle id="hint-handle-size" style="fill:#ff0000" cx="65" cy="11" r="11"/>
+ <circle id="hint-handle-size" style="fill:#ff00ff" cx="65" cy="11" r="11"/>
 </svg>

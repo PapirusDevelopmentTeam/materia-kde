@@ -64,6 +64,7 @@ scrollable_menu=false
 submenu_delay=250
 no_inactiveness=false
 reduce_menu_opacity=0
+spread_menuitems=true
 
 [GeneralColors]
 window.color=#f2f2f2
@@ -74,16 +75,16 @@ light.color=#ffffff
 mid.light.color=#f0f0f0
 dark.color=#c8c8c8
 mid.color=#e1e1e196
-highlight.color=#4285f452
-inactive.highlight.color=#4285f474
+highlight.color=#1a73e852
+inactive.highlight.color=#1a73e874
 text.color=#444444
 window.text.color=#444444
 button.text.color=#444444
-disabled.text.color=#b1b1b1
-tooltip.text.color=#444444
+disabled.text.color=#8b8b8b
+tooltip.text.color=#ffffff
 highlight.text.color=#ffffff
-link.color=#0057AE
-link.visited.color=#452886
+link.color=#1a73e8
+link.visited.color=#9c27b0
 progress.indicator.text.color=#444444
 
 [Hacks]
@@ -121,7 +122,7 @@ indicator.size=8
 text.normal.color=#444444
 text.focus.color=#444444
 text.press.color=#444444
-text.toggle.color=white
+text.toggle.color=#1a73e8
 text.shadow=0
 text.margin=1
 text.iconspacing=4
@@ -137,7 +138,7 @@ inherits=PanelButtonCommand
 text.normal.color=#444444
 text.focus.color=#444444
 text.press.color=#444444
-text.toggle.color=white
+text.toggle.color=#1a73e8
 text.bold=false
 indicator.element=arrow
 indicator.size=8
@@ -231,7 +232,7 @@ frame.right=3
 inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
-interior=false
+interior=true
 frame.top=2
 frame.bottom=2
 frame.left=2
@@ -243,7 +244,17 @@ text.margin.right=2
 frame.expansion=0
 
 [ToolbarLineEdit]
-frame.element=lineedit
+frame.element=tlineedit
+interior.element=tlineedit
+interior=true
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+text.normal.color=#dfdfdf
+text.focus.color=#dfdfdf
+text.press.color=#dfdfdf
+text.toggle.color=#dfdfdf
 
 [DropDownButton]
 inherits=PanelButtonCommand
@@ -279,6 +290,7 @@ text.press.color=#444444
 text.toggle.color=#444444
 frame.expansion=0
 text.bold=false
+focusFrame=true
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -478,7 +490,7 @@ frame.expansion=0
 inherits=PanelButtonCommand
 frame.element=combo
 interior.element=combo
-interior=false
+interior=true
 frame.top=2
 frame.bottom=2
 frame.left=2
@@ -493,12 +505,18 @@ text.toggle.color=#444444
 frame.expansion=0
 
 [ToolbarComboBox]
-frame.element=combo
-indicator.element=flat-arrow-down
+frame.element=tcombo
+interior.element=tcombo
+interior=true
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+indicator.element=tarrow-down
 text.normal.color=#dfdfdf
-text.focus.color=white
-text.press.color=white
-text.toggle.color=white
+text.focus.color=#dfdfdf
+text.press.color=#dfdfdf
+text.toggle.color=#dfdfdf
 
 [Menu]
 inherits=PanelButtonCommand
@@ -519,7 +537,7 @@ frame=false
 text.shadow=0
 text.margin=0
 text.normal.color=#00000096
-text.focus.color=#4285f4
+text.focus.color=#1a73e8
 text.bold=false
 frame.expansion=0
 

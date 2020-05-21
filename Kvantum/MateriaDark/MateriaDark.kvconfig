@@ -64,26 +64,27 @@ scrollable_menu=false
 submenu_delay=250
 no_inactiveness=false
 reduce_menu_opacity=0
+spread_menuitems=true
 
 [GeneralColors]
-window.color=#282828
-base.color=#303030
-alt.base.color=#303030
-button.color=#424242
-light.color=#47535a
-mid.light.color=#313131
-dark.color=black
-mid.color=#191919
-highlight.color=#4285f452
-inactive.highlight.color=#4285f474
+window.color=#181818
+base.color=#242424
+alt.base.color=#242424
+button.color=#343434
+light.color=#ffffff42
+mid.light.color=#ffffff1e
+dark.color=#0d0d0d
+mid.color=#2e2e2e
+highlight.color=#8ab4f852
+inactive.highlight.color=#8ab4f874
 text.color=#dfdfdf
 window.text.color=#dfdfdf
 button.text.color=#dfdfdf
-disabled.text.color=#696969
-tooltip.text.color=#eefcff
+disabled.text.color=#818181
+tooltip.text.color=white
 highlight.text.color=white
-link.color=#009DFF
-link.visited.color=#9E4FFF
+link.color=#8ab4f8
+link.visited.color=#ce93d8
 progress.indicator.text.color=#dfdfdf
 
 [Hacks]
@@ -121,7 +122,7 @@ indicator.size=8
 text.normal.color=#dfdfdf
 text.focus.color=white
 text.press.color=#dfdfdf
-text.toggle.color=white
+text.toggle.color=#8ab4f8
 text.shadow=0
 text.margin=1
 text.iconspacing=4
@@ -228,7 +229,7 @@ frame.right=1
 inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
-interior=false
+interior=true
 frame.top=2
 frame.bottom=2
 frame.left=2
@@ -272,6 +273,7 @@ text.focus.color=#dfdfdf
 text.toggle.color=#dfdfdf
 frame.expansion=0
 text.bold=false
+focusFrame=true
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -404,16 +406,15 @@ frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
 text.normal.color=#dfdfdf
-text.focus.color=white
-text.margin.top=1
-text.margin.bottom=1
-text.margin.left=5
-text.margin.right=5
+text.focus.color=#dfdfdf
+text.margin.top=2
+text.margin.bottom=2
+text.margin.left=4
+text.margin.right=4
 frame.top=0
 frame.bottom=0
 frame.left=0
 frame.right=0
-text.bold=false
 frame.expansion=0
 
 [MenuBar]
@@ -465,7 +466,7 @@ frame.expansion=0
 inherits=PanelButtonCommand
 frame.element=combo
 interior.element=combo
-interior=false
+interior=true
 frame.top=2
 frame.bottom=2
 frame.left=2
@@ -481,14 +482,13 @@ frame.expansion=0
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 frame.element=menu
 interior.element=menu
 text.normal.color=#dfdfdf
-text.shadow=false
 frame.expansion=0
 
 [GroupBox]
@@ -513,6 +513,7 @@ frame.right=2
 
 [ToolTip]
 inherits=GenericFrame
+frame=true
 frame.top=3
 frame.bottom=3
 frame.left=3
@@ -522,7 +523,7 @@ text.shadow=0
 text.margin=0
 interior.element=tooltip
 frame.element=tooltip
-frame.expansion=0
+frame.expansion=46
 
 [StatusBar]
 inherits=GenericFrame

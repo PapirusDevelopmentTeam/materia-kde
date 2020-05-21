@@ -1,8 +1,8 @@
 [Background]
-Color=238,238,238
+Color=242,242,242
 
 [BackgroundFaint]
-Color=238,238,238
+Color=242,242,242
 
 [BackgroundIntense]
 Color=255,255,255
@@ -90,6 +90,7 @@ Color=86,86,86
 
 [General]
 Blur=false
+ColorRandomization=false
 Description=Materia
 Opacity=1
 Wallpaper=
