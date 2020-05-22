@@ -65,13 +65,11 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Install widgets [Minimal Menu](https://www.opendesktop.org/p/1275285/) and [Digital Clock WL](https://www.opendesktop.org/p/1311422/)
 
-- Set tree menu view for systemsettings
+- Set icons view for systemsettings
 
-- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings.
+- For Materia & Materia Light use Materia Mono Plasma Theme.
 
-- Recommended software for better experience with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, SMPlayer, bomi, Clementine Qt5, Nulloy Player, Cantata, QOMP, Octopi, Konsole, Yakuake
-
-  See [screenshots](https://github.com/PapirusDevelopmentTeam/materia-kde/wiki/Screenshots#materia-blur) with Materia Blur.
+- For Materia Dark use Materia Dark Plasma Theme.
 
 ## Hacks for small screen resolution
 
@@ -100,8 +98,6 @@ Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 Xft.rgba:      rgb 
 ```
-
-- Enabled blur effect have some bugs with decoration shadows on aurorae. [KDE bug](https://bugs.kde.org/show_bug.cgi?id=395725)
 
 ## BlackList apps
 More newest Qt/KDE apps now use QML/Kirigami - this style NOT SUPPORT THEMING on ANY engine, more elements HARDCODED. Please not open issue about that. We can't doing anything!!!
