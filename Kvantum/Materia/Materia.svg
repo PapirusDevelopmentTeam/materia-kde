@@ -817,24 +817,24 @@
   <circle id="circle1317" style="opacity:0.3;fill:#1a73e8" cx="372" cy="438" r="11"/>
   <path id="path1319" style="fill:#1a73e8" d="m 379,438.00012 -3.39987,-3.47168 c -0.002,-0.002 -0.006,-0.002 -0.008,-0.005 C 374.65048,433.55011 373.35428,433.00038 372,433 c -2.76142,0 -5,2.23858 -5,5 0,2.76142 2.23858,5 5,5 1.34054,-0.002 2.62419,-0.54194 3.56283,-1.49902 0.004,-0.002 0.009,-0.004 0.013,-0.007 z"/>
  </g>
- <rect id="itemview-pressed-top" style="opacity:0.24;fill:#1a73e8" width="8" height="4" x="52" y="976"/>
- <rect id="itemview-pressed-bottom" style="opacity:0.24;fill:#1a73e8" width="8" height="4" x="52" y="988"/>
- <path id="itemview-pressed" style="opacity:0.24;fill:#1a73e8" d="m 52,980 h 8 v 8 h -8 z"/>
- <path id="itemview-pressed-topright" style="opacity:0.24;fill:#1a73e8" d="m 60,976 c 4,0 4,4 4,4 h -4 z"/>
- <path id="itemview-pressed-bottomright" style="opacity:0.24;fill:#1a73e8" d="m 60,988 h 4 c 0,0 0,4 -4,4 z"/>
- <rect id="itemview-pressed-right" style="opacity:0.24;fill:#1a73e8" width="4" height="8" x="60" y="980"/>
- <rect id="itemview-pressed-left" style="opacity:0.24;fill:#1a73e8" width="4" height="8" x="48" y="980"/>
- <path id="itemview-pressed-topleft" style="opacity:0.24;fill:#1a73e8" d="m 52,976 v 4 h -4 c 0,0 0,-4 4,-4 z"/>
- <path id="itemview-pressed-bottomleft" style="opacity:0.24;fill:#1a73e8" d="m 48,988 h 4 v 4 c -4,0 -4,-4 -4,-4 z"/>
- <rect id="itemview-toggled-top" style="opacity:0.24;fill:#1a73e8" width="8" height="4" x="71" y="976"/>
- <rect id="itemview-toggled-bottom" style="opacity:0.24;fill:#1a73e8" width="8" height="4" x="71" y="988"/>
- <path id="itemview-toggled" style="opacity:0.24;fill:#1a73e8" d="m 71,980 h 8 v 8 h -8 z"/>
- <rect id="itemview-toggled-right" style="opacity:0.24;fill:#1a73e8" width="4" height="8" x="79" y="980"/>
- <path id="itemview-toggled-topright" style="opacity:0.24;fill:#1a73e8" d="m 79,976 c 4,0 4,4 4,4 h -4 z"/>
- <path id="itemview-toggled-bottomright" style="opacity:0.24;fill:#1a73e8" d="m 79,988 h 4 c 0,0 0,4 -4,4 z"/>
- <rect id="itemview-toggled-left" style="opacity:0.24;fill:#1a73e8" width="4" height="8" x="67" y="980"/>
- <path id="itemview-toggled-topleft" style="opacity:0.24;fill:#1a73e8" d="m 71,976 v 4 h -4 c 0,0 0,-4 4,-4 z"/>
- <path id="itemview-toggled-bottomleft" style="opacity:0.24;fill:#1a73e8" d="m 67,988 h 4 v 4 c -4,0 -4,-4 -4,-4 z"/>
+ <rect id="itemview-pressed-top" style="opacity:0.34;fill:#1a73e8" width="8" height="4" x="52" y="976"/>
+ <rect id="itemview-pressed-bottom" style="opacity:0.34;fill:#1a73e8" width="8" height="4" x="52" y="988"/>
+ <path id="itemview-pressed" style="opacity:0.34;fill:#1a73e8" d="m 52,980 h 8 v 8 h -8 z"/>
+ <path id="itemview-pressed-topright" style="opacity:0.34;fill:#1a73e8" d="m 60,976 c 4,0 4,4 4,4 h -4 z"/>
+ <path id="itemview-pressed-bottomright" style="opacity:0.34;fill:#1a73e8" d="m 60,988 h 4 c 0,0 0,4 -4,4 z"/>
+ <rect id="itemview-pressed-right" style="opacity:0.34;fill:#1a73e8" width="4" height="8" x="60" y="980"/>
+ <rect id="itemview-pressed-left" style="opacity:0.34;fill:#1a73e8" width="4" height="8" x="48" y="980"/>
+ <path id="itemview-pressed-topleft" style="opacity:0.34;fill:#1a73e8" d="m 52,976 v 4 h -4 c 0,0 0,-4 4,-4 z"/>
+ <path id="itemview-pressed-bottomleft" style="opacity:0.34;fill:#1a73e8" d="m 48,988 h 4 v 4 c -4,0 -4,-4 -4,-4 z"/>
+ <rect id="itemview-toggled-top" style="opacity:0.34;fill:#1a73e8" width="8" height="4" x="71" y="976"/>
+ <rect id="itemview-toggled-bottom" style="opacity:0.34;fill:#1a73e8" width="8" height="4" x="71" y="988"/>
+ <path id="itemview-toggled" style="opacity:0.34;fill:#1a73e8" d="m 71,980 h 8 v 8 h -8 z"/>
+ <rect id="itemview-toggled-right" style="opacity:0.34;fill:#1a73e8" width="4" height="8" x="79" y="980"/>
+ <path id="itemview-toggled-topright" style="opacity:0.34;fill:#1a73e8" d="m 79,976 c 4,0 4,4 4,4 h -4 z"/>
+ <path id="itemview-toggled-bottomright" style="opacity:0.34;fill:#1a73e8" d="m 79,988 h 4 c 0,0 0,4 -4,4 z"/>
+ <rect id="itemview-toggled-left" style="opacity:0.34;fill:#1a73e8" width="4" height="8" x="67" y="980"/>
+ <path id="itemview-toggled-topleft" style="opacity:0.34;fill:#1a73e8" d="m 71,976 v 4 h -4 c 0,0 0,-4 4,-4 z"/>
+ <path id="itemview-toggled-bottomleft" style="opacity:0.34;fill:#1a73e8" d="m 67,988 h 4 v 4 c -4,0 -4,-4 -4,-4 z"/>
  <rect id="itemview-focused-top" style="opacity:0.07" width="8" height="4" x="33" y="976"/>
  <rect id="itemview-focused-bottom" style="opacity:0.07" width="8" height="4" x="33" y="988"/>
  <path id="itemview-focused" style="opacity:0.07" d="m 33,980 h 8 v 8 h -8 z"/>
