@@ -25,7 +25,7 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/MateriaDark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/MateriaLight
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia
-	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia-Mono
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia-Color
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-light

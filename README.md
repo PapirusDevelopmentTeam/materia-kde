@@ -67,10 +67,6 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Set icons view for systemsettings
 
-- For Materia & Materia Light use Materia Mono Plasma Theme.
-
-- For Materia Dark use Materia Dark Plasma Theme.
-
 ## Hacks for small screen resolution
 
 - Install widgets [Active Window Control](https://www.opendesktop.org/p/998910/) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
