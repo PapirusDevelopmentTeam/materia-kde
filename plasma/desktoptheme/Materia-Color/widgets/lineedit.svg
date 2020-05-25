@@ -29,15 +29,15 @@
  <rect id="hover-left" style="opacity:0.001" width="2" height="2" x="8" y="2"/>
  <rect id="hover-right" style="opacity:0.001" width="2" height="2" x="12" y="2"/>
  <g id="hover-bottom" transform="matrix(0.06249995,0,0,1,-15.999982,-106)">
-  <path id="path2928-3" style="opacity:0.01" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
+  <path id="path2928-3" style="opacity:0.001" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
   <path id="path2930-6" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 416,112 h 32 v -2 h -32 z"/>
  </g>
  <g id="hover-bottomright" transform="translate(-386.99971,-101)">
-  <path id="rect2971-7" style="opacity:0.01" d="m 399,105 v 1 h 2 v -1 z"/>
+  <path id="rect2971-7" style="opacity:0.001" d="m 399,105 v 1 h 2 v -1 z"/>
   <path id="rect2957-5" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 399,105 h 2 v 2 h -2 z"/>
  </g>
  <g id="hover-bottomleft" transform="translate(-386.99971,-101)">
-  <path id="rect2969-3" style="opacity:0.01" d="m 395,105 v 1 h 2 v -1 z"/>
+  <path id="rect2969-3" style="opacity:0.001" d="m 395,105 v 1 h 2 v -1 z"/>
   <path id="rect2959-5" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 395,105 h 2 v 2 h -2 z"/>
  </g>
  <rect id="focus-center" style="opacity:0.001" width="2" height="2" x="18" y="2"/>
@@ -47,15 +47,15 @@
  <rect id="focus-left" style="opacity:0.001" width="2" height="2" x="16" y="2"/>
  <rect id="focus-right" style="opacity:0.001" width="2" height="2" x="20" y="2"/>
  <g id="focus-bottom" transform="matrix(0.06249995,0,0,1,-7.999982,-106)">
-  <path id="path2928-8" style="opacity:0.01" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
+  <path id="path2928-8" style="opacity:0.001" transform="matrix(16,0,0,1,-5936,5)" d="m 397,105 v 1 h 2 v -1 z"/>
   <path id="path2930-7" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 416,112 h 32 v -2 h -32 z"/>
  </g>
  <g id="focus-bottomright" transform="translate(-378.99971,-101)">
-  <path id="rect2971-9" style="opacity:0.01" d="m 399,105 v 1 h 2 v -1 z"/>
+  <path id="rect2971-9" style="opacity:0.001" d="m 399,105 v 1 h 2 v -1 z"/>
   <path id="rect2957-2" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 399,105 h 2 v 2 h -2 z"/>
  </g>
  <g id="focus-bottomleft" transform="translate(-378.99971,-101)">
-  <path id="rect2969-0" style="opacity:0.01" d="m 395,105 v 1 h 2 v -1 z"/>
+  <path id="rect2969-0" style="opacity:0.001" d="m 395,105 v 1 h 2 v -1 z"/>
   <path id="rect2959-2" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 395,105 h 2 v 2 h -2 z"/>
  </g>
  <rect id="hover-hint-bottom-margin" style="fill:#ff00ff" width="2" height="1" x="10" y="4"/>
