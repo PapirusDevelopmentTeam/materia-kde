@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<defs id="materia">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+  </style>
+ </defs>
+ <g id="22-22-distribute-horizontal-x" transform="translate(-433,75)">
+  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ </g>
+ <g id="distribute-horizontal-x">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 10,10 3.0000002,16 10,22 v -4 h 12 v 4 l 7,-6 -7,-6 v 4 H 10 Z"/>
+ </g>
+</svg>

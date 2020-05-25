@@ -1,0 +1,847 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1076" width="109" height="125" version="1">
+ <defs id="materia">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+  </style>
+ </defs>
+ <g id="minimized-bottom">
+  <rect id="rect55" style="opacity:0.001" width="14" height="3" x="3" y="122"/>
+  <path id="path57" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="minimized-left" transform="translate(-1,42)">
+  <rect id="rect60" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path62" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="minimized-right" transform="translate(-1,42)">
+  <rect id="rect65" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path67" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="minimized-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,103.58462)">
+  <rect id="rect70" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="minimized-topleft" transform="translate(-1,42)">
+  <rect id="rect79" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path81" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="minimized-topright" transform="translate(-1,42)">
+  <rect id="rect84" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path86" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="minimized-bottomleft" transform="translate(-1,42)">
+  <rect id="rect89" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path91" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="minimized-bottomright" transform="translate(-1,42)">
+  <rect id="rect94" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path96" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="group-expander-left" transform="translate(84,66)">
+  <path id="path99" style="fill:currentColor" class="ColorScheme-Highlight" d="M 12,46 19,41.996831 12,38 Z"/>
+  <path id="center-3-2-8-5-6-8" style="opacity:0.27;fill:none" transform="matrix(1,0,0,-1.2,36.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+ </g>
+ <g id="group-expander-bottom" transform="translate(61,78)">
+  <path id="path103" style="fill:currentColor" class="ColorScheme-Highlight" d="M 25,47 29.003169,40 33,47 Z"/>
+  <path id="center-3-2-8-5-9-9" style="opacity:0.27;fill:none" transform="matrix(0,-1,1.2,0,-10.57775,22.015783)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+ </g>
+ <g id="group-expander-top" transform="translate(60,78)">
+  <path id="path107" style="fill:currentColor" class="ColorScheme-Highlight" d="M 47,37 42.996831,44 39,37 Z"/>
+  <path id="center-3-2-8-5-3-3" style="opacity:0.27;fill:none" transform="matrix(0,1,-1.2,0,82.57775,61.984217)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+ </g>
+ <g id="group-expander-right" transform="translate(85,66.003169)">
+  <path id="center-3-2-8-5-1" style="opacity:0.27;fill:none" transform="matrix(-1,0,0,-1.2,-14.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+  <path id="path112" style="fill:currentColor" class="ColorScheme-Highlight" d="M 10,46 3,41.996831 10,38 Z"/>
+ </g>
+ <g id="attention-bottom">
+  <rect id="rect115" style="opacity:0.001" width="14" height="3" x="3" y="101"/>
+  <path id="path117" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="attention-left" transform="translate(-1,21)">
+  <rect id="rect120" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path122" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="attention-right" transform="translate(-1,21)">
+  <rect id="rect125" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path127" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="attention-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,82.58462)">
+  <rect id="rect130" style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="attention-top" transform="translate(-1,21)">
+  <rect id="rect133" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g137" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path135" style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="attention-topleft" transform="translate(-1,21)">
+  <rect id="rect140" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path142" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="attention-topright" transform="translate(-1,21)">
+  <rect id="rect145" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path147" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="attention-bottomleft" transform="translate(-1,21)">
+  <rect id="rect150" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path152" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="attention-bottomright" transform="translate(-1,21)">
+  <rect id="rect155" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path157" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="hover-bottom">
+  <rect id="rect160" style="opacity:0.001" width="14" height="3" x="3" y="80"/>
+  <path id="path162" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="hover-left" transform="translate(-1)">
+  <rect id="rect165" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path167" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="hover-right" transform="translate(-1)">
+  <rect id="rect170" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path172" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="hover-center" transform="matrix(0.51851851,0,0,1.0769231,0.40740745,61.584615)">
+  <rect id="rect175" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="hover-top" transform="translate(-1)">
+  <rect id="rect178" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g182" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path180" style="fill:currentColor" class="ColorScheme-Highlight" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="hover-topleft" transform="translate(-1)">
+  <rect id="rect186" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path188" style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="hover-topright" transform="translate(-1)">
+  <rect id="rect191" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path193" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="hover-bottomleft" transform="translate(-1)">
+  <rect id="rect196" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path198" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="hover-bottomright" transform="translate(-1)">
+  <rect id="rect201" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path203" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="normal-bottom">
+  <rect id="rect206" style="opacity:0.001" width="14" height="3" x="3" y="59"/>
+  <path id="path208" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="normal-left" transform="translate(-1,-21)">
+  <rect id="rect211" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path213" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="normal-right" transform="translate(-1,-21)">
+  <rect id="rect216" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path218" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="normal-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,40.58462)">
+  <rect id="rect221" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="normal-top" transform="translate(-1,-21)">
+  <rect id="rect224" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g228" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path226" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="normal-topleft" transform="translate(-1,-21)">
+  <rect id="rect231" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path233" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="normal-topright" transform="translate(-1,-21)">
+  <rect id="rect236" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path238" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="normal-bottomleft" transform="translate(-1,-21)">
+  <rect id="rect241" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path243" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="normal-bottomright" transform="translate(-1,-21)">
+  <rect id="rect246" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path248" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="focus-bottom">
+  <rect id="rect251" style="opacity:0.001" width="14" height="3" x="3" y="38"/>
+  <path id="path253" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="focus-left" transform="translate(-1,-42)">
+  <rect id="rect256" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path258" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="focus-right" transform="translate(-1,-42)">
+  <rect id="rect261" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path263" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="focus-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,19.58462)">
+  <rect id="rect266" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="focus-top" transform="translate(-1,-42)">
+  <rect id="rect269" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g273" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path271" style="fill:currentColor" class="ColorScheme-Highlight" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="focus-topleft" transform="translate(-1,-42)">
+  <rect id="rect276" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path278" style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="focus-topright" transform="translate(-1,-42)">
+  <rect id="rect281" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path283" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="focus-bottomleft" transform="translate(-1,-42)">
+  <rect id="rect286" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path288" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="focus-bottomright" transform="translate(-1,-42)">
+  <rect id="rect291" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path293" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="north-progress-bottom" transform="translate(21)">
+  <rect id="rect296" style="opacity:0.001" width="14" height="3" x="3" y="17"/>
+  <path id="path298" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,17 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="north-progress-left" transform="translate(20,-63)">
+  <rect id="rect301" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+ </g>
+ <g id="north-progress-right" transform="translate(20,-63)">
+  <rect id="rect304" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+ </g>
+ <g id="north-progress-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,-1.41538)">
+  <rect id="rect307" style="opacity:0.001" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="north-progress-top" transform="translate(20,-63)">
+  <rect id="rect310" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+ </g>
+ <g id="north-progress-topleft" transform="translate(20,-63)">
+  <rect id="rect313" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+ </g>
+ <g id="north-progress-topright" transform="translate(20,-63)">
+  <rect id="rect316" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+ </g>
+ <g id="north-progress-bottomleft" transform="translate(20,-63)">
+  <rect id="rect319" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path321" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="north-progress-bottomright" transform="translate(20,-63)">
+  <rect id="rect324" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path326" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="north-minimized-bottom" transform="translate(21)">
+  <rect id="rect329" style="opacity:0.001" width="14" height="3" x="3" y="122"/>
+  <path id="path331" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="north-minimized-left" transform="translate(20,42)">
+  <rect id="rect334" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path336" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="north-minimized-right" transform="translate(20,42)">
+  <rect id="rect339" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path341" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="north-minimized-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,103.58462)">
+  <rect id="rect344" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="north-minimized-top" transform="translate(20,42)">
+  <rect id="rect347" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="hover-top-9" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path349" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="north-minimized-topleft" transform="translate(20,42)">
+  <rect id="rect353" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path355" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="north-minimized-topright" transform="translate(20,42)">
+  <rect id="rect358" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path360" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="north-minimized-bottomleft" transform="translate(20,42)">
+  <rect id="rect363" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path365" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="north-minimized-bottomright" transform="translate(20,42)">
+  <rect id="rect368" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path370" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="north-attention-bottom" transform="translate(21)">
+  <rect id="rect373" style="opacity:0.001" width="14" height="3" x="3" y="101"/>
+  <path id="path375" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="north-attention-left" transform="translate(20,21)">
+  <rect id="rect378" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path380" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="north-attention-right" transform="translate(20,21)">
+  <rect id="rect383" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path385" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="north-attention-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,82.58462)">
+  <rect id="rect388" style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="north-attention-top" transform="translate(20,21)">
+  <rect id="rect391" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g395" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path393" style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="north-attention-topleft" transform="translate(20,21)">
+  <rect id="rect398" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path400" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="north-attention-topright" transform="translate(20,21)">
+  <rect id="rect403" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path405" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="north-attention-bottomleft" transform="translate(20,21)">
+  <rect id="rect408" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path410" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="north-attention-bottomright" transform="translate(20,21)">
+  <rect id="rect413" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path415" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="north-hover-bottom" transform="translate(21)">
+  <rect id="rect418" style="opacity:0.001" width="14" height="3" x="3" y="80"/>
+  <path id="path420" style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="north-hover-left" transform="translate(20)">
+  <rect id="rect423" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path425" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="north-hover-right" transform="translate(20)">
+  <rect id="rect428" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path430" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="north-hover-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,61.584615)">
+  <rect id="rect433" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="north-hover-top" transform="translate(20)">
+  <rect id="rect436" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g440" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path438" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="north-hover-topleft" transform="translate(20)">
+  <rect id="rect443" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path445" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="north-hover-topright" transform="translate(20)">
+  <rect id="rect448" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path450" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="north-hover-bottomleft" transform="translate(20)">
+  <rect id="rect453" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path455" style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="north-hover-bottomright" transform="translate(20)">
+  <rect id="rect458" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path460" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="north-normal-bottom" transform="translate(21)">
+  <rect id="rect463" style="opacity:0.001" width="14" height="3" x="3" y="59"/>
+  <path id="path465" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="north-normal-left" transform="translate(20,-21)">
+  <rect id="rect468" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path470" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="north-normal-right" transform="translate(20,-21)">
+  <rect id="rect473" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path475" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="north-normal-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,40.58462)">
+  <rect id="rect478" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="north-normal-top" transform="translate(20,-21)">
+  <rect id="rect481" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g485" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path483" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="north-normal-topleft" transform="translate(20,-21)">
+  <rect id="rect488" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path490" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="north-normal-topright" transform="translate(20,-21)">
+  <rect id="rect493" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path495" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="north-normal-bottomleft" transform="translate(20,-21)">
+  <rect id="rect498" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path500" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="north-normal-bottomright" transform="translate(20,-21)">
+  <rect id="rect503" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path505" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="north-focus-bottom" transform="translate(21)">
+  <rect id="rect508" style="opacity:0.001" width="14" height="3" x="3" y="38"/>
+  <path id="path510" style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="north-focus-left" transform="translate(20,-42)">
+  <rect id="rect513" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path515" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="north-focus-right" transform="translate(20,-42)">
+  <rect id="rect518" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path520" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="north-focus-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,19.58462)">
+  <rect id="rect523" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="north-focus-top" transform="translate(20,-42)">
+  <rect id="rect526" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g530" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path528" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="north-focus-topleft" transform="translate(20,-42)">
+  <rect id="rect533" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path535" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="north-focus-topright" transform="translate(20,-42)">
+  <rect id="rect538" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path540" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="north-focus-bottomleft" transform="translate(20,-42)">
+  <rect id="rect543" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path545" style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="north-focus-bottomright" transform="translate(20,-42)">
+  <rect id="rect548" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path550" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="progress-top">
+  <rect id="rect553" style="opacity:0.001" width="14" height="3" x="3" y="-3" transform="scale(1,-1)"/>
+  <path id="path555" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 3,3 V 2 1 h 14 v 1 1 z"/>
+ </g>
+ <rect id="progress-left" style="opacity:0.001" width="3" height="14" x="0" y="-17" transform="scale(1,-1)"/>
+ <rect id="progress-right" style="opacity:0.001" width="3" height="14" x="17" y="-17" transform="scale(1,-1)"/>
+ <rect id="progress-center" style="opacity:0.001;stroke-width:0.74726474" width="14" height="14" x="3" y="-17" transform="scale(1,-1)"/>
+ <rect id="progress-bottom" style="opacity:0.001" width="14" height="3" x="3" y="-20" transform="scale(1,-1)"/>
+ <rect id="progress-bottomleft" style="opacity:0.001" width="3" height="3" x="0" y="-20" transform="scale(1,-1)"/>
+ <rect id="progress-bottomright" style="opacity:0.001" width="3" height="3" x="17" y="-20" transform="scale(1,-1)"/>
+ <g id="progress-topleft">
+  <rect id="rect576" style="opacity:0.001" width="3" height="3" x="0" y="-3" transform="scale(1,-1)"/>
+  <path id="path578" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 1,3 V 2 C 1,2 1,1 2,1 H 3 V 2 3 H 2 Z"/>
+ </g>
+ <g id="progress-topright">
+  <rect id="rect581" style="opacity:0.001" width="3" height="3" x="17" y="-3" transform="scale(1,-1)"/>
+  <path id="path583" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 17,3 V 2 1 h 1 c 0,0 1,0 1,1 v 1 h -1 z"/>
+ </g>
+ <g id="east-minimized-bottom" transform="translate(42)">
+  <rect id="rect586" style="opacity:0.001" width="14" height="3" x="3" y="122"/>
+  <path id="path588" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="east-minimized-left" transform="translate(41,42)">
+  <rect id="rect591" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path593" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="east-minimized-right" transform="translate(41,42)">
+  <rect id="rect596" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path598" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="east-minimized-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,103.58462)">
+  <rect id="rect601" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="east-minimized-top" transform="translate(41,42)">
+  <rect id="rect604" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="hover-top-1" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path606" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="east-minimized-topleft" transform="translate(41,42)">
+  <rect id="rect610" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path612" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="east-minimized-topright" transform="translate(41,42)">
+  <rect id="rect615" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path617" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="east-minimized-bottomleft" transform="translate(41,42)">
+  <rect id="rect620" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path622" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="east-minimized-bottomright" transform="translate(41,42)">
+  <rect id="rect625" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path627" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="east-attention-bottom" transform="translate(42)">
+  <rect id="rect630" style="opacity:0.001" width="14" height="3" x="3" y="101"/>
+  <path id="path632" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="east-attention-left" transform="translate(41,21)">
+  <rect id="rect635" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path637" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="east-attention-right" transform="translate(41,21)">
+  <rect id="rect640" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path642" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="east-attention-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,82.58462)">
+  <rect id="rect645" style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="east-attention-top" transform="translate(41,21)">
+  <rect id="rect648" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g652" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path650" style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="east-attention-topleft" transform="translate(41,21)">
+  <rect id="rect655" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path657" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="east-attention-topright" transform="translate(41,21)">
+  <rect id="rect660" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path662" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="east-attention-bottomleft" transform="translate(41,21)">
+  <rect id="rect665" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path667" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="east-attention-bottomright" transform="translate(41,21)">
+  <rect id="rect670" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path672" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="east-hover-bottom" transform="translate(42)">
+  <rect id="rect675" style="opacity:0.001" width="14" height="3" x="3" y="80"/>
+  <path id="path677" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="east-hover-left" transform="translate(41)">
+  <rect id="rect680" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path682" style="fill:currentColor" class="ColorScheme-Highlight" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="east-hover-right" transform="translate(41)">
+  <rect id="rect685" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path687" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="east-hover-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,61.584615)">
+  <rect id="rect690" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="east-hover-top" transform="translate(41)">
+  <rect id="rect693" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g697" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path695" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="east-hover-topleft" transform="translate(41)">
+  <rect id="rect700" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path702" style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="east-hover-topright" transform="translate(41)">
+  <rect id="rect705" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path707" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="east-hover-bottomleft" transform="translate(41)">
+  <rect id="rect710" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path712" style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="east-hover-bottomright" transform="translate(41)">
+  <rect id="rect715" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path717" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="east-normal-bottom" transform="translate(42)">
+  <rect id="rect720" style="opacity:0.001" width="14" height="3" x="3" y="59"/>
+  <path id="path722" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="east-normal-left" transform="translate(41,-21)">
+  <rect id="rect725" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path727" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="east-normal-right" transform="translate(41,-21)">
+  <rect id="rect730" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path732" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="east-normal-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,40.58462)">
+  <rect id="rect735" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="east-normal-top" transform="translate(41,-21)">
+  <rect id="rect738" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g742" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path740" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="east-normal-topleft" transform="translate(41,-21)">
+  <rect id="rect745" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path747" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="east-normal-topright" transform="translate(41,-21)">
+  <rect id="rect750" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path752" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="east-normal-bottomleft" transform="translate(41,-21)">
+  <rect id="rect755" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path757" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="east-normal-bottomright" transform="translate(41,-21)">
+  <rect id="rect760" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path762" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="east-focus-bottom" transform="translate(42)">
+  <rect id="rect765" style="opacity:0.001" width="14" height="3" x="3" y="38"/>
+  <path id="path767" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="east-focus-left" transform="translate(41,-42)">
+  <rect id="rect770" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path772" style="fill:currentColor" class="ColorScheme-Highlight" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="east-focus-right" transform="translate(41,-42)">
+  <rect id="rect775" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path777" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="east-focus-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,19.58462)">
+  <rect id="rect780" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="east-focus-top" transform="translate(41,-42)">
+  <rect id="rect783" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g787" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path785" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="east-focus-topleft" transform="translate(41,-42)">
+  <rect id="rect790" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path792" style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="east-focus-topright" transform="translate(41,-42)">
+  <rect id="rect795" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path797" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="east-focus-bottomleft" transform="translate(41,-42)">
+  <rect id="rect800" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path802" style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="east-focus-bottomright" transform="translate(41,-42)">
+  <rect id="rect805" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path807" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="east-progress-left">
+  <rect id="rect810" style="opacity:0.001" width="14" height="3" x="3" y="-45" transform="rotate(90)"/>
+  <path id="path812" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 45,3 h -1 -1 v 14 h 1 1 z"/>
+ </g>
+ <rect id="east-progress-top" style="opacity:0.001" width="3" height="14" x="0" y="-59" transform="rotate(90)"/>
+ <rect id="east-progress-bottom" style="opacity:0.001" width="3" height="14" x="17" y="-59" transform="rotate(90)"/>
+ <rect id="east-progress-center" style="opacity:0.001" width="14" height="14" x="3" y="-59" transform="rotate(90)"/>
+ <rect id="east-progress-right" style="opacity:0.001" width="14" height="3" x="3" y="-62" transform="rotate(90)"/>
+ <rect id="east-progress-topright" style="opacity:0.001" width="3" height="3" x="0" y="-62" transform="rotate(90)"/>
+ <rect id="east-progress-bottomright" style="opacity:0.001" width="3" height="3" x="17" y="-62" transform="rotate(90)"/>
+ <g id="east-progress-topleft">
+  <rect id="rect821" style="opacity:0.001" width="3" height="3" x="0" y="-45" transform="rotate(90)"/>
+  <path id="path823" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 45,1 h -1 c 0,0 -1,0 -1,1 v 1 h 1 1 V 2 Z"/>
+ </g>
+ <g id="east-progress-bottomleft">
+  <rect id="rect826" style="opacity:0.001" width="3" height="3" x="17" y="-45" transform="rotate(90)"/>
+  <path id="path828" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 45,17 h -1 -1 v 1 c 0,0 0,1 1,1 h 1 v -1 z"/>
+ </g>
+ <g id="west-minimized-bottom" transform="translate(63)">
+  <rect id="rect831" style="opacity:0.001" width="14" height="3" x="3" y="122"/>
+  <path id="path833" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="west-minimized-left" transform="translate(62,42)">
+  <rect id="rect836" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path838" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="west-minimized-right" transform="translate(62,42)">
+  <rect id="rect841" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path843" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="west-minimized-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,103.58462)">
+  <rect id="rect846" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="west-minimized-top" transform="translate(62,42)">
+  <rect id="rect849" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="hover-top-94" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path851" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="west-minimized-topleft" transform="translate(62,42)">
+  <rect id="rect855" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path857" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="west-minimized-topright" transform="translate(62,42)">
+  <rect id="rect860" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path862" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="west-minimized-bottomleft" transform="translate(62,42)">
+  <rect id="rect865" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path867" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="west-minimized-bottomright" transform="translate(62,42)">
+  <rect id="rect870" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path872" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="west-attention-bottom" transform="translate(63)">
+  <rect id="rect875" style="opacity:0.001" width="14" height="3" x="3" y="101"/>
+  <path id="path877" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="west-attention-left" transform="translate(62,21)">
+  <rect id="rect880" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path882" style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="west-attention-right" transform="translate(62,21)">
+  <rect id="rect885" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path887" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="west-attention-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,82.58462)">
+  <rect id="rect890" style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="west-attention-top" transform="translate(62,21)">
+  <rect id="rect893" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g897" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path895" style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="west-attention-topleft" transform="translate(62,21)">
+  <rect id="rect900" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path902" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="west-attention-topright" transform="translate(62,21)">
+  <rect id="rect905" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path907" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="west-attention-bottomleft" transform="translate(62,21)">
+  <rect id="rect910" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path912" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="west-attention-bottomright" transform="translate(62,21)">
+  <rect id="rect915" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path917" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="west-hover-bottom" transform="translate(63)">
+  <rect id="rect920" style="opacity:0.001" width="14" height="3" x="3" y="80"/>
+  <path id="path922" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="west-hover-left" transform="translate(62)">
+  <rect id="rect925" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path927" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="west-hover-right" transform="translate(62)">
+  <rect id="rect930" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path932" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="west-hover-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,61.58462)">
+  <rect id="rect935" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="west-hover-top" transform="translate(62)">
+  <rect id="rect938" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g942" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path940" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="west-hover-topleft" transform="translate(62)">
+  <rect id="rect945" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path947" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="west-hover-topright" transform="translate(62)">
+  <rect id="rect950" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path952" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="west-hover-bottomleft" transform="translate(62)">
+  <rect id="rect955" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path957" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="west-hover-bottomright" transform="translate(62)">
+  <rect id="rect960" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path962" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="west-normal-bottom" transform="translate(63)">
+  <rect id="rect965" style="opacity:0.001" width="14" height="3" x="3" y="59"/>
+  <path id="path967" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="west-normal-left" transform="translate(62,-21)">
+  <rect id="rect970" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path972" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="west-normal-right" transform="translate(62,-21)">
+  <rect id="rect975" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path977" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="west-normal-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,40.58462)">
+  <rect id="rect980" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="west-normal-top" transform="translate(62,-21)">
+  <rect id="rect983" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g987" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path985" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="west-normal-topleft" transform="translate(62,-21)">
+  <rect id="rect990" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path992" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="west-normal-topright" transform="translate(62,-21)">
+  <rect id="rect995" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path997" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="west-normal-bottomleft" transform="translate(62,-21)">
+  <rect id="rect1000" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path1002" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="west-normal-bottomright" transform="translate(62,-21)">
+  <rect id="rect1005" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path1007" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="west-focus-bottom" transform="translate(63)">
+  <rect id="rect1010" style="opacity:0.001" width="14" height="3" x="3" y="38"/>
+  <path id="path1012" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+ </g>
+ <g id="west-focus-left" transform="translate(62,-42)">
+  <rect id="rect1015" style="opacity:0.001" width="3" height="14" x="1" y="66"/>
+  <path id="path1017" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+ </g>
+ <g id="west-focus-right" transform="translate(62,-42)">
+  <rect id="rect1020" style="opacity:0.001" width="3" height="14" x="18" y="66"/>
+  <path id="path1022" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+ </g>
+ <g id="west-focus-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,19.58462)">
+  <rect id="rect1025" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="27" height="13" x="5" y="4.1"/>
+ </g>
+ <g id="west-focus-top" transform="translate(62,-42)">
+  <rect id="rect1028" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g1032" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path1030" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+ <g id="west-focus-topleft" transform="translate(62,-42)">
+  <rect id="rect1035" style="opacity:0.001" width="3" height="3" x="1" y="63"/>
+  <path id="path1037" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+ </g>
+ <g id="west-focus-topright" transform="translate(62,-42)">
+  <rect id="rect1040" style="opacity:0.001" width="3" height="3" x="18" y="63"/>
+  <path id="path1042" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+ </g>
+ <g id="west-focus-bottomleft" transform="translate(62,-42)">
+  <rect id="rect1045" style="opacity:0.001" width="3" height="3" x="1" y="80"/>
+  <path id="path1047" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+ </g>
+ <g id="west-focus-bottomright" transform="translate(62,-42)">
+  <rect id="rect1050" style="opacity:0.001" width="3" height="3" x="18" y="80"/>
+  <path id="path1052" style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+ </g>
+ <g id="west-progress-right">
+  <rect id="rect1055" style="opacity:0.001" width="14" height="3" x="-17" y="80" transform="rotate(-90)"/>
+  <path id="path1057" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 80,17 h 1 1 V 3 h -1 -1 z"/>
+ </g>
+ <rect id="west-progress-bottom" style="opacity:0.001" width="3" height="14" x="-20" y="66" transform="rotate(-90)"/>
+ <rect id="west-progress-top" style="opacity:0.001" width="3" height="14" x="-3" y="66" transform="rotate(-90)"/>
+ <rect id="west-progress-center" style="opacity:0.001" width="14" height="14" x="-17" y="66" transform="rotate(-90)"/>
+ <rect id="west-progress-left" style="opacity:0.001" width="14" height="3" x="-17" y="63" transform="rotate(-90)"/>
+ <rect id="west-progress-bottomleft" style="opacity:0.001" width="3" height="3" x="-20" y="63" transform="rotate(-90)"/>
+ <rect id="west-progress-topleft" style="opacity:0.001" width="3" height="3" x="-3" y="63" transform="rotate(-90)"/>
+ <g id="west-progress-bottomright">
+  <rect id="rect1066" style="opacity:0.001" width="3" height="3" x="-20" y="80" transform="rotate(-90)"/>
+  <path id="path1068" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 80,19 h 1 c 0,0 1,0 1,-1 v -1 h -1 -1 v 1 z"/>
+ </g>
+ <g id="west-progress-topright">
+  <rect id="rect1071" style="opacity:0.001" width="3" height="3" x="-3" y="80" transform="rotate(-90)"/>
+  <path id="path1073" style="fill:currentColor" class="ColorScheme-NegativeText" d="m 80,3 h 1 1 V 2 c 0,0 0,-1 -1,-1 h -1 v 1 z"/>
+ </g>
+ <g id="minimized-top" transform="translate(-1,42)">
+  <rect id="rect1482" style="opacity:0.001" width="14" height="3" x="4" y="63"/>
+  <g id="g1486" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+   <path id="path1484" style="opacity:0.05;fill:currentColor" class="ColorScheme-Text" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+  </g>
+ </g>
+</svg>

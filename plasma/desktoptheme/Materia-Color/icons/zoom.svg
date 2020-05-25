@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<defs id="materia">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+  </style>
+ </defs>
+ <g id="22-22-zoom-fit-width" transform="translate(-433,42.999998)">
+  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ </g>
+ <g id="22-22-zoom-fit-height" transform="rotate(90,222,-265)">
+  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ </g>
+ <g id="zoom-fit-height">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
+ </g>
+ <g id="zoom-fit-width" transform="rotate(90,32,31.999998)">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
+ </g>
+</svg>

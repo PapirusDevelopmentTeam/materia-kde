@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg24" width="11" height="10" version="1.1">
+ <defs id="materia">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+  </style>
+ </defs>
+ <rect id="hint-tile-center" style="fill:#ff00ff" width="1" height="1" x="2" y="0"/>
+ <rect id="hint-bar-size" style="fill:#ff00ff" width="3" height="3" x="4" y="0"/>
+ <path id="bar-inactive-bottomright" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="m 10,9 v 1 h 1 V 9 Z"/>
+ <path id="bar-inactive-right" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="m 10,7 v 1 h 1 V 7 Z"/>
+ <path id="bar-inactive-topright" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="m 10,5 v 1 h 1 V 5 Z"/>
+ <path id="bar-inactive-bottomleft" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="m 6,9 v 1 H 7 V 9 Z"/>
+ <path id="bar-inactive-left" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="M 6,7 V 8 H 7 V 7 Z"/>
+ <path id="bar-inactive-topleft" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="M 7,5 H 6 v 1 h 1 z"/>
+ <path id="bar-inactive-bottom" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="m 8,9 v 1 H 9 V 9 Z"/>
+ <path id="bar-inactive-center" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="M 9,7 H 8 v 1 h 1 z"/>
+ <path id="bar-inactive-top" style="opacity:0.12;fill:currentColor" class="ColorScheme-Text" d="M 8,5 V 6 H 9 V 5 Z"/>
+ <path id="bar-active-bottomright" style="fill:currentColor" class="ColorScheme-Highlight" d="m 4,9 v 1 H 5 V 9 Z"/>
+ <path id="bar-active-right" style="fill:currentColor" class="ColorScheme-Highlight" d="M 4,7 V 8 H 5 V 7 Z"/>
+ <path id="bar-active-topright" style="fill:currentColor" class="ColorScheme-Highlight" d="M 4,5 V 6 H 5 V 5 Z"/>
+ <path id="bar-active-bottomleft" style="fill:currentColor" class="ColorScheme-Highlight" d="m 0,9 v 1 H 1 V 9 Z"/>
+ <path id="bar-active-left" style="fill:currentColor" class="ColorScheme-Highlight" d="M 0,7 V 8 H 1 V 7 Z"/>
+ <path id="bar-active-topleft" style="fill:currentColor" class="ColorScheme-Highlight" d="M 1,5 H 0 v 1 h 1 z"/>
+ <path id="bar-active-bottom" style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,9 v 1 H 3 V 9 Z"/>
+ <path id="bar-active-center" style="fill:currentColor" class="ColorScheme-Highlight" d="M 3,7 H 2 v 1 h 1 z"/>
+ <path id="bar-active-top" style="fill:currentColor" class="ColorScheme-Highlight" d="M 2,5 V 6 H 3 V 5 Z"/>
+ <rect id="hint-stretch-borders" style="fill:#ff00ff" width="1" height="1" x="1" y="0"/>
+ <rect id="hint-bar-stretch" style="fill:#ff00ff" width="1" height="1" x="0" y="0"/>
+</svg>

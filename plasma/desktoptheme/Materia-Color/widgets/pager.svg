@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg31" width="13" height="23" version="1">
+ <defs id="materia">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+  </style>
+ </defs>
+ <path id="normal-left" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="M 9.5e-6,0.99899995 V 5.998999 h 1 V 0.99899995 Z"/>
+ <path id="normal-right" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="M 13.000009,0.99899995 V 5.998999 h -1 V 0.99899995 Z"/>
+ <rect id="normal-bottom" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" width="11" height="1" x="1" y="6"/>
+ <path id="normal-top" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 1.0000095,-0.00100005 v 1 H 11.999983 v -1 z"/>
+ <path id="hover-left" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="M 9.5e-6,8.999001 V 13.999 h 1 V 8.999001 Z"/>
+ <path id="hover-right" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="M 13.000009,8.999001 V 13.999 h -1 V 8.999001 Z"/>
+ <path id="hover-top" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="M 1.0000095,7.999 V 8.997752 H 11.999988 V 7.999 Z"/>
+ <path id="active-left" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 0,16.999 v 4.999999 H 1 V 16.999 Z"/>
+ <path id="active-right" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 12.999999,16.999 v 4.999999 h -1 V 16.999 Z"/>
+ <rect id="active-bottom" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" width="11" height="1.001" x="1" y="22"/>
+ <path id="active-top" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 1,15.999 v 1 h 10.999977 v -1 z"/>
+ <rect id="normal-center" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" width="11" height="5" x="1" y="-6" transform="scale(1,-1)"/>
+ <rect id="active-center" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" width="11" height="5" x="1" y="-22" transform="scale(1,-1)"/>
+ <rect id="hover-center" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="11" height="5" x="1" y="-14" transform="scale(1,-1)"/>
+ <g id="hover-bottom" transform="matrix(2.1999957,0,0,0.99875155,-1.1999862,-2.447941)">
+  <rect id="rect16" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="5" height="1.001" x="1" y="16.47"/>
+ </g>
+ <path id="hover-bottomleft" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 9.5e-6,13.999 c 0,0.552285 0.4477153,1 1,1 v -1 z"/>
+ <path id="hover-topleft" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 9.5e-6,8.999 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z"/>
+ <path id="hover-topright" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 13.000009,8.999 c 0,-0.552285 -0.447715,-1 -1,-1 v 1 z"/>
+ <path id="hover-bottomright" style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 13.000009,13.999 c 0,0.552285 -0.447715,1 -1,1 v -1 z"/>
+ <path id="normal-bottomleft" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 9.5e-6,5.999 c 0,0.552285 0.4477153,1 1,1 v -1 z"/>
+ <path id="normal-topleft" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 9.5e-6,0.99899995 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z"/>
+ <path id="normal-topright" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 13.000009,0.99899995 c 0,-0.552285 -0.447715,-1 -1,-1 v 1 z"/>
+ <path id="normal-bottomright" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 13.000009,5.999 c 0,0.552285 -0.447715,1 -1,1 v -1 z"/>
+ <path id="active-bottomleft" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 9.5e-6,21.999 c 0,0.552285 0.4477153,1 1,1 v -1 z"/>
+ <path id="active-topleft" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 9.5e-6,16.999 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z"/>
+ <path id="active-topright" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 13.000009,16.999 c 0,-0.552285 -0.447715,-1 -1,-1 v 1 z"/>
+ <path id="active-bottomright" style="opacity:0.9;fill:currentColor" class="ColorScheme-Highlight" d="m 13.000009,21.999 c 0,0.552285 -0.447715,1 -1,1 v -1 z"/>
+</svg>
