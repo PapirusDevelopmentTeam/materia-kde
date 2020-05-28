@@ -1306,15 +1306,15 @@
  <rect id="tbutton-toggled-topright" style="opacity:0.00100002" width="8" height="8" x="272" y="42"/>
  <g id="tbutton-toggled-bottomleft" transform="translate(8,-1)">
   <rect id="rect1433" style="opacity:0.00100002" width="8" height="8" x="248" y="59"/>
-  <path id="path1435" style="fill:#1a73e8;fill-opacity:1" d="m 248,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1435" style="fill:#1a73e8;fill-opacity:1;stroke-width:1.02597833" d="m 248,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="tbutton-toggled-bottom" transform="translate(8,-1)">
   <rect id="rect1438" style="opacity:0.00100002" width="8" height="8" x="256" y="59"/>
-  <path id="path1440" style="fill:#1a73e8;fill-opacity:1" d="m 256,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1440" style="fill:#1a73e8;fill-opacity:1;stroke-width:1.02597833" d="m 256,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="tbutton-toggled-bottomright" transform="translate(8,-1)">
   <rect id="rect1443" style="opacity:0.00100002" width="8" height="8" x="264" y="59"/>
-  <path id="path1445" style="fill:#1a73e8;fill-opacity:1" d="m 264,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1445" style="fill:#1a73e8;fill-opacity:1;stroke-width:1.02597833" d="m 264,66 h 8 v 1 h -8 z"/>
  </g>
  <rect id="combo-normal" style="opacity:0.03999999;fill:#000000;fill-opacity:1;stroke-width:0.2" width="2" height="2" x="415" y="94"/>
  <g id="combo-normal-bottomleft" transform="translate(8.9999901,-9.9999995)">

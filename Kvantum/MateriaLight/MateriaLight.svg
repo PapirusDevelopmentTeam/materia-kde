@@ -959,15 +959,15 @@
  <rect id="tbutton-toggled-topright" style="opacity:0.001" width="8" height="8" x="264" y="43"/>
  <g id="tbutton-toggled-bottomleft">
   <rect id="rect1444" style="opacity:0.001" width="8" height="8" x="248" y="59"/>
-  <path id="path1446" style="fill:#1a73e8" d="m 248,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1446" style="fill:#1a73e8;stroke-width:1.02597833" d="m 248,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="tbutton-toggled-bottom">
   <rect id="rect1449" style="opacity:0.001" width="8" height="8" x="256" y="59"/>
-  <path id="path1451" style="fill:#1a73e8" d="m 256,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1451" style="fill:#1a73e8;stroke-width:1.02597833" d="m 256,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="tbutton-toggled-bottomright">
   <rect id="rect1454" style="opacity:0.001" width="8" height="8" x="264" y="59"/>
-  <path id="path1456" style="fill:#1a73e8" d="m 264,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1456" style="fill:#1a73e8;stroke-width:1.02597833" d="m 264,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="menubar-normal-bottomleft">
   <rect id="rect1459" style="fill:#b6b6b6" width="5" height="1" x="300" y="617"/>

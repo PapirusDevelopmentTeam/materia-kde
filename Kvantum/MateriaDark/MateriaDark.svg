@@ -982,15 +982,15 @@
  <rect id="tbutton-toggled-topright" style="opacity:0.001" width="8" height="8" x="268" y="42"/>
  <g id="tbutton-toggled-bottomleft" transform="translate(4.0000027,-1.0000004)">
   <rect id="rect1433" style="opacity:0.001" width="8" height="8" x="248" y="59"/>
-  <path id="path1435" style="fill:#8ab4f8" d="m 248,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1435" style="fill:#8ab4f8;stroke-width:1.02597833" d="m 248,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="tbutton-toggled-bottom" transform="translate(4.0000027,-1.0000004)">
   <rect id="rect1438" style="opacity:0.001" width="8" height="8" x="256" y="59"/>
-  <path id="path1440" style="fill:#8ab4f8" d="m 256,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1440" style="fill:#8ab4f8;stroke-width:1.02597833" d="m 256,66 h 8 v 1 h -8 z"/>
  </g>
  <g id="tbutton-toggled-bottomright" transform="translate(4.0000027,-1.0000004)">
   <rect id="rect1443" style="opacity:0.001" width="8" height="8" x="264" y="59"/>
-  <path id="path1445" style="fill:#8ab4f8" d="m 264,63.7 h 8 v 0.95 h -8 z"/>
+  <path id="path1445" style="fill:#8ab4f8;stroke-width:1.02597833" d="m 264,66 h 8 v 1 h -8 z"/>
  </g>
  <rect id="menubar-normal" style="fill:#2d2d2d" width="20" height="20" x="305" y="506"/>
  <rect id="menubar-normal-left" style="fill:#2d2d2d" width="20" height="5" x="506" y="-305" transform="rotate(90)"/>
