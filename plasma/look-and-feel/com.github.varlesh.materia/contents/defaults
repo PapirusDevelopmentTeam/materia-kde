@@ -4,6 +4,16 @@ widgetStyle=kvantum
 [kdeglobals][General]
 ColorScheme=MateriaDark
 
+[kdeglobals][MainToolbarIcons]
+Size=16
+
+[kdeglobals][ToolbarIcons]
+Size=16
+
+[kdeglobals][Toolbar style]
+ToolButtonStyle=NoText
+ToolButtonStyleOtherToolbars=NoText
+
 [kdeglobals][Icons]
 Theme=Papirus-Dark
 
