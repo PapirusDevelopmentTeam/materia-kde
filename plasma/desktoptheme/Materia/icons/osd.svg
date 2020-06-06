@@ -151,7 +151,7 @@
   <g transform="matrix(-1,0,0,1,96,0)">
    <circle style="opacity:0.2" cx="-48" cy="45" r="16" transform="scale(-1,1)"/>
    <circle style="fill:#0f88ef" cx="-48" cy="44" r="16" transform="scale(-1,1)"/>
-   <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m -49.975992,51.752126 a 8,8 0 0 1 -6.022869,-7.61716 8,8 0 0 1 5.762463,-7.816016 8,8 0 0 1 9.057519,3.501062" transform="scale(-1,1)"/>
+   <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" transform="scale(-1,1)" d="m -49.975992,51.752126 a 8,8 0 0 1 -6.022869,-7.61716 8,8 0 0 1 5.762463,-7.816016 8,8 0 0 1 9.057519,3.501062"/>
    <path style="fill:#ffffff" d="m 39.005412,36.000377 a 0.97504568,0.98245658 0 0 1 0.289438,0.05372 0.97504568,0.98245658 0 0 1 0.17138,0.08058 l 3.020054,1.757504 3.027674,1.7575 a 0.97504568,0.98245658 0 0 1 0,1.699938 l -3.027674,1.76134 -3.020054,1.7575 a 0.97504568,0.98245658 0 0 1 -1.462422,-0.848052 l -0.0038,-3.518838 0.0038,-3.518838 a 0.97504568,0.98245658 0 0 1 1.001604,-0.982366 z"/>
   </g>
  </g>
@@ -165,7 +165,7 @@
   <g>
    <circle style="opacity:0.2" cx="-48" cy="45" r="16" transform="scale(-1,1)"/>
    <circle style="fill:#0f88ef" cx="-48" cy="44" r="16" transform="scale(-1,1)"/>
-   <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m -49.975992,51.752126 a 8,8 0 0 1 -6.022869,-7.61716 8,8 0 0 1 5.762463,-7.816016 8,8 0 0 1 9.057519,3.501062" transform="scale(-1,1)"/>
+   <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" transform="scale(-1,1)" d="m -49.975992,51.752126 a 8,8 0 0 1 -6.022869,-7.61716 8,8 0 0 1 5.762463,-7.816016 8,8 0 0 1 9.057519,3.501062"/>
    <path style="fill:#ffffff" d="m 39.005412,36.000377 a 0.97504568,0.98245658 0 0 1 0.289438,0.05372 0.97504568,0.98245658 0 0 1 0.17138,0.08058 l 3.020054,1.757504 3.027674,1.7575 a 0.97504568,0.98245658 0 0 1 0,1.699938 l -3.027674,1.76134 -3.020054,1.7575 a 0.97504568,0.98245658 0 0 1 -1.462422,-0.848052 l -0.0038,-3.518838 0.0038,-3.518838 a 0.97504568,0.98245658 0 0 1 1.001604,-0.982366 z"/>
   </g>
  </g>

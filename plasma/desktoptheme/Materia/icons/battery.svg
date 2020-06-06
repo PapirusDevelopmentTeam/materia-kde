@@ -45,11 +45,11 @@
  </g>
  <g id="22-22-Fill10" transform="translate(105.46001,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#4285f4" d="M 329.5,-19 C 329,-19.01 329,-18.5 329,-18.5 V -18 H 325 V -3 H 337 V -18 H 333 V -18.5 C 333,-18.5 333,-19 332.5,-19 Z M 327,-16 H 335 V -7 H 327 Z" transform="translate(-105.46,404.5)"/>
+  <path style="fill:#4285f4" transform="translate(-105.46,404.5)" d="M 329.5,-19 C 329,-19.01 329,-18.5 329,-18.5 V -18 H 325 V -3 H 337 V -18 H 333 V -18.5 C 333,-18.5 333,-19 332.5,-19 Z M 327,-16 H 335 V -7 H 327 Z"/>
  </g>
  <g id="22-22-Fill0" transform="translate(137.46001,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
-  <path style="fill:#4285f4" d="M 361.5,-19 C 361,-19.01 361,-18.5 361,-18.5 V -18 H 357 V -3 H 369 V -18 H 365 V -18.5 C 365,-18.5 365,-19 364.5,-19 Z M 359,-16 H 367 V -5 H 359 Z" transform="translate(-137.46,404.5)"/>
+  <path style="fill:#4285f4" transform="translate(-137.46,404.5)" d="M 361.5,-19 C 361,-19.01 361,-18.5 361,-18.5 V -18 H 357 V -3 H 369 V -18 H 365 V -18.5 C 365,-18.5 365,-19 364.5,-19 Z M 359,-16 H 367 V -5 H 359 Z"/>
  </g>
  <g id="22-22-Unavailable" transform="translate(213.46001,-426.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-426.5" y="170.54" transform="rotate(-90)"/>

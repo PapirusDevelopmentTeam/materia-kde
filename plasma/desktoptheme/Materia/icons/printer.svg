@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <g id="22-22-printer" transform="translate(-473,135.01)">
   <rect style="opacity:0.001" width="22" height="22" x="505" y="-125.01"/>
-  <path style="fill:#dfdfdf" d="M 6,3 V 6 H 16 V 3 Z M 3.2851562,7 C 2.6423063,7 2,7.5826756 2,8.1660156 V 12.833984 C 2,13.417324 2.6423063,14 3.2851562,14 H 5 v -2 h 12 v 2 h 1.714844 C 19.357694,14 20,13.417324 20,12.833984 V 8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 Z M 6,13 v 6 h 10 v -6 z m 1,2 h 8 v 1 H 7 Z m 0,2 h 8 v 1 H 7 Z" transform="translate(505.0006,-125.00672)"/>
+  <path style="fill:#dfdfdf" transform="translate(505.0006,-125.00672)" d="M 6,3 V 6 H 16 V 3 Z M 3.2851562,7 C 2.6423063,7 2,7.5826756 2,8.1660156 V 12.833984 C 2,13.417324 2.6423063,14 3.2851562,14 H 5 v -2 h 12 v 2 h 1.714844 C 19.357694,14 20,13.417324 20,12.833984 V 8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 Z M 6,13 v 6 h 10 v -6 z m 1,2 h 8 v 1 H 7 Z m 0,2 h 8 v 1 H 7 Z"/>
  </g>
  <g id="printer">
-  <rect width="32" height="32" x="0" y="0" style="opacity:0.001"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
   <g>
    <rect style="opacity:0.2" width="12" height="28" x="-23" y="-30" rx="1.412" ry="1.4" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.2" d="M 5,19 V 29.588235 C 5,30.370353 5.61325,31 6.375,31 h 19.25 C 26.38675,31 27,30.370353 27,29.588235 V 19 Z"/>
