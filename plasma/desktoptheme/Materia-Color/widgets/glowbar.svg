@@ -1,14 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="48" height="36" version="1">
-<defs id="materia">
-<style id="current-color-scheme" type="text/css">
+ <defs id="materia">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
   </style>
-<g class="ColorScheme-Highlight">
   <linearGradient id="linearGradient3771">
    <stop id="stop3773" style="stop-color:currentColor;stop-opacity:0.6" offset="0"/>
    <stop id="stop3775" style="stop-color:currentColor;stop-opacity:0" offset="1"/>
   </linearGradient>
-</g>
   <radialGradient id="radialGradient3777" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-51.837204,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
   <radialGradient id="radialGradient3785" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-87.8372,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
   <linearGradient id="linearGradient3795" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-42,-8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
