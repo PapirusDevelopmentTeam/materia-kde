@@ -16,30 +16,41 @@
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
   </style>
  </defs>
- <rect id="center" style="fill:currentColor" class="ColorScheme-ViewBackground" width="50" height="50" x="7" y="27"/>
+ <g id="center">
+  <rect id="path84" style="fill:currentColor" class="ColorScheme-ViewBackground" width="50" height="50" x="7" y="27"/>
+  <rect id="path880" style="opacity:0.1" width="50" height="50" x="7" y="27"/>
+ </g>
  <g id="topleft" transform="translate(-183,-231.99995)">
   <path id="path86" style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+  <path id="path882" style="opacity:0.1" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
  </g>
  <g id="left" transform="translate(-183,-231.99995)">
   <path id="path89" style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
+  <path id="path884" style="opacity:0.1" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
  </g>
  <g id="right" transform="translate(-183,-231.99995)">
   <path id="path92" style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
+  <path id="path886" style="opacity:0.1" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
  </g>
  <g id="bottomleft" transform="translate(-183,-231.99995)">
   <path id="path95" style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+  <path id="path888" style="opacity:0.1" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
  </g>
  <g id="bottom" transform="translate(-183,-231.99995)">
   <path id="path98" style="fill:currentColor" class="ColorScheme-ViewBackground" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
+  <path id="path890" style="opacity:0.1" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
  </g>
  <g id="bottomright" transform="translate(-183,-231.99995)">
   <path id="path101" style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+  <path id="path892" style="opacity:0.1" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
  </g>
  <g id="topright" transform="translate(-183,-231.99995)">
   <path id="path104" style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+  <path id="path894" style="opacity:0.1" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
  </g>
  <g id="top" transform="translate(-183,-231.99995)">
   <path id="path107" style="fill:currentColor" class="ColorScheme-ViewBackground" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
+  <path id="path896" style="opacity:0.1" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
  </g>
  <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="10" x="29" y="27"/>
  <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="29" y="67"/>
