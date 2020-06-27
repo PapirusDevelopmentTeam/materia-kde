@@ -53,6 +53,7 @@ _download() {
 
 _uninstall() {
     _msg "Deleting $gh_desc ..."
+    _rm "$PREFIX/share/aurorae/themes/Materia"
     _rm "$PREFIX/share/aurorae/themes/Materia-Dark"
     _rm "$PREFIX/share/aurorae/themes/Materia-Light"
     _rm "$PREFIX/share/color-schemes/MateriaDark.colors"

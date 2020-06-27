@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4306" width="22" height="22" version="1.1" style="enable-background:new">
+ <g id="active-center" transform="matrix(1,0,0,-1,0,22)">
+  <rect id="rect4266" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path id="path4167" d="m 12.148778,4.0285726 2.886751,4.9999999 2.886751,4.9999995 H 12.148778 6.3752753 L 9.2620269,9.0285726 Z" transform="matrix(0.86602542,0,0,0.60000001,0.47884954,4.5828564)" style="opacity:1;fill:#dfdfdf"/>
+ </g>
+ <g id="hover-center" transform="matrix(1,0,0,-1,0,22)">
+  <rect style="opacity:0.001" id="rect4208" width="22" height="22" x="23" y="0"/>
+  <circle style="opacity:0.08;fill:#ffffff" id="circle4212" cx="34" cy="11" r="11"/>
+  <path style="opacity:1;fill:#dfdfdf" id="path4171" d="M 34.000001,7 36.5,10 39,13 H 34.000001 29 l 2.500001,-3 z"/>
+ </g>
+ <g id="pressed-center" transform="matrix(1,0,0,-1,0,22)">
+  <rect style="opacity:0.001" id="rect4164" width="22" height="22" x="46" y="0"/>
+  <circle style="opacity:0.19;fill:#ffffff" id="path4202" cx="57" cy="11" r="11"/>
+  <path id="path4173" d="M 57.000001,7 59.5,10 62,13 H 57.000001 52 l 2.500001,-3 z" style="opacity:1;fill:#dfdfdf"/>
+ </g>
+ <g id="inactive-center" transform="matrix(1,0,0,-1,0,22)">
+  <rect style="opacity:0.001" id="rect4179" width="22" height="22" x="69" y="0"/>
+  <path style="opacity:0.5;fill:#dfdfdf" id="path4181" d="m 12.148778,4.0285726 2.886751,4.9999999 2.886751,4.9999995 H 12.148778 6.3752753 L 9.2620269,9.0285726 Z" transform="matrix(0.86602542,0,0,0.60000001,69.47885,4.5828564)"/>
+ </g>
+ <g id="deactivated-center" transform="matrix(1,0,0,-1,0,22)">
+  <rect style="opacity:0.001" id="rect4183" width="22" height="22" x="92" y="0"/>
+  <path style="opacity:0.5;fill:#dfdfdf" id="path4185" d="m 12.148778,4.0285726 2.886751,4.9999999 2.886751,4.9999995 H 12.148778 6.3752753 L 9.2620269,9.0285726 Z" transform="matrix(0.86602542,0,0,0.60000001,92.47885,4.5828564)"/>
+ </g>
+</svg>

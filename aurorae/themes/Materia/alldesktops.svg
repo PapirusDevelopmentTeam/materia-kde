@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4306" width="22" height="22" version="1.1" style="enable-background:new">
+ <g id="active-center">
+  <rect id="rect4266" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <circle id="path4206" cx="11" cy="11" r="4" style="opacity:1;fill:#dfdfdf"/>
+ </g>
+ <g id="hover-center">
+  <g id="g4206" transform="translate(23)">
+   <rect id="rect4208" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  </g>
+  <circle style="opacity:0.08;fill:#ffffff" id="circle4212" cx="34" cy="11" r="11"/>
+  <circle style="opacity:1;fill:#dfdfdf" id="circle4213" cx="34" cy="11" r="4"/>
+ </g>
+ <g id="pressed-center">
+  <g id="g4172" transform="translate(46)">
+   <rect id="rect4164" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  </g>
+  <circle style="opacity:0.19;fill:#ffffff" id="path4202" cx="57" cy="11" r="11"/>
+  <circle style="opacity:1;fill:#dfdfdf" id="circle4215" cx="57" cy="11" r="4"/>
+ </g>
+ <g id="inactive-center">
+  <rect id="rect4180" width="22" height="22" x="69" y="0" style="opacity:0.001"/>
+  <circle style="opacity:0.5;fill:#dfdfdf" id="circle4217" cx="80" cy="11" r="4"/>
+ </g>
+ <g id="deactivated-center">
+  <rect id="rect4278" width="22" height="22" x="92" y="0" style="opacity:0.001"/>
+  <circle id="circle4219" cx="103" cy="11" r="4" style="opacity:0.5;fill:#dfdfdf"/>
+ </g>
+</svg>

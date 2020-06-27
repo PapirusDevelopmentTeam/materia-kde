@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4306" width="22" height="22" version="1.1" style="enable-background:new">
+ <g id="pressed-center">
+  <rect style="opacity:0.001" id="rect4164" width="22" height="22" x="46" y="0"/>
+  <circle style="opacity:0.19;fill:#ffffff" id="path4202" cx="57" cy="11" r="11"/>
+  <path id="rect4139" d="m 53,7 v 2 6 h 8 V 9 7 Z m 2,2 h 4 v 3 1 h -4 v -1 z" style="opacity:1;fill:#dfdfdf"/>
+ </g>
+ <g id="hover-center">
+  <rect style="opacity:0.001" id="rect4208" width="22" height="22" x="23" y="0"/>
+  <circle style="opacity:0.08;fill:#ffffff" id="circle4212" cx="34" cy="11" r="11"/>
+  <path id="rect4214" d="m 30,7 v 2 6 h 8 V 9 7 Z m 2,2 h 4 v 3 1 h -4 v -1 z" style="opacity:1;fill:#dfdfdf"/>
+ </g>
+ <g id="active-center">
+  <rect id="rect4266" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path style="opacity:1;fill:#dfdfdf" id="path4268" d="M 7 7 L 7 9 L 7 15 L 15 15 L 15 9 L 15 7 L 7 7 z M 9 9 L 13 9 L 13 12 L 13 13 L 9 13 L 9 12 L 9 9 z"/>
+ </g>
+ <g id="inactive-center" transform="translate(69,0)">
+  <rect id="rect4180" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path style="opacity:0.5;fill:#dfdfdf" id="rect4139-3" d="M 76 7 L 76 9 L 76 15 L 84 15 L 84 9 L 84 7 L 76 7 z M 78 9 L 82 9 L 82 12 L 82 13 L 78 13 L 78 12 L 78 9 z" transform="translate(-69)"/>
+ </g>
+ <g id="deactivated-center" transform="translate(92,0)">
+  <rect id="rect4278" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path style="opacity:0.5;fill:#dfdfdf" id="path4280" d="M 99 7 L 99 9 L 99 15 L 107 15 L 107 9 L 107 7 L 99 7 z M 101 9 L 105 9 L 105 12 L 105 13 L 101 13 L 101 12 L 101 9 z" transform="translate(-92)"/>
+ </g>
+</svg>

@@ -15,6 +15,7 @@ install:
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
 
 uninstall:
+	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Materia-Dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Materia-Light
 	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/MateriaDark.colors
