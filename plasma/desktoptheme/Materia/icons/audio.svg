@@ -74,7 +74,7 @@
  <g id="audio-radio-symbolic" transform="translate(0,-313.17917)">
   <rect id="rect968" style="opacity:0.001" width="32" height="32" x="0" y="281.18"/>
   <rect id="rect907" style="opacity:0.2" width="28" height="22" x="2" y="290.18" rx="3" ry="3"/>
-  <path id="path881" style="opacity:0.5" d="M 8.4765625,281.25831 A 1.50015,1.50015 0 0 0 7,282.7798 v 7.5 a 1.50015,1.50015 0 1 0 3,0 v -7.5 a 1.50015,1.50015 0 0 0 -1.5234375,-1.52149 z"/>
+  <path id="path881" style="fill:#8e8e8e" d="M 8.4765625,281.25831 A 1.50015,1.50015 0 0 0 7,282.7798 v 7.5 a 1.50015,1.50015 0 1 0 3,0 v -7.5 a 1.50015,1.50015 0 0 0 -1.5234375,-1.52149 z"/>
   <rect id="rect885" style="fill:#494949" width="5" height="2" x="6" y="288.18" rx="1" ry="1"/>
   <rect id="rect879" style="fill:#00cdbf" width="28" height="22" x="2" y="289.18" rx="3" ry="3"/>
   <circle id="path887" style="opacity:0.5" cx="11" cy="300.179" r="7"/>
