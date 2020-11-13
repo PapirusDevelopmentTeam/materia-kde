@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg9" width="32" height="32" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <defs id="materia">
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
   </style>
  </defs>
  <g id="applications-other">
-  <rect id="rect855" style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path id="path829" style="fill:currentColor" class="ColorScheme-Text" d="M 5 2 C 3.3379999 2 2 3.3379999 2 5 L 2 11 C 2 12.662001 3.3379999 14 5 14 L 11 14 C 12.661998 14 14 12.662001 14 11 L 14 5 C 14 3.3379999 12.661998 2 11 2 L 5 2 z M 21 2 C 19.338 2 18 3.3379999 18 5 L 18 11 C 18 12.662001 19.338 14 21 14 L 27 14 C 28.661998 14 30 12.662001 30 11 L 30 5 C 30 3.3379999 28.661998 2 27 2 L 21 2 z M 21 5 L 27 5 L 27 11 L 21 11 L 21 5 z M 5 18 C 3.338002 18 2 19.338 2 21 L 2 27 C 2 28.662001 3.338002 30 5 30 L 11 30 C 12.662 30 14 28.662001 14 27 L 14 21 C 14 19.338 12.662 18 11 18 L 5 18 z M 21 18 C 19.338002 18 18 19.338 18 21 L 18 27 C 18 28.662001 19.338002 30 21 30 L 27 30 C 28.662 30 30 28.662001 30 27 L 30 21 C 30 19.338 28.662 18 27 18 L 21 18 z M 5 21 L 11 21 L 11 27 L 5 27 L 5 21 z"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 5 2 C 3.3379999 2 2 3.3379999 2 5 L 2 11 C 2 12.662001 3.3379999 14 5 14 L 11 14 C 12.661998 14 14 12.662001 14 11 L 14 5 C 14 3.3379999 12.661998 2 11 2 L 5 2 z M 21 2 C 19.338 2 18 3.3379999 18 5 L 18 11 C 18 12.662001 19.338 14 21 14 L 27 14 C 28.661998 14 30 12.662001 30 11 L 30 5 C 30 3.3379999 28.661998 2 27 2 L 21 2 z M 21 5 L 27 5 L 27 11 L 21 11 L 21 5 z M 5 18 C 3.338002 18 2 19.338 2 21 L 2 27 C 2 28.662001 3.338002 30 5 30 L 11 30 C 12.662 30 14 28.662001 14 27 L 14 21 C 14 19.338 12.662 18 11 18 L 5 18 z M 21 18 C 19.338002 18 18 19.338 18 21 L 18 27 C 18 28.662001 19.338002 30 21 30 L 27 30 C 28.662 30 30 28.662001 30 27 L 30 21 C 30 19.338 28.662 18 27 18 L 21 18 z M 5 21 L 11 21 L 11 27 L 5 27 L 5 21 z"/>
  </g>
 </svg>
