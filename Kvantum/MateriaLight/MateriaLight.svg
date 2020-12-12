@@ -1417,4 +1417,6 @@
   <rect id="rect2116" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.26847839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="2" height="4" x="413" y="110"/>
   <path id="rect2118" style="opacity:1;fill:#1a73e8;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 413,110 h 1 v 2 h -1 z"/>
  </g>
+ <rect id="dialog-normal" style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.28181827" width="30" height="30" x="452" y="763"/>
+ <rect id="dialog-normal-inactive" style="fill:#d6d6d6;fill-opacity:1;stroke-width:1.28181827" width="30" height="30" x="482" y="763"/>
 </svg>

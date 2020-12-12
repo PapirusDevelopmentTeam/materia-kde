@@ -1532,4 +1532,70 @@
   <rect id="rect2116-8" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.26847839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="2" height="4" x="413" y="110"/>
   <path id="rect2118-6" style="opacity:1;fill:#1a73e8;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 413,110 h 1.00001 v 2 H 413 Z"/>
  </g>
+ <g id="flat-spin-plus-normal" transform="translate(231,-42.00006)">
+  <rect id="rect1038-3" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1040-6" style="fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-minus-normal" transform="translate(221,-31.00006)">
+  <rect id="rect1043-7" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1045-5" style="fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-plus-focused" transform="translate(241,-42.00006)">
+  <rect id="rect1048-3" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1050-5" style="fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-minus-focused" transform="translate(231,-31.00006)">
+  <rect id="rect1053-6" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1055-2" style="fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-plus-pressed" transform="translate(251,-42.00006)">
+  <rect id="rect1058-9" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1060-1" style="fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-minus-pressed" transform="translate(241,-31.00006)">
+  <rect id="rect1063-2" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1065-7" style="fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-plus-disabled" transform="translate(261,-42.00006)">
+  <rect id="rect1068-0" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1070-9" style="opacity:0.3;fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-minus-disabled" transform="translate(251,-31.00006)">
+  <rect id="rect1073-3" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1075-6" style="opacity:0.3;fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-up-normal" transform="translate(231,-21)">
+  <rect id="rect1078-0" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1080-6" style="fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-down-normal" transform="translate(221,-10)">
+  <rect id="rect1083-2" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1085-6" style="fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-up-focused" transform="translate(241,-21)">
+  <rect id="rect1088-1" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1090-8" style="fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-down-focused" transform="translate(231,-10)">
+  <rect id="rect1093-7" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1095-9" style="fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-up-pressed" transform="translate(251,-21)">
+  <rect id="rect1098-2" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1100-0" style="fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-down-pressed" transform="translate(241,-10)">
+  <rect id="rect1103-2" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1105-3" style="fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <g id="flat-spin-up-disabled" transform="translate(261,-21)">
+  <rect id="rect1108-7" style="opacity:0.00100002" width="8" height="8" x="15" y="317"/>
+  <path id="path1110-5" style="opacity:0.3;fill:#ffffff" d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"/>
+ </g>
+ <g id="flat-spin-down-disabled" transform="translate(251,-10)">
+  <rect id="rect1113-9" style="opacity:0.00100002" width="8" height="8" x="25" y="317"/>
+  <rect id="rect1115-2" style="opacity:0.3;fill:#ffffff" width="2" height="8" x="320" y="-33" transform="rotate(90)"/>
+ </g>
+ <rect id="dialog-normal" style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.28181827" width="30" height="30" x="452" y="763"/>
+ <rect id="dialog-normal-inactive" style="fill:#d6d6d6;fill-opacity:1;stroke-width:1.28181827" width="30" height="30" x="482" y="763"/>
 </svg>

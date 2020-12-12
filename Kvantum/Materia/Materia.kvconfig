@@ -340,8 +340,8 @@ text.press.color=#dfdfdf
 text.toggle.color=#dfdfdf
 frame.left=0
 frame.right=0
-frame.top=4
-frame.bottom=0
+frame.top=0
+frame.bottom=4
 frame.expansion=0
 
 [Slider]
@@ -581,3 +581,7 @@ interior=false
 interior=true
 interior.element=window
 text.bold=false
+
+[Dialog]
+interior=true
+interior.element=dialog
