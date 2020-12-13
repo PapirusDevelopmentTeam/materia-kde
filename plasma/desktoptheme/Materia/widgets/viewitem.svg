@@ -2,78 +2,78 @@
  <rect id="hint-tile-center" style="fill:#ff00ff" width="40" height="40" x="0" y="0"/>
  <path id="selected-center" style="opacity:0.24;fill:#8ab4f8" d="m 124.00002,49.99996 v 48 h 47.99999 v -48 z"/>
  <g id="selected-left" transform="matrix(1,0,0,3.0009825,-66.142836,-2440.4026)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 186.14285,829.85712 v 16 h 4 v -16 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 186.14285,829.85712 v 16 h 4 v -16 z"/>
  </g>
  <g id="selected-topleft" transform="translate(-66.142836,-779.87294)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
  </g>
  <g id="selected-top" transform="matrix(0.36657704,0,0,1,54.288008,-779.85716)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
  </g>
  <g id="selected-topright" transform="translate(-149.14284,-779.85716)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
  </g>
  <g id="selected-right" transform="matrix(1,0,0,3.0000017,-149.14284,-2439.5728)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 325.14286,829.85712 v 16 h -4 v -16 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 325.14286,829.85712 v 16 h -4 v -16 z"/>
  </g>
  <path id="hover-center" style="opacity:0.08;fill:#ffffff" d="m 64,49.99972 v 48 h 48 v -48 z"/>
  <g id="hover-left" transform="matrix(1,0,0,3.0009825,-126.14285,-2440.4028)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 186.14285,829.85712 v 16 h 4 v -16 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 186.14285,829.85712 v 16 h 4 v -16 z"/>
  </g>
  <g id="hover-topleft" transform="translate(-126.14285,-779.85766)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
  </g>
  <g id="hover-top" transform="matrix(0.36657704,0,0,1,-5.71201,-779.8574)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
  </g>
  <g id="hover-topright" transform="translate(-209.14285,-779.8574)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
  </g>
  <g id="hover-right" transform="matrix(1,0,0,3.0000017,-209.14285,-2439.573)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 325.14286,829.85712 v 16 h -4 v -16 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 325.14286,829.85712 v 16 h -4 v -16 z"/>
  </g>
  <path id="selected+hover-center" style="opacity:0.5;fill:#8ab4f8" d="m 184.00001,49.99994 v 48 h 48 v -48 z"/>
  <g id="selected+hover-left" transform="matrix(1,0,0,3.0009825,-6.14284,-2440.4026)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 186.14285,829.85712 v 16 h 4 v -16 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 186.14285,829.85712 v 16 h 4 v -16 z"/>
  </g>
  <g id="selected+hover-topleft" transform="translate(-6.14284,-779.87296)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
  </g>
  <g id="selected+hover-top" transform="matrix(0.36657704,0,0,1,114.288,-779.85718)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
  </g>
  <g id="selected+hover-topright" transform="translate(-89.142844,-779.85718)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
  </g>
  <g id="selected+hover-right" transform="matrix(1,0,0,3.0000017,-89.142844,-2439.5728)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 325.14286,829.85712 v 16 h -4 v -16 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 325.14286,829.85712 v 16 h -4 v -16 z"/>
  </g>
  <g id="selected-bottomright" transform="rotate(180,181.07144,463.92852)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
  </g>
  <g id="selected-bottom" transform="matrix(-0.36657704,0,0,-1,241.72361,927.85714)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
  </g>
  <g id="selected-bottomleft" transform="rotate(180,222.57143,463.92857)">
-  <path  style="opacity:0.24;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
+  <path style="opacity:0.24;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
  </g>
  <g id="hover-bottomright" transform="rotate(180,151.07143,463.92847)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
  </g>
  <g id="hover-bottom" transform="matrix(-0.36657704,0,0,-1,181.7236,927.85714)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
  </g>
  <g id="hover-bottomleft" transform="rotate(180,192.57143,463.92842)">
-  <path  style="opacity:0.08;fill:#ffffff" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
+  <path style="opacity:0.08;fill:#ffffff" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
  </g>
  <g id="selected_hover-bottomright" transform="rotate(180,211.07144,463.92855)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"/>
  </g>
  <g id="selected_hover-bottom" transform="matrix(-0.36657704,0,0,-1,301.72361,927.857)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 190.14286,825.85714 v 4 h 131 v -4 z"/>
  </g>
  <g id="selected_hover-bottomleft" transform="rotate(180,252.57143,463.92855)">
-  <path  style="opacity:0.5;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
+  <path style="opacity:0.5;fill:#8ab4f8" d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"/>
  </g>
  <path id="normal-center" style="opacity:0.001" d="M 3.998459,50.01459 V 98.00112 H 51.979955 V 50.01459 Z"/>
  <path id="normal-left" style="opacity:0.001" d="M 0,49.99888 V 98.00112 H 3.998459 V 49.99888 Z"/>

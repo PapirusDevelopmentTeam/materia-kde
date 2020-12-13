@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="13" height="23" version="1">
  <defs id="materia">
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
  <path id="normal-left" style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="M 9.5e-6,0.99899995 V 5.998999 h 1 V 0.99899995 Z"/>

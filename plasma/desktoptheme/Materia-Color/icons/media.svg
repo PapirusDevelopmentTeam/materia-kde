@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <defs id="materia">
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
  <g id="22-22-media-playback-start" transform="translate(0,-22)">
@@ -22,7 +22,7 @@
  </g>
  <g id="22-22-media-record" transform="translate(102,-22)">
   <rect style="opacity:0.001" width="22" height="22" x="154" y="0"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" transform="translate(-102,-32)" d="m 261,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 6,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"/>
+  <path style="fill:currentColor" class="ColorScheme-NegativeText" transform="translate(-102,-32)" d="m 261,35 c -1.108,0 -2,0.892 -2,2 v 6 6 c 0,1.108 0.892,2 2,2 h 6 6 c 1.108,0 2,-0.892 2,-2 v -6 -6 c 0,-1.108 -0.892,-2 -2,-2 h -6 z m 6,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"/>
  </g>
  <g id="22-22-media-eject" transform="translate(-6.9999995,-46)">
   <rect style="opacity:0.001" width="22" height="22" x="231" y="24"/>
@@ -86,7 +86,7 @@
  </g>
  <g id="media-record" transform="translate(256)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 7.0000001,4.0000005 c -1.6619999,0 -2.9999999,1.338 -2.9999999,3 V 16 25 c 0,1.662001 1.338,3 2.9999999,3 h 9.0000009 9 C 26.662,28 28,26.662001 28,25 V 16 7.0000005 c 0,-1.662 -1.338,-3 -2.999999,-3 h -9 z M 16.000001,9.9999999 A 5.9999999,5.9999999 0 0 1 22,16 a 5.9999999,5.9999999 0 0 1 -5.999999,6.000001 5.9999999,5.9999999 0 0 1 -6,-6.000001 5.9999999,5.9999999 0 0 1 6,-6.0000001 z"/>
+  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 7.0000001,4.0000005 c -1.6619999,0 -2.9999999,1.338 -2.9999999,3 V 16 25 c 0,1.662001 1.338,3 2.9999999,3 h 9.0000009 9 C 26.662,28 28,26.662001 28,25 V 16 7.0000005 c 0,-1.662 -1.338,-3 -2.999999,-3 h -9 z M 16.000001,9.9999999 A 5.9999999,5.9999999 0 0 1 22,16 a 5.9999999,5.9999999 0 0 1 -5.999999,6.000001 5.9999999,5.9999999 0 0 1 -6,-6.000001 5.9999999,5.9999999 0 0 1 6,-6.0000001 z"/>
  </g>
  <g id="media-playback-stopped" transform="translate(160,32)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>

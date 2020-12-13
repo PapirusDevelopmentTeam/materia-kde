@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="corectrl">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="20" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="23" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="26" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="11" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="14" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="17" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="8" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="5" y="-29" transform="rotate(90)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-12" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-9" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-6" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-21" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-18" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-15" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-24" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#8e8e8e" width="1" height="26" x="-27" y="-29" transform="scale(-1)"/>
+  <rect style="fill:#4f4f4f" width="24" height="24" x="-28" y="-28" rx="1.2" ry="1.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 5.5,4 C 4.669,4 4,4.5344 4,5.1992 v 1 C 4,5.5344 4.669,5 5.5,5 h 21 C 27.331,5 28,5.5344 28,6.1992 v -1 C 28,4.5344 27.331,4 26.5,4 Z"/>
+  <path style="opacity:0.2" d="m 4,26.801 v 1 C 4,28.466 4.669,29 5.5,29 h 21 c 0.831,0 1.5,-0.534 1.5,-1.199 v -1 C 28,27.466 27.331,28 26.5,28 H 5.5 C 4.669,28 4,27.466 4,26.801 Z"/>
+  <path style="opacity:0.2" d="m 17,18 v 8 h 6 v -2 h -1 v 1 h -3 v -2 l -1,-1 v -3 h 4 v 1 h 1 V 18 Z M 17,8 v 8 h 6 v -2 h -1 v 1 H 19 V 13 L 18,12 V 9 h 4 v 1 h 1 V 8 Z"/>
+  <path style="fill:#ffa726" d="m 17,7 v 8 h 6 v -2 h -1 v 1 H 19 V 12 L 18,11 V 8 h 4 v 1 h 1 V 7 Z"/>
+  <rect style="fill:#ffa726" width="2" height="9" x="10" y="7"/>
+  <rect style="fill:#f75f5f" width="2" height="9" x="10" y="16"/>
+  <rect style="fill:#f75f5f" width="6" height="3" x="8" y="15"/>
+  <path style="fill:#f75f5f" d="m 17,17 v 8 h 6 v -2 h -1 v 1 h -3 v -2 l -1,-1 v -3 h 4 v 1 h 1 v -2 z"/>
+  <path style="opacity:0.2" d="m 10,25 h 2 v 1 H 10 Z M 8,18 h 6 v 1 H 8 Z"/>
+  <rect style="opacity:0.2;fill:#ffffff" width="6" height="1" x="8" y="15"/>
+ </g>
+ <g id="22-22-corectrl" transform="translate(27,5)">
+  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <g transform="translate(8,8)">
+   <path style="fill:#dfdfdf" d="M 1,0 V 2 H 0 v 12 h 1 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 1 V 2 H 15 V 0 H 13 V 2 H 11 V 0 H 9 V 2 H 7 V 0 H 5 V 2 H 3 V 0 Z M 2,4 H 7 V 6 H 6 V 5 H 3 v 3 h 1 v 3 h 2 v -1 h 1 v 2 H 2 Z m 7,0 h 5 V 6 H 13 V 5 h -3 v 3 h 1 v 3 h 2 v -1 h 1 v 2 H 9 Z"/>
+  </g>
+ </g>
+</svg>

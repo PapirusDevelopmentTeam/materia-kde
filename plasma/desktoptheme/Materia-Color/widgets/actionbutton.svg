@@ -15,7 +15,7 @@
   <radialGradient id="radialGradient4197" cx="63.894" cy="61.058" r="9" fx="63.894" fy="61.058" gradientTransform="matrix(-6.1375001e-7,1.2222228,-1.2222222,-6.2559558e-7,142.62634,-21.59247)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
   <radialGradient id="radialGradient4202" cx="68" cy="90.554" r="9" fx="68" fy="90.554" gradientTransform="matrix(-1.0677655e-6,1.2222223,-1.2222218,-1.067765e-6,178.67723,10.388977)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#1a73e8; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#ff4747; }
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
  <g id="normal" transform="matrix(1.6,0,0,1.6,67.344238,3.056)">

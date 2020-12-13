@@ -108,7 +108,7 @@
   <path style="opacity:0.2;fill:#ffffff" d="m 32,12 v 1 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z"/>
   <rect style="opacity:0.2;fill:#ffffff" width="24" height="1" x="32" y="47"/>
   <rect style="opacity:0.1;fill:#ffffff" width="24" height="1" x="8" y="47"/>
-  <rect style="fill:#f34235" width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)"/>
+  <rect style="fill:#ff9800" width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)"/>
   <path style="opacity:0.1;fill:#ffffff" d="m 32,7 c 1.662,0 3,1.338 3,3 v 1 C 35,9.338 33.662,8 32,8 30.338,8 29,9.338 29,11 v -1 c 0,-1.662 1.338,-3 3,-3 z"/>
  </g>
  <g id="osd-sbs-sright" transform="matrix(-1,0,0,1,320,0)">
@@ -123,7 +123,7 @@
   <path style="opacity:0.2;fill:#ffffff" d="m 32,12 v 1 H 57.199219 C 58.750419,13 60,14.241871 60,15.785156 v -1 C 60,13.241871 58.750419,12 57.199219,12 Z"/>
   <rect style="opacity:0.2;fill:#ffffff" width="24" height="1" x="32" y="47"/>
   <rect style="opacity:0.1;fill:#ffffff" width="24" height="1" x="8" y="47"/>
-  <rect style="fill:#f34235" width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)"/>
+  <rect style="fill:#ff9800" width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)"/>
   <path style="opacity:0.1;fill:#ffffff" d="m 32,7 c 1.662,0 3,1.338 3,3 v 1 C 35,9.338 33.662,8 32,8 30.338,8 29,9.338 29,11 v -1 c 0,-1.662 1.338,-3 3,-3 z"/>
  </g>
  <g id="osd-rotate-flip" transform="translate(448)">

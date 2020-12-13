@@ -3,7 +3,7 @@
  <rect id="red-notes" style="fill:#ef5350" width="64" height="64" x="204" y="68" rx="2" ry="2"/>
  <rect id="orange-notes" style="fill:#ff9800" width="64" height="64" x="0" y="0" rx="2" ry="2"/>
  <rect id="green-notes" style="fill:#4caf50" width="64" height="64" x="68" y="0" rx="2" ry="2"/>
- <rect id="blue-notes" style="fill:#1a73e8" width="64" height="64" x="136" y="0" rx="2" ry="2"/>
+ <rect id="blue-notes" style="fill:#4285f4" width="64" height="64" x="136" y="0" rx="2" ry="2"/>
  <rect id="pink-notes" style="fill:#ec407a" width="64" height="64" x="204" y="0" rx="2" ry="2"/>
  <g id="white-notes">
   <rect  style="fill:#ffffff" width="64" height="64" x="68" y="68" rx="2" ry="2"/>
