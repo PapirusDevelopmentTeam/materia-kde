@@ -72,7 +72,7 @@
  </g>
  <g id="delete" transform="translate(-76,-10)">
   <rect style="opacity:0.001" width="16" height="16" x="92" y="42"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 98,42.998095 c -1,0 -1,1 -1,1 h -3 c 0,0 -1,0.004 -1,1.00391 v 1 l 13,-0.004 v -0.9961 c 0,-1 -1,-1.00391 -1,-1.00391 h -3 c 0,0 0,-1 -1,-1 z m -4,4.00391 v 9 c 5e-5,0.52358 0.47642,0.99995 1,1 h 8 1 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 v -9 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 98,42.998095 c -1,0 -1,1 -1,1 h -3 c 0,0 -1,0.004 -1,1.00391 v 1 l 13,-0.004 v -0.9961 c 0,-1 -1,-1.00391 -1,-1.00391 h -3 c 0,0 0,-1 -1,-1 z m -4,4.00391 v 9 c 5e-5,0.52358 0.47642,0.99995 1,1 h 8 1 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 v -9 z"/>
  </g>
  <g id="add" transform="translate(-60,-10)">
   <rect style="opacity:0.001" width="16" height="16" x="92" y="42"/>

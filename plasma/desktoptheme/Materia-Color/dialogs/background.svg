@@ -1,82 +1,82 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="228" height="84" version="1">
  <defs id="materia">
-  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-2.0000026,-7.496206e-6,7.4960219e-6,-1.9999534,2128.9959,1877.6886)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4465">
-   <stop id="stop71" style="stop-color:#000000;stop-opacity:0.50980395" offset="0"/>
-   <stop id="stop73" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+  <linearGradient id="linearGradient917">
+   <stop style="stop-color:#000000;stop-opacity:0.3019608" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
   </linearGradient>
-  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(2.0000165,2.3249527e-5,-2.3248996e-5,1.999971,-1754.8133,-1795.9038)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-952.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="298" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.5053729e-5,2.0000041,-1.9999805,-1.505355e-5,2021.7213,-1900.9915)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-4.6111949e-7,-2.0000067,1.9999847,-4.6111438e-7,-1649.7098,1985.006)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4315" x1="83.6" x2="83.6" y1="-969.362" y2="-952.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4317" x1="83.6" x2="83.6" y1="-969.362" y2="-952.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
+  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6470755,3.9528159e-6,-3.9529412e-6,-1.6471277,1781.726,1558.2423)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.647081,9.196599e-6,-9.1956677e-6,1.6469142,-1407.9227,-1475.8606)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-955.363" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="295" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(2.1648928e-6,1.6471842,-1.647042,2.1647059e-6,1702.1673,-1553.8323)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(7.6230467e-6,-1.646942,1.6470463,7.6235294e-6,-1330.1807,1637.5831)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <linearGradient id="linearGradient4315" x1="83.6" x2="83.6" y1="-969.362" y2="-955.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
+  <linearGradient id="linearGradient4317" x1="83.6" x2="83.6" y1="-969.362" y2="-955.361" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient917"/>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
  <g id="center">
-  <rect  style="fill:currentColor" class="ColorScheme-ViewBackground" width="50" height="50" x="7" y="27"/>
-  <rect id="hack" style="opacity:0.1" width="50" height="50" x="7" y="27"/>
+  <rect style="fill:currentColor" class="ColorScheme-ViewBackground" width="50" height="50" x="7" y="27"/>
+  <rect id="hack" style="opacity:0.2" width="50" height="50" x="7" y="27"/>
  </g>
  <g id="topleft" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
-  <path id="hack" style="opacity:0.1" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+  <path style="opacity:0.2" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
  </g>
  <g id="left" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
-  <path id="hack" style="opacity:0.1" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
+  <path style="opacity:0.2" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
  </g>
  <g id="right" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
-  <path id="hack" style="opacity:0.1" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
+  <path style="opacity:0.2" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
  </g>
  <g id="bottomleft" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
-  <path id="hack" style="opacity:0.1" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+  <path style="opacity:0.2" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
  </g>
  <g id="bottom" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
-  <path id="hack" style="opacity:0.1" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
+  <path style="opacity:0.2" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
  </g>
  <g id="bottomright" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
-  <path id="hack" style="opacity:0.1" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+  <path style="opacity:0.2" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
  </g>
  <g id="topright" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
-  <path id="hack" style="opacity:0.1" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+  <path style="opacity:0.2" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
  </g>
  <g id="top" transform="translate(-183,-231.99995)">
-  <path  style="fill:currentColor" class="ColorScheme-ViewBackground" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
-  <path id="hack" style="opacity:0.1" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
+  <path style="fill:currentColor" class="ColorScheme-ViewBackground" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
+  <path style="opacity:0.2" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
  </g>
  <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="7" x="29" y="27"/>
  <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="7" x="29" y="70"/>
  <rect id="hint-left-margin" style="fill:#ff00ff" width="7" height="4" x="7" y="49"/>
  <rect id="hint-right-margin" style="fill:#ff00ff" width="7" height="4" x="50" y="49"/>
  <rect id="hint-tile-center" style="fill:#ff00ff" width="5" height="5" x="0" y="2"/>
- <path id="shadow-topleft" style="fill:url(#radialGradient4275)" d="m 144.00001,16.998965 h 10 v -2 c 0,-2.77 2.23,-5.0000004 5,-5.0000004 h 2 v -9.99999996 h -17 z"/>
+ <path id="shadow-topleft" style="fill:url(#radialGradient4275);fill-opacity:1" d="m 144.00001,16.998965 h 10 v -2 c 0,-2.77 2.23,-5.0000004 5,-5.0000004 h 2 v -9.99999996 h -17 z"/>
  <g id="shadow-left" transform="matrix(-1,0,0,1,442.00001,-240.00103)">
-  <rect  style="fill:url(#linearGradient4315)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect  style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+  <rect style="fill:url(#linearGradient4315);fill-opacity:1" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
- <path id="shadow-bottomright" style="fill:url(#radialGradient3382)" d="m 228.00001,66.998965 h -10 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 10 h 17 z"/>
+ <path id="shadow-bottomright" style="fill:url(#radialGradient3382);fill-opacity:1" d="m 228.00001,66.998965 h -10 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 10 h 17 z"/>
  <g id="shadow-bottom" transform="rotate(90,341.00052,126.9995)">
-  <rect  style="fill:url(#linearGradient4317)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect  style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+  <rect style="fill:url(#linearGradient4317);fill-opacity:1" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <g id="shadow-right" transform="translate(-69.999994,-240.00103)">
-  <rect  style="fill:url(#linearGradient4452)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect  style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+  <rect style="fill:url(#linearGradient4452);fill-opacity:1" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <g id="shadow-top" transform="matrix(0,-1,-1,0,468.00001,297.99896)">
-  <rect  style="fill:url(#linearGradient4259)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect  style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+  <rect style="fill:url(#linearGradient4259)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
- <path id="shadow-topright" style="fill:url(#radialGradient4255)" d="M 211.00001,-0.00103536 V 9.9989646 h 2 c 2.77,0 5,2.2300004 5,5.0000004 v 2 h 10 V -0.00103536 Z"/>
- <path id="shadow-bottomleft" style="fill:url(#radialGradient4263)" d="m 161.00001,83.998965 v -10 h -2 c -2.77,0 -5,-2.23 -5,-5 v -2 h -10 v 17 z"/>
+ <path id="shadow-topright" style="fill:url(#radialGradient4255);fill-opacity:1" d="M 211.00001,-0.00103536 V 9.9989646 h 2 c 2.77,0 5,2.2300004 5,5.0000004 v 2 h 10 V -0.00103536 Z"/>
+ <path id="shadow-bottomleft" style="fill:url(#radialGradient4263);fill-opacity:1" d="m 161.00001,83.998965 v -10 h -2 c -2.77,0 -5,-2.23 -5,-5 v -2 h -10 v 17 z"/>
  <rect id="shadow-hint-right-margin" style="fill:#ff00ff" width="10" height="4" x="218" y="40"/>
  <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="184" y="74"/>
  <rect id="shadow-hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="144" y="40"/>

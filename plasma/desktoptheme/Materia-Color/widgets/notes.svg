@@ -7,10 +7,10 @@
  <rect id="pink-notes" style="fill:#ec407a" width="64" height="64" x="204" y="0" rx="2" ry="2"/>
  <g id="white-notes">
   <rect  style="fill:#ffffff" width="64" height="64" x="68" y="68" rx="2" ry="2"/>
-  <rect id="hack" style="opacity:0.1" width="64" height="64" x="68" y="68" rx="2" ry="2"/>
+  <rect id="hack" style="opacity:0.2" width="64" height="64" x="68" y="68" rx="2" ry="2"/>
  </g>
  <g id="black-notes">
   <rect  style="fill:#343434" width="64" height="64" x="0" y="68" rx="2" ry="2"/>
-  <rect id="hack" style="opacity:0.1" width="64" height="64" x="0" y="68" rx="2" ry="2"/>
+  <rect id="hack" style="opacity:0.2" width="64" height="64" x="0" y="68" rx="2" ry="2"/>
  </g>
 </svg>
