@@ -3,7 +3,7 @@
 
 PREFIX ?= /usr
 IGNORE ?=
-THEMES ?= aurorae color-schemes konsole Kvantum plasma yakuake
+THEMES ?= aurorae color-schemes konsole Kvantum plasma yakuake wallpapers
 
 # excludes IGNORE from THEMES list
 THEMES := $(filter-out $(IGNORE), $(THEMES))
@@ -28,8 +28,11 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia-Color
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia-light
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-light
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Materia
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))

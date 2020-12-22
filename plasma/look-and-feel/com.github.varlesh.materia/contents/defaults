@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=MateriaDark
+ColorScheme=MateriaLight
 
 [kdeglobals][MainToolbarIcons]
 Size=16
@@ -15,14 +15,17 @@ ToolButtonStyle=NoText
 ToolButtonStyleOtherToolbars=NoText
 
 [kdeglobals][Icons]
-Theme=Papirus-Dark
+Theme=Papirus
 
 [plasmarc][Theme]
 name=Materia
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Materia-Dark
+theme=__aurorae__svg__Materia
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=material_cursors
+
+[Wallpaper]
+Image=Materia

@@ -19,7 +19,7 @@
   <radialGradient id="radialGradient1197" cx="101" cy="856.862" r="12.5" fx="101" fy="856.862" gradientTransform="matrix(0,-1.4400016,1.7599995,0,-1405.077,998.80232)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
   <radialGradient id="radialGradient1199" cx="100" cy="948.862" r="12.5" fx="100" fy="948.862" gradientTransform="matrix(-1.76,0,0,-0.88000273,279,1786.3634)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
  </defs>
- <path id="decoration-center" style="fill:#383838;fill-opacity:1" d="m 101,101 v 98 h 98 v -98 z"/>
+ <path id="decoration-center" style="fill:#383838" d="m 101,101 v 98 h 98 v -98 z"/>
  <g id="decoration-left" transform="translate(0,-752.36216)">
   <path style="opacity:0.5;fill:url(#linearGradient1078)" d="m 76,853.36216 v 98 h 10 v -98 z"/>
   <path style="fill:#383838" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
@@ -55,7 +55,7 @@
   <path style="opacity:0.5;fill:url(#radialGradient1062)" d="M 101,971.36216 H 76 v -20 l 25,0 z"/>
   <path style="fill:#383838" d="m 101,957.36216 -15,0 v -6 h 15 z"/>
  </g>
- <path id="decoration-inactive-center" style="fill:#303030;fill-opacity:1" d="m 369,101 v 98 h 98 v -98 z"/>
+ <path id="decoration-inactive-center" style="fill:#303030" d="m 369,101 v 98 h 98 v -98 z"/>
  <g id="decoration-inactive-left" transform="translate(268,-752.36216)">
   <path style="opacity:0.5;fill:url(#linearGradient1187)" d="m 76,853.36216 v 98 h 10 v -98 z"/>
   <path style="fill:#303030" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>

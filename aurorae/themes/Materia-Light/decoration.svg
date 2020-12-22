@@ -21,14 +21,14 @@
   <linearGradient id="linearGradient897" x1="106" x2="106" y1="853.362" y2="833.362" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
   <linearGradient id="linearGradient905" x1="104" x2="104" y1="853.362" y2="833.362" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient988"/>
  </defs>
- <path id="decoration-center" style="fill:#e0e0e0;fill-opacity:1" d="m 101,101 v 98 h 98 v -98 z"/>
+ <path id="decoration-center" style="fill:#e0e0e0" d="m 101,101 v 98 h 98 v -98 z"/>
  <g id="decoration-left" transform="translate(0,-752.36216)">
   <path style="opacity:0.5;fill:url(#linearGradient1078)" d="m 76,853.36216 v 98 h 10 v -98 z"/>
   <path style="fill:#e0e0e0" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
  </g>
  <g id="decoration-top" transform="translate(0,-752.36216)">
   <path style="fill:#e0e0e0" d="M 101.00061,853.36216 H 199 v -18 h -98 z"/>
-  <path style="opacity:0.5;fill:url(#linearGradient897);fill-opacity:1" d="m 199,833.36216 h -98 v 2 h 98 z"/>
+  <path style="opacity:0.5;fill:url(#linearGradient897)" d="m 199,833.36216 h -98 v 2 h 98 z"/>
   <path style="fill:#ffffff;opacity:0.3" transform="translate(0,752.36216)" d="M 101 83 L 101 84 L 199 84 L 199 83 L 101 83 z"/>
  </g>
  <g id="decoration-bottom" transform="translate(0,-752.36216)">
@@ -57,14 +57,14 @@
   <path style="opacity:0.5;fill:url(#radialGradient1062)" d="M 101,971.36216 H 76 v -20 l 25,0 z"/>
   <path style="fill:#e0e0e0" d="m 101,957.36216 -15,0 v -6 h 15 z"/>
  </g>
- <path id="decoration-inactive-center" style="fill:#d6d6d6;fill-opacity:1" d="m 369,101 v 98 h 98 v -98 z"/>
+ <path id="decoration-inactive-center" style="fill:#d6d6d6" d="m 369,101 v 98 h 98 v -98 z"/>
  <g id="decoration-inactive-left" transform="translate(268,-752.36216)">
   <path style="opacity:0.5;fill:url(#linearGradient1187)" d="m 76,853.36216 v 98 h 10 v -98 z"/>
   <path style="fill:#d6d6d6" d="m 101,951.36156 v -97.9994 H 86 v 98 z"/>
  </g>
  <g id="decoration-inactive-top" transform="translate(268,-752.36216)">
   <path style="fill:#d6d6d6" d="M 101.00061,853.36216 H 199 v -18 h -98 z"/>
-  <path style="opacity:0.5;fill-opacity:1;fill:url(#linearGradient905)" d="m 199,833.36216 h -98 v 2 h 98 z"/>
+  <path style="opacity:0.5;fill:url(#linearGradient905)" d="m 199,833.36216 h -98 v 2 h 98 z"/>
   <path style="opacity:0.2;fill:#ffffff" transform="translate(0,752.36216)" d="m 101,83 v 1 h 98 v -1 z"/>
  </g>
  <g id="decoration-inactive-bottom" transform="translate(268,-752.36216)">

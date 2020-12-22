@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=Materia Style
+Comment=Materia
 
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
@@ -18,4 +18,4 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/PapirusDevelopmentTeam/materia-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1229140,kns://plasma-themes.knsrc/api.kde-look.org/1229134,kns://aurorae.knsrc/api.kde-look.org/1229137,kns://icons.knsrc/api.kde-look.org/1166289
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/0000000,kns://plasma-themes.knsrc/api.kde-look.org/0000000,kns://aurorae.knsrc/api.kde-look.org/0000000,kns://icons.knsrc/api.kde-look.org/1166289,kns://xcursor.knsrc/api.kde-look.org/1346778,kns://wallpaper.knsrc/api.kde-look.org/0000000

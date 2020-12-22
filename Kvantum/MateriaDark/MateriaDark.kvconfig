@@ -65,6 +65,12 @@ translucent_windows=false
 tree_branch_line=true
 vertical_spin_indicators=false
 x11drag=menubar_and_primary_toolbar
+click_behavior=0
+contrast=1.00
+dialog_button_layout=0
+intensity=1.00
+saturation=1.00
+shadowless_popup=false
 
 [GeneralColors]
 alt.base.color=#242424
@@ -108,6 +114,10 @@ transparent_ktitle_label=false
 transparent_menutitle=false
 transparent_pcmanfm_sidepane=false
 transparent_pcmanfm_view=false
+centered_forms=false
+kinetic_scrolling=false
+noninteger_translucency=false
+scroll_jump_workaround=false
 
 [PanelButtonCommand]
 frame=true
@@ -295,7 +305,7 @@ interior.element=header
 frame.element=header
 frame.top=0
 frame.bottom=1
-frame.left=1
+frame.left=0
 frame.right=1
 text.normal.color=#dfdfdf
 text.focus.color=white

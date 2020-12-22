@@ -24,32 +24,32 @@
  <path id="groove-highlight-center" style="fill:currentColor" class="ColorScheme-Highlight" d="M 6,60 H 5 v 1 h 1 z"/>
  <path id="groove-highlight-top" style="fill:currentColor" class="ColorScheme-Highlight" d="m 5,58 v 1 h 1 v -1 z"/>
  <g id="horizontal-slider-handle" transform="matrix(0.6875,0,0,0.6875,-7.187504,41.250002)">
-  <rect  style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle  style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="horizontal-slider-hover" transform="matrix(0.6875,0,0,0.6875,14.8125,41.25)">
-  <rect  style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle  style="opacity:0.2;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
-  <circle  style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="opacity:0.2;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="horizontal-slider-focus" transform="matrix(0.6875,0,0,0.6875,36.8125,41.25)">
-  <rect  style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle  style="opacity:0.3;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
-  <circle  style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="opacity:0.3;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="vertical-slider-handle" transform="matrix(0.6875,0,0,0.6875,-7.1875,19.25)">
-  <rect  style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle  style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="vertical-slider-hover" transform="matrix(0.6875,0,0,0.6875,14.8125,19.25)">
-  <rect  style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle  style="opacity:0.2;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
-  <circle  style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="opacity:0.2;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
  </g>
  <g id="vertical-slider-focus" transform="matrix(0.6875,0,0,0.6875,36.8125,19.25)">
-  <rect  style="opacity:0" width="32" height="32" x="25" y="4"/>
-  <circle  style="opacity:0.3;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
-  <circle  style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="opacity:0.3;fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="16"/>
+  <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="41" cy="20" r="7.273"/>
  </g>
  <circle id="hint-handle-size" style="fill:#ff00ff" cx="65" cy="11" r="11"/>
 </svg>
