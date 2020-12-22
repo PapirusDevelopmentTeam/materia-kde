@@ -66,8 +66,11 @@ _uninstall() {
     _rm "$PREFIX/share/plasma/desktoptheme/Materia"
     _rm "$PREFIX/share/plasma/desktoptheme/Materia-Color"
     _rm "$PREFIX/share/plasma/look-and-feel/com.github.varlesh.materia"
+    _rm "$PREFIX/share/plasma/look-and-feel/com.github.varlesh.materia-dark"
+    _rm "$PREFIX/share/plasma/look-and-feel/com.github.varlesh.materia-light"
     _rm "$PREFIX/share/yakuake/skins/materia-dark"
     _rm "$PREFIX/share/yakuake/skins/materia-light"
+    _rm "$PREFIX/share/wallpapers/Materia"
 }
 
 _install() {
@@ -79,6 +82,7 @@ _install() {
         "$temp_dir/$gh_repo-$TAG/Kvantum" \
         "$temp_dir/$gh_repo-$TAG/plasma" \
         "$temp_dir/$gh_repo-$TAG/yakuake" \
+        "$temp_dir/$gh_repo-$TAG/wallpapers" \
         "$PREFIX/share"
 }
 
