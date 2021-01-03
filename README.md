@@ -51,7 +51,7 @@ Packages in this section are not part of the official repositories. If you have 
 | Arch Linux | Bruno Pagani | `sudo pacman -S materia-kde kvantum-theme-materia` <sup>[[link](https://www.archlinux.org/packages/community/any/materia-kde/)]</sup> |
 | Arch Linux | Josip Ponjavic | [materia-kde-git](https://aur.archlinux.org/packages/materia-kde-git) <sup>AUR</sup> |
 | openSUSE   | Konstantin Voinov | [materia-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=materia-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/materia-kde)]</sub> |
-| Fedora     | Robert-André Mauchin | [materia-kde](https://src.fedoraproject.org/rpms/materia-kde) |
+| Fedora     | Robert-André Mauchin | `sudo dnf install materia-kde` <sup>[[src](https://src.fedoraproject.org/rpms/materia-kde)]</sup> |
 | Debian 10+ | Debian Desktop Themes Team | [materia-kde](https://tracker.debian.org/pkg/materia-kde) |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
@@ -82,7 +82,7 @@ ButtonWidth=0
 TitleHeight=0
 TitleEdgeTop=0
 ```
-- Use [GTK3-noCSD](https://github.com/PCMan/gtk3-nocsd) script 
+- Use [GTK3-noCSD](https://github.com/PCMan/gtk3-nocsd) script
 
 ## Known issues
 
@@ -95,7 +95,7 @@ Xft.hinting:   true
 Xft.autohint:  false
 Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
-Xft.rgba:      rgb 
+Xft.rgba:      rgb
 ```
 
 ## BlackList apps
