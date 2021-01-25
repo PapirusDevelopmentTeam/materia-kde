@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Materia Dark
+Description=real material style
+Author=Alexey Varfolomeev
+Copyright=(c) 2021, Alexey Varfolomeev
+License=ISC
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/PapirusDevelopmentTeam/materia-kde
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=materia-dark
+Theme-API=2.0
