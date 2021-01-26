@@ -6,7 +6,7 @@ import "components"
 
 Rectangle {
     width: 640
-    height: 480
+    height: 500
 
     LayoutMirroring.enabled: Qt.locale().textDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
@@ -238,17 +238,17 @@ Rectangle {
                                        session.index)
                 Image {
                     id: caps
-                    width: 16
-                    height: 16
+                    width: 24
+                    height: 24
                     opacity: 0
                     state: keyboard.capsLock ? "activated" : ""
                     anchors.right: password.right
                     anchors.verticalCenter: parent.verticalCenter
                     anchors.rightMargin: 10
                     fillMode: Image.PreserveAspectFit
-                    source: "images/caps-lock-on.svg"
-                    sourceSize.width: 16
-                    sourceSize.height: 16
+                    source: "images/capslock.svg"
+                    sourceSize.width: 24
+                    sourceSize.height: 24
 
                     states: [
                         State {
