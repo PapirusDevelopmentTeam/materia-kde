@@ -12,7 +12,7 @@ Rectangle {
     LayoutMirroring.enabled: Qt.locale().textDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
     
-//     hack QtQuick.VirtualKeyboard
+// hack for disable autostart QtQuick.VirtualKeyboard
     Loader {
         id: inputPanel
         property bool keyboardActive: false
@@ -40,14 +40,14 @@ Rectangle {
         fillMode: Image.PreserveAspectCrop
 
         Binding on source {
-            when: config.backgroundImage !== undefined
-            value: config.backgroundImage
+            when: config.background !== undefined
+            value: config.background
         }
     }
 
     Rectangle {
         id: panel
-        color: "#282828"
+        color: "#1f1f1f"
         height: 32
         anchors.left: parent.left
         anchors.right: parent.right
@@ -182,7 +182,8 @@ Rectangle {
             spacing: 10
             verticalItemAlignment: Grid.AlignVCenter
             horizontalItemAlignment: Grid.AlignHCenter
-
+            
+// Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: user
                 width: height * 8
@@ -241,7 +242,8 @@ Rectangle {
                     event.accepted = true
                 }
             }
-
+            
+// Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: session
                 width: height * 8
