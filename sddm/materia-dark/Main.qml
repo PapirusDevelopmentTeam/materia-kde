@@ -187,7 +187,7 @@ Rectangle {
             ComboBox {
                 id: user
                 height: 50
-                width: height * 8
+                width: height * 7
                 model: userModel
                 textRole: "name"
                 currentIndex: userModel.lastIndex
@@ -230,7 +230,7 @@ Rectangle {
             TextField {
                 id: password
                 height: 50
-                width: height * 8
+                width: height * 7
                 echoMode: TextInput.Password
                 focus: true
                 placeholderText: textConstants.password
@@ -304,7 +304,7 @@ Rectangle {
             ComboBox {
                 id: session
                 height: 50
-                width: height * 8
+                width: height * 7
                 model: sessionModel
                 textRole: "name"
                 currentIndex: sessionModel.lastIndex
@@ -346,8 +346,12 @@ Rectangle {
 
             Button {
                 id: login
+                
                 height: 50
-                width: height * 8
+                width: height * 7
+                icon.source: "images/login.svg"
+                icon.width: 24
+                icon.height: 24
                 text: textConstants.login
                 font.bold: true
                 onClicked: sddm.login(user.currentText, password.text,
