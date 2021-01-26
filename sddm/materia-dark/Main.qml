@@ -1,7 +1,6 @@
 import QtQuick 2.8
 import QtQuick.Controls 2.1
 import QtGraphicalEffects 1.0
-import SddmComponents 2.0 as SddmComponents
 import QtQuick.Controls.Material 2.1
 import "components"
 
@@ -12,22 +11,22 @@ Rectangle {
     LayoutMirroring.enabled: Qt.locale().textDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
     
-// hack for disable autostart QtQuick.VirtualKeyboard
+    TextConstants { id: textConstants }
+
+    // hack for disable autostart QtQuick.VirtualKeyboard
     Loader {
         id: inputPanel
         property bool keyboardActive: false
         source: "components/VirtualKeyboard.qml"
     }
 
-    SddmComponents.TextConstants {
-        id: textConstants
-    }
-
     Connections {
         target: sddm
-        onLoginSucceeded: {}
+        onLoginSucceeded: {
+
+        }
         onLoginFailed: {
-            password.placeholderText = qsTr("Login failed")
+            password.placeholderText = textConstants.loginFailed
             password.placeholderTextColor = "#f44336"
             password.text = ""
             password.focus = true
@@ -162,6 +161,7 @@ Rectangle {
         anchors.leftMargin: 10
         anchors.topMargin: 5
         Text {
+            id: welcome
             text: textConstants.welcomeText.arg(sddm.hostName)
             color: "#dfdfdf"
             font.pointSize: 11
@@ -182,8 +182,8 @@ Rectangle {
             spacing: 10
             verticalItemAlignment: Grid.AlignVCenter
             horizontalItemAlignment: Grid.AlignHCenter
-            
-// Custom ComboBox for hack colors on DropDownMenu
+
+            // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: user
                 width: height * 8
@@ -231,9 +231,64 @@ Rectangle {
                 width: height * 8
                 echoMode: TextInput.Password
                 focus: true
-                placeholderText: qsTr("Enter your password")
+                placeholderText: textConstants.password
                 onAccepted: sddm.login(user.currentText, password.text,
                                        session.index)
+                Image {
+                    id: caps
+                    width: 16
+                    height: 16
+                    opacity: 0
+                    state: keyboard.capsLock ? "activated" : ""
+                    anchors.right: password.right
+                    anchors.verticalCenter: parent.verticalCenter
+                    anchors.rightMargin: 10
+                    fillMode: Image.PreserveAspectFit
+                    source: "images/caps-lock-on.svg"
+                    sourceSize.width: 16
+                    sourceSize.height: 16
+
+                    states: [
+                        State {
+                            name: "activated"
+                            PropertyChanges {
+                                target: caps
+                                opacity: 1
+                            }
+                        },
+                        State {
+                            name: ""
+                            PropertyChanges {
+                                target: caps
+                                opacity: 0
+                            }
+                        }
+                    ]
+
+                    transitions: [
+                        Transition {
+                            to: "activated"
+                            NumberAnimation {
+                                target: caps
+                                property: "opacity"
+                                from: 0
+                                to: 1
+                                duration: imageFadeIn
+                            }
+                        },
+
+                        Transition {
+                            to: ""
+                            NumberAnimation {
+                                target: caps
+                                property: "opacity"
+                                from: 1
+                                to: 0
+                                duration: imageFadeOut
+                            }
+                        }
+                    ]
+                }
             }
 
             Keys.onPressed: {
@@ -242,8 +297,8 @@ Rectangle {
                     event.accepted = true
                 }
             }
-            
-// Custom ComboBox for hack colors on DropDownMenu
+
+            // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: session
                 width: height * 8
