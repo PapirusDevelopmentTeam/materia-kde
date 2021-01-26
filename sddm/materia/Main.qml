@@ -186,6 +186,7 @@ Rectangle {
             // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: user
+                height: 50
                 width: height * 8
                 model: userModel
                 textRole: "name"
@@ -228,6 +229,7 @@ Rectangle {
 
             TextField {
                 id: password
+                height: 50
                 width: height * 8
                 echoMode: TextInput.Password
                 focus: true
@@ -301,6 +303,7 @@ Rectangle {
             // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: session
+                height: 50
                 width: height * 8
                 model: sessionModel
                 textRole: "name"
@@ -343,8 +346,10 @@ Rectangle {
 
             Button {
                 id: login
+                height: 50
                 width: height * 8
                 text: textConstants.login
+                font.bold: true
                 onClicked: sddm.login(user.currentText, password.text,
                                       session.index)
                 highlighted: true
