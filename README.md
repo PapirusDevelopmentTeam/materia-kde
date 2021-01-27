@@ -11,6 +11,8 @@ In this repository you'll find:
 - Plasma Desktop Theme
 - Plasma Look-and-Feel Settings
 - Yakuake Skins
+- SDDM Themes
+- Wallpapers
 
 ## Installation
 
