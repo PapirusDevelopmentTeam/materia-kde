@@ -71,6 +71,9 @@ _uninstall() {
     _rm "$PREFIX/share/yakuake/skins/materia-dark"
     _rm "$PREFIX/share/yakuake/skins/materia-light"
     _rm "$PREFIX/share/wallpapers/Materia"
+    _rm "$PREFIX/share/wallpapers/Materia-Dark"
+    _rm "$PREFIX/share/sddm/themes/materia"
+    _rm "$PREFIX/share/sddm/themes/materia-dark"
 }
 
 _install() {
@@ -83,6 +86,7 @@ _install() {
         "$temp_dir/$gh_repo-$TAG/plasma" \
         "$temp_dir/$gh_repo-$TAG/yakuake" \
         "$temp_dir/$gh_repo-$TAG/wallpapers" \
+        "$temp_dir/$gh_repo-$TAG/sddm" \
         "$PREFIX/share"
 }
 

@@ -3,7 +3,7 @@
 
 PREFIX ?= /usr
 IGNORE ?=
-THEMES ?= aurorae color-schemes konsole Kvantum plasma yakuake wallpapers
+THEMES ?= aurorae color-schemes konsole Kvantum plasma yakuake wallpapers sddm
 
 # excludes IGNORE from THEMES list
 THEMES := $(filter-out $(IGNORE), $(THEMES))
@@ -33,6 +33,9 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-light
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Materia
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Materia-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia
+	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia-dark
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))

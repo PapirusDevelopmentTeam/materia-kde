@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <g id="active-center" transform="matrix(1,0,0,-1,0,22)">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <g id="active-center" transform="matrix(1.0909091,0,0,-1.0909091,0,24)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
-  <path style="opacity:1;fill:#dfdfdf" transform="matrix(0.86602542,0,0,0.60000001,0.47884954,4.5828564)" d="m 12.148778,4.0285726 2.886751,4.9999999 2.886751,4.9999995 H 12.148778 6.3752753 L 9.2620269,9.0285726 Z"/>
+  <path style="opacity:1;fill:#dfdfdf" d="M 10.999999,7.3333332 C 12.527777,9.1666664 14.055555,11 15.583333,12.833333 c -3.055556,0 -6.111111,0 -9.1666665,0 C 7.9444445,11 9.4722217,9.1666667 10.999999,7.3333332 Z"/>
  </g>
- <g id="hover-center" transform="matrix(1,0,0,-1,0,22)">
+ <g id="hover-center" transform="matrix(1.0909091,0,0,-1.0909091,-1.0909091,24)">
   <rect style="opacity:0.001" width="22" height="22" x="23" y="0"/>
   <circle style="opacity:0.08;fill:#ffffff" cx="34" cy="11" r="11"/>
-  <path style="opacity:1;fill:#dfdfdf" d="M 34.000001,7 36.5,10 39,13 H 34.000001 29 l 2.500001,-3 z"/>
+  <path style="opacity:1;fill:#dfdfdf" d="m 34.000002,7.3333332 4.583331,5.4999998 h -9.166666 z"/>
  </g>
- <g id="pressed-center" transform="matrix(1,0,0,-1,0,22)">
+ <g id="pressed-center" transform="matrix(1.0909091,0,0,-1.0909091,-2.1818182,24)">
   <rect style="opacity:0.001" width="22" height="22" x="46" y="0"/>
   <circle style="opacity:0.19;fill:#ffffff" cx="57" cy="11" r="11"/>
-  <path style="opacity:1;fill:#dfdfdf" d="M 57.000001,7 59.5,10 62,13 H 57.000001 52 l 2.500001,-3 z"/>
+  <path style="opacity:1;fill:#dfdfdf" d="M 57,7.3333332 C 58.527777,9.1666668 60.055555,11 61.583333,12.833333 c -3.055556,0 -6.111111,0 -9.166667,0 C 53.944445,11 55.472222,9.1666668 57,7.3333332 Z"/>
  </g>
- <g id="inactive-center" transform="matrix(1,0,0,-1,0,22)">
+ <g id="inactive-center" transform="matrix(1.0909091,0,0,-1.0909091,-3.2727273,24)">
   <rect style="opacity:0.001" width="22" height="22" x="69" y="0"/>
-  <path style="opacity:0.5;fill:#dfdfdf" transform="matrix(0.86602542,0,0,0.60000001,69.47885,4.5828564)" d="m 12.148778,4.0285726 2.886751,4.9999999 2.886751,4.9999995 H 12.148778 6.3752753 L 9.2620269,9.0285726 Z"/>
+  <path style="opacity:0.5;fill:#dfdfdf" d="M 80,7.3333332 C 81.527778,9.166666 83.055556,11 84.583333,12.833333 c -3.055555,0 -6.111111,0 -9.166666,0 C 76.944445,11 78.472222,9.1666666 80,7.3333332 Z"/>
  </g>
- <g id="deactivated-center" transform="matrix(1,0,0,-1,0,22)">
+ <g id="deactivated-center" transform="matrix(1.0909091,0,0,-1.0909091,-4.3636364,24)">
   <rect style="opacity:0.001" width="22" height="22" x="92" y="0"/>
-  <path style="opacity:0.5;fill:#dfdfdf" transform="matrix(0.86602542,0,0,0.60000001,92.47885,4.5828564)" d="m 12.148778,4.0285726 2.886751,4.9999999 2.886751,4.9999995 H 12.148778 6.3752753 L 9.2620269,9.0285726 Z"/>
+  <path style="opacity:0.5;fill:#dfdfdf" d="m 103,7.3333332 4.58333,5.4999998 h -9.166664 z"/>
  </g>
 </svg>

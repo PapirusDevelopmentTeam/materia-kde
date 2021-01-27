@@ -6,7 +6,7 @@ Web=https://github.com/PapirusDevelopmentTeam/materia-kde
 Icon=/logo.svg
 
 [Tabs]
-x=30
+x=36
 y=0
 red=223
 green=223
@@ -23,15 +23,15 @@ left_corner=/tabs/background_left.svg
 right_corner=/tabs/background_right.svg
 
 [PlusButton]
-x=1
-y=9
+x=2
+y=7
 up_image=/tabs/plus_up.svg
 over_image=/tabs/plus_over.svg
 down_image=/tabs/plus_down.svg
 
 [MinusButton]
-x=21
-y=9
+x=22
+y=7
 up_image=/tabs/minus_up.svg
 over_image=/tabs/minus_over.svg
 down_image=/tabs/minus_down.svg

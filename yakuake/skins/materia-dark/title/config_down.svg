@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg4306" style="enable-background:new" width="22" height="22" version="1.1">
- <g id="g919">
-  <rect id="rect4164" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
-  <circle id="path4202" style="opacity:0.19;fill:#ffffff" cx="11" cy="11" r="11"/>
-  <path id="rect4139" style="opacity:1;fill:#dfdfdf" d="M 7 7 L 7 9 L 9 9 L 13 9 L 15 9 L 15 7 L 7 7 z M 7 10 L 7 12 L 15 12 L 15 10 L 7 10 z M 7 13 L 7 15 L 15 15 L 15 13 L 13 13 L 9 13 L 7 13 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <g transform="translate(1,1)">
+  <rect style="opacity:0.001" width="24" height="24" x="-1" y="-1"/>
+  <circle style="opacity:0.19;fill:#ffffff" cx="11" cy="11" r="12"/>
+  <path style="opacity:1;fill:#dfdfdf" d="m 7,7 v 2 h 2 4 2 V 7 Z m 0,3 v 2 h 8 v -2 z m 0,3 v 2 h 8 V 13 H 13 9 Z"/>
  </g>
 </svg>

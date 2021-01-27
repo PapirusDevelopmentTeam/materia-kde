@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg8" width="7" height="34" version="1.1">
- <defs id="defs2">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7" height="38" version="1.1">
+ <defs>
   <linearGradient id="linearGradient831">
-   <stop id="stop827" style="stop-color:#000000;stop-opacity:1" offset="0"/>
-   <stop id="stop829" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+   <stop style="stop-color:#000000;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient833" x1="9" x2="9" y1="278.444" y2="312.444" gradientTransform="matrix(0.33333333,0,0,0.23529412,1e-7,-39.512423)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
  </defs>
- <g id="g826">
-  <rect id="rect825" style="opacity:0.4;fill:url(#linearGradient833)" width="7" height="8" x="0" y="26"/>
-  <rect id="rect849" style="opacity:1;fill:#e0e0e0" width="7" height="29" x="0" y="0"/>
-  <rect id="rect828" style="opacity:0.3;fill:#ffffff" width="7" height="1" x="0" y="28"/>
+ <g transform="translate(0,4)">
+  <rect style="opacity:0.4;fill:url(#linearGradient833)" width="7" height="8" x="0" y="26"/>
+  <rect style="fill:#e0e0e0" width="7" height="33" x="0" y="-4"/>
+  <rect style="opacity:0.3;fill:#ffffff" width="7" height="1" x="0" y="28"/>
  </g>
 </svg>

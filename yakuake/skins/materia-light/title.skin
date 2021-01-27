@@ -12,8 +12,8 @@ blue=0
 width=0
 
 [Text]
-x=11
-y=18
+x=14
+y=17
 red=103
 green=103
 blue=103
@@ -26,22 +26,22 @@ left_corner=/title/background_left.svg
 right_corner=/title/background_right.svg
 
 [FocusButton]
-x=74
-y=3
+x=88
+y=0
 up_image=/title/focus_up.svg
 over_image=/title/focus_over.svg
 down_image=/title/focus_down.svg
 
 [ConfigButton]
-x=50
-y=3
+x=58
+y=0
 up_image=/title/config_up.svg
 over_image=/title/config_over.svg
 down_image=/title/config_down.svg
 
 [QuitButton]
-x=26
-y=3
+x=28
+y=0
 up_image=/title/quit_up.svg
 over_image=/title/quit_over.svg
 down_image=/title/quit_down.svg
