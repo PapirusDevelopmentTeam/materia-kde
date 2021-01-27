@@ -1,3 +1,10 @@
+// Copyright 2021 Alexey Varfolomeev <varlesh@gmail.com>
+// Used sources & ideas:
+// - Joshua Krämer from https://github.com/joshuakraemer/sddm-theme-dialog
+// - Suraj Mandal from https://github.com/surajmandalcell/Elegant-sddm
+// - Breeze theme by KDE Visual Design Group
+// - SDDM Team https://github.com/sddm/sddm
+
 import QtQuick 2.8
 import QtQuick.Controls 2.1
 import QtGraphicalEffects 1.0
