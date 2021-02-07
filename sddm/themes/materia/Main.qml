@@ -4,7 +4,6 @@
 // - Suraj Mandal from https://github.com/surajmandalcell/Elegant-sddm
 // - Breeze theme by KDE Visual Design Group
 // - SDDM Team https://github.com/sddm/sddm
-
 import QtQuick 2.8
 import QtQuick.Controls 2.1
 import QtGraphicalEffects 1.0
@@ -17,8 +16,10 @@ Rectangle {
 
     LayoutMirroring.enabled: Qt.locale().textDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
-    
-    TextConstants { id: textConstants }
+
+    TextConstants {
+        id: textConstants
+    }
 
     // hack for disable autostart QtQuick.VirtualKeyboard
     Loader {
@@ -190,6 +191,30 @@ Rectangle {
             verticalItemAlignment: Grid.AlignVCenter
             horizontalItemAlignment: Grid.AlignHCenter
 
+            Image {
+                id: ava
+                width: 144
+                height: 144
+                fillMode: Image.PreserveAspectCrop
+                layer.enabled: true
+                layer.effect: OpacityMask {
+                    maskSource: mask
+                }
+                source: "/home/" + user.currentText + "/.face.icon"
+                onStatusChanged: {
+                    if (status == Image.Error)
+                        return source = "images/.face.icon"
+                }
+            }
+
+            Rectangle {
+                id: mask
+                width: 144
+                height: 144
+                radius: 100
+                visible: false
+            }
+
             // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: user
@@ -212,6 +237,8 @@ Rectangle {
                         user.currentIndex = index
                         ulistview.currentIndex = index
                         user.popup.close()
+                        ava.source = ""
+                        ava.source = "/home/" + user.currentText + "/.face.icon"
                     }
                 }
                 popup: Popup {
@@ -353,7 +380,7 @@ Rectangle {
 
             Button {
                 id: login
-                
+
                 height: 50
                 width: height * 7
                 icon.source: "images/login.svg"
