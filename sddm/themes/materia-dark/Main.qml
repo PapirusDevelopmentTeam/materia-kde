@@ -1,3 +1,4 @@
+
 // Copyright 2021 Alexey Varfolomeev <varlesh@gmail.com>
 // Used sources & ideas:
 // - Joshua Krämer from https://github.com/joshuakraemer/sddm-theme-dialog
@@ -192,28 +193,45 @@ Rectangle {
             verticalItemAlignment: Grid.AlignVCenter
             horizontalItemAlignment: Grid.AlignHCenter
 
-            Image {
-                id: ava
-                width: 144
-                height: 144
-                fillMode: Image.PreserveAspectCrop
-                layer.enabled: true
-                layer.effect: OpacityMask {
-                    maskSource: mask
-                }
-                source: "/home/" + user.currentText + "/.face.icon"
-                onStatusChanged: {
-                    if (status == Image.Error)
-                        return source = "images/.face.icon"
-                }
-            }
+            Column {
+                Item {
 
-            Rectangle {
-                id: mask
-                width: 144
-                height: 144
-                radius: 100
-                visible: false
+                    Rectangle {
+                        id: mask
+                        width: 144
+                        height: 144
+                        radius: 100
+                        visible: false
+                    }
+
+                    DropShadow {
+                        anchors.fill: mask
+                        width: mask.width
+                        height: mask.height
+                        horizontalOffset: 0
+                        verticalOffset: 3
+                        radius: 9.0
+                        samples: 15
+                        color: "#50000000"
+                        source: mask
+                    }
+                }
+
+                Image {
+                    id: ava
+                    width: 144
+                    height: 144
+                    fillMode: Image.PreserveAspectCrop
+                    layer.enabled: true
+                    layer.effect: OpacityMask {
+                        maskSource: mask
+                    }
+                    source: "/home/" + user.currentText + "/.face.icon"
+                    onStatusChanged: {
+                        if (status == Image.Error)
+                            return source = "images/.face.icon"
+                    }
+                }
             }
 
             // Custom ComboBox for hack colors on DropDownMenu

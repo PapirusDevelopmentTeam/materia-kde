@@ -4,6 +4,7 @@
 // - Suraj Mandal from https://github.com/surajmandalcell/Elegant-sddm
 // - Breeze theme by KDE Visual Design Group
 // - SDDM Team https://github.com/sddm/sddm
+
 import QtQuick 2.8
 import QtQuick.Controls 2.1
 import QtGraphicalEffects 1.0
@@ -191,30 +192,47 @@ Rectangle {
             verticalItemAlignment: Grid.AlignVCenter
             horizontalItemAlignment: Grid.AlignHCenter
 
-            Image {
-                id: ava
-                width: 144
-                height: 144
-                fillMode: Image.PreserveAspectCrop
-                layer.enabled: true
-                layer.effect: OpacityMask {
-                    maskSource: mask
+            Column {
+                Item {
+
+                    Rectangle {
+                        id: mask
+                        width: 144
+                        height: 144
+                        radius: 100
+                        visible: false
+                    }
+
+                    DropShadow {
+                        anchors.fill: mask
+                        width: mask.width
+                        height: mask.height
+                        horizontalOffset: 0
+                        verticalOffset: 3
+                        radius: 9.0
+                        samples: 15
+                        color: "#60000000"
+                        source: mask
+                    }
                 }
-                source: "/home/" + user.currentText + "/.face.icon"
-                onStatusChanged: {
-                    if (status == Image.Error)
-                        return source = "images/.face.icon"
+
+                Image {
+                    id: ava
+                    width: 144
+                    height: 144
+                    fillMode: Image.PreserveAspectCrop
+                    layer.enabled: true
+                    layer.effect: OpacityMask {
+                        maskSource: mask
+                    }
+                    source: "/home/" + user.currentText + "/.face.icon"
+                    onStatusChanged: {
+                        if (status == Image.Error)
+                            return source = "images/.face.icon"
+                    }
                 }
             }
-
-            Rectangle {
-                id: mask
-                width: 144
-                height: 144
-                radius: 100
-                visible: false
-            }
-
+            
             // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: user
