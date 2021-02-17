@@ -1,41 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="85" version="1">
  <defs id="materia">
-  <linearGradient id="linearGradient898">
-   <stop style="stop-color:#000000;stop-opacity:0.40000001" offset="0"/>
+  <linearGradient id="linearGradient905">
+   <stop style="stop-color:#000000;stop-opacity:0.4" offset="0"/>
    <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
   </linearGradient>
-  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6470644,1.9763779e-6,-1.9764705e-6,-1.6471416,1773.7132,1559.2568)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-955.363" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(7.5300815e-7,1.6471725,-1.6470262,7.5294127e-7,1694.1545,-1552.8194)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="295" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.6470672,1.3448263e-4,-1.3447081e-4,1.6469224,-1415.7953,-1474.9911)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-2.541006e-6,-1.6469304,1.6470409,-2.5411765e-6,-1338.1659,1638.5807)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <linearGradient id="linearGradient4385" x1="83.6" x2="83.6" y1="-969.362" y2="-955.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
-  <linearGradient id="linearGradient4387" x1="83.6" x2="83.6" y1="-969.362" y2="-955.361" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient898"/>
+  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6470685,-5.6461859e-8,5.6464468e-8,-1.6471446,1773.7154,1559.2615)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-955.363" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(2.3679458e-6,1.6471768,-1.6470232,2.367725e-6,1694.1502,-1552.8251)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="295" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.6470681,-3.771647e-6,3.7713134e-6,1.6469224,-1415.9215,-1474.8552)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(3.2745726e-6,-1.6469351,1.647045,3.2747911e-6,-1338.1753,1638.58)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <linearGradient id="linearGradient4385" x1="83.6" x2="83.6" y1="-969.362" y2="-955.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <linearGradient id="linearGradient4387" x1="83.6" x2="83.6" y1="-969.362" y2="-955.361" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <path id="shadow-topleft" style="fill:url(#radialGradient4275);fill-opacity:1" d="m 136.00002,17.998995 h 10 v -2 c 0,-2.77 2.23,-5 5,-5 h 2 V 0.99899464 h -17 z"/>
+ <path id="shadow-topleft" style="fill:url(#radialGradient4275)" d="m 136.00002,17.998995 h 10 v -2 c 0,-2.77 2.23,-5 5,-5 h 2 V 0.99899464 h -17 z"/>
  <g id="shadow-left" transform="matrix(-1,0,0,1,434.00002,-239.00101)">
-  <rect style="fill:url(#linearGradient4385);fill-opacity:1" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="fill:url(#linearGradient4385)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
   <rect style="opacity:0.001" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
- <path id="shadow-bottomright" style="fill:url(#radialGradient3382);fill-opacity:1" d="m 220.00002,67.998995 h -10 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 10 h 17 z"/>
+ <path id="shadow-bottomright" style="fill:url(#radialGradient3382)" d="m 220.00002,67.998995 h -10 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 10 h 17 z"/>
  <g id="shadow-bottom" transform="rotate(90,336.50052,123.49951)">
-  <rect style="fill:url(#linearGradient4387);fill-opacity:1" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="fill:url(#linearGradient4387)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
   <rect style="opacity:0.001" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <g id="shadow-right" transform="translate(-77.999982,-239.00101)">
-  <rect style="fill:url(#linearGradient4452);fill-opacity:1" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="fill:url(#linearGradient4452)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
   <rect style="opacity:0.001" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <g id="shadow-top" transform="matrix(0,-1,-1,0,460.00002,298.99899)">
   <rect style="fill:url(#linearGradient4259)" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
   <rect style="opacity:0.001" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
- <path id="shadow-topright" style="fill:url(#radialGradient4255);fill-opacity:1" d="M 203.00002,0.99899464 V 10.998995 h 2 c 2.77,0 5,2.23 5,5 v 2 h 10 V 0.99899464 Z"/>
- <path id="shadow-bottomleft" style="fill:url(#radialGradient4263);fill-opacity:1" d="m 153.00002,84.998995 v -10 h -2 c -2.77,0 -5,-2.23 -5,-5 v -2 h -10 v 17 z"/>
+ <path id="shadow-topright" style="fill:url(#radialGradient4255)" d="M 203.00002,0.99899464 V 10.998995 h 2 c 2.77,0 5,2.23 5,5 v 2 h 10 V 0.99899464 Z"/>
+ <path id="shadow-bottomleft" style="fill:url(#radialGradient4263)" d="m 153.00002,84.998995 v -10 h -2 c -2.77,0 -5,-2.23 -5,-5 v -2 h -10 v 17 z"/>
  <rect id="center" style="fill:currentColor" class="ColorScheme-Background" width="50" height="50" x="7" y="28"/>
  <g id="topleft" transform="translate(-183,-231.00083)">
   <path style="fill:currentColor" class="ColorScheme-Background" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
@@ -65,10 +65,6 @@
  <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="176" y="75"/>
  <rect id="shadow-hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="136" y="41"/>
  <rect id="shadow-hint-top-margin" style="fill:#ff00ff" width="4" height="10" x="177" y="1"/>
- <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="2" x="29" y="21"/>
- <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="2" x="29" y="83"/>
- <rect id="hint-left-margin" style="fill:#ff00ff" width="2" height="4" x="0" y="49"/>
- <rect id="hint-right-margin" style="fill:#ff00ff" width="2" height="4" x="62" y="49"/>
  <rect id="mask-center" style="fill:#000000" width="50" height="50" x="75" y="28"/>
  <path id="mask-topleft" style="fill:#000000" d="m 75,20.999865 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
  <path id="mask-left" style="fill:#000000" d="m 68.00001,27.999855 v 50.00001 l 7,1e-5 v -50.00001 z"/>
@@ -80,4 +76,17 @@
  <path id="mask-top" style="fill:#000000" d="m 74.99997,20.999865 h 50.00002 v 7 H 74.99998 Z"/>
  <rect id="hint-tile-center" style="fill:#ff00ff" width="5" height="5" x="0" y="0"/>
  <rect id="shadow-center" style="fill:none" width="50" height="50" x="153" y="18.06"/>
+ <rect id="shadow-hint-top-inset" style="fill:#00ff00" width="4" height="10" x="172" y="75"/>
+ <rect id="shadow-hint-bottom-inset" style="fill:#00ff00" width="4" height="10" x="173" y="1"/>
+ <rect id="shadow-hint-right-inset" style="fill:#00ff00" width="4" height="10" x="37" y="-220" transform="rotate(90)"/>
+ <rect id="shadow-hint-left-inset" style="fill:#00ff00" width="4" height="10" x="37" y="-146" transform="rotate(90)"/>
+ <rect id="thick-hint-top-margin" style="fill:#ff00ff" width="4" height="8" x="29" y="21"/>
+ <rect id="thick-hint-bottom-margin" style="fill:#ff00ff" width="4" height="8" x="29" y="77"/>
+ <rect id="thick-right-margin" style="fill:#ff00ff" width="4" height="8" x="51" y="-64" transform="rotate(90)"/>
+ <rect id="thick-hint-left-margin" style="fill:#ff00ff" width="4" height="8" x="51" y="-8" transform="rotate(90)"/>
+ <rect id="thick-center" style="fill:#800080" width="2" height="2" x="5" y="0"/>
+ <rect id="hint-top-margin" style="fill:#800080" width="4" height="4" x="29" y="21"/>
+ <rect id="hint-bottom-margin" style="fill:#800080" width="4" height="4" x="29" y="81"/>
+ <rect id="hint-left-margin" style="fill:#800080" width="4" height="4" x="0" y="51"/>
+ <rect id="hint-right-margin" style="fill:#800080" width="4" height="4" x="60" y="51"/>
 </svg>
