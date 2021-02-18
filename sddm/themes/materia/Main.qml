@@ -287,7 +287,7 @@ Rectangle {
                 focus: true
                 placeholderText: textConstants.password
                 onAccepted: sddm.login(user.currentText, password.text,
-                                       session.index)
+                                       session.currentIndex)
                 Image {
                     id: caps
                     width: 24
@@ -347,7 +347,7 @@ Rectangle {
 
             Keys.onPressed: {
                 if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-                    sddm.login(user.currentText, password.text, session.index)
+                    sddm.login(user.currentText, password.text, session.currentIndex)
                     event.accepted = true
                 }
             }
@@ -407,7 +407,7 @@ Rectangle {
                 text: textConstants.login
                 font.bold: true
                 onClicked: sddm.login(user.currentText, password.text,
-                                      session.index)
+                                      session.currentIndex)
                 highlighted: true
             }
         }
