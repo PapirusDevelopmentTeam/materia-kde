@@ -1,10 +1,10 @@
+
 // Copyright 2021 Alexey Varfolomeev <varlesh@gmail.com>
 // Used sources & ideas:
 // - Joshua Krämer from https://github.com/joshuakraemer/sddm-theme-dialog
 // - Suraj Mandal from https://github.com/surajmandalcell/Elegant-sddm
 // - Breeze theme by KDE Visual Design Group
 // - SDDM Team https://github.com/sddm/sddm
-
 import QtQuick 2.8
 import QtQuick.Controls 2.1
 import QtGraphicalEffects 1.0
@@ -80,14 +80,35 @@ Rectangle {
 
         Item {
 
-            ImgButton {
-                id: shutdownButton
-                width: 22
+            Image {
+                id: shutdown
                 height: 22
-                normalImg: "images/system-shutdown.svg"
-                hoverImg: "images/system-shutdown-hover.svg"
-                pressImg: "images/system-shutdown-pressed.svg"
-                onClicked: sddm.powerOff()
+                width: 22
+                source: "images/system-shutdown.svg"
+                fillMode: Image.PreserveAspectFit
+
+                MouseArea {
+                    anchors.fill: parent
+                    hoverEnabled: true
+                    onEntered: {
+                        shutdown.source = "images/system-shutdown-hover.svg"
+                        var component = Qt.createComponent(
+                                    "components/ShutdownToolTip.qml")
+                        if (component.status == Component.Ready) {
+                            var tooltip = component.createObject(shutdown)
+                            tooltip.x = -100
+                            tooltip.y = 40
+                            tooltip.destroy(600)
+                        }
+                    }
+                    onExited: {
+                        shutdown.source = "images/system-shutdown.svg"
+                    }
+                    onClicked: {
+                        shutdown.source = "images/system-shutdown-pressed.svg"
+                        sddm.powerOff()
+                    }
+                }
             }
         }
     }
@@ -97,16 +118,38 @@ Rectangle {
         anchors.right: parent.right
         anchors.rightMargin: 60
         anchors.topMargin: 5
+
         Item {
 
-            ImgButton {
-                id: rebootButton
-                width: 22
+            Image {
+                id: reboot
                 height: 22
-                normalImg: "images/system-reboot.svg"
-                hoverImg: "images/system-reboot-hover.svg"
-                pressImg: "images/system-reboot-pressed.svg"
-                onClicked: sddm.reboot()
+                width: 22
+                source: "images/system-reboot.svg"
+                fillMode: Image.PreserveAspectFit
+
+                MouseArea {
+                    anchors.fill: parent
+                    hoverEnabled: true
+                    onEntered: {
+                        reboot.source = "images/system-reboot-hover.svg"
+                        var component = Qt.createComponent(
+                                    "components/RebootToolTip.qml")
+                        if (component.status == Component.Ready) {
+                            var tooltip = component.createObject(reboot)
+                            tooltip.x = -100
+                            tooltip.y = 40
+                            tooltip.destroy(600)
+                        }
+                    }
+                    onExited: {
+                        reboot.source = "images/system-reboot.svg"
+                    }
+                    onClicked: {
+                        reboot.source = "images/system-reboot-pressed.svg"
+                        sddm.reboot()
+                    }
+                }
             }
         }
     }
@@ -114,26 +157,7 @@ Rectangle {
     Row {
         anchors.top: parent.top
         anchors.right: parent.right
-        anchors.rightMargin: 90
-        anchors.topMargin: 5
-        Item {
-
-            ImgButton {
-                id: suspendButton
-                width: 22
-                height: 22
-                normalImg: "images/system-suspend.svg"
-                hoverImg: "images/system-suspend-hover.svg"
-                pressImg: "images/system-suspend-pressed.svg"
-                onClicked: sddm.suspend()
-            }
-        }
-    }
-
-    Row {
-        anchors.top: parent.top
-        anchors.right: parent.right
-        anchors.rightMargin: 100
+        anchors.rightMargin: 70
         anchors.topMargin: 5
         Text {
             id: timelb
@@ -154,8 +178,8 @@ Rectangle {
     Row {
         anchors.top: parent.top
         anchors.right: parent.right
-        anchors.rightMargin: 150
-        anchors.topMargin: 5
+        anchors.rightMargin: 120
+        anchors.topMargin: 4
         Text {
             id: kb
             color: "#dfdfdf"
@@ -232,7 +256,7 @@ Rectangle {
                     }
                 }
             }
-            
+
             // Custom ComboBox for hack colors on DropDownMenu
             ComboBox {
                 id: user
@@ -347,7 +371,8 @@ Rectangle {
 
             Keys.onPressed: {
                 if (event.key === Qt.Key_Return || event.key === Qt.Key_Enter) {
-                    sddm.login(user.currentText, password.text, session.currentIndex)
+                    sddm.login(user.currentText, password.text,
+                               session.currentIndex)
                     event.accepted = true
                 }
             }
