@@ -4,18 +4,18 @@
    <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
   </g>
   <circle style="opacity:0.19;fill:#ffffff" cx="57" cy="11" r="11"/>
-  <path style="opacity:1;fill:#dfdfdf" d="m 53.333366,14.666667 h 7.333267 V 12.83335 h -7.333267 z"/>
+  <path style="fill:#dfdfdf" d="m 53.333366,14.666667 h 7.333267 V 12.83335 h -7.333267 z"/>
  </g>
  <g id="hover-center" transform="matrix(1.0909091,0,0,1.0909091,-1.0909091,0)">
   <g transform="translate(23)">
    <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
   </g>
   <circle style="opacity:0.08;fill:#ffffff" cx="34" cy="11" r="11"/>
-  <path style="opacity:1;fill:#dfdfdf" d="m 30.333366,14.666667 h 7.333267 V 12.83335 h -7.333267 z"/>
+  <path style="fill:#dfdfdf" d="m 30.333366,14.666667 h 7.333267 V 12.83335 h -7.333267 z"/>
  </g>
  <g id="active-center" transform="scale(1.0909091)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
-  <path style="opacity:1;fill:#dfdfdf" d="m 7.3333665,12.83335 v 1.833317 H 14.666633 V 12.83335 Z"/>
+  <path style="fill:#dfdfdf" d="m 7.3333665,12.83335 v 1.833317 H 14.666633 V 12.83335 Z"/>
  </g>
  <g id="inactive-center" transform="matrix(1.0909091,0,0,1.0909091,72.000001,0)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
