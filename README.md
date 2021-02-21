@@ -72,6 +72,8 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Set 16px icon size on Toolbar & Main Toolbar
 
+- Set **No Borders** for Aurorae decoration on systemsettings
+
 ## Hacks for small screen resolution
 
 - Install widgets [Active Window Control](https://www.opendesktop.org/p/998910/) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
@@ -88,7 +90,7 @@ TitleEdgeTop=0
 
 ## Known issues
 
-- On NVIDIA propietary video driver Aurorae have wrong rendering by default with Materia theme. 
+- On NVIDIA propietary video driver Aurorae have [wrong rendering](https://bugs.kde.org/show_bug.cgi?id=384457) by default with all themes. 
 
 | **Wrong Rendering** | **Right Rendering** |
 |:--------------------|:--------------------|
@@ -105,6 +107,8 @@ Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 Xft.rgba:      rgb
 ```
+
+Restart PC for apply DPI settings.
 
 ## BlackList apps
 More newest Qt/KDE apps now use QML/Kirigami - this style NOT SUPPORT THEMING on ANY engine, more elements HARDCODED. Please not open issue about that. We can't doing anything!!!
