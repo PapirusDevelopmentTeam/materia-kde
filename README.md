@@ -88,7 +88,13 @@ TitleEdgeTop=0
 
 ## Known issues
 
-- On NVIDIA propietary video driver Aurorae have wrong rendering by default with Materia theme. For fix that use this config on **~/.Xresources**:
+- On NVIDIA propietary video driver Aurorae have wrong rendering by default with Materia theme. 
+
+| **Wrong Rendering** | **Right Rendering** |
+|:--------------------|:--------------------|
+| ![wrong-rndering](https://i.imgur.com/rS5OgPf.png) | ![right-rendering](https://i.imgur.com/5OKjULE.png) |
+
+For fix that use this config on **~/.Xresources**:
 
 ```
 Xft.dpi:       96
