@@ -207,7 +207,6 @@ Rectangle {
 
         Dialog {
             id: dialog
-            anchors.centerIn: parent
             closePolicy: Popup.NoAutoClose
             focus: true
             visible: true
