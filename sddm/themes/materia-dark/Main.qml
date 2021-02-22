@@ -272,10 +272,10 @@ Rectangle {
                     delegate: MenuItem {
                         Material.theme: Material.Dark
                         Material.accent: "#8ab4f8"
-                        width: ListView.view.width
+                        width: ulistview.width
                         text: user.textRole ? (Array.isArray(
                                                    user.model) ? modelData[user.textRole] : model[user.textRole]) : modelData
-                        Material.foreground: user.currentIndex === index ? ListView.view.contentItem.Material.accent : ListView.view.contentItem.Material.foreground
+                        Material.foreground: user.currentIndex === index ? ulistview.contentItem.Material.accent : ulistview.contentItem.Material.foreground
                         highlighted: user.highlightedIndex === index
                         hoverEnabled: user.hoverEnabled
                         onClicked: {
@@ -393,10 +393,10 @@ Rectangle {
                     delegate: MenuItem {
                         Material.theme: Material.Dark
                         Material.accent: "#8ab4f8"
-                        width: ListView.view.width
+                        width: slistview.width
                         text: session.textRole ? (Array.isArray(
                                                       session.model) ? modelData[session.textRole] : model[session.textRole]) : modelData
-                        Material.foreground: session.currentIndex === index ? ListView.view.contentItem.Material.accent : ListView.view.contentItem.Material.foreground
+                        Material.foreground: session.currentIndex === index ? slistview.contentItem.Material.accent : slistview.contentItem.Material.foreground
                         highlighted: session.highlightedIndex === index
                         hoverEnabled: session.hoverEnabled
                         onClicked: {
