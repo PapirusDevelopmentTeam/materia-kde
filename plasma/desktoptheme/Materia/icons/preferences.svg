@@ -42,7 +42,7 @@
  </g>
  <g id="preferences-system-bluetooth-activated" transform="translate(96)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <g id="g71">
+  <g>
    <rect style="fill:#324090" width="28" height="20" x="-30" y="-26" rx="11" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.1;fill:#ffffff" d="M 16,2 C 10.46,2 6,6.906 6,13 v 1 C 6,7.906 10.46,3 16,3 21.54,3 26,7.906 26,14 V 13 C 26,6.906 21.54,2 16,2 Z"/>
    <path style="fill:none;stroke:#2fec5d;stroke-linecap:square" d="m 11,11.5 9,9 -4.5,4.25 V 7.25 l 4.5,4.25 -9,8"/>
@@ -51,7 +51,7 @@
  </g>
  <g id="preferences-system-bluetooth" transform="translate(64)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <g id="g84">
+  <g>
    <rect style="fill:#324090" width="28" height="20" x="-30" y="-26" rx="11" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.1;fill:#ffffff" d="M 16,2 C 10.46,2 6,6.906 6,13 v 1 C 6,7.906 10.46,3 16,3 21.54,3 26,7.906 26,14 V 13 C 26,6.906 21.54,2 16,2 Z"/>
    <path style="fill:none;stroke:#ffffff;stroke-linecap:square" d="m 11,11.5 9,9 -4.5,4.25 V 7.25 l 4.5,4.25 -9,8"/>
@@ -60,7 +60,7 @@
  </g>
  <g id="preferences-system-bluetooth-inactive" transform="translate(128)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <g id="g97">
+  <g>
    <rect style="fill:#616161" width="28" height="20" x="-30" y="-26" rx="11" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.1;fill:#ffffff" d="M 16,2 C 10.46,2 6,6.906 6,13 v 1 C 6,7.906 10.46,3 16,3 21.54,3 26,7.906 26,14 V 13 C 26,6.906 21.54,2 16,2 Z"/>
    <path style="fill:none;stroke:#ffffff;stroke-linecap:square" d="m 11,11.5 9,9 -4.5,4.25 V 7.25 l 4.5,4.25 -9,8"/>
