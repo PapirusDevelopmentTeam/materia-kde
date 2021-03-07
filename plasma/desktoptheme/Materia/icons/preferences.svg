@@ -42,7 +42,7 @@
  </g>
  <g id="preferences-system-bluetooth-activated" transform="translate(96)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <g>
+  <g id="g71">
    <rect style="fill:#324090" width="28" height="20" x="-30" y="-26" rx="11" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.1;fill:#ffffff" d="M 16,2 C 10.46,2 6,6.906 6,13 v 1 C 6,7.906 10.46,3 16,3 21.54,3 26,7.906 26,14 V 13 C 26,6.906 21.54,2 16,2 Z"/>
    <path style="fill:none;stroke:#2fec5d;stroke-linecap:square" d="m 11,11.5 9,9 -4.5,4.25 V 7.25 l 4.5,4.25 -9,8"/>
@@ -51,7 +51,7 @@
  </g>
  <g id="preferences-system-bluetooth" transform="translate(64)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <g>
+  <g id="g84">
    <rect style="fill:#324090" width="28" height="20" x="-30" y="-26" rx="11" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.1;fill:#ffffff" d="M 16,2 C 10.46,2 6,6.906 6,13 v 1 C 6,7.906 10.46,3 16,3 21.54,3 26,7.906 26,14 V 13 C 26,6.906 21.54,2 16,2 Z"/>
    <path style="fill:none;stroke:#ffffff;stroke-linecap:square" d="m 11,11.5 9,9 -4.5,4.25 V 7.25 l 4.5,4.25 -9,8"/>
@@ -60,7 +60,7 @@
  </g>
  <g id="preferences-system-bluetooth-inactive" transform="translate(128)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <g>
+  <g id="g97">
    <rect style="fill:#616161" width="28" height="20" x="-30" y="-26" rx="11" ry="10" transform="matrix(0,-1,-1,0,0,0)"/>
    <path style="opacity:0.1;fill:#ffffff" d="M 16,2 C 10.46,2 6,6.906 6,13 v 1 C 6,7.906 10.46,3 16,3 21.54,3 26,7.906 26,14 V 13 C 26,6.906 21.54,2 16,2 Z"/>
    <path style="fill:none;stroke:#ffffff;stroke-linecap:square" d="m 11,11.5 9,9 -4.5,4.25 V 7.25 l 4.5,4.25 -9,8"/>
@@ -82,5 +82,9 @@
    <path style="opacity:0.1;fill:#ffffff" d="M 9.5,1 C 8.669,1 8,1.669 8,2.5 v 1 C 8,2.669 8.669,2 9.5,2 h 19 C 29.331,2 30,2.669 30,3.5 v -1 C 30,1.669 29.331,1 28.5,1 Z"/>
    <path style="opacity:0.2" d="m 2,27.5 v 1 C 2,29.331 2.669,30 3.5,30 h 19 c 0.831,0 1.5,-0.669 1.5,-1.5 v -1 C 24,28.331 23.331,29 22.5,29 H 3.5 C 2.669,29 2,28.331 2,27.5 Z"/>
   </g>
+ </g>
+ <g id="preferences-desktop-notification-bell" transform="translate(-22,32)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="fill:#dfdfdf" d="M 11,3.0000001 C 11.55,3.0000001 12,3.4500001 12,4.0000001 12,4.0300001 12,4.0700001 11.99,4.1000001 14.28,4.5600001 16,6.5700001 16,9.0000001 V 11 13.5 L 18,15.5 V 16 H 16 6 4 V 15.5 L 6,13.5 V 9.0000001 C 6,6.5700001 7.72,4.5600001 10.01,4.1000001 10,4.0700001 10,4.0300001 10,4.0000001 10,3.4500001 10.45,3.0000001 11,3.0000001 Z M 12.73,17 C 12.37,17.62 11.71,18 11,18 10.29,18 9.63,17.62 9.27,17 Z"/>
  </g>
 </svg>
