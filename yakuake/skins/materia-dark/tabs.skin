@@ -25,9 +25,9 @@ right_corner=/tabs/background_right.svg
 [PlusButton]
 x=2
 y=7
-up_image=/tabs/plus_up.svg
-over_image=/tabs/plus_over.svg
-down_image=/tabs/plus_down.svg
+up_image=/tabs/plus_up.png
+over_image=/tabs/plus_over.png
+down_image=/tabs/plus_down.png
 
 [MinusButton]
 x=22
