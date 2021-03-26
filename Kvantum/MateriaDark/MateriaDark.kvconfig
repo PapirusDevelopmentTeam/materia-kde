@@ -53,7 +53,7 @@ submenu_delay=250
 submenu_overlap=0
 textless_progressbar=false
 tickless_slider_handle_size=22
-toolbar_icon_size=16
+toolbar_icon_size=22
 toolbar_interior_spacing=2
 toolbar_item_spacing=0
 toolbutton_style=1
@@ -122,10 +122,10 @@ scroll_jump_workaround=false
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=8
-frame.bottom=8
-frame.left=8
-frame.right=8
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 interior=true
 interior.element=button
 indicator.size=8
@@ -149,7 +149,7 @@ text.normal.color=#dfdfdf
 text.bold=false
 indicator.element=arrow
 indicator.size=8
-frame.expansion=32
+frame.expansion=28
 
 [ToolbarButton]
 frame.element=tbutton
@@ -160,7 +160,7 @@ text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.bold=false
-frame.expansion=32
+frame.expansion=28
 
 [Dock]
 inherits=PanelButtonCommand
