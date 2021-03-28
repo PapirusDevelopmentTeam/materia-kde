@@ -46,197 +46,175 @@
  </defs>
  <g id="focus-left" transform="translate(45.000006,-1006.3622)">
   <path style="fill:url(#linearGradient4805)" d="m 46.999995,1013.3622 v 32 h 2 v -32 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 51.999992,1045.362 v -31.9998 h -2.999996 v 32 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 51.999992,1045.362 v -31.9998 h -2.999996 v 32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 51.999992,1045.362 v -31.9998 h -2.999996 v 32 z"/>
  </g>
  <g id="focus-top" transform="translate(45.000006,-1006.3622)">
   <path style="fill:url(#linearGradient4807)" d="M 84.000008,1009.3622 H 52.000006 v 1 h 32.000002 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 52.000106,1013.3622 h 31.999802 v -3 H 51.999906 Z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 52.000106,1013.3622 h 31.999802 v -3 H 51.999906 Z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 52.000106,1013.3622 h 31.999802 v -3 H 51.999906 Z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 52.000003,1010.3622 v 1 h 32.000002 v -1 z"/>
  </g>
  <g id="focus-right" transform="translate(45.000006,-1006.3622)">
   <path style="fill:url(#linearGradient4809)" d="m 89.000005,1013.3622 v 32 h -2 v -32 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 84.000008,1045.362 v -31.9998 h 2.999996 v 32 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 84.000008,1045.362 v -31.9998 h 2.999996 v 32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 84.000008,1045.362 v -31.9998 h 2.999996 v 32 z"/>
  </g>
  <g id="focus-bottom" transform="translate(45.000006,-1006.3622)">
   <path style="fill:url(#linearGradient4811)" d="m 52,1052.3622 h 32.000002 v -5 H 52 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 83.999801,1045.3622 H 51.999996 v 2 h 32.000002 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="M 83.999801,1045.3622 H 51.999996 v 2 h 32.000002 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 83.999801,1045.3622 H 51.999996 v 2 h 32.000002 z"/>
  </g>
  <g id="focus-bottomleft" transform="translate(45.000006,-1006.3622)">
   <path style="opacity:0.6;fill:url(#radialGradient4813)" d="m 46.999992,1045.3622 v 7 h 5 v -5 h -1 c -1.5,0 -2,-0.5 -2,-2 z"/>
   <path style="fill:url(#radialGradient4815)" d="m 46.999992,1045.3622 v 7 h 5 v -5 h -1 c -1.5,0 -2,-0.5 -2,-2 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 51.999992,1047.3622 h -0.999996 c -1.500001,0 -2.000001,-0.5 -2.000001,-2 v 0 h 2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 51.999992,1047.3622 h -0.999996 c -1.500001,0 -2.000001,-0.5 -2.000001,-2 v 0 h 2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 51.999992,1047.3622 h -0.999996 c -1.500001,0 -2.000001,-0.5 -2.000001,-2 v 0 h 2.999997 z"/>
  </g>
  <g id="focus-topleft" transform="translate(45.000006,-1006.3622)">
   <path style="fill:url(#radialGradient4817)" transform="translate(-7.629395e-6,1006.3622)" d="m 47,3 v 4 h 2 V 6 c 0,-1.4999999 0.5,-2 2,-2 h 1 V 3 Z"/>
   <path style="fill:url(#radialGradient4819)" transform="translate(-7.629395e-6,1006.3622)" d="m 47,3 v 4 h 2 V 6 c 0,-1.4999999 0.5,-2 2,-2 h 1 V 3 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 51.999992,1010.3622 h -0.999996 c -1.500001,0 -2.000001,0.5 -2.000001,2 v 1 h 2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 51.999992,1010.3622 h -0.999996 c -1.500001,0 -2.000001,0.5 -2.000001,2 v 1 h 2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 51.999992,1010.3622 h -0.999996 c -1.500001,0 -2.000001,0.5 -2.000001,2 v 1 h 2.999997 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 51.000003,1010.3622 c -1.5,0 -2,0.5 -2,2 v 1 c 0,-1.5 0.5,-2 2,-2 h 0.999996 v -1 z"/>
  </g>
  <g id="focus-bottomright" transform="translate(45.000006,-1006.3622)">
   <path style="opacity:0.6;fill:url(#radialGradient4821)" d="m 89.00001,1045.3622 v 7 h -5 v -5 h 1 c 1.5,0 2,-0.5 2,-2 z"/>
   <path style="fill:url(#radialGradient4823)" d="m 89.00001,1045.3622 v 7 h -5 v -5 h 1 c 1.5,0 2,-0.5 2,-2 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 84.000008,1047.3622 h 0.999996 c 1.500001,0 2.000001,-0.5 2.000001,-2 v 0 h -2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 84.000008,1047.3622 h 0.999996 c 1.500001,0 2.000001,-0.5 2.000001,-2 v 0 h -2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 84.000008,1047.3622 h 0.999996 c 1.500001,0 2.000001,-0.5 2.000001,-2 v 0 h -2.999997 z"/>
  </g>
  <g id="focus-topright" transform="translate(45.000006,-1006.3622)">
   <path style="fill:url(#radialGradient4825)" transform="translate(-7.629395e-6,1006.3622)" d="m 84,3 v 1 h 1 c 1.5,0 2,0.5000001 2,2 v 1 h 2 V 3 Z"/>
   <path style="fill:url(#radialGradient4827)" transform="translate(-7.629395e-6,1006.3622)" d="m 84,3 v 1 h 1 c 1.5,0 2,0.5000001 2,2 v 1 h 2 V 3 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 84.999997,1010.3622 c 1.5,0 2,0.5 2,2 v 1 c 0,-1.5 -0.5,-2 -2,-2 h -0.999996 v -1 z"/>
  </g>
  <g id="hover-left" transform="translate(0,-1006.3622)">
   <path style="fill:url(#linearGradient2050)" d="m 46.999995,1013.3622 v 32 h 2 v -32 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 51.999992,1045.362 v -31.9998 h -2.999996 v 32 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 51.999992,1045.362 v -31.9998 h -2.999996 v 32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 51.999992,1045.362 v -31.9998 h -2.999996 v 32 z"/>
  </g>
  <g id="hover-top" transform="translate(0,-1006.3622)">
   <path style="fill:url(#linearGradient7463)" d="M 84.000008,1009.3622 H 52.000006 v 1 h 32.000002 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 52.000106,1013.3622 h 31.999802 v -3 H 51.999906 Z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 52.000106,1013.3622 h 31.999802 v -3 H 51.999906 Z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 52.000106,1013.3622 h 31.999802 v -3 H 51.999906 Z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 52.000003,1010.3622 v 1 h 32.000002 v -1 z"/>
  </g>
  <g id="hover-right" transform="translate(0,-1006.3622)">
   <path style="fill:url(#linearGradient4531)" d="m 89.000005,1013.3622 v 32 h -2 v -32 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 84.000008,1045.362 v -31.9998 h 2.999996 v 32 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 84.000008,1045.362 v -31.9998 h 2.999996 v 32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 84.000008,1045.362 v -31.9998 h 2.999996 v 32 z"/>
  </g>
  <g id="normal-right">
   <rect style="opacity:0.001" width="5" height="32" x="37" y="7"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 37.000041,38.999763 V 6.99996 h 2.999978 v 32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 37.000041,38.999763 V 6.99996 h 2.999978 v 32 z"/>
  </g>
  <g id="normal-bottomright">
   <rect style="opacity:0.001" width="5" height="4" x="37" y="39"/>
   <path style="opacity:0.3;fill:url(#radialGradient5892)" d="m 40.000016,39 c 0,1.5 -0.520409,1.2534 -2,1.5 L 37.000038,41 v 1 1 c 2.158924,-0.3132 2.973272,-0.5985 2.999978,-2.5 v -1 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 37.000042,40.99996 h 0.999978 c 1.5,0 2,-0.5 2,-2 v 4.2e-5 h -2.999978 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 37.000042,40.99996 h 0.999978 c 1.5,0 2,-0.5 2,-2 v 4.2e-5 h -2.999978 z"/>
  </g>
- <path id="normal-center" style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 36.999993,39 V 7 H 4.9999929 v 32 z"/>
+ <g id="normal-center">
+    <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 36.999993,39 V 7 H 4.9999929 v 32 z"/>
+ </g>
  <g id="normal-left">
   <rect style="opacity:0.001" width="5" height="32" x="0" y="7"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 4.999989,38.999763 V 6.99996 H 1.999993 v 32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 4.999989,38.999763 V 6.99996 H 1.999993 v 32 z"/>
  </g>
  <g id="normal-bottom" transform="translate(0,-1007.3622)">
   <path style="opacity:0.3;fill:url(#radialGradient4309)" d="m 4.9999924,1048.3622 v 1 1 H 36.999992 v -1 -1 z"/>
-  <g style="fill:#424242" transform="translate(-48.000007,994.36216)">
-   <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 84.999803,52.000042 H 53 V 54 h 32 z"/>
+  <g transform="translate(-48.000007,994.36216)">
+   <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 84.999803,52.000042 H 53 V 54 h 32 z"/>
   </g>
  </g>
  <g id="normal-bottomleft">
   <rect style="opacity:0.001" width="5" height="4" x="0" y="39"/>
   <path style="opacity:0.3;fill:url(#radialGradient5890)" d="m 1.9999925,39 v 0.5 1 c 0.5371433,2.5133 0.7102377,2.1184 2.9999964,2.5 V 42 41 L 3.9999925,40.5 c -1.34164,-0.6708 -2,0 -2,-1.5 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 4.9999889,40.99996 H 3.9999925 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 2.9999964 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 4.9999889,40.99996 H 3.9999925 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 2.9999964 z"/>
  </g>
  <g id="normal-top">
   <rect style="opacity:0.001" width="32" height="4" x="5" y="3"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 5.000103,7 h 31.9998 V 3.99996 h -32 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 5.000103,7 h 31.9998 V 3.99996 h -32 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="M 4.9999999,4 V 5 H 37 V 4 Z"/>
  </g>
  <g id="pressed-left">
   <rect style="opacity:0.001" width="5" height="32" x="138" y="7"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 143,38.999763 V 6.99996 h -3 v 32 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="M 143,38.999763 V 6.99996 h -3 v 32 z"/>
  </g>
  <g id="pressed-bottom">
   <rect style="opacity:0.001" width="32" height="4" x="143" y="39"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 174.9998,39.000042 H 143 V 41 h 32 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="M 174.9998,39.000042 H 143 V 41 h 32 z"/>
  </g>
  <g id="pressed-top">
   <rect style="opacity:0.001" width="32" height="4" x="143" y="3"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 143.0002,7.00004 H 175 V 4 h -32 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="M 143.0002,7.00004 H 175 V 4 h -32 z"/>
  </g>
  <g id="normal-topleft">
   <rect style="opacity:0.001" width="5" height="4" x="0" y="3"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 4.9999889,3.99996 H 3.9999925 c -1.5,0 -2,0.5 -2,2 V 7 h 2.9999964 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 4.9999889,3.99996 H 3.9999925 c -1.5,0 -2,0.5 -2,2 V 7 h 2.9999964 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="M 4,4 C 2.5,4 2,4.5 2,6 V 7 C 2,5.5 2.5,5 4,5 H 4.9999964 V 4 Z"/>
  </g>
  <g id="normal-topright">
   <rect style="opacity:0.001" width="5" height="4" x="37" y="3"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 37.000042,3.99996 h 0.999978 c 1.5,0 2,0.5 2,2 V 7 h -2.999978 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 37.000042,3.99996 h 0.999978 c 1.5,0 2,0.5 2,2 V 7 h -2.999978 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 37.999973,4 c 1.5,0 2,0.5 2,2 v 1 c 0,-1.5 -0.5,-2 -2,-2 H 36.999995 V 4 Z"/>
  </g>
  <g id="pressed-bottomleft">
   <rect style="opacity:0.001" width="5" height="4" x="138" y="39"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 143,41.000002 h -1 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 143,41.000002 h -1 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
  </g>
  <g id="pressed-topleft">
   <rect style="opacity:0.001" width="5" height="4" x="138" y="3"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 143,3.99996 h -1 c -1.5,0 -2,0.5 -2,2 V 7 h 3 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 143,3.99996 h -1 c -1.5,0 -2,0.5 -2,2 V 7 h 3 z"/>
  </g>
  <g id="pressed-right">
   <rect style="opacity:0.001" width="5" height="32" x="175" y="7"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 175,39 V 7.000197 h 3 v 32 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="M 175,39 V 7.000197 h 3 v 32 z"/>
  </g>
  <g id="pressed-bottomright">
   <rect style="opacity:0.001" width="5" height="4" x="175" y="39"/>
   <g id="ff" transform="matrix(-1,0,0,1,179.9998,-13.000042)">
-   <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 5,54.000042 H 4 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
    <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="M 5,54.000042 H 4 c -1.5,0 -2,-0.5 -2,-2 v 4.2e-5 h 3 z"/>
   </g>
  </g>
  <g id="pressed-topright">
   <rect style="opacity:0.001" width="5" height="4" x="175" y="3"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 175,4 h 1 c 1.5,0 2,0.5 2,2 v 1.00004 h -3 z"/>
   <path style="fill:currentColor;opacity:0.24" class="ColorScheme-Text" d="m 175,4 h 1 c 1.5,0 2,0.5 2,2 v 1.00004 h -3 z"/>
  </g>
- <rect id="focus-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="112" y="3.9"/>
- <rect id="focus-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="-22" y="132" transform="rotate(-90)"/>
- <rect id="focus-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="-22" y="93.9" transform="rotate(-90)"/>
- <rect id="focus-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="3" x="112" y="41"/>
- <rect id="hint-stretch-borders" style="opacity:1;fill:#ff00ff" width="2" height="2" x="0" y="-4" ry="0"/>
- <rect id="hover-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="67" y="3.9"/>
+ <rect id="focus-hint-top-margin" style="fill:#ff00ff" width="2" height=".1" x="112" y="3.9"/>
+ <rect id="focus-hint-right-margin" style="fill:#ff00ff" width="2" height=".1" x="-22" y="132" transform="rotate(-90)"/>
+ <rect id="focus-hint-left-margin" style="fill:#ff00ff" width="2" height=".1" x="-22" y="93.9" transform="rotate(-90)"/>
+ <rect id="focus-hint-bottom-margin" style="fill:#ff00ff" width="2" height="3" x="112" y="41"/>
+ <rect id="hint-stretch-borders" style="fill:#ff00ff" width="2" height="2" x="0" y="-4" ry="0"/>
+ <rect id="hover-hint-top-margin" style="fill:#ff00ff" width="2" height=".1" x="67" y="3.9"/>
  <rect id="hover-hint-right-margin" style="fill:#ff00ff" width="2" height=".1" x="-22" y="87" transform="rotate(-90)"/>
- <rect id="hover-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height=".1" x="-22" y="48.9" transform="rotate(-90)"/>
+ <rect id="hover-hint-left-margin" style="fill:#ff00ff" width="2" height=".1" x="-22" y="48.9" transform="rotate(-90)"/>
  <g id="hover-bottom" transform="translate(0,-1006.3622)">
   <path style="fill:url(#linearGradient7337)" d="m 52,1052.3622 h 32.000002 v -5 H 52 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="M 83.999801,1045.3622 H 51.999996 v 2 h 32.000002 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="M 83.999801,1045.3622 H 51.999996 v 2 h 32.000002 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="M 83.999801,1045.3622 H 51.999996 v 2 h 32.000002 z"/>
  </g>
  <g id="hover-bottomleft" transform="translate(0,-1006.3622)">
   <path style="opacity:0.6;fill:url(#radialGradient2009)" d="m 46.999992,1045.3622 v 7 h 5 v -5 h -1 c -1.5,0 -2,-0.5 -2,-2 z"/>
   <path style="fill:url(#radialGradient1987)" d="m 46.999992,1045.3622 v 7 h 5 v -5 h -1 c -1.5,0 -2,-0.5 -2,-2 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 51.999992,1047.3622 h -0.999996 c -1.500001,0 -2.000001,-0.5 -2.000001,-2 v 0 h 2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 51.999992,1047.3622 h -0.999996 c -1.500001,0 -2.000001,-0.5 -2.000001,-2 v 0 h 2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 51.999992,1047.3622 h -0.999996 c -1.500001,0 -2.000001,-0.5 -2.000001,-2 v 0 h 2.999997 z"/>
  </g>
  <g id="hover-topleft" transform="translate(0,-1006.3622)">
   <path style="fill:url(#radialGradient1933)" transform="translate(-7.629395e-6,1006.3622)" d="m 47,3 v 4 h 2 V 6 c 0,-1.4999999 0.5,-2 2,-2 h 1 V 3 Z"/>
   <path style="fill:url(#radialGradient1562)" transform="translate(-7.629395e-6,1006.3622)" d="m 47,3 v 4 h 2 V 6 c 0,-1.4999999 0.5,-2 2,-2 h 1 V 3 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 51.999992,1010.3622 h -0.999996 c -1.500001,0 -2.000001,0.5 -2.000001,2 v 1 h 2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 51.999992,1010.3622 h -0.999996 c -1.500001,0 -2.000001,0.5 -2.000001,2 v 1 h 2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 51.999992,1010.3622 h -0.999996 c -1.500001,0 -2.000001,0.5 -2.000001,2 v 1 h 2.999997 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 51.000003,1010.3622 c -1.5,0 -2,0.5 -2,2 v 1 c 0,-1.5 0.5,-2 2,-2 h 0.999996 v -1 z"/>
  </g>
  <g id="hover-bottomright" transform="translate(0,-1006.3622)">
   <path style="opacity:0.6;fill:url(#radialGradient4525)" d="m 89.00001,1045.3622 v 7 h -5 v -5 h 1 c 1.5,0 2,-0.5 2,-2 z"/>
   <path style="fill:url(#radialGradient4527)" d="m 89.00001,1045.3622 v 7 h -5 v -5 h 1 c 1.5,0 2,-0.5 2,-2 z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 84.000008,1047.3622 h 0.999996 c 1.500001,0 2.000001,-0.5 2.000001,-2 v 0 h -2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 84.000008,1047.3622 h 0.999996 c 1.500001,0 2.000001,-0.5 2.000001,-2 v 0 h -2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 84.000008,1047.3622 h 0.999996 c 1.500001,0 2.000001,-0.5 2.000001,-2 v 0 h -2.999997 z"/>
  </g>
  <g id="hover-topright" transform="translate(0,-1006.3622)">
   <path style="fill:url(#radialGradient4533)" transform="translate(-7.629395e-6,1006.3622)" d="m 84,3 v 1 h 1 c 1.5,0 2,0.5000001 2,2 v 1 h 2 V 3 Z"/>
   <path style="fill:url(#radialGradient4529)" transform="translate(-7.629395e-6,1006.3622)" d="m 84,3 v 1 h 1 c 1.5,0 2,0.5000001 2,2 v 1 h 2 V 3 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
-  <path style="fill:currentColor;opacity:0.15" class="ColorScheme-Text" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
+  <path style="fill:currentColor;opacity:0.08" class="ColorScheme-Text" d="m 84.000008,1010.3622 h 0.999996 c 1.500001,0 2.000001,0.5 2.000001,2 v 1 h -2.999997 z"/>
   <path style="opacity:0.05;fill:#ffffff" d="m 84.999997,1010.3622 c 1.5,0 2,0.5 2,2 v 1 c 0,-1.5 -0.5,-2 -2,-2 h -0.999996 v -1 z"/>
  </g>
- <rect id="hover-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="3" x="67" y="41"/>
- <rect id="normal-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="19" y="3"/>
- <rect id="normal-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="37" transform="rotate(-90)"/>
- <rect id="normal-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="0" transform="rotate(-90)"/>
- <rect id="normal-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="19" y="39"/>
- <rect id="pressed-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="158" y="3"/>
- <rect id="pressed-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="175" transform="rotate(-90)"/>
- <rect id="pressed-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="5" x="-22" y="138" transform="rotate(-90)"/>
- <rect id="pressed-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="158" y="39"/>
+ <rect id="hover-hint-bottom-margin" style="fill:#ff00ff" width="2" height="3" x="67" y="41"/>
+ <rect id="normal-hint-top-margin" style="fill:#ff00ff" width="2" height="4" x="19" y="3"/>
+ <rect id="normal-hint-right-margin" style="fill:#ff00ff" width="2" height="5" x="-22" y="37" transform="rotate(-90)"/>
+ <rect id="normal-hint-left-margin" style="fill:#ff00ff" width="2" height="5" x="-22" y="0" transform="rotate(-90)"/>
+ <rect id="normal-hint-bottom-margin" style="fill:#ff00ff" width="2" height="4" x="19" y="39"/>
+ <rect id="pressed-hint-top-margin" style="fill:#ff00ff" width="2" height="4" x="158" y="3"/>
+ <rect id="pressed-hint-right-margin" style="fill:#ff00ff" width="2" height="5" x="-22" y="175" transform="rotate(-90)"/>
+ <rect id="pressed-hint-left-margin" style="fill:#ff00ff" width="2" height="5" x="-22" y="138" transform="rotate(-90)"/>
+ <rect id="pressed-hint-bottom-margin" style="fill:#ff00ff" width="2" height="4" x="158" y="39"/>
  <path id="toolbutton-hover-center" style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 206,38.00004 v -16 h -16 v 16 z"/>
  <g id="toolbutton-hover-left" transform="matrix(1,0,0,0.50000306,2,3.9999497)">
   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 188,67.999763 V 35.99996 h -3 v 32 z"/>
@@ -287,24 +265,21 @@
  <g id="toolbutton-pressed-bottomright" transform="translate(11,-30)">
   <path style="opacity:0.2;fill:currentColor" class="ColorScheme-Text" d="M 220,70.99996 C 222,71 223,69 223,67.99992 h -3 z"/>
  </g>
- <rect id="toolbutton-hover-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="187" transform="rotate(-90)"/>
- <rect id="toolbutton-hover-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-199" y="19" transform="scale(-1,1)"/>
- <rect id="toolbutton-hover-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="205" transform="rotate(-90)"/>
- <rect id="toolbutton-hover-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="197" y="37"/>
- <rect id="toolbutton-pressed-hint-left-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="212" transform="rotate(-90)"/>
- <rect id="toolbutton-pressed-hint-top-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="222" y="19"/>
- <rect id="toolbutton-pressed-hint-right-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="-31" y="230" transform="rotate(-90)"/>
- <rect id="toolbutton-pressed-hint-bottom-margin" style="opacity:1;fill:#ff00ff" width="2" height="4" x="222" y="37"/>
+ <rect id="toolbutton-hover-hint-left-margin" style="fill:#ff00ff" width="2" height="4" x="-31" y="187" transform="rotate(-90)"/>
+ <rect id="toolbutton-hover-hint-top-margin" style="fill:#ff00ff" width="2" height="4" x="-199" y="19" transform="scale(-1,1)"/>
+ <rect id="toolbutton-hover-hint-right-margin" style="fill:#ff00ff" width="2" height="4" x="-31" y="205" transform="rotate(-90)"/>
+ <rect id="toolbutton-hover-hint-bottom-margin" style="fill:#ff00ff" width="2" height="4" x="197" y="37"/>
+ <rect id="toolbutton-pressed-hint-left-margin" style="fill:#ff00ff" width="2" height="4" x="-31" y="212" transform="rotate(-90)"/>
+ <rect id="toolbutton-pressed-hint-top-margin" style="fill:#ff00ff" width="2" height="4" x="222" y="19"/>
+ <rect id="toolbutton-pressed-hint-right-margin" style="fill:#ff00ff" width="2" height="4" x="-31" y="230" transform="rotate(-90)"/>
+ <rect id="toolbutton-pressed-hint-bottom-margin" style="fill:#ff00ff" width="2" height="4" x="222" y="37"/>
  <g id="pressed-center" transform="translate(4.49891,-44.858532)">
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
-  <path style="opacity:0.23999999;fill:currentColor" class="ColorScheme-Text" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
+  <path style="opacity:0.24;fill:currentColor" class="ColorScheme-Text" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
  </g>
  <g id="focus-center" transform="translate(-41.501292,-44.858572)">
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
-  <path style="opacity:0.23999999;fill:currentColor" class="ColorScheme-Text" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
+  <path style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
  </g>
  <g id="hover-center" transform="translate(-86.501184,-44.858572)">
-  <path style="fill:currentColor" class="ColorScheme-ButtonBackground" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
-  <path style="opacity:0.15;fill:currentColor" class="ColorScheme-Text" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
+  <path style="opacity:0.08;fill:currentColor" class="ColorScheme-Text" d="m 170.50129,83.858572 v -32 h -32 v 32 z"/>
  </g>
 </svg>
