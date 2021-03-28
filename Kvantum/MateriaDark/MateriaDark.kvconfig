@@ -149,7 +149,7 @@ text.normal.color=#dfdfdf
 text.bold=false
 indicator.element=arrow
 indicator.size=8
-frame.expansion=28
+frame.expansion=24
 
 [ToolbarButton]
 frame.element=tbutton
@@ -160,7 +160,7 @@ text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.bold=false
-frame.expansion=28
+frame.expansion=24
 
 [Dock]
 inherits=PanelButtonCommand
