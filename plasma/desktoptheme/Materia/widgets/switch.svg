@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="55" version="1.0">
+ <defs id="defs4">
+  <radialGradient id="radialGradient4203" cx="-31.636" cy="8.519" r="8.182" fx="-31.636" fy="8.519" gradientTransform="matrix(0,1.588807,-1.0999999,0,20.371134,94.26388)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
+  <linearGradient id="linearGradient4209">
+   <stop style="stop-color:#000000" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1057" cx="-31.636" cy="8.519" r="8.182" fx="-31.636" fy="8.519" gradientTransform="matrix(0,1.588807,-1.0999999,0,20.371134,94.26388)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
+  <radialGradient id="radialGradient1069" cx="-31.636" cy="8.519" r="8.182" fx="-31.636" fy="8.519" gradientTransform="matrix(0,1.588807,-1.0999999,0,20.371134,94.26388)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
+ </defs>
+ <g id="handle" transform="matrix(1.1,0,0,1.1,46.299,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:url(#radialGradient4203)" transform="matrix(0.90909091,0,0,0.90909091,-42.09,-31.000909)" d="M 19.996094,43.251953 A 9.0000002,9.0000002 0 0 1 11,52 9.0000002,9.0000002 0 0 1 2.0039062,43.261719 9.0000002,9.0000002 0 0 0 2,43.5 a 9.0000002,9.0000002 0 0 0 9,9 9.0000002,9.0000002 0 0 0 9,-9 9.0000002,9.0000002 0 0 0 -0.0039,-0.248047 z"/>
+  <path style="fill:#444444" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <path style="opacity:0.05;fill:#ffffff" transform="matrix(0.90909091,0,0,0.90909091,-93.908336,-11.91)" d="m 68,13 a 9.0000002,9.0000002 0 0 0 -9,9 9.0000002,9.0000002 0 0 0 0.0098,0.287109 A 9.0000002,9.0000002 0 0 1 68,13.5 9.0000002,9.0000002 0 0 1 76.990234,22.212891 9.0000002,9.0000002 0 0 0 77,22 9.0000002,9.0000002 0 0 0 68,13 Z"/>
+ </g>
+ <g id="handle-hover" transform="matrix(1.1,0,0,1.1,68.299,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:url(#radialGradient1057)" transform="matrix(0.90909091,0,0,0.90909091,-42.09,-31.000909)" d="M 19.996094,43.251953 A 9.0000002,9.0000002 0 0 1 11,52 9.0000002,9.0000002 0 0 1 2.0039062,43.261719 9.0000002,9.0000002 0 0 0 2,43.5 a 9.0000002,9.0000002 0 0 0 9,9 9.0000002,9.0000002 0 0 0 9,-9 9.0000002,9.0000002 0 0 0 -0.0039,-0.248047 z"/>
+  <path style="fill:#525252" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <path style="opacity:0.05;fill:#ffffff" transform="matrix(0.90909091,0,0,0.90909091,-93.908336,-11.91)" d="m 68,13 a 9.0000002,9.0000002 0 0 0 -9,9 9.0000002,9.0000002 0 0 0 0.0098,0.287109 A 9.0000002,9.0000002 0 0 1 68,13.5 9.0000002,9.0000002 0 0 1 76.990234,22.212891 9.0000002,9.0000002 0 0 0 77,22 9.0000002,9.0000002 0 0 0 68,13 Z"/>
+ </g>
+ <g id="handle-focus" transform="matrix(1.1,0,0,1.1,90.299,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:url(#radialGradient1069)" transform="matrix(0.90909091,0,0,0.90909091,-42.09,-31.000909)" d="M 19.996094,43.251953 A 9.0000002,9.0000002 0 0 1 11,52 9.0000002,9.0000002 0 0 1 2.0039062,43.261719 9.0000002,9.0000002 0 0 0 2,43.5 a 9.0000002,9.0000002 0 0 0 9,9 9.0000002,9.0000002 0 0 0 9,-9 9.0000002,9.0000002 0 0 0 -0.0039,-0.248047 z"/>
+  <path style="fill:#656565" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <path style="opacity:0.05;fill:#ffffff" transform="matrix(0.90909091,0,0,0.90909091,-93.908336,-11.91)" d="m 68,13 a 9.0000002,9.0000002 0 0 0 -9,9 9.0000002,9.0000002 0 0 0 0.0098,0.287109 A 9.0000002,9.0000002 0 0 1 68,13.5 9.0000002,9.0000002 0 0 1 76.990234,22.212891 9.0000002,9.0000002 0 0 0 77,22 9.0000002,9.0000002 0 0 0 68,13 Z"/>
+ </g>
+ <g id="handle-shadow" transform="matrix(1.1,0,0,1.1,112.299,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+ </g>
+ <path id="groove-bottomright" style="opacity:0.3;fill:#ffffff" d="M 22,22 V 33 C 33.000001,33 33.000001,22 33.000001,22 Z"/>
+ <path id="groove-right" style="opacity:0.3;fill:#ffffff" d="M 22,11 V 22 H 33.000001 V 11 Z"/>
+ <path id="groove-topright" style="opacity:0.3;fill:#ffffff" d="M 22,-3.6716472e-8 V 11 H 33.000001 C 33.000001,-3.6716472e-8 22,-3.6716472e-8 22,-3.6716472e-8 Z"/>
+ <path id="groove-bottomleft" style="opacity:0.3;fill:#ffffff" d="m 8.3215332e-7,22 c 0,0 0,11 11.00000016784668,11 V 22 Z"/>
+ <path id="groove-left" style="opacity:0.3;fill:#ffffff" d="M 8.3215332e-7,11 V 22 H 11.000001 V 11 Z"/>
+ <path id="groove-topleft" style="opacity:0.3;fill:#ffffff" d="m 11.000001,-3.6716472e-8 c 0,0 -11.00000016784668,0 -11.00000016784668,11.000000036716471 H 11.000001 Z"/>
+ <path id="groove-bottom" style="opacity:0.3;fill:#ffffff" d="M 11.000001,22 V 33 H 22 V 22 Z"/>
+ <path id="groove-center" style="opacity:0.3;fill:#ffffff" d="M 22,11 H 11.000001 V 22 H 22 Z"/>
+ <path id="groove-top" style="opacity:0.3;fill:#ffffff" d="M 11.000001,-3.6716472e-8 V 11 H 22 V -3.6716472e-8 Z"/>
+ <path id="groove-highlight-bottomright" style="fill:#8ab4f8" d="M 54.999998,22 V 33 C 66.000001,33 66.000001,22 66.000001,22 Z"/>
+ <path id="groove-highlight-right" style="fill:#8ab4f8" d="M 54.999998,11 V 22 H 66.000001 V 11 Z"/>
+ <path id="groove-highlight-topright" style="fill:#8ab4f8" d="M 54.999998,-3.6716472e-8 V 11 h 11.000003 c 0,0 0,-11.000000036716471 -11.000003,-11.000000036716471 z"/>
+ <path id="groove-highlight-bottomleft" style="fill:#8ab4f8" d="m 33.000001,22 c 0,0 0,11 10.999999,11 V 22 Z"/>
+ <path id="groove-highlight-left" style="fill:#8ab4f8" d="M 33.000001,11 V 22 H 44 V 11 Z"/>
+ <path id="groove-highlight-topleft" style="fill:#8ab4f8" d="M 44,-3.6716472e-8 C 33.000001,-3.6716472e-8 33.000001,11 33.000001,11 H 44 Z"/>
+ <path id="groove-highlight-bottom" style="fill:#8ab4f8" d="M 44,22 V 33 H 54.999998 V 22 Z"/>
+ <path id="groove-highlight-center" style="fill:#8ab4f8" d="M 54.999998,11 H 44 v 11 h 10.999998 z"/>
+ <path id="groove-highlight-top" style="fill:#8ab4f8" d="M 44,-3.6716472e-8 V 11 H 54.999998 V -3.6716472e-8 Z"/>
+ <rect style="fill:#ff00ff" id="hint-handle-size" width="24" height="18" x="66" y="15"/>
+</svg>
