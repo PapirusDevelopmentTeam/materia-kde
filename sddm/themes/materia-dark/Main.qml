@@ -54,7 +54,7 @@ Rectangle {
 
     Rectangle {
         id: panel
-        color: "#1f1f1f"
+        color: "#121212"
         height: 32
         anchors.left: parent.left
         anchors.right: parent.right

@@ -33,30 +33,30 @@
  </g>
  <path id="shadow-topright" style="fill:url(#radialGradient4255)" d="M 203.00002,0.99899464 V 10.998995 h 2 c 2.77,0 5,2.23 5,5 v 2 h 10 V 0.99899464 Z"/>
  <path id="shadow-bottomleft" style="fill:url(#radialGradient4263)" d="m 153.00002,84.998995 v -10 h -2 c -2.77,0 -5,-2.23 -5,-5 v -2 h -10 v 17 z"/>
- <rect id="center" style="fill:#1f1f1f" width="50" height="50" x="7" y="28"/>
+ <rect id="center" style="fill:#121212" width="50" height="50" x="7" y="28"/>
  <g id="topleft" transform="translate(-183,-231.00083)">
-  <path style="fill:#1f1f1f" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+  <path style="fill:#121212" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
  </g>
  <g id="left" transform="translate(-183,-231.00083)">
-  <path style="fill:#1f1f1f" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
+  <path style="fill:#121212" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
  </g>
  <g id="right" transform="translate(-183,-231.00084)">
-  <path style="fill:#1f1f1f" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
+  <path style="fill:#121212" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
  </g>
  <g id="bottomleft" transform="translate(-183,-231.00092)">
-  <path style="fill:#1f1f1f" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+  <path style="fill:#121212" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
  </g>
  <g id="bottom" transform="translate(-183,-231.00096)">
-  <path style="fill:#1f1f1f" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
+  <path style="fill:#121212" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
  </g>
  <g id="bottomright" transform="translate(-183,-231.00092)">
-  <path style="fill:#1f1f1f" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+  <path style="fill:#121212" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
  </g>
  <g id="topright" transform="translate(-183,-231.00083)">
-  <path style="fill:#1f1f1f" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+  <path style="fill:#121212" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
  </g>
  <g id="top" transform="translate(-183,-231.00083)">
-  <path style="fill:#1f1f1f" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
+  <path style="fill:#121212" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
  </g>
  <rect id="shadow-hint-right-margin" style="fill:#ff00ff" width="10" height="4" x="210" y="41"/>
  <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="176" y="75"/>

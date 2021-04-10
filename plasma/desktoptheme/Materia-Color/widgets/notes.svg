@@ -152,7 +152,7 @@
   <path style="opacity:0.3;fill:url(#radialGradient1093)" transform="translate(2,-56)" d="m 56,111 v 2 c 0,1 -1,1 -1,1 h -2 v 2 h 5 v -5 z"/>
   <path style="opacity:0.3;fill:url(#radialGradient1095)" transform="translate(2,-56)" d="m 53,58 v 2 h 2 c 1,0 1,1 1,1 v 2 h 2 v -5 z"/>
   <path style="opacity:0.3;fill:url(#radialGradient1097)" transform="translate(2,-56)" d="m 0,58 v 5 h 2 v -2 c 0,0 0,-1 1,-1 h 2 v -2 z"/>
-  <path style="fill:#f2f2f2" d="M 5,4 C 4,4 4,5 4,5 v 52 c 0,1 1,1 1,1 h 52 c 0,0 1,0 1,-1 V 5 c 0,0 0,-1 -1,-1 z"/>
+  <path style="fill:#f9f9f9" d="M 5,4 C 4,4 4,5 4,5 v 52 c 0,1 1,1 1,1 h 52 c 0,0 1,0 1,-1 V 5 c 0,0 0,-1 -1,-1 z"/>
   <path style="opacity:0.3;fill:url(#linearGradient1099)" d="m 7,58 v 2 h 48 v -2 z"/>
   <path style="opacity:0.3;fill:url(#linearGradient1101)" d="M 7,4 V 2 h 48 v 2 z"/>
   <path style="opacity:0.3;fill:url(#linearGradient1103)" d="M 4,55 H 2 V 7 h 2 z"/>
@@ -163,7 +163,7 @@
   <path style="opacity:0.3;fill:url(#radialGradient1129)" transform="translate(2,-56)" d="m 56,111 v 2 c 0,1 -1,1 -1,1 h -2 v 2 h 5 v -5 z"/>
   <path style="opacity:0.3;fill:url(#radialGradient1131)" transform="translate(2,-56)" d="m 53,58 v 2 h 2 c 1,0 1,1 1,1 v 2 h 2 v -5 z"/>
   <path style="opacity:0.3;fill:url(#radialGradient1133)" transform="translate(2,-56)" d="m 0,58 v 5 h 2 v -2 c 0,0 0,-1 1,-1 h 2 v -2 z"/>
-  <path style="fill:#181818" d="M 5,4 C 4,4 4,5 4,5 v 52 c 0,1 1,1 1,1 h 52 c 0,0 1,0 1,-1 V 5 c 0,0 0,-1 -1,-1 z"/>
+  <path style="fill:#121212" d="M 5,4 C 4,4 4,5 4,5 v 52 c 0,1 1,1 1,1 h 52 c 0,0 1,0 1,-1 V 5 c 0,0 0,-1 -1,-1 z"/>
   <path style="opacity:0.3;fill:url(#linearGradient1135)" d="m 7,58 v 2 h 48 v -2 z"/>
   <path style="opacity:0.3;fill:url(#linearGradient1137)" d="M 7,4 V 2 h 48 v 2 z"/>
   <path style="opacity:0.3;fill:url(#linearGradient1139)" d="M 4,55 H 2 V 7 h 2 z"/>

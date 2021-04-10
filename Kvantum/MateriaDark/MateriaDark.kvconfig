@@ -73,9 +73,9 @@ saturation=1.00
 shadowless_popup=false
 
 [GeneralColors]
-alt.base.color=#242424
-base.color=#242424
-button.color=#343434
+alt.base.color=#1e1e1e
+base.color=#1e1e1e
+button.color=#2e2e2e
 button.text.color=#dfdfdf
 dark.color=#0d0d0d
 disabled.text.color=#818181
@@ -90,7 +90,7 @@ mid.light.color=#ffffff1e
 progress.indicator.text.color=#dfdfdf
 text.color=#dfdfdf
 tooltip.text.color=white
-window.color=#181818
+window.color=#121212
 window.text.color=#dfdfdf
 
 [Hacks]
@@ -280,7 +280,7 @@ frame.left=2
 frame.right=2
 text.normal.color=#dfdfdf
 text.focus.color=#dfdfdf
-text.toggle.color=#dfdfdf
+text.toggle.color=#8ab4f8
 frame.expansion=0
 text.bold=false
 focusFrame=true

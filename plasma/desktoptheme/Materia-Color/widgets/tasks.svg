@@ -53,40 +53,40 @@
  </g>
  <g id="attention-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="attention-left" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="attention-right" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="attention-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,82.58462)">
-  <rect style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="attention-top" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="attention-topleft" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="attention-topright" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="attention-bottomleft" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="attention-bottomright" transform="translate(-1,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="hover-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
@@ -268,40 +268,40 @@
  </g>
  <g id="north-attention-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="north-attention-left" transform="translate(20,21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="north-attention-right" transform="translate(20,21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="north-attention-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,82.58462)">
-  <rect style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="north-attention-top" transform="translate(20,21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="north-attention-topleft" transform="translate(20,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="north-attention-topright" transform="translate(20,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="north-attention-bottomleft" transform="translate(20,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="north-attention-bottomright" transform="translate(20,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-hover-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
@@ -471,40 +471,40 @@
  </g>
  <g id="east-attention-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="east-attention-left" transform="translate(41,21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="east-attention-right" transform="translate(41,21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="east-attention-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,82.58462)">
-  <rect style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="east-attention-top" transform="translate(41,21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="east-attention-topleft" transform="translate(41,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="east-attention-topright" transform="translate(41,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="east-attention-bottomleft" transform="translate(41,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="east-attention-bottomright" transform="translate(41,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="east-hover-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
@@ -674,40 +674,40 @@
  </g>
  <g id="west-attention-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="west-attention-left" transform="translate(62,21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="west-attention-right" transform="translate(62,21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="west-attention-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,82.58462)">
-  <rect style="fill:currentColor" class="ColorScheme-NegativeText" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="west-attention-top" transform="translate(62,21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="fill:currentColor" class="ColorScheme-NegativeText" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="west-attention-topleft" transform="translate(62,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="west-attention-topright" transform="translate(62,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="west-attention-bottomleft" transform="translate(62,21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.12;fill:currentColor" class="ColorScheme-Highlight" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="west-attention-bottomright" transform="translate(62,21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="west-hover-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>

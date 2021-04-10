@@ -84,7 +84,7 @@ mid.light.color=#f0f0f0
 progress.indicator.text.color=#444444
 text.color=#444444
 tooltip.text.color=#ffffff
-window.color=#f2f2f2
+window.color=#f9f9f9
 window.text.color=#444444
 
 [Hacks]
@@ -274,7 +274,7 @@ frame.right=2
 text.normal.color=#444444
 text.focus.color=#444444
 text.press.color=#444444
-text.toggle.color=#444444
+text.toggle.color=#1a73e8
 frame.expansion=0
 text.bold=false
 focusFrame=true
@@ -304,7 +304,7 @@ frame.right=1
 text.normal.color=#444444
 text.focus.color=#444444
 text.press.color=#444444
-text.toggle.color=white
+text.toggle.color=#444444
 frame.expansion=0
 
 [SizeGrip]

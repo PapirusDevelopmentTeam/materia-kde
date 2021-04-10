@@ -3,7 +3,7 @@ import QtGraphicalEffects 1.0
 
 Rectangle {
     id: root
-    color: "#f2f2f2"
+    color: "#f9f9f9"
 
      property int stage
 

@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="30" height="12" version="1.1">
- <rect style="fill:#2d2d2d" width="30" height="12" x="0" y="0"/>
+ <rect style="fill:#272727" width="30" height="12" x="0" y="0"/>
  <path style="fill:#dfdfdf" d="m 23,3 h 2 v 2 h 2 V 7 H 25 V 9 H 23 V 7 H 21 V 5 h 2 z"/>
-</svg>
+ </svg>
