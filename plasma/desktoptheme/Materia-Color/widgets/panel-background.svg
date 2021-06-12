@@ -82,7 +82,7 @@
  <rect id="shadow-hint-left-inset" style="fill:#00ff00" width="4" height="10" x="37" y="-146" transform="rotate(90)"/>
  <rect id="thick-hint-top-margin" style="fill:#ff00ff" width="4" height="8" x="29" y="21"/>
  <rect id="thick-hint-bottom-margin" style="fill:#ff00ff" width="4" height="8" x="29" y="77"/>
- <rect id="thick-right-margin" style="fill:#ff00ff" width="4" height="8" x="51" y="-64" transform="rotate(90)"/>
+ <rect id="thick-hint-right-margin" style="fill:#ff00ff" width="4" height="8" x="51" y="-64" transform="rotate(90)"/>
  <rect id="thick-hint-left-margin" style="fill:#ff00ff" width="4" height="8" x="51" y="-8" transform="rotate(90)"/>
  <rect id="thick-center" style="fill:#800080" width="2" height="2" x="5" y="0"/>
  <rect id="hint-top-margin" style="fill:#800080" width="4" height="4" x="29" y="21"/>
