@@ -1,5 +1,6 @@
 // Modified by Alexey Varfolomeev 2021 <varlesh@gmail.com>
 
+
 /********************************************************************
  This file is part of the KDE project.
 
@@ -37,7 +38,7 @@ Item {
         anchors.topMargin: 60
         anchors.rightMargin: 20
         id: widget
-        color: "#272727"
+        color: "#121212"
         radius: 6
         height: 80
         width: 300

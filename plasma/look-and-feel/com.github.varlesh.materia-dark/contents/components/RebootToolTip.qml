@@ -9,7 +9,7 @@ Rectangle {
 
     Text {
         id: text
-        color: "#dfdfdf"
+        color: "#ffffff"
         font.pixelSize: 14
         text: "Reboot"
         anchors.fill: parent
