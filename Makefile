@@ -36,6 +36,7 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Materia-Dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia-light
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))

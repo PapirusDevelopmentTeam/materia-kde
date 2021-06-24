@@ -74,6 +74,7 @@ _uninstall() {
     _rm "$PREFIX/share/wallpapers/Materia-Dark"
     _rm "$PREFIX/share/sddm/themes/materia"
     _rm "$PREFIX/share/sddm/themes/materia-dark"
+    _rm "$PREFIX/share/sddm/themes/materia-light"
 }
 
 _install() {
