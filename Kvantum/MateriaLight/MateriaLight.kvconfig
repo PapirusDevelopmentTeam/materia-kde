@@ -243,6 +243,21 @@ text.margin.left=6
 text.margin.right=6
 frame.expansion=0
 
+[ToolbarLineEdit]
+inherits=PanelButtonCommand
+frame.element=tlineedit
+interior.element=tlineedit
+interior=true
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
+text.margin.top=7
+text.margin.bottom=7
+text.margin.left=6
+text.margin.right=6
+frame.expansion=0
+
 [DropDownButton]
 inherits=PanelButtonCommand
 indicator.element=arrow-down
