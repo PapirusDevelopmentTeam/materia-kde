@@ -1,7 +1,7 @@
 import QtQuick 2.5
 import QtQuick.Controls 2.5 as QQC2
 import QtQuick.Layouts 1.1
-import org.kde.kirigami 2.12 as Kirigami
+import org.kde.kirigami 2.3 as Kirigami
 import org.kde.kcm 1.5 as KCM
 
 Kirigami.FormLayout {
