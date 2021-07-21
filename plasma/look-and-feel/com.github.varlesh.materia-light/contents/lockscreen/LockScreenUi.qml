@@ -25,8 +25,7 @@ import QtQuick.Layouts 1.1
 import QtGraphicalEffects 1.0
 
 import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.components 3.0 as PlasmaComponents3
-import org.kde.plasma.workspace.components 2.0 as PW
+import org.kde.plasma.components 2.0 as PlasmaComponents
 
 import org.kde.plasma.private.sessions 2.0
 import "../components"
@@ -37,30 +36,26 @@ PlasmaCore.ColorScope {
     // If we're using software rendering, draw outlines instead of shadows
     // See https://bugs.kde.org/show_bug.cgi?id=398317
     readonly property bool softwareRendering: GraphicsInfo.api === GraphicsInfo.Software
-    readonly property bool lightBackground: Math.max(
-                                                PlasmaCore.ColorScope.backgroundColor.r,
-                                                PlasmaCore.ColorScope.backgroundColor.g,
-                                                PlasmaCore.ColorScope.backgroundColor.b) > 0.5
+    readonly property bool lightBackground: Math.max(PlasmaCore.ColorScope.backgroundColor.r, PlasmaCore.ColorScope.backgroundColor.g, PlasmaCore.ColorScope.backgroundColor.b) > 0.5
 
     colorGroup: PlasmaCore.Theme.ComplementaryColorGroup
 
     Connections {
         target: authenticator
-        function onFailed() {
-            root.notification = i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                      "Unlocking failed")
+        onFailed: {
+            root.notification = i18nd("plasma_lookandfeel_org.kde.lookandfeel","Unlocking failed");
         }
-        function onGraceLockedChanged() {
+        onGraceLockedChanged: {
             if (!authenticator.graceLocked) {
-                root.notification = ""
-                root.clearPassword()
+                root.notification = "";
+                root.clearPassword();
             }
         }
-        function onMessage(msg) {
-            root.notification = msg
+        onMessage: {
+            root.notification = msg;
         }
-        function onError(err) {
-            root.notification = err
+        onError: {
+            root.notification = err;
         }
     }
 
@@ -70,8 +65,8 @@ PlasmaCore.ColorScope {
 
     Connections {
         target: sessionManagement
-        function onAboutToSuspend() {
-            root.clearPassword()
+        onAboutToSuspend: {
+            mainBlock.mainPasswordBox.text = "";
         }
     }
 
@@ -86,25 +81,6 @@ PlasmaCore.ColorScope {
         connectedSources: "Caps Lock"
     }
 
-    PlasmaCore.DataSource {
-        id: executable
-        engine: "executable"
-        connectedSources: []
-        onNewData: disconnectSource(sourceName)
-
-        function exec(cmd) {
-            executable.connectSource(cmd)
-        }
-    }
-
-    function action_reBoot() {
-        executable.exec('qdbus org.kde.ksmserver /KSMServer logout 0 1 2')
-    }
-
-    function action_shutDown() {
-        executable.exec('qdbus org.kde.ksmserver /KSMServer logout 0 2 2')
-    }
-
     Loader {
         id: changeSessionComponent
         active: false
@@ -112,13 +88,30 @@ PlasmaCore.ColorScope {
         visible: false
     }
 
+    PlasmaCore.DataSource {
+        id: executable
+        engine: "executable"
+        connectedSources: []
+        onNewData: disconnectSource(sourceName)
+
+    function exec(cmd) {
+            executable.connectSource(cmd)
+        }
+    }
+    
+    function action_reBoot() {
+        executable.exec('qdbus org.kde.ksmserver /KSMServer logout 0 1 2')
+    }
+
+    function action_shutDown() {
+        executable.exec('qdbus org.kde.ksmserver /KSMServer logout 0 2 2')
+    }
+    
     MouseArea {
         id: lockScreenRoot
 
         property bool uiVisible: false
-        property bool blockUI: mainStack.depth > 1
-                               || mainBlock.mainPasswordBox.text.length > 0
-                               || inputPanel.keyboardActive
+        property bool blockUI: mainStack.depth > 1 || mainBlock.mainPasswordBox.text.length > 0
 
         x: parent.x
         y: parent.y
@@ -145,9 +138,6 @@ PlasmaCore.ColorScope {
         }
         Keys.onEscapePressed: {
             uiVisible = !uiVisible
-            if (inputPanel.keyboardActive) {
-                inputPanel.showHide()
-            }
             if (!uiVisible) {
                 root.clearPassword()
             }
@@ -166,47 +156,27 @@ PlasmaCore.ColorScope {
             }
         }
 
-        Component.onCompleted: PropertyAnimation {
-            id: launchAnimation
-            target: lockScreenRoot
-            property: "opacity"
-            from: 0
-            to: 1
-            duration: PlasmaCore.Units.veryLongDuration * 2
-        }
+        Component.onCompleted: PropertyAnimation { id: launchAnimation; target: lockScreenRoot; property: "opacity"; from: 0; to: 1; duration: 1000 }
 
         states: [
             State {
                 name: "onOtherSession"
                 // for slide out animation
-                PropertyChanges {
-                    target: lockScreenRoot
-                    y: lockScreenRoot.height
-                }
+                PropertyChanges { target: lockScreenRoot; y: lockScreenRoot.height }
                 // we also change the opacity just to be sure it's not visible even on unexpected screen dimension changes with possible race conditions
-                PropertyChanges {
-                    target: lockScreenRoot
-                    opacity: 0
-                }
+                PropertyChanges { target: lockScreenRoot; opacity: 0 }
             }
         ]
 
-        transitions: Transition {
+        transitions:
+            Transition {
             // we only animate switchting to another session, because kscreenlocker doesn't get notified when
             // coming from another session back and so we wouldn't know when to trigger the animation exactly
             from: ""
             to: "onOtherSession"
 
-            PropertyAnimation {
-                id: stateChangeAnimation
-                properties: "y"
-                duration: PlasmaCore.Units.longDuration
-                easing.type: Easing.InQuad
-            }
-            PropertyAnimation {
-                properties: "opacity"
-                duration: PlasmaCore.Units.longDuration
-            }
+            PropertyAnimation { id: stateChangeAnimation; properties: "y"; duration: 300; easing.type: Easing.InQuad}
+            PropertyAnimation { properties: "opacity"; duration: 300}
 
             onRunningChanged: {
                 // after the animation has finished switch session: since we only animate the transition TO state "onOtherSession"
@@ -222,7 +192,6 @@ PlasmaCore.ColorScope {
             state: lockScreenRoot.uiVisible ? "on" : "off"
             source: wallpaper
             mainStack: mainStack
-            footer: footer
             clock: clock
         }
 
@@ -240,7 +209,7 @@ PlasmaCore.ColorScope {
             color: "#000000"
             Behavior on opacity {
                 OpacityAnimator {
-                    duration: PlasmaCore.Units.veryLongDuration * 2
+                    duration: units.veryLongDuration * 2
                     easing.type: Easing.InOutQuad
                 }
             }
@@ -251,6 +220,7 @@ PlasmaCore.ColorScope {
             property Item shadow: clockShadow
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
+            anchors.verticalCenterOffset: -20
             y: (mainBlock.userList.y + mainStack.y) / 2 - height / 2
             visible: y > 0
             Layout.alignment: Qt.AlignBaseline
@@ -260,14 +230,13 @@ PlasmaCore.ColorScope {
             id: users
 
             Component.onCompleted: {
-                users.append({
-                                 "name": kscreenlocker_userName,
-                                 "realName": kscreenlocker_userName,
-                                 "icon": kscreenlocker_userImage
-                             })
+                users.append({name: kscreenlocker_userName,
+                                realName: kscreenlocker_userName,
+                                icon: kscreenlocker_userImage,
+
+                })
             }
         }
-    }
 
     StackView {
         id: mainStack
@@ -275,12 +244,9 @@ PlasmaCore.ColorScope {
             left: parent.left
             right: parent.right
         }
-        height: lockScreenRoot.height + PlasmaCore.Units.gridUnit * 3
+        height: lockScreenRoot.height + units.gridUnit * 3
         focus: true //StackView is an implicit focus scope, so we need to give this focus so the item inside will have it
-
-        // this isn't implicit, otherwise items still get processed for the scenegraph
-        visible: opacity > 0
-
+        
         Rectangle {
             id: dialog
             color: "#f0f0f0"
@@ -318,8 +284,7 @@ PlasmaCore.ColorScope {
             notificationMessage: {
                 var text = ""
                 if (keystateSource.data["Caps Lock"]["Locked"]) {
-                    text += i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                  "Caps Lock is on")
+                    text += i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Caps Lock is on")
                     if (root.notification) {
                         text += " • "
                     }
@@ -332,11 +297,12 @@ PlasmaCore.ColorScope {
                 root.notification = ""
                 authenticator.tryUnlock(password)
             }
-        }
-
-        Loader {
+    }
+    
+    Loader {
             id: mediaControlsComponent
             anchors.right: parent.right
+            anchors.left: parent.left
             anchors.top: parent.top
             active: config.showMediaControls
             source: "MediaControls.qml"
@@ -352,25 +318,26 @@ PlasmaCore.ColorScope {
         }
 
         Component.onCompleted: {
-            if (defaultToSwitchUser) {
-                //context property
-                // If we are in the only session, then going to the session switcher is
-                // a pointless extra step; instead create a new session immediately
-                if (((sessionsModel.showNewSessionEntry
-                      && sessionsModel.count === 1)
-                     || (!sessionsModel.showNewSessionEntry
-                         && sessionsModel.count === 0))
-                        && sessionsModel.canStartNewSession) {
-                    sessionsModel.startNewSession(true /* lock the screen too */
-                                                  )
-                } else {
-                    mainStack.push({
-                                       "item": switchSessionPage,
-                                       "immediate": true
-                                   })
+                if (defaultToSwitchUser) { //context property
+                    // If we are in the only session, then going to the session switcher is
+                    // a pointless extra step; instead create a new session immediately
+                    if (((sessionsModel.showNewSessionEntry && sessionsModel.count === 1)  ||
+                       (!sessionsModel.showNewSessionEntry && sessionsModel.count === 0)) &&
+                       sessionsModel.canStartNewSession) {
+                        sessionsModel.startNewSession(true /* lock the screen too */)
+                    } else {
+                        mainStack.push({
+                            item: switchSessionPage,
+                            immediate: true});
+                    }
                 }
             }
-        }
+    }
+        
+        Loader {
+        id: inputPanel
+        property bool keyboardActive: false
+        source: "../components/VirtualKeyboard.qml"
     }
 
     Component {
@@ -393,12 +360,10 @@ PlasmaCore.ColorScope {
 
             // initiating session switch and preparing lockscreen for possible return of user
             function finalSwitchSession() {
-                mainStack.pop({
-                                  "immediate": true
-                              })
-                sessionsModel.switchUser(userListCurrentModelData.vtNumber)
-                lockScreenRoot.state = ''
-            }
+                    mainStack.pop({immediate:true})
+                    sessionsModel.switchUser(userListCurrentModelData.vtNumber)
+                    lockScreenRoot.state = ''
+                }
 
             Keys.onLeftPressed: userList.decrementCurrentIndex()
             Keys.onRightPressed: userList.incrementCurrentIndex()
@@ -408,46 +373,40 @@ PlasmaCore.ColorScope {
 
             ColumnLayout {
                 Layout.fillWidth: true
-                spacing: PlasmaCore.Units.largeSpacing
+                spacing: units.largeSpacing
 
-                PlasmaComponents3.Button {
+                PlasmaComponents.Button {
                     Layout.fillWidth: true
-                    font.pointSize: PlasmaCore.Theme.defaultFont.pointSize + 1
-                    text: i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                "Switch to This Session")
+                    font.pointSize: theme.defaultFont.pointSize + 1
+                    text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Switch to This Session")
                     onClicked: initSwitchSession()
                     visible: sessionsModel.count > 0
                 }
 
-                PlasmaComponents3.Button {
-                    Layout.fillWidth: true
-                    font.pointSize: PlasmaCore.Theme.defaultFont.pointSize + 1
-                    text: i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                "Start New Session")
-                    onClicked: {
-                        mainStack.pop({
-                                          "immediate": true
-                                      })
-                        sessionsModel.startNewSession(
-                                    true /* lock the screen too */
-                                    )
-                        lockScreenRoot.state = ''
+                PlasmaComponents.Button {
+                        Layout.fillWidth: true
+                        font.pointSize: theme.defaultFont.pointSize + 1
+                        text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Start New Session")
+                        onClicked: {
+                            mainStack.pop({immediate:true})
+                            sessionsModel.startNewSession(true /* lock the screen too */)
+                            lockScreenRoot.state = ''
+                        }
                     }
-                }
             }
 
             actionItems: [
-                ActionButton {
-                    iconSource: "go-previous"
-                    text: i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                "Back")
-                    onClicked: mainStack.pop()
-                    //Button gets cut off on smaller displays without this.
-                    anchors {
-                        verticalCenter: parent.top
+                    ActionButton {
+                        iconSource: "go-previous"
+                        text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Back")
+                        onClicked: mainStack.pop()
+                        //Button gets cut off on smaller displays without this.
+                        anchors{
+                            verticalCenter: parent.top
+                        }
                     }
-                }
-            ]
+                ]
+            }
         }
     }
 

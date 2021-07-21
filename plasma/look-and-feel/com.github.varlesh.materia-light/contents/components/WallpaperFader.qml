@@ -1,5 +1,3 @@
-
-
 /********************************************************************
  This file is part of the KDE project.
 
@@ -18,12 +16,14 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************/
+
 import QtQuick 2.6
 import QtQuick.Controls 1.1
 import QtQuick.Layouts 1.1
 import QtGraphicalEffects 1.0
 
 import org.kde.plasma.core 2.0 as PlasmaCore
+import org.kde.plasma.components 2.0 as PlasmaComponents
 
 import org.kde.plasma.private.sessions 2.0
 import "../components"
@@ -36,20 +36,15 @@ Item {
     property alias source: wallpaperBlur.source
     state: lockScreenRoot.uiVisible ? "on" : "off"
     property real factor: 0
-    readonly property bool lightBackground: Math.max(
-                                                PlasmaCore.ColorScope.backgroundColor.r,
-                                                PlasmaCore.ColorScope.backgroundColor.g,
-                                                PlasmaCore.ColorScope.backgroundColor.b) > 0.5
+    readonly property bool lightBackground: Math.max(PlasmaCore.ColorScope.backgroundColor.r, PlasmaCore.ColorScope.backgroundColor.g, PlasmaCore.ColorScope.backgroundColor.b) > 0.5
 
-    property bool alwaysShowClock: typeof config === "undefined"
-                                   || typeof config.alwaysShowClock === "undefined"
-                                   || config.alwaysShowClock === true
+    property bool alwaysShowClock: typeof config === "undefined" || config.alwaysShowClock === true
 
     Behavior on factor {
         NumberAnimation {
             target: wallpaperFader
             property: "factor"
-            duration: PlasmaCore.Units.veryLongDuration * 2
+            duration: 1000
             easing.type: Easing.InOutQuad
         }
     }
@@ -64,10 +59,6 @@ Item {
             name: "on"
             PropertyChanges {
                 target: mainStack
-                opacity: 1
-            }
-            PropertyChanges {
-                target: footer
                 opacity: 1
             }
             PropertyChanges {
@@ -90,10 +81,6 @@ Item {
                 opacity: 0
             }
             PropertyChanges {
-                target: footer
-                opacity: 0
-            }
-            PropertyChanges {
                 target: wallpaperFader
                 factor: 0
             }
@@ -113,9 +100,9 @@ Item {
             to: "on"
             //Note: can't use animators as they don't play well with parallelanimations
             NumberAnimation {
-                targets: [mainStack, dialog, footer, clock]
+                targets: [mainStack, clock]
                 property: "opacity"
-                duration: PlasmaCore.Units.veryLongDuration
+                duration: units.longDuration
                 easing.type: Easing.InOutQuad
             }
         },
@@ -123,9 +110,9 @@ Item {
             from: "on"
             to: "off"
             NumberAnimation {
-                targets: [mainStack, dialog, footer, clock]
+                targets: [mainStack, clock]
                 property: "opacity"
-                duration: PlasmaCore.Units.veryLongDuration
+                duration: 500
                 easing.type: Easing.InOutQuad
             }
         }

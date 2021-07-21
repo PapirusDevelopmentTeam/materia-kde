@@ -24,15 +24,14 @@ import QtQuick.Layouts 1.1
 import QtGraphicalEffects 1.0
 
 import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.components 3.0 as PlasmaComponents3
+import org.kde.plasma.components 2.0 as PlasmaComponents
 import org.kde.plasma.extras 2.0 as PlasmaExtras
 
 Item {
     visible: mpris2Source.hasPlayer
-    implicitHeight: PlasmaCore.Units.gridUnit * 3
-    implicitWidth: PlasmaCore.Units.gridUnit * 17
+    implicitHeight: controlsRow.height + controlsRow.y
 
-    Rectangle {
+        Rectangle {
         anchors.right: parent.right
         anchors.top: parent.top
         anchors.topMargin: 60
@@ -59,8 +58,7 @@ Item {
         anchors.right: parent.right
         anchors.top: parent.top
         anchors.topMargin: 80
-        anchors.rightMargin: 26
-        anchors.fill: parent
+        anchors.rightMargin: 30
         spacing: 0
 
         enabled: mpris2Source.canControl
@@ -73,12 +71,9 @@ Item {
 
             readonly property bool hasPlayer: sources.length > 1 && !!playerData
             readonly property string identity: hasPlayer ? playerData.Identity : ""
-            readonly property bool playing: hasPlayer
-                                            && playerData.PlaybackStatus === "Playing"
-            readonly property bool canControl: hasPlayer
-                                               && playerData.CanControl
-            readonly property bool canGoBack: hasPlayer
-                                              && playerData.CanGoPrevious
+            readonly property bool playing: hasPlayer && playerData.PlaybackStatus === "Playing"
+            readonly property bool canControl: hasPlayer && playerData.CanControl
+            readonly property bool canGoBack: hasPlayer && playerData.CanGoPrevious
             readonly property bool canGoNext: hasPlayer && playerData.CanGoNext
 
             readonly property var currentMetadata: hasPlayer ? playerData.Metadata : ({})
@@ -125,7 +120,7 @@ Item {
                 startOperation("PlayPause")
             }
         }
-
+        
         Image {
             id: albumArt
             Layout.preferredWidth: height
@@ -139,24 +134,25 @@ Item {
 
         Item {
             // spacer
-            width: PlasmaCore.Units.smallSpacing
+            width: units.smallSpacing
             height: 1
         }
 
         ColumnLayout {
-            Layout.fillWidth: true
+            Layout.maximumWidth: 150
+            Layout.minimumWidth: 150
             spacing: 0
 
-            PlasmaComponents3.Label {
+            PlasmaComponents.Label {
+                id: trackinfo
                 Layout.fillWidth: true
                 wrapMode: Text.NoWrap
                 elide: Text.ElideRight
-                text: mpris2Source.track || i18nd(
-                          "plasma_lookandfeel_org.kde.lookandfeel",
-                          "No media playing")
+                text: mpris2Source.track || i18nd("plasma_lookandfeel_org.kde.lookandfeel", "No media playing")
                 textFormat: Text.PlainText
-                font.pointSize: PlasmaCore.Theme.defaultFont.pointSize + 1
+                font.pointSize: theme.defaultFont.pointSize + 1
                 maximumLineCount: 1
+                color: "#dfdfdf"
             }
 
             PlasmaExtras.DescriptiveLabel {
@@ -166,52 +162,32 @@ Item {
                 // if no artist is given, show player name instead
                 text: mpris2Source.artist || mpris2Source.identity || ""
                 textFormat: Text.PlainText
-                font.pointSize: PlasmaCore.Theme.smallestFont.pointSize + 1
+                font.pointSize: theme.smallestFont.pointSize + 1
                 maximumLineCount: 1
+                color: "#dfdfdf"
             }
         }
 
-        PlasmaComponents3.ToolButton {
-            focusPolicy: Qt.TabFocus
+        PlasmaComponents.Button {
             enabled: mpris2Source.canGoBack
-            Layout.preferredHeight: PlasmaCore.Units.gridUnit * 2
-            Layout.preferredWidth: Layout.preferredHeight
-            icon.name: LayoutMirroring.enabled ? "media-skip-forward" : "media-skip-backward"
-            onClicked: {
-                fadeoutTimer.running = false
-                mpris2Source.goPrevious()
-            }
-            visible: mpris2Source.canGoBack || mpris2Source.canGoNext
-            Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                   "Previous track")
+            iconName: "media-skip-backward"
+            onClicked: mpris2Source.goPrevious()
+            visible: mpris2Source.canGoBack
+            Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Previous track")
         }
 
-        PlasmaComponents3.ToolButton {
-            focusPolicy: Qt.TabFocus
-            Layout.fillHeight: true
-            Layout.preferredWidth: height // make this button bigger
-            icon.name: mpris2Source.playing ? "media-playback-pause" : "media-playback-start"
-            onClicked: {
-                fadeoutTimer.running = false
-                mpris2Source.playPause()
-            }
-            Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                   "Play or Pause media")
+        PlasmaComponents.Button {
+            iconName: mpris2Source.playing ? "media-playback-pause" : "media-playback-start"
+            onClicked: mpris2Source.playPause()
+            Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Play or Pause media")
         }
 
-        PlasmaComponents3.ToolButton {
-            focusPolicy: Qt.TabFocus
+        PlasmaComponents.Button {
             enabled: mpris2Source.canGoNext
-            Layout.preferredHeight: PlasmaCore.Units.gridUnit * 2
-            Layout.preferredWidth: Layout.preferredHeight
-            icon.name: LayoutMirroring.enabled ? "media-skip-backward" : "media-skip-forward"
-            onClicked: {
-                fadeoutTimer.running = false
-                mpris2Source.goNext()
-            }
-            visible: mpris2Source.canGoBack || mpris2Source.canGoNext
-            Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel",
-                                   "Next track")
+            iconName: "media-skip-forward"
+            onClicked: mpris2Source.goNext()
+            visible: mpris2Source.canGoNext
+            Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Next track")
         }
     }
 }

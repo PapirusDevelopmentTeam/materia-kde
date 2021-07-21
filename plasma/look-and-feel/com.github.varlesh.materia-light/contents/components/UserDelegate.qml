@@ -17,10 +17,10 @@
  *   Free Software Foundation, Inc.,
  *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
+
 import QtQuick 2.8
-import QtQuick.Window 2.15
 import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.components 3.0 as PlasmaComponents3
+import org.kde.plasma.components 2.0 as PlasmaComponents
 
 Item {
     id: wrapper
@@ -38,16 +38,15 @@ Item {
     property string iconSource
     property bool constrainText: true
     property alias nameFontSize: usernameDelegate.font.pointSize
-    property int fontSize: PlasmaCore.Theme.defaultFont.pointSize + 2
-    signal clicked
+    signal clicked()
 
-    property real faceSize: PlasmaCore.Units.gridUnit * 7
+    property real faceSize: units.gridUnit * 7
 
     opacity: isCurrent ? 1.0 : 0.5
 
     Behavior on opacity {
         OpacityAnimator {
-            duration: PlasmaCore.Units.longDuration
+            duration: units.longDuration
         }
     }
 
@@ -66,24 +65,23 @@ Item {
         id: imageSource
         anchors {
             bottom: usernameDelegate.top
-            bottomMargin: PlasmaCore.Units.largeSpacing
+            bottomMargin: units.largeSpacing
             horizontalCenter: parent.horizontalCenter
         }
-        Behavior on width {
+        Behavior on width { 
             PropertyAnimation {
                 from: faceSize
-                duration: PlasmaCore.Units.longDuration
+                duration: units.longDuration * 2;
             }
         }
-        width: isCurrent ? faceSize : faceSize - PlasmaCore.Units.largeSpacing
+        width: isCurrent ? faceSize : faceSize - units.largeSpacing
         height: width
 
         //Image takes priority, taking a full path to a file, if that doesn't exist we show an icon
         Image {
             id: face
             source: wrapper.avatarPath
-            sourceSize: Qt.size(faceSize * Screen.devicePixelRatio,
-                                faceSize * Screen.devicePixelRatio)
+            sourceSize: Qt.size(faceSize, faceSize)
             fillMode: Image.PreserveAspectCrop
             anchors.fill: parent
         }
@@ -93,18 +91,18 @@ Item {
             source: iconSource
             visible: (face.status == Image.Error || face.status == Image.Null)
             anchors.fill: parent
-            anchors.margins: PlasmaCore.Units.gridUnit * 0.5 // because mockup says so...
+            anchors.margins: units.gridUnit * 0.5 // because mockup says so...
             colorGroup: PlasmaCore.ColorScope.colorGroup
         }
     }
 
-    PlasmaComponents3.Label {
+    PlasmaComponents.Label {
         id: usernameDelegate
-        font.pointSize: wrapper.fontSize
         anchors {
             bottom: parent.bottom
             horizontalCenter: parent.horizontalCenter
         }
+        height: implicitHeight // work around stupid bug in Plasma Components that sets the height
         width: constrainText ? parent.width : implicitWidth
         text: wrapper.name
         style: softwareRendering ? Text.Outline : Text.Normal
@@ -119,12 +117,10 @@ Item {
         anchors.fill: parent
         hoverEnabled: true
 
-        onClicked: wrapper.clicked()
+        onClicked: wrapper.clicked();
     }
 
     Accessible.name: name
     Accessible.role: Accessible.Button
-    function accessiblePressAction() {
-        wrapper.clicked()
-    }
+    function accessiblePressAction() { wrapper.clicked() }
 }

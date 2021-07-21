@@ -1,7 +1,3 @@
-
-// Modified by Alexey Varfolomeev 2021 <varlesh@gmail.com>
-
-
 /*
  *   Copyright 2016 David Edmundson <davidedmundson@kde.org>
  *
@@ -20,6 +16,7 @@
  *   Free Software Foundation, Inc.,
  *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
+
 import QtQuick 2.8
 import QtQuick.Layouts 1.1
 import QtQuick.Controls 2.5
@@ -33,17 +30,16 @@ ColumnLayout {
         color: "#ffffff"
         style: softwareRendering ? Text.Outline : Text.Normal
         styleColor: softwareRendering ? ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
-        font.pointSize: 42
-        Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
+        font.pointSize: 44
+        Layout.alignment: Qt.AlignHCenter
     }
     Label {
-        text: Qt.formatDate(timeSource.data["Local"]["DateTime"],
-                            Qt.DefaultLocaleLongDate)
+        text: Qt.formatDate(timeSource.data["Local"]["DateTime"], Qt.DefaultLocaleLongDate)
         color: "#ffffff"
         style: softwareRendering ? Text.Outline : Text.Normal
         styleColor: softwareRendering ? ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
-        font.pointSize: 18
-        Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
+        font.pointSize: 20
+        Layout.alignment: Qt.AlignHCenter
     }
     DataSource {
         id: timeSource
