@@ -19,6 +19,7 @@
  */
 
 import QtQuick 2.8
+import QtGraphicalEffects 1.0
 import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.components 2.0 as PlasmaComponents
 
@@ -27,7 +28,6 @@ Item {
 
     // If we're using software rendering, draw outlines instead of shadows
     // See https://bugs.kde.org/show_bug.cgi?id=398317
-    readonly property bool softwareRendering: GraphicsInfo.api === GraphicsInfo.Software
 
     property bool isCurrent: true
 
@@ -48,17 +48,6 @@ Item {
         OpacityAnimator {
             duration: units.longDuration
         }
-    }
-
-    // Draw a translucent background circle under the user picture
-    Rectangle {
-        anchors.centerIn: imageSource
-        width: imageSource.width - 2 // Subtract to prevent fringing
-        height: width
-        radius: width / 2
-
-        color: PlasmaCore.ColorScope.backgroundColor
-        opacity: 0.6
     }
 
     Item {
@@ -84,6 +73,21 @@ Item {
             sourceSize: Qt.size(faceSize, faceSize)
             fillMode: Image.PreserveAspectCrop
             anchors.fill: parent
+            property bool rounded: true
+            property bool adapt: true
+            layer.enabled: rounded
+            layer.effect: OpacityMask {
+                maskSource: Item {
+                    width: face.width
+                    height: face.height
+                    Rectangle {
+                        anchors.centerIn: parent
+                        width: face.adapt ? face.width : Math.min(face.width, face.height)
+                        height: face.adapt ? face.height : width
+                        radius: Math.min(width, height)   
+                    }
+                } 
+            }  
         }
 
         PlasmaCore.IconItem {
@@ -105,8 +109,6 @@ Item {
         height: implicitHeight // work around stupid bug in Plasma Components that sets the height
         width: constrainText ? parent.width : implicitWidth
         text: wrapper.name
-        style: softwareRendering ? Text.Outline : Text.Normal
-        styleColor: softwareRendering ? PlasmaCore.ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
         elide: Text.ElideRight
         horizontalAlignment: Text.AlignHCenter
         //make an indication that this has active focus, this only happens when reached with keyboard navigation
