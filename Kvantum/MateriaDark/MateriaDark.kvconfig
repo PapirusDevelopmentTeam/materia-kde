@@ -1,6 +1,6 @@
 [%General]
 author=Alexey Varfolomeev, based on KvAdaptaDark by Tsu Jan
-comment=The dark varianl of Materia
+comment=A dark variant of the Materia GTK theme
 alt_mnemonic=true
 animate_states=true
 attach_active_tab=false
