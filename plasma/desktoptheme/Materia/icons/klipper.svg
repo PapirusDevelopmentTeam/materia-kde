@@ -2,7 +2,7 @@
  <g id="22-22-klipper" transform="translate(32,10)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
   <path style="fill:#dfdfdf" d="M 5,8 C 3.892,8 3,8.892 3,10 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 10 C 13,8.892 12.108,8 11,8 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 6 v 1 H 5 Z m 0,2 h 4 v 1 H 5 Z"/>
-  <path style="opacity:0.3;fill:#dfdfdf" d="M 11,3 C 9.892,3 9,3.892 9,5 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 5 C 19,3.892 18.108,3 17,3 Z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 4 v 1 h -4 z"/>
+  <path style="opacity:0.35;fill:#dfdfdf" d="M 11,3 C 9.892,3 9,3.892 9,5 v 7 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 5 C 19,3.892 18.108,3 17,3 Z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 6 v 1 h -6 z m 0,2 h 4 v 1 h -4 z"/>
  </g>
  <g id="klipper">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>

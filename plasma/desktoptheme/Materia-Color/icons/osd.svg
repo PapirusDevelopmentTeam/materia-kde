@@ -7,7 +7,7 @@
  <g id="osd-shutd-screen" transform="translate(128)">
   <rect  style="opacity:0.001" width="64" height="64" x="0" y="0"/>
   <g  transform="translate(13,-28)">
-   <path  style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" transform="translate(-141,28)" d="M 147 4 C 145.892 4 145 4.892 145 6 L 145 30 C 145 31.108 145.892 32 147 32 L 171.35547 32 A 10 10 0 0 1 170.21289 29 L 148 29 L 148 7 L 182 7 L 182 17.203125 A 10 10 0 0 1 185 18.349609 L 185 6 C 185 4.892 184.108 4 183 4 L 147 4 z"/>
+   <path  style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" transform="translate(-141,28)" d="M 147 4 C 145.892 4 145 4.892 145 6 L 145 30 C 145 31.108 145.892 32 147 32 L 171.35547 32 A 10 10 0 0 1 170.21289 29 L 148 29 L 148 7 L 182 7 L 182 17.203125 A 10 10 0 0 1 185 18.349609 L 185 6 C 185 4.892 184.108 4 183 4 L 147 4 z"/>
   </g>
   <g  transform="translate(20,-5)">
    <path  style="fill:currentColor" class="ColorScheme-NegativeText" transform="translate(-148,5)" d="M 180 19 A 8 8 0 0 0 172 27 A 8 8 0 0 0 180 35 A 8 8 0 0 0 188 27 A 8 8 0 0 0 180 19 z M 182.99023 22.986328 A 1.0001 1.0001 0 0 1 183.70703 24.707031 L 181.41406 27 L 183.70703 29.292969 A 1.0001 1.0001 0 1 1 182.29297 30.707031 L 180 28.414062 L 177.70703 30.707031 A 1.0001 1.0001 0 1 1 176.29297 29.292969 L 178.58594 27 L 176.29297 24.707031 A 1.0001 1.0001 0 0 1 176.99023 22.990234 A 1.0001 1.0001 0 0 1 177.70703 23.292969 L 180 25.585938 L 182.29297 23.292969 A 1.0001 1.0001 0 0 1 182.99023 22.986328 z"/>
@@ -22,7 +22,7 @@
  <g id="osd-shutd-laptop" transform="translate(64)">
   <rect  style="opacity:0.001" width="64" height="64" x="0" y="0"/>
   <g  transform="translate(13,-28)">
-   <path  style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" transform="translate(-77,28)" d="M 83 4 C 81.892 4 81 4.892 81 6 L 81 30 C 81 31.108 81.892 32 83 32 L 107.35547 32 A 10 10 0 0 1 106.21289 29 L 84 29 L 84 7 L 118 7 L 118 17.203125 A 10 10 0 0 1 121 18.349609 L 121 6 C 121 4.892 120.108 4 119 4 L 83 4 z"/>
+   <path  style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" transform="translate(-77,28)" d="M 83 4 C 81.892 4 81 4.892 81 6 L 81 30 C 81 31.108 81.892 32 83 32 L 107.35547 32 A 10 10 0 0 1 106.21289 29 L 84 29 L 84 7 L 118 7 L 118 17.203125 A 10 10 0 0 1 121 18.349609 L 121 6 C 121 4.892 120.108 4 119 4 L 83 4 z"/>
   </g>
   <g  transform="translate(0,-3)">
    <path  style="fill:currentColor" class="ColorScheme-Text" transform="translate(-64,3)" d="M 70 29 C 68.892 29 68 29.892 68 31 L 68 55 C 68 56.108 68.892 57 70 57 L 94.355469 57 A 10 10 0 0 1 93.212891 54 L 71 54 L 71 32 L 105 32 L 105 42.203125 A 10 10 0 0 1 108 43.349609 L 108 31 C 108 29.892 107.108 29 106 29 L 70 29 z"/>
@@ -41,7 +41,7 @@
  <g id="osd-duplicate">
   <rect  style="opacity:0.001" width="64" height="64" x="0" y="0"/>
   <g  transform="translate(13,-28)">
-   <path  style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" transform="translate(-13,28)" d="M 19 4 C 17.892 4 17 4.892 17 6 L 17 30 C 17 31.108 17.892 32 19 32 L 43.355469 32 A 10 10 0 0 1 42.212891 29 L 20 29 L 20 7 L 54 7 L 54 17.203125 A 10 10 0 0 1 57 18.349609 L 57 6 C 57 4.892 56.108 4 55 4 L 19 4 z"/>
+   <path  style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" transform="translate(-13,28)" d="M 19 4 C 17.892 4 17 4.892 17 6 L 17 30 C 17 31.108 17.892 32 19 32 L 43.355469 32 A 10 10 0 0 1 42.212891 29 L 20 29 L 20 7 L 54 7 L 54 17.203125 A 10 10 0 0 1 57 18.349609 L 57 6 C 57 4.892 56.108 4 55 4 L 19 4 z"/>
   </g>
   <g  transform="translate(0,-3)">
    <path  style="fill:currentColor" class="ColorScheme-Text" transform="translate(0,3)" d="M 6 29 C 4.892 29 4 29.892 4 31 L 4 55 C 4 56.108 4.892 57 6 57 L 30.355469 57 A 10 10 0 0 1 29.212891 54 L 7 54 L 7 32 L 41 32 L 41 42.203125 A 10 10 0 0 1 44 43.349609 L 44 31 C 44 29.892 43.108 29 42 29 L 6 29 z"/>
@@ -64,13 +64,13 @@
  <g id="osd-sbs-left" transform="translate(192)">
   <rect  style="opacity:0.001" width="64" height="64" x="-64" y="0" transform="scale(-1,1)"/>
   <path  style="fill:currentColor" class="ColorScheme-Text" transform="translate(-192)" d="M 229 12 L 229 16 L 248 16 L 248 47 L 229 47 L 229 51 L 249.19922 51 C 250.75042 51 252 49.758129 252 48.214844 L 252 14.785156 C 252 13.241871 250.75042 12 249.19922 12 L 229 12 z"/>
-  <path  style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" transform="translate(-192)" d="M 198.80078 12 C 197.24958 12 196 13.241871 196 14.785156 L 196 48.214844 C 196 49.758129 197.24958 51 198.80078 51 L 219 51 L 219 47 L 200 47 L 200 16 L 219 16 L 219 12 L 198.80078 12 z"/>
+  <path  style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" transform="translate(-192)" d="M 198.80078 12 C 197.24958 12 196 13.241871 196 14.785156 L 196 48.214844 C 196 49.758129 197.24958 51 198.80078 51 L 219 51 L 219 47 L 200 47 L 200 16 L 219 16 L 219 12 L 198.80078 12 z"/>
   <rect  style="fill:currentColor" class="ColorScheme-NeutralText" width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)"/>
  </g>
  <g id="osd-sbs-sright" transform="matrix(-1,0,0,1,320,0)">
   <rect  style="opacity:0.001" width="64" height="64" x="-64" y="0" transform="scale(-1,1)"/>
   <path  style="fill:currentColor" class="ColorScheme-Text" transform="matrix(-1,0,0,1,320,0)" d="M 262.80078 12 C 261.24958 12 260 13.241871 260 14.785156 L 260 48.214844 C 260 49.758129 261.24958 51 262.80078 51 L 283 51 L 283 47 L 264 47 L 264 16 L 283 16 L 283 12 L 262.80078 12 z"/>
-  <path  style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" transform="matrix(-1,0,0,1,320,0)" d="M 293 12 L 293 16 L 312 16 L 312 47 L 293 47 L 293 51 L 313.19922 51 C 314.75042 51 316 49.758129 316 48.214844 L 316 14.785156 C 316 13.241871 314.75042 12 313.19922 12 L 293 12 z"/>
+  <path  style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" transform="matrix(-1,0,0,1,320,0)" d="M 293 12 L 293 16 L 312 16 L 312 47 L 293 47 L 293 51 L 313.19922 51 C 314.75042 51 316 49.758129 316 48.214844 L 316 14.785156 C 316 13.241871 314.75042 12 313.19922 12 L 293 12 z"/>
   <rect  style="fill:currentColor" class="ColorScheme-NeutralText" width="6" height="49" x="-35" y="7" rx="3" ry="3" transform="scale(-1,1)"/>
  </g>
  <g id="osd-rotate-flip" transform="translate(448)">
