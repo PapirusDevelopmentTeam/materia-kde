@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="85" version="1">
+ <path id="shadow-topleft" style="opacity:0.001" d="m 136.00002,17.998995 h 10 v -2 c 0,-2.77 2.23,-5 5,-5 h 2 V 0.99899464 h -17 z"/>
+ <g id="shadow-left" transform="matrix(-1,0,0,1,434.00002,-239.00101)">
+  <rect style="opacity:0.001" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
+  <rect style="opacity:0;fill:#000000" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+ </g>
+ <rect id="center" style="fill:#616161;opacity:0.9" width="50" height="50" x="7" y="28"/>
+ <g id="topleft" transform="translate(-183,-231.00083)">
+  <path style="fill:#616161;opacity:0.9" d="m 190.00001,251.99982 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+ </g>
+ <g id="left" transform="translate(-183,-231.00083)">
+  <path style="fill:#616161;opacity:0.9" d="m 183.00002,258.99981 v 50 l 7,10e-6 v -50 z"/>
+ </g>
+ <g id="right" transform="translate(-183,-231.00084)">
+  <path style="fill:#616161;opacity:0.9" d="m 247,258.99982 v 50 l -7,10e-6 v -50 z"/>
+ </g>
+ <g id="bottomleft" transform="translate(-183,-231.00092)">
+  <path style="fill:#616161;opacity:0.9" d="m 190.00001,315.99991 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+ </g>
+ <g id="bottom" transform="translate(-183,-231.00096)">
+  <path style="fill:#616161;opacity:0.9" d="M 189.99998,315.99995 H 240 v -7 h -50.00001 z"/>
+ </g>
+ <g id="bottomright" transform="translate(-183,-231.00092)">
+  <path style="fill:#616161;opacity:0.9" d="m 240,315.99991 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+ </g>
+ <g id="topright" transform="translate(-183,-231.00083)">
+  <path style="fill:#616161;opacity:0.9" d="m 240,251.99982 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+ </g>
+ <g id="top" transform="translate(-183,-231.00083)">
+  <path style="fill:#616161;opacity:0.9" d="M 189.99998,251.99982 H 240 v 7 h -50.00001 z"/>
+ </g>
+ <rect id="hint-top-margin" style="fill:#ff00ff;stroke-width:2.23606801" width="4" height="10" x="29" y="28"/>
+ <rect id="hint-bottom-margin" style="fill:#ff00ff;stroke-width:2.23606801" width="4" height="10" x="29" y="68"/>
+ <rect id="hint-left-margin" style="fill:#ff00ff;stroke-width:2.23606801" width="10" height="4" x="7" y="49"/>
+ <rect id="hint-right-margin" style="fill:#ff00ff;stroke-width:2.23606801" width="10" height="4" x="47" y="49"/>
+ <rect id="mask-center" style="fill:#000000" width="50" height="50" x="75" y="28"/>
+ <path id="mask-topleft" style="fill:#000000" d="m 75,20.999865 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+ <path id="mask-left" style="fill:#000000" d="m 68.00001,27.999855 v 50.00001 l 7,1e-5 v -50.00001 z"/>
+ <path id="mask-right" style="fill:#000000" d="m 131.99999,27.999865 v 50.00001 l -7,1e-5 v -50.00001 z"/>
+ <path id="mask-bottomleft" style="fill:#000000" d="m 75,84.999965 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+ <path id="mask-bottom" style="fill:#000000" d="m 74.99997,85.000005 h 50.00002 v -7 H 74.99998 Z"/>
+ <path id="mask-bottomright" style="fill:#000000" d="m 124.99999,84.999965 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+ <path id="mask-topright" style="fill:#000000" d="m 124.99999,20.999865 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+ <path id="mask-top" style="fill:#000000" d="m 74.99997,20.999865 h 50.00002 v 7 H 74.99998 Z"/>
+ <rect id="hint-tile-center" style="fill:#ff00ff" width="5" height="5" x="0" y="0"/>
+</svg>
