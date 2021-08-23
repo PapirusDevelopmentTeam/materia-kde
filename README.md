@@ -128,6 +128,12 @@ More newest Qt/KDE apps now use QML/Kirigami - this style NOT SUPPORT THEMING on
 - Some modules `systemsettings5` & `kcm`
 - to be continued...
 
+## Extra Themes
+
+- [Materia skin](https://github.com/PapirusDevelopmentTeam/materia-vlc) for VLC
+- Telegram [theme](https://t.me/addtheme/materia_dark_unofficial)
+- Pegasus Frontend [theme](https://github.com/varlesh/pegasus-materia-dark)
+
 ## Donate
 
 If you like my project, you can donate at:
