@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/logo.png" alt="materia-kde-logo" align="right" />
 
-Materia KDE - This is a port of the popular [GTK theme Materia](https://github.com/nana-4/materia-theme) for Plasma 5 desktop with a few additions and extras.
+# Materia KDE
+
+This is a port of the popular [GTK theme Materia](https://github.com/nana-4/materia-theme) for the Plasma 5 desktop with a few additions and extras.
 
 In this repository you'll find:
-
-- Aurorae Theme
-- Konsole Color Schemes
-- Kvantum Themes
-- Plasma Color Schemes
-- Plasma Desktop Theme
-- Plasma Look-and-Feel Settings
-- Yakuake Skins
-- SDDM Themes
+- Aurorae window decoration themes
+- Konsole color schemes
+- Kvantum themes
+- Plasma color schemes
+- Plasma Desktop themes
+- Plasma Look-and-Feel settings
+- Yakuake skins
+- SDDM themes
 - Wallpapers
 
 ## Installation
@@ -28,11 +29,11 @@ sudo apt-get install --install-recommends materia-kde
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=materia-kde).
 
-### Materia KDE Installer
-
-Use the script to install the latest version directly from this repo (independently on your distro):
+### Manual installer
 
 #### Install
+
+Use this command to install the latest version directly from this repo (independently of your distro):
 
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/install.sh | sh
@@ -46,58 +47,53 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/m
 
 ### Third-party packages
 
-Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
+Packages in this section are not part of the official repositories. If you have any questions or concerns about any of these packages, please contact the package maintainer.
 
 | **Distro** | **Maintainer** | **Package** |
 |:-----------|:---------------|:------------|
-| Arch Linux | Bruno Pagani | `sudo pacman -S materia-kde kvantum-theme-materia` <sup>[[link](https://www.archlinux.org/packages/community/any/materia-kde/)]</sup> |
+| Arch Linux | Bruno Pagani | `sudo pacman -S materia-kde kvantum-theme-materia` <sup>[link](https://www.archlinux.org/packages/community/any/materia-kde/)</sup> |
 | Arch Linux | Josip Ponjavic | [materia-kde-git](https://aur.archlinux.org/packages/materia-kde-git) <sup>AUR</sup> |
-| openSUSE   | Konstantin Voinov | [materia-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=materia-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/materia-kde)]</sub> |
-| Fedora     | Robert-André Mauchin | `sudo dnf install materia-kde` <sup>[[src](https://src.fedoraproject.org/rpms/materia-kde)]</sup> |
+| openSUSE   | Konstantin Voinov | [materia-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=materia-kde) <sup>OBS [link](https://build.opensuse.org/package/show/home:kill_it/materia-kde)</sub> |
+| Fedora     | Robert-André Mauchin | `sudo dnf install materia-kde` <sup>[src](https://src.fedoraproject.org/rpms/materia-kde)</sup> |
 | Debian 10+ | Debian Desktop Themes Team | [materia-kde](https://tracker.debian.org/pkg/materia-kde) |
 
-**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
+**NOTE:** If you are a maintainer and want your package to be in this list, please feel free to create an issue or pull request.
 
 ## Recommendations
 
-- For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
-
-  Run `kvantummanager` to choose and apply **Materia's** theme.
-
+- For a more consistent look on Qt and KDE apps, please use this theme with the [Kvantum engine](https://github.com/tsujan/Kvantum). \
+  Run `kvantummanager`, then choose and apply the **Materia** theme.
 - Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
+- Install and use these widgets: [Minimal Menu](https://www.opendesktop.org/p/1275285/) and [Digital Clock WL](https://www.opendesktop.org/p/1311422/)
+- Change the System Settings view to **Icons View**
+- Set the icon size for Toolbar and Main Toolbar to **16px**
+- Set the border size to **No Borders** in Window Decoration settings
 
-- Install widgets [Minimal Menu](https://www.opendesktop.org/p/1275285/) and [Digital Clock WL](https://www.opendesktop.org/p/1311422/)
+### Hacks for smaller screen resolutions
 
-- Set icons view for systemsettings
-
-- Set 16px icon size on Toolbar & Main Toolbar
-
-- Set **No Borders** for Aurorae decoration on systemsettings
-
-## Hacks for small screen resolution
-
-- Install widgets [Active Window Control](https://www.opendesktop.org/p/998910/) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
-- Disable window buttons & titlebar on decoration:
-
-open rc-file on aurorae theme and set:
-```
-ButtonHeight=0
-ButtonWidth=0
-TitleHeight=0
-TitleEdgeTop=0
-```
-- Use [GTK3-noCSD](https://github.com/PCMan/gtk3-nocsd) script
+- Install the [Active Window Control](https://www.opendesktop.org/p/998910/) and [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) widgets, and move them to a panel. \
+  (**NOTE:** Application Menu is already included with recent versions of KDE Plasma, so there is no need to install it manually.)
+- Disable window buttons and titlebar on window decorations:
+  - Open the theme's rc file (**Materiarc**, **Materia-Darkrc**, or **Materia-Lightrc**) on the Aurorae themes folder (this is usually located in **~/.local/share/aurorae/themes** or **/usr/share/aurorae/themes**) and change the following lines:
+    ```
+    ButtonHeight=0
+    ButtonWidth=0
+    TitleHeight=0
+    TitleEdgeTop=0
+    ```
+  - To hide window buttons on GTK 3 apps, use the [GTK3-noCSD](https://github.com/PCMan/gtk3-nocsd) script
 
 ## Known issues
 
-- On NVIDIA propietary video driver Aurorae have [wrong rendering](https://bugs.kde.org/show_bug.cgi?id=384457) by default with all themes. 
+### Aurorae rendering bugs with NVIDIA graphics
 
-| **Wrong Rendering** | **Right Rendering** |
-|:--------------------|:--------------------|
-| ![wrong-rndering](https://i.imgur.com/rS5OgPf.png) | ![right-rendering](https://i.imgur.com/5OKjULE.png) |
+On systems using the proprietary NVIDIA video driver, Aurorae window decorations [do not render properly](https://bugs.kde.org/show_bug.cgi?id=384457) by default with all themes.
 
-For fix that use this config on **~/.Xresources**:
+| **Wrong rendering** | **Correct rendering** |
+|:--------------------|:----------------------|
+| ![wrong-rendering](https://i.imgur.com/rS5OgPf.png) | ![right-rendering](https://i.imgur.com/5OKjULE.png) |
 
+To fix that, use this config on **~/.Xresources**:
 ```
 Xft.dpi:       96
 Xft.antialias: true
@@ -107,11 +103,13 @@ Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 Xft.rgba:      rgb
 ```
+Restart your PC to apply these changes.
 
-Restart PC for apply DPI settings.
+### Inconsistent styles in QML/Kirigami apps
 
-## BlackList apps
-More newest Qt/KDE apps now use QML/Kirigami - this style NOT SUPPORT THEMING on ANY engine, more elements HARDCODED. Please not open issue about that. We can't doing anything!!!
+Recent Qt and KDE apps now use QML or Kirigami — these do *NOT* fully support theming on *any* engine because more elements are *hardcoded*. Please do not submit new issues regarding such apps; we can't do anything to fix them.
+
+Affects apps include, but are not limited to:
 - Muon Discover
 - Kirigami Gallery
 - Ikona
@@ -125,21 +123,34 @@ More newest Qt/KDE apps now use QML/Kirigami - this style NOT SUPPORT THEMING on
 - Keysmith
 - Calindori
 - KDE Connect SMS Module
-- Some modules `systemsettings5` & `kcm`
-- to be continued...
+- Some `systemsettings5` and `kcm` modules
+- and more...
 
-## Extra Themes
+## More Materia themes
 
-- [Materia skin](https://github.com/PapirusDevelopmentTeam/materia-vlc) for VLC
-- Telegram [theme](https://t.me/addtheme/materia_dark_unofficial)
-- Pegasus Frontend [theme](https://github.com/varlesh/pegasus-materia-dark)
+- [Materia skin for VLC](https://github.com/PapirusDevelopmentTeam/materia-vlc)
+- [Telegram theme](https://t.me/addtheme/materia_dark_unofficial)
+- [Pegasus Frontend theme](https://github.com/varlesh/pegasus-materia-dark)
 
 ## Donate
 
-If you like my project, you can donate at:
+If you like this project, you can donate at PayPal:
 
 <span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
 ## License
 
-GNU GPL v3
+Copyright © 2018–2021 [Alexey Varfolomeev](https://github.com/varlesh) and contributors.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
