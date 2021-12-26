@@ -23,6 +23,7 @@ name=Materia-Color
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Materia-Light
+BorderSize=None
 
 [kcminputrc][Mouse]
 cursorTheme=material_cursors

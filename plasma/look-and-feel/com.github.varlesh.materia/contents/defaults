@@ -23,6 +23,7 @@ name=Materia
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Materia
+BorderSize=None
 
 [kcminputrc][Mouse]
 cursorTheme=material_cursors
