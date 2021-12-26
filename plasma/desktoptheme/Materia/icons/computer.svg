@@ -3,26 +3,26 @@
   <rect style="opacity:0.001" width="32" height="32" x="0" y="-34"/>
   <g transform="translate(2e-4,-35)">
    <rect style="opacity:0.2" width="16" height="21" x="8" y="8" rx="1.25" ry="1.25"/>
- <rect style="fill:#8e8e8e" width="16" height="21" x="8" y="7" rx="1.25" ry="1.25"/>
- <rect style="opacity:0.2" width="26" height="20" x="3" y="6" rx="1.25" ry="1.25"/>
- <path style="fill:#595959" d="m 3,22 v 1.75 C 3,24.4425 3.5575,25 4.25,25 h 23.5 C 28.4425,25 29,24.4425 29,23.75 V 22 Z"/>
- <path style="fill:#333333" d="M 4.25,5 C 3.5575,5 3,5.5575 3,6.25 V 22 H 29 V 6.25 C 29,5.5575 28.4425,5 27.75,5 Z"/>
- <rect style="opacity:0.1;fill:#ffffff" width="26" height="1" x="3" y="22"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 4.25 5 C 3.5575 5 3 5.5575 3 6.25 L 3 7.25 C 3 6.5575 3.5575 6 4.25 6 L 27.75 6 C 28.442 6 29 6.5575 29 7.25 L 29 6.25 C 29 5.5575 28.442 5 27.75 5 L 4.25 5 z"/>
+   <rect style="fill:#8e8e8e" width="16" height="21" x="8" y="7" rx="1.25" ry="1.25"/>
+   <rect style="opacity:0.2" width="26" height="20" x="3" y="6" rx="1.25" ry="1.25"/>
+   <path style="fill:#595959" d="m 3,22 v 1.75 C 3,24.4425 3.5575,25 4.25,25 h 23.5 C 28.4425,25 29,24.4425 29,23.75 V 22 Z"/>
+   <path style="fill:#333333" d="M 4.25,5 C 3.5575,5 3,5.5575 3,6.25 V 22 H 29 V 6.25 C 29,5.5575 28.4425,5 27.75,5 Z"/>
+   <rect style="opacity:0.1;fill:#ffffff" width="26" height="1" x="3" y="22"/>
+   <path style="fill:#ffffff;opacity:0.1" d="M 4.25 5 C 3.5575 5 3 5.5575 3 6.25 L 3 7.25 C 3 6.5575 3.5575 6 4.25 6 L 27.75 6 C 28.442 6 29 6.5575 29 7.25 L 29 6.25 C 29 5.5575 28.442 5 27.75 5 L 4.25 5 z"/>
   </g>
  </g>
  <g id="computer-laptop" transform="translate(-4.0002,34)">
   <rect style="opacity:0.001" width="32" height="32" x="36" y="-34"/>
   <g transform="translate(36,-35)">
    <rect style="opacity:0.2" width="26" height="18" x="3" y="7" rx="1.25" ry="1.25"/>
- <rect style="opacity:0.2" width="3" height="30" x="-28" y="-31" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#595959" width="3" height="30" x="-27" y="-31" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="fill:#595959" d="M 4.25 6 C 3.5575 6 3 6.5575 3 7.25 L 3 9 L 29 9 L 29 7.25 C 29 6.5575 28.4425 6 27.75 6 L 4.25 6 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 4.25 6 C 3.5575 6 3 6.5575 3 7.25 L 3 8.25 C 3 7.5575 3.5575 7 4.25 7 L 27.75 7 C 28.442 7 29 7.5575 29 8.25 L 29 7.25 C 29 6.5575 28.442 6 27.75 6 L 4.25 6 z"/>
- <path style="fill:#333333" d="M 3 9 L 3 22.75 C 3 23.4425 3.5575 24 4.25 24 L 27.75 24 C 28.4425 24 29 23.4425 29 22.75 L 29 9 L 3 9 z"/>
- <rect style="opacity:0.2" width="26" height="1" x="3" y="9"/>
- <rect style="fill:#333333" width="2" height="1" x="15" y="7"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 2.25 24 C 1.5575 24 1 24.5575 1 25.25 L 1 25.75 C 1 25.835234 1.0092872 25.917691 1.0253906 25.998047 C 1.1415674 25.427417 1.6440625 25 2.25 25 L 29.75 25 C 30.355937 25 30.858433 25.427417 30.974609 25.998047 C 30.990713 25.917691 31 25.835234 31 25.75 L 31 25.25 C 31 24.5575 30.4425 24 29.75 24 L 2.25 24 z"/>
+   <rect style="opacity:0.2" width="3" height="30" x="-28" y="-31" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+   <rect style="fill:#595959" width="3" height="30" x="-27" y="-31" rx="1.25" ry="1.25" transform="matrix(0,-1,-1,0,0,0)"/>
+   <path style="fill:#595959" d="M 4.25 6 C 3.5575 6 3 6.5575 3 7.25 L 3 9 L 29 9 L 29 7.25 C 29 6.5575 28.4425 6 27.75 6 L 4.25 6 z"/>
+   <path style="opacity:0.1;fill:#ffffff" d="M 4.25 6 C 3.5575 6 3 6.5575 3 7.25 L 3 8.25 C 3 7.5575 3.5575 7 4.25 7 L 27.75 7 C 28.442 7 29 7.5575 29 8.25 L 29 7.25 C 29 6.5575 28.442 6 27.75 6 L 4.25 6 z"/>
+   <path style="fill:#333333" d="M 3 9 L 3 22.75 C 3 23.4425 3.5575 24 4.25 24 L 27.75 24 C 28.4425 24 29 23.4425 29 22.75 L 29 9 L 3 9 z"/>
+   <rect style="opacity:0.2" width="26" height="1" x="3" y="9"/>
+   <rect style="fill:#333333" width="2" height="1" x="15" y="7"/>
+   <path style="fill:#ffffff;opacity:0.1" d="M 2.25 24 C 1.5575 24 1 24.5575 1 25.25 L 1 25.75 C 1 25.835234 1.0092872 25.917691 1.0253906 25.998047 C 1.1415674 25.427417 1.6440625 25 2.25 25 L 29.75 25 C 30.355937 25 30.858433 25.427417 30.974609 25.998047 C 30.990713 25.917691 31 25.835234 31 25.75 L 31 25.25 C 31 24.5575 30.4425 24 29.75 24 L 2.25 24 z"/>
   </g>
  </g>
  <g id="22-22-computer" transform="translate(-2e-4,32)">
