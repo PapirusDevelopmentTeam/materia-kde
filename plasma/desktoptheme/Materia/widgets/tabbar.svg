@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="225" height="286" version="1.1">
- <rect id="hint-tile-center" style="opacity:0.875;fill:#ff00ff;stroke-width:0.96988928" width="40" height="40" x="0" y="0"/>
+ <rect id="hint-tile-center" style="fill:#ff00ff" width="40" height="40" x="0" y="0"/>
  <g id="south-active-tab-top" transform="matrix(1,0,0,0.66617697,36.00001,28.604839)">
   <path style="fill:#dfdfdf" d="m 40,359.36218 h 80 v 3 H 40 Z"/>
  </g>

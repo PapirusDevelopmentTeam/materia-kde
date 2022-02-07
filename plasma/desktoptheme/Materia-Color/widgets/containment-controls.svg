@@ -4,7 +4,7 @@
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <rect id="hint-stretch-borders" style="opacity:0.65;fill:#ff00ff;stroke-width:0.94140321" width="5" height="5" x="123" y="1"/>
+ <rect id="hint-stretch-borders" style="fill:#ff00ff" width="5" height="5" x="123" y="1"/>
  <g id="north-center" transform="translate(-152,-4)">
   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
  </g>
@@ -51,62 +51,62 @@
   <rect style="fill:currentColor" class="ColorScheme-Highlight" width="42" height="1" x="-31" y="9" transform="matrix(0,-1,1,0,0,0)"/>
   <rect style="fill:currentColor" class="ColorScheme-Highlight" width="42" height="1" x="-31" y="7" transform="matrix(0,-1,1,0,0,0)"/>
  </g>
- <g id="west-minslider" style="enable-background:new" transform="translate(5.0312,68.003199)">
+ <g id="west-minslider" transform="translate(5.0312,68.003199)">
   <g transform="translate(-405,100)">
    <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
   </g>
  </g>
- <g id="north-offsetslider" style="enable-background:new" transform="translate(37,108.0004)">
+ <g id="north-offsetslider" transform="translate(37,108.0004)">
   <g transform="translate(-385,98.003)">
    <path style="fill:#ffffff" d="m 387,-90.215 1.3858,1.3851 3.6348,-3.6349 -0.0211,8.4614 2,0 0.0211,-8.4614 3.6344,3.6349 1.3851,-1.3851 -6.0406,-6.0009 z"/>
   </g>
  </g>
- <g id="north-maxslider" style="enable-background:new" transform="translate(6.9988,89.968849)">
+ <g id="north-maxslider" transform="translate(6.9988,89.968849)">
   <g transform="translate(-325,99.003)">
    <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
   </g>
  </g>
- <g id="east-offsetslider" style="enable-background:new" transform="translate(5.0016,107.9598)">
+ <g id="east-offsetslider" transform="translate(5.0016,107.9598)">
   <g transform="translate(-305,99.003)">
    <path style="fill:#ffffff" d="m 313.21,-97.003 -1.3851,1.3859 3.6349,3.6348 -8.4614,-0.0211 0,2 8.4614,0.0211 -3.6349,3.6344 1.3851,1.3851 6.0009,-6.0406 z"/>
   </g>
  </g>
- <g id="east-minslider" style="enable-background:new" transform="translate(22.0312,68.003199)">
+ <g id="east-minslider" transform="translate(22.0312,68.003199)">
   <g transform="translate(-405,100)">
    <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
   </g>
  </g>
- <g id="west-maxslider" style="enable-background:new" transform="matrix(1,0,0,-1,38.0312,83.996799)">
+ <g id="west-maxslider" transform="matrix(1,0,0,-1,38.0312,83.996799)">
   <g transform="translate(-405,100)">
    <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
   </g>
  </g>
- <g id="east-maxslider" style="enable-background:new" transform="matrix(1,0,0,-1,55.0312,83.996799)">
+ <g id="east-maxslider" transform="matrix(1,0,0,-1,55.0312,83.996799)">
   <g transform="translate(-405,100)">
    <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
   </g>
  </g>
- <g id="south-maxslider" style="enable-background:new" transform="translate(25.9988,89.968849)">
+ <g id="south-maxslider" transform="translate(25.9988,89.968849)">
   <g transform="translate(-325,99.003)">
    <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
   </g>
  </g>
- <g id="north-minslider" style="enable-background:new" transform="matrix(-1,0,0,1,61.0012,89.968849)">
+ <g id="north-minslider" transform="matrix(-1,0,0,1,61.0012,89.968849)">
   <g transform="translate(-325,99.003)">
    <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
   </g>
  </g>
- <g id="south-minslider" style="enable-background:new" transform="matrix(-1,0,0,1,80.0012,89.968849)">
+ <g id="south-minslider" transform="matrix(-1,0,0,1,80.0012,89.968849)">
   <g transform="translate(-325,99.003)">
    <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
   </g>
  </g>
- <g id="west-offsetslider" style="enable-background:new" transform="matrix(-1,0,0,1,37.2109,107.9598)">
+ <g id="west-offsetslider" transform="matrix(-1,0,0,1,37.2109,107.9598)">
   <g transform="translate(-305,99.003)">
    <path style="fill:#ffffff" d="m 313.21,-97.003 -1.3851,1.3859 3.6349,3.6348 -8.4614,-0.0211 0,2 8.4614,0.0211 -3.6349,3.6344 1.3851,1.3851 6.0009,-6.0406 z"/>
   </g>
  </g>
- <g id="south-offsetslider" style="enable-background:new" transform="matrix(1,0,0,-1,52,123.7871)">
+ <g id="south-offsetslider" transform="matrix(1,0,0,-1,52,123.7871)">
   <g transform="translate(-385,98.003)">
    <path style="fill:#ffffff" d="m 387,-90.215 1.3858,1.3851 3.6348,-3.6349 -0.0211,8.4614 2,0 0.0211,-8.4614 3.6344,3.6349 1.3851,-1.3851 -6.0406,-6.0009 z"/>
   </g>

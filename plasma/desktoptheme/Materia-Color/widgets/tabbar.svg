@@ -4,7 +4,7 @@
    .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <rect id="hint-tile-center" style="opacity:0.875;fill:#ff00ff;stroke-width:0.96988928" width="40" height="40" x="0" y="0"/>
+ <rect id="hint-tile-center" style="fill:#ff00ff" width="40" height="40" x="0" y="0"/>
  <g id="south-active-tab-top" transform="matrix(1,0,0,0.66617697,36.00001,28.604839)">
   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 40,359.36218 h 80 v 3 H 40 Z"/>
  </g>

@@ -39,20 +39,16 @@
  <path id="shadow-topleft" style="opacity:0.001" d="m 144.00001,16.998965 h 10 v -2 c 0,-2.77 2.23,-5.0000004 5,-5.0000004 h 2 v -9.99999996 h -17 z"/>
  <g id="shadow-left" transform="matrix(-1,0,0,1,442.00001,-240.00103)">
   <rect style="opacity:0.001" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect style="opacity:0;fill:#000000" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <path id="shadow-bottomright" style="opacity:0.001" d="m 228.00001,66.998965 h -10 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 10 h 17 z"/>
  <g id="shadow-bottom" transform="rotate(90,341.00052,126.9995)">
   <rect style="opacity:0.001" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect style="opacity:0;fill:#000000" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <g id="shadow-right" transform="translate(-69.999994,-240.00103)">
   <rect style="opacity:0.001" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect style="opacity:0;fill:#000000" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <g id="shadow-top" transform="matrix(0,-1,-1,0,468.00001,297.99896)">
   <rect style="opacity:0.001" width="50" height="10" x="-307" y="288" transform="rotate(-90)"/>
-  <rect style="opacity:0;fill:#000000" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
  </g>
  <path id="shadow-topright" style="opacity:0.001" d="M 211.00001,-0.00103536 V 9.9989646 h 2 c 2.77,0 5,2.2300004 5,5.0000004 v 2 h 10 V -0.00103536 Z"/>
  <path id="shadow-bottomleft" style="opacity:0.001" d="m 161.00001,83.998965 v -10 h -2 c -2.77,0 -5,-2.23 -5,-5 v -2 h -10 v 17 z"/>
