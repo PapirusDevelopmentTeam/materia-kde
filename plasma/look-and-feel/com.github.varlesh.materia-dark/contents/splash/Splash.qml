@@ -6,6 +6,8 @@ Rectangle {
     color: "#1e1e1e"
 
      property int stage
+     
+     property real size: units.gridUnit * 20
 
     onStageChanged: {
         if (stage == 1) {
