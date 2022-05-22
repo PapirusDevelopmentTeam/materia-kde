@@ -30,10 +30,10 @@ Rectangle {
 
     Connections {
         target: sddm
-        onLoginSucceeded: {
+        function onLoginSucceeded() {
 
         }
-        onLoginFailed: {
+        function onLoginFailed() {
             password.placeholderText = textConstants.loginFailed
             password.placeholderTextColor = "#f44336"
             password.text = ""
