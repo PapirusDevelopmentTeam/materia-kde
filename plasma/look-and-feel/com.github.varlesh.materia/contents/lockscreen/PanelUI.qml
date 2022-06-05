@@ -3,6 +3,7 @@
 import QtQuick 2.8
 import QtQuick.Controls 1.1
 import QtGraphicalEffects 1.0
+import org.kde.plasma.workspace.components 2.0 as PW
 
 import "../components"
 
@@ -117,6 +118,26 @@ Item {
             id: timelb
             text: Qt.formatDateTime(new Date(), "HH:mm")
             color: "#dfdfdf"
+            font.pointSize: 11
+        }
+    }
+    
+    PW.KeyboardLayoutSwitcher {
+                    id: keyboardLayoutSwitcher
+
+                    anchors.fill: parent
+                    acceptedButtons: Qt.NoButton
+                }
+    
+    Row {
+        anchors.top: parent.top
+        anchors.right: parent.right
+        anchors.rightMargin: 120
+        anchors.topMargin: 4
+        Text {
+            id: kb
+            color: "#dfdfdf"
+            text: keyboardLayoutSwitcher.layoutNames.shortName
             font.pointSize: 11
         }
     }
