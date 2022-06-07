@@ -38,7 +38,7 @@
   <circle style="opacity:0.05" cx="80" cy="80" r="10"/>
   <circle style="fill:currentColor" class="ColorScheme-ViewBackground" cx="80" cy="80" r="10"/>
  </g>
- <circle style="fill:#ff00ff" id="hint-hourhand-rotation-center-offset" cx="80" cy="80" r="2"/>
- <circle style="fill:#ff00ff" id="hint-minutehand-rotation-center-offset" cx="80" cy="80" r="2"/>
- <circle style="fill:#ff00ff" id="hint-secondhand-rotation-center-offset" cx="80" cy="80" r="2"/>
+ <circle id="hint-hourhand-rotation-center-offset" style="fill:#ff00ff" cx="80" cy="80" r="2"/>
+ <circle id="hint-minutehand-rotation-center-offset" style="fill:#ff00ff" cx="80" cy="80" r="2"/>
+ <circle id="hint-secondhand-rotation-center-offset" style="fill:#ff00ff" cx="80" cy="80" r="2"/>
 </svg>

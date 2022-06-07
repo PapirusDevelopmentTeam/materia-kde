@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="55" version="1.0">
- <defs id="defs4">
+ <defs>
   <radialGradient id="radialGradient4203" cx="-31.636" cy="8.519" r="8.182" fx="-31.636" fy="8.519" gradientTransform="matrix(0,1.588807,-1.0999999,0,20.371134,94.26388)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
   <linearGradient id="linearGradient4209">
    <stop style="stop-color:#000000" offset="0"/>
@@ -47,5 +47,5 @@
  <path id="groove-highlight-bottom" style="fill:#8ab4f8" d="M 44,22 V 33 H 54.999998 V 22 Z"/>
  <path id="groove-highlight-center" style="fill:#8ab4f8" d="M 54.999998,11 H 44 v 11 h 10.999998 z"/>
  <path id="groove-highlight-top" style="fill:#8ab4f8" d="M 44,-3.6716472e-8 V 11 H 54.999998 V -3.6716472e-8 Z"/>
- <rect style="fill:#ff00ff" id="hint-handle-size" width="24" height="18" x="66" y="15"/>
+ <rect id="hint-handle-size" style="fill:#ff00ff" width="24" height="18" x="66" y="15"/>
 </svg>

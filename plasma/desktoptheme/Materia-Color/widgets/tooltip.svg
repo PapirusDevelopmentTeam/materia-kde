@@ -56,14 +56,14 @@
  <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="184" y="74"/>
  <rect id="shadow-hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="144" y="40"/>
  <rect id="shadow-hint-top-margin" style="fill:#ff00ff" width="4" height="10" x="185" y="0"/>
- <rect id="mask-center" style="fill:#000000" width="50" height="50" x="79" y="27"/>
- <path id="mask-topleft" style="fill:#000000" d="m 79.00001,19.999875 v 7 H 72 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
- <path id="mask-left" style="fill:#000000" d="m 72.00001,26.999865 v 50 l 7.00001,1e-5 v -50 z"/>
- <path id="mask-right" style="fill:#000000" d="m 135.99999,26.999875 v 50 l -7,1e-5 v -50 z"/>
- <path id="mask-bottomleft" style="fill:#000000" d="m 79.00001,83.999965 v -7 H 72 v 2 c 0,2.77 2.23,5 5,5 z"/>
- <path id="mask-bottom" style="fill:#000000" d="m 78.99998,84.000005 h 50.00001 v -7 h -50 z"/>
- <path id="mask-bottomright" style="fill:#000000" d="m 128.99999,83.999965 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
- <path id="mask-topright" style="fill:#000000" d="m 128.99999,19.999875 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
- <path id="mask-top" style="fill:#000000" d="m 78.99998,19.999875 h 50.00001 v 7 h -50 z"/>
+ <rect id="mask-center" width="50" height="50" x="79" y="27"/>
+ <path id="mask-topleft" d="m 79.00001,19.999875 v 7 H 72 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+ <path id="mask-left" d="m 72.00001,26.999865 v 50 l 7.00001,1e-5 v -50 z"/>
+ <path id="mask-right" d="m 135.99999,26.999875 v 50 l -7,1e-5 v -50 z"/>
+ <path id="mask-bottomleft" d="m 79.00001,83.999965 v -7 H 72 v 2 c 0,2.77 2.23,5 5,5 z"/>
+ <path id="mask-bottom" d="m 78.99998,84.000005 h 50.00001 v -7 h -50 z"/>
+ <path id="mask-bottomright" d="m 128.99999,83.999965 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+ <path id="mask-topright" d="m 128.99999,19.999875 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+ <path id="mask-top" d="m 78.99998,19.999875 h 50.00001 v 7 h -50 z"/>
  <rect id="shadow-center" style="fill:none" width="50" height="50" x="161" y="17.06"/>
 </svg>

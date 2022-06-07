@@ -85,7 +85,7 @@
  </g>
  <g id="hover-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
-  <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+  <path style="fill:#dfdfdf;opacity:0.1" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="hover-left" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
@@ -101,24 +101,24 @@
  <g id="hover-top" transform="translate(-1)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:1;fill:#dfdfdf;fill-opacity:1" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="fill:#dfdfdf" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="hover-topleft" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:1;fill:#dfdfdf;fill-opacity:1" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="fill:#dfdfdf" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="hover-topright" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:1;fill:#dfdfdf;fill-opacity:1" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="fill:#dfdfdf" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="hover-bottomleft" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="fill:#dfdfdf;opacity:0.1" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="hover-bottomright" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="fill:#dfdfdf;opacity:0.1" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="normal-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="59"/>
@@ -159,7 +159,7 @@
  </g>
  <g id="focus-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="38"/>
-  <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+  <path style="fill:#dfdfdf;opacity:0.1" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="focus-left" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
@@ -175,24 +175,24 @@
  <g id="focus-top" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:1;fill:#dfdfdf;fill-opacity:1" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="fill:#dfdfdf" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="focus-topleft" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:1;fill:#dfdfdf;fill-opacity:1" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="fill:#dfdfdf" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="focus-topright" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:1;fill:#dfdfdf;fill-opacity:1" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="fill:#dfdfdf" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="focus-bottomleft" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="fill:#dfdfdf;opacity:0.1" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="focus-bottomright" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:#dfdfdf;fill-opacity:1;opacity:0.1" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="fill:#dfdfdf;opacity:0.1" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-progress-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="17"/>

@@ -5,8 +5,8 @@
   </style>
  </defs>
  <g id="header-center">
- <rect style="fill:currentColor" class="ColorScheme-Background" width="50" height="50" x="7" y="28"/>
- <rect style="opacity:0.03;fill:currentColor" class="ColorScheme-Text" width="50" height="50" x="7" y="28"/>
+  <rect style="fill:currentColor" class="ColorScheme-Background" width="50" height="50" x="7" y="28"/>
+  <rect style="opacity:0.03;fill:currentColor" class="ColorScheme-Text" width="50" height="50" x="7" y="28"/>
  </g>
  <g id="header-topleft" transform="matrix(0.99999857,0,0,1,-182.99974,-230.99982)">
   <path style="fill:currentColor" class="ColorScheme-Background" d="m 190.00001,251.99982 v 7 h -7 c -1e-5,-5 1.99999,-7 7,-6.99999 z"/>
@@ -49,8 +49,8 @@
  </g>
  <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="7" x="30" y="71"/>
  <g id="footer-center">
- <rect style="fill:currentColor" class="ColorScheme-Background" width="50" height="50" x="72" y="28"/>
- <rect style="opacity:0.03;fill:currentColor" class="ColorScheme-Text" width="50" height="50" x="72" y="28"/>
+  <rect style="fill:currentColor" class="ColorScheme-Background" width="50" height="50" x="72" y="28"/>
+  <rect style="opacity:0.03;fill:currentColor" class="ColorScheme-Text" width="50" height="50" x="72" y="28"/>
  </g>
  <g id="footer-bottomleft" transform="matrix(0.99999855,0,0,1,-117.99972,-173.99982)">
   <path style="fill:currentColor" class="ColorScheme-Background" d="m 190.00001,251.99982 v 7 c -5.00002,0 -7.00002,-2 -7.00001,-6.99899 0,0 7,0 7.00001,-0.001 z"/>
