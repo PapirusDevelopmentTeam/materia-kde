@@ -129,7 +129,7 @@ Affects apps include, but are not limited to:
 ## More Materia themes
 
 - [Materia skin for VLC](https://github.com/PapirusDevelopmentTeam/materia-vlc)
-- [Telegram theme](https://t.me/addtheme/materia_dark_unofficial)
+- [Telegram theme](https://t.me/addtheme/MateriaDarkUpdated)
 - [Pegasus Frontend theme](https://github.com/varlesh/pegasus-materia-dark)
 
 ## Donate
