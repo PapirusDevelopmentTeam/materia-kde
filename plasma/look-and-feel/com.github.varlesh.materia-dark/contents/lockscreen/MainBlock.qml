@@ -32,6 +32,7 @@ SessionManagementScreen {
 
     property Item mainPasswordBox: passwordBox
     property bool lockScreenUiVisible: false
+    property alias echoMode: passwordBox.echoMode
 
     //the y position that should be ensured visible when the on screen keyboard is visible
     property int visibleBoundary: mapFromItem(loginButton, 0, 0).y
@@ -41,7 +42,7 @@ SessionManagementScreen {
      * Login has been requested with the following username and password
      * If username field is visible, it will be taken from that, otherwise from the "name" property of the currentIndex
      */
-    signal loginRequest(string password)
+    signal passwordResult(string password)
 
     function startLogin() {
         var password = passwordBox.text
@@ -50,7 +51,7 @@ SessionManagementScreen {
         //but more importantly it works round a Qt bug that can trigger if the app is closed with a TextField focused
         //See https://bugreports.qt.io/browse/QTBUG-55460
         loginButton.forceActiveFocus();
-        loginRequest(password);
+        passwordResult(password);
     }
 
     RowLayout {
@@ -72,7 +73,7 @@ SessionManagementScreen {
 
             onAccepted: {
                 if (lockScreenUiVisible) {
-                    startLogin()
+                    startLogin();
                 }
             }
 
@@ -80,20 +81,20 @@ SessionManagementScreen {
             //this cannot be in keys.onLeftPressed as then it doesn't reach the password box
             Keys.onPressed: {
                 if (event.key === Qt.Key_Left && !text) {
-                    userList.decrementCurrentIndex()
+                    userList.decrementCurrentIndex();
                     event.accepted = true
                 }
                 if (event.key === Qt.Key_Right && !text) {
-                    userList.incrementCurrentIndex()
+                    userList.incrementCurrentIndex();
                     event.accepted = true
                 }
             }
 
             Connections {
                 target: root
-                onClearPassword: {
+                function onClearPassword() {
                     passwordBox.forceActiveFocus()
-                    passwordBox.selectAll()
+                    passwordBox.text = "";
                 }
             }
         }
@@ -106,6 +107,8 @@ SessionManagementScreen {
             iconSource: "go-next"
       
             onClicked: startLogin()
+            Keys.onEnterPressed: clicked()
+            Keys.onReturnPressed: clicked()
         }
 
         PlasmaComponents.Button {

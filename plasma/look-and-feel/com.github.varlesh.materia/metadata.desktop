@@ -18,4 +18,5 @@ X-KDE-PluginInfo-Version=20220607
 X-KDE-PluginInfo-Website=https://github.com/PapirusDevelopmentTeam/materia-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
+X-Plasma-APIVersion=2
 X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1462605,kns://plasma-themes.knsrc/api.kde-look.org/1462611,kns://aurorae.knsrc/api.kde-look.org/1462620,kns://icons.knsrc/api.kde-look.org/1166289,kns://xcursor.knsrc/api.kde-look.org/1346778,kns://wallpaper.knsrc/api.kde-look.org/1462613,kns://sddmtheme.knsrc/api.kde-look.org/1476113

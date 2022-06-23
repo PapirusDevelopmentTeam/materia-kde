@@ -27,38 +27,12 @@ Item {
     property bool viewVisible: false
     property bool debug: false
     property string notification
-    property int interfaceVersion: org_kde_plasma_screenlocker_greeter_interfaceVersion ? org_kde_plasma_screenlocker_greeter_interfaceVersion : 0
     signal clearPassword()
 
     LayoutMirroring.enabled: Qt.application.layoutDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
 
-    Loader {
-        id: mainLoader
-        anchors.fill: parent
-        opacity: 0
-        onItemChanged: opacity = 1
-
-        focus: true
-
-        Behavior on opacity {
-            OpacityAnimator {
-                duration: units.longDuration
-                easing.type: Easing.InCubic
-            }
-        }
-    }
-    Connections {
-        id:loaderConnection
-        target: org_kde_plasma_screenlocker_greeter_view
-        onFrameSwapped: {
-            mainLoader.source = "LockScreenUi.qml";
-            loaderConnection.target = null;
-        }
-    }
-    Component.onCompleted: {
-        if (root.interfaceVersion < 2) {
-            mainLoader.source = "LockScreenUi.qml";
-        }
+    LockScreenUi {
+            anchors.fill: parent
     }
 }
