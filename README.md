@@ -134,9 +134,6 @@ Affects apps include, but are not limited to:
 
 ## Donate
 
-If you like this project, you can donate at PayPal:
-
-<span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
 ## License
 
