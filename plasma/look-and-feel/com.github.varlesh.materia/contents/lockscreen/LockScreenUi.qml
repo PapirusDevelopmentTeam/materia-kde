@@ -141,7 +141,11 @@ PlasmaCore.ColorScope {
             if (blockUI) {
                 fadeoutTimer.running = false;
             } else if (uiVisible) {
+                mainBlock.mainPasswordBox.forceActiveFocus();
                 fadeoutTimer.restart();
+            }
+            if (!uiVisible) {
+                lockScreenRoot.forceActiveFocus();
             }
             if (!calledUnlock) {
                 calledUnlock = true
