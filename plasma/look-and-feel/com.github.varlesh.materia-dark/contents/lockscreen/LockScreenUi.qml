@@ -64,12 +64,10 @@ PlasmaCore.ColorScope {
         function onPrompt(msg) {
             root.notification = msg;
             mainBlock.echoMode = TextInput.Normal
-            mainBlock.mainPasswordBox.text = "";
             mainBlock.mainPasswordBox.forceActiveFocus();
         }
         function onPromptForSecret(msg) {
             mainBlock.echoMode = TextInput.Password
-            mainBlock.mainPasswordBox.text = "";
             mainBlock.mainPasswordBox.forceActiveFocus();
         }
     }
@@ -141,11 +139,7 @@ PlasmaCore.ColorScope {
             if (blockUI) {
                 fadeoutTimer.running = false;
             } else if (uiVisible) {
-                mainBlock.mainPasswordBox.forceActiveFocus();
                 fadeoutTimer.restart();
-            }
-            if (!uiVisible) {
-                lockScreenRoot.forceActiveFocus();
             }
             if (!calledUnlock) {
                 calledUnlock = true
@@ -163,7 +157,7 @@ PlasmaCore.ColorScope {
         Keys.onEscapePressed: {
             uiVisible = !uiVisible;
             if (!uiVisible) {
-                mainBlock.mainPasswordBox.text = "";
+                root.clearPassword();
             }
         }
         Keys.onPressed: {
@@ -188,7 +182,10 @@ PlasmaCore.ColorScope {
         Timer {
             id: graceLockTimer
             interval: 3000
-            onTriggered: authenticator.tryUnlock();
+            onTriggered: {
+                root.clearPassword();
+                authenticator.tryUnlock();
+            }
         }
 
         Component.onCompleted: PropertyAnimation { id: launchAnimation; target: lockScreenRoot; property: "opacity"; from: 0; to: 1; duration: 1000 }
