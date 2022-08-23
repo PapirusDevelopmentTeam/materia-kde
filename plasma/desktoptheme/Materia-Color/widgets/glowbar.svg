@@ -6,45 +6,54 @@
  </defs>
  <rect id="hint-glow-radius" style="fill:#ff00ff" width="5" height="5" x="0" y="0"/>
  <rect id="hint-stretch-borders" style="fill:#ff00ff" width="5" height="5" x="0" y="8"/>
- <rect id="center" style="opacity:0.01" width="12" height="12" x="12" y="27"/>
- <g id="topleft" transform="translate(21,-11)">
-  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M -21,38 C -21,26 -9,26 -9,26 v 12 z"/>
-  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m -18,38 c 0,-9 9,-9 9,-9 v 9 z"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -15,38 c 0,-6 6,-6 6,-6 v 6 z"/>
+ <rect id="center" style="opacity:0.001" width="12" height="12" x="12" y="27"/>
+ <rect style="opacity:0.01" width="12" height="12" x="12" y="28"/>
+ <g id="topleft" transform="translate(-36,1)">
+  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M 36,27 C 36,15 48,15 48,15 v 12 z"/>
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 39,27 c 0,-9 9,-9 9,-9 v 9 z"/>
+  <path style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" d="m 42,27 c 0,-6 6,-6 6,-6 v 6 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 45,27 c 0,-3 3,-3 3,-3 v 3 z"/>
  </g>
- <g id="topright" transform="matrix(-1,0,0,1,15,-11)">
-  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M -21,38 C -21,26 -9,26 -9,26 v 12 z"/>
-  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m -18,38 c 0,-9 9,-9 9,-9 v 9 z"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -15,38 c 0,-6 6,-6 6,-6 v 6 z"/>
+ <g id="left" transform="translate(-36,1)">
+  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="27" y="36" transform="matrix(0,1,1,0,0,0)"/>
+  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="27" y="39" transform="matrix(0,1,1,0,0,0)"/>
+  <rect style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="27" y="42" transform="matrix(0,1,1,0,0,0)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="3" x="27" y="45" transform="matrix(0,1,1,0,0,0)"/>
  </g>
- <g id="top">
-  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="12" y="15"/>
-  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="12" y="18"/>
-  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="12" y="21"/>
+ <g id="bottomleft" transform="translate(-36,1)">
+  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M 48,51 C 36,51 36,39 36,39 h 12 z"/>
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 48,48 c -9,0 -9,-9 -9,-9 h 9 z"/>
+  <path style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" d="m 48,45 c -6,0 -6,-6 -6,-6 h 6 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 45,39 c 0,3 3,3 3,3 v -3 z"/>
  </g>
- <g id="bottomright" transform="matrix(0,-1,-1,0,62,30)">
-  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M -21,38 C -21,26 -9,26 -9,26 v 12 z"/>
-  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m -18,38 c 0,-9 9,-9 9,-9 v 9 z"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -15,38 c 0,-6 6,-6 6,-6 v 6 z"/>
+ <g id="topright" transform="translate(-36,1)">
+  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M 72,27 C 72,15 60,15 60,15 v 12 z"/>
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 69,27 c 0,-9 -9,-9 -9,-9 v 9 z"/>
+  <path style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" d="m 66,27 c 0,-6 -6,-6 -6,-6 v 6 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 63,27 c 0,-3 -3,-3 -3,-3 v 3 z"/>
  </g>
- <g id="right" transform="rotate(90,18,33)">
-  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="12" y="15"/>
-  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="12" y="18"/>
-  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="12" y="21"/>
+ <g id="bottomright" transform="translate(-36,1)">
+  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M 60,51 C 72,51 72,39 72,39 H 60 Z"/>
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m 60,48 c 9,0 9,-9 9,-9 h -9 z"/>
+  <path style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" d="m 60,45 c 6,0 6,-6 6,-6 h -6 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 63,39 c 0,3 -3,3 -3,3 v -3 z"/>
  </g>
- <g id="bottomleft" transform="rotate(-90,2,28)">
-  <path style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" d="M -21,38 C -21,26 -9,26 -9,26 v 12 z"/>
-  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" d="m -18,38 c 0,-9 9,-9 9,-9 v 9 z"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -15,38 c 0,-6 6,-6 6,-6 v 6 z"/>
+ <g id="right" transform="translate(-36,1)">
+  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="27" y="-72" transform="rotate(90)"/>
+  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="27" y="-69" transform="rotate(90)"/>
+  <rect style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="27" y="-66" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="3" x="27" y="60" transform="matrix(0,1,1,0,0,0)"/>
  </g>
- <g id="left" transform="matrix(0,1,1,0,-15,15)">
-  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="12" y="15"/>
-  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="12" y="18"/>
-  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="12" y="21"/>
+ <g id="top" transform="translate(-36,1)">
+  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="48" y="15"/>
+  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="48" y="18"/>
+  <rect style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="48" y="21"/>
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="3" x="-60" y="24" transform="scale(-1,1)"/>
  </g>
- <g id="bottom" transform="matrix(1,0,0,-1,0,66)">
-  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="12" y="15"/>
-  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="12" y="18"/>
-  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="12" y="21"/>
+ <g id="bottom" transform="translate(-36,1)">
+  <rect style="opacity:0.25;fill:currentColor" class="ColorScheme-Highlight" width="12" height="12" x="48" y="-51" transform="scale(1,-1)"/>
+  <rect style="opacity:0.5;fill:currentColor" class="ColorScheme-Highlight" width="12" height="9" x="48" y="-48" transform="scale(1,-1)"/>
+  <rect style="opacity:0.7;fill:currentColor" class="ColorScheme-Highlight" width="12" height="6" x="48" y="-45" transform="scale(1,-1)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="12" height="3" x="-60" y="39" transform="scale(-1,1)"/>
  </g>
 </svg>
