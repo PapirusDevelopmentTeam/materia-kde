@@ -252,7 +252,7 @@ Rectangle {
                         layer.effect: OpacityMask {
                             maskSource: mask
                         }
-                        source: "/home/" + user.currentText + "/.face.icon"
+                        source: "/var/lib/AccountsService/icons/" + user.currentText
                         onStatusChanged: {
                             if (status == Image.Error)
                                 return source = "images/.face.icon"
@@ -283,7 +283,7 @@ Rectangle {
                             ulistview.currentIndex = index
                             user.popup.close()
                             ava.source = ""
-                            ava.source = "/home/" + user.currentText + "/.face.icon"
+                            ava.source = "/var/lib/AccountsService/icons/" + user.currentText
                         }
                     }
                     popup: Popup {
