@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "varlesh@gmail.com",
+                "Name": "Alexey Varfolomeev"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [],
+        "EnabledByDefault": true,
+        "Id": "Materia-Dark",
+        "License": "GPLv3",
+        "Name": "Materia Dark",
+        "Version": "1.0"
+    }
+}

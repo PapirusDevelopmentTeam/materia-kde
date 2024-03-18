@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "varlesh@gmail.com",
+                "Name": "Alexey Varfolomeev"
+            }
+        ],
+        "Category": "",
+        "Description": "Materia KDE customization",
+        "EnabledByDefault": true,
+        "Id": "Materia",
+        "License": "GPLv3",
+        "Name": "Materia",
+        "Version": "20220823",
+        "Website": "https://github.com/PapirusDevelopmentTeam/materia-kde"
+    },
+    "X-Plasma-APIVersion": "2"
+}
