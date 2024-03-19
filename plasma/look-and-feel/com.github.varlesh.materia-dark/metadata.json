@@ -1,0 +1,33 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "varlesh@gmail.com",
+                "Name": "Alexey Varfolomeev"
+            }
+        ],
+        "Name": "Materia KDE Dark",
+        "Description": "Materia KDE customization",
+        "Id": "com.github.varlesh.materia-dark",
+        "Version": "20220823",
+        "Category": "",
+        "EnabledByDefault": true,
+        "License": "GPLv3",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Website": "https://github.com/PapirusDevelopmentTeam/materia-kde"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2",
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1229140",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1229134",
+        "kns://aurorae.knsrc/api.kde-look.org/1229137",
+        "kns://icons.knsrc/api.kde-look.org/1166289",
+        "kns://xcursor.knsrc/api.kde-look.org/1346778",
+        "kns://wallpaper.knsrc/api.kde-look.org/1476107",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1476117"
+    ]
+}
